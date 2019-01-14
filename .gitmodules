@@ -1,0 +1,3 @@
+[submodule "themes/simple-hugo-theme"]
+	path = themes/simple-hugo-theme
+	url = https://github.com/Xzya/simple-hugo-theme.git

@@ -1,0 +1,16 @@
+baseurl = "https://golang-leipzig.github.io/"
+title = "Cloud-Native and Golang Leipzig"
+languageCode = "en-us"
+theme = "simple-hugo-theme"
+
+
+[menu]
+  [[menu.main]]
+    url = "/posts/"
+    name = "blog"
+    weight = 1
+
+  [[menu.footer]]
+    url = "https://github.com/golang-leipzig"
+    name = "GitHub"
+    weight = 1
