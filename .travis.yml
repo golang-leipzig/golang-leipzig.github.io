@@ -6,7 +6,7 @@ script:
   | tar -xvzf - hugo
 - "./hugo"
 deploy:
-  local_dir: public/
+  local_dir: public/*
   provider: pages
   skip_cleanup: true
   target_branch: master
