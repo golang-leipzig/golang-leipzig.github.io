@@ -3,6 +3,10 @@ title = "Cloud-Native and Golang Leipzig"
 languageCode = "en-us"
 theme = "simple-hugo-theme"
 
+pygmentsCodefences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsoptions = "linenos=table"
+pygmentsStyle = "github"
 
 [menu]
   [[menu.main]]
