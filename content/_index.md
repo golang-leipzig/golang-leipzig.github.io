@@ -19,7 +19,7 @@ Initial organizers are [miku](https://github.com/miku/),
 [dataduke](https://github.com/dataduke), and we are inviting everyone to
 contribute or participate.
 
-![Depiction of a Leipzig Cloud Gopher](logo.png)
+![Depiction of a Leipzig Cloud Gopher](logo-s.png)
 
 ## How to participate
 
