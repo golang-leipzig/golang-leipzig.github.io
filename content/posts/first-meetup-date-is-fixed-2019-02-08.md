@@ -1,5 +1,5 @@
 ---
-title: "First Meetup Date is Fixed"
+title: "First meetup date is fixed"
 date: 2019-01-21T00:14:00+01:00
 draft: false
 ---
