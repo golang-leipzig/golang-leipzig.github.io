@@ -19,5 +19,17 @@ Initial organizers are [miku](https://github.com/miku/),
 [dataduke](https://github.com/dataduke), and we are inviting everyone to
 contribute or participate.
 
+## How to participate
 
-
+* just drop by, e.g. to our first meetup 2019-02-08 19:00 at Basislager Leipzig (Peterssteinweg 14, 04107 Leipzig)
+* help us spread the word - we're at [twitter](https://twitter.com/golang_leipzig) and [meetup.com](https://www.meetup.com/Leipzig-Golang-and-Cloud/)
+* [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about a topic that interests you
+* prepare a short talk or demo (5-30 min) about some Go (language, framework,
+  project, problem, ...) or Cloud Native (containers, orchestration, platforms,
+networking, storage, security, ...) related topic - we'll like to create a
+roadmap for the next few events and we would love to see people bring their
+ideas and projects
+* join
+  [us](https://www.meetup.com/Leipzig-Golang-and-Cloud/members/?op=leaders)
+organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
+have a few nice ideas for events already, but help is always appreciated
