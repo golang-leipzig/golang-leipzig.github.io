@@ -19,9 +19,11 @@ Initial organizers are [miku](https://github.com/miku/),
 [dataduke](https://github.com/dataduke), and we are inviting everyone to
 contribute or participate.
 
+![Depiction of a Leipzig Cloud Gopher](logo.png)
+
 ## How to participate
 
-* just drop by, e.g. to our first meetup 2019-02-08 19:00 at Basislager Leipzig (Peterssteinweg 14, 04107 Leipzig)
+* just drop by, e.g. to our first meetup 2019-02-08 19:00 at Basislager Leipzig ([Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/way/48232845))
 * help us spread the word - we're at [twitter](https://twitter.com/golang_leipzig) and [meetup.com](https://www.meetup.com/Leipzig-Golang-and-Cloud/)
 * [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about a topic that interests you
 * prepare a short talk or demo (5-30 min) about some Go (language, framework,
