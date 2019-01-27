@@ -15,6 +15,14 @@ pygmentsStyle = "github"
     weight = 1
 
   [[menu.footer]]
+    url = "https://www.meetup.com/Leipzig-Golang-and-Cloud/"
+    name = "Meetup"
+    weight = 1
+  [[menu.footer]]
+    url = "https://twitter.com/golang_leipzig"
+    name = "Twitter"
+    weight = 2
+  [[menu.footer]]
     url = "https://github.com/golang-leipzig"
     name = "GitHub"
-    weight = 1
+    weight = 3
