@@ -2,6 +2,10 @@
 title: "First meetup date is fixed"
 date: 2019-01-21T00:14:00+01:00
 draft: false
+tags:
+- go
+- meetup
+- announcement
 ---
 
 The first Golang and Cloud Native Meetup will take place on Friday, 8th of

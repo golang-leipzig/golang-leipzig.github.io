@@ -2,6 +2,9 @@
 title: "New Golang and Cloud Native Meetup"
 date: 2019-01-26T12:45:00+01:00
 draft: false
+tags:
+- announcement
+- meetup
 ---
 
 We now have an [meetup.com
