@@ -1,1 +1,3 @@
-
+[submodule "themes/simple-hugo-theme"]
+	path = themes/simple-hugo-theme
+	url = https://github.com/klingtnet/simple-hugo-theme.git
