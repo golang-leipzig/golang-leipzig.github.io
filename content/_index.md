@@ -9,9 +9,9 @@ Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/). The first event
 will be held at [Basislager Leipzig](https://www.basislager.co/), Friday, 8th
 of February 2019, 19:00 to 21:00 (open end).
 
-The goal is to establish a regular meetup, where people interested in the Go
-programming language and various cloud technologies can meet, learn, present,
-discuss and network.
+Our goal is to establish a place, where people from all backgrounds interested
+in the Go programming language and various cloud technologies can meet, learn,
+share experiences, present, discuss and network.
 
 Initial organizers are [miku](https://github.com/miku/),
 [klingtnet](https://github.com/klingtnet),
@@ -23,9 +23,9 @@ contribute or participate.
 
 ## How to participate
 
-* just drop by, e.g. to our first meetup 2019-02-08 19:00 at Basislager Leipzig ([Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/way/48232845))
-* help us spread the word - we're at [twitter](https://twitter.com/golang_leipzig) and [meetup.com](https://www.meetup.com/Leipzig-Golang-and-Cloud/)
-* [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about a topic that interests you
+* just drop by our first meetup on Friday, 2019-02-08 19:00 at Basislager Leipzig ([Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/way/48232845))
+* help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig) and [meetup.com](https://www.meetup.com/Leipzig-Golang-and-Cloud/)
+* [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about topics that you'd like to see covered in this context
 * propose a short talk or demo (5-30 min) about some Go (language, framework,
   project, problem, ...) or Cloud Native (containers, orchestration, platforms,
 networking, storage, security, ...) related topic - we'll like to create a
