@@ -5,6 +5,7 @@ script:
 - curl -Lsf 'https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.tar.gz'
   | tar -xvzf - hugo
 - "./hugo"
+- cp CNAME ./public/
 deploy:
   local_dir: public/
   provider: pages
