@@ -4,6 +4,8 @@ date: 2019-01-29T00:12:45+01:00
 draft: false
 ---
 
+First event [announced](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/258372375/).
+
 Hello, 世界! This is our first meetup, for anybody interested in the Go
 programming language and Cloud Native technologies. We would like to know, what
 you would expect from the meetup, what you would be interested in and talk
@@ -19,8 +21,7 @@ Monate diskutieren. Für das Auftakttreffen haben wir kein spezielles Thema -
 wir wollen eher die Community kennen lernen und verknüpfen. Zeit für einige
 Lightning Talks haben wir vielleicht auch noch. Bis bald!
 
-![](images/event-1-meetup.jpg)
-
+![](/images/event-1-meetup.jpg)
 
 Background image by [Elias Photography](https://pixabay.com/en/users/elias_photography-2829378/)
 
