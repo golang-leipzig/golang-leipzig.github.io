@@ -2,6 +2,9 @@
 title: "Go makes the frontpage"
 date: 2019-01-23T00:10:01+01:00
 draft: false
+tags:
+- go
+- news
 ---
 
 On 22, Jan 2019, Go made it to the frontpage of [heise.de](https://heise.de),
