@@ -23,7 +23,10 @@ contribute or participate.
 
 ## How to participate
 
-* just drop by our first meetup on Friday, 2019-02-08 19:00 at Basislager Leipzig ([Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/way/48232845))
+* just drop by our [first
+  meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/258372375/) on
+Friday, 2019-02-08 19:00 at Basislager Leipzig ([Peterssteinweg 14, 04107
+Leipzig](https://www.openstreetmap.org/way/48232845))
 * help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig) and [meetup.com](https://www.meetup.com/Leipzig-Golang-and-Cloud/)
 * [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about topics that you'd like to see covered in this context
 * propose a short talk or demo (5-30 min) about some Go (language, framework,
