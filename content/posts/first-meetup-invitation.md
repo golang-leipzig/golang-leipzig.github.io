@@ -2,6 +2,9 @@
 title: "First meetup invitation"
 date: 2019-01-29T00:12:45+01:00
 draft: false
+tags:
+- announcement
+- meetup
 ---
 
 First event [announced](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/258372375/).
