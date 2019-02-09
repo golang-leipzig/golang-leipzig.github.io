@@ -8,7 +8,7 @@ Native](https://www.cncf.io/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/). The first event
 took place at [Basislager Leipzig](https://www.basislager.co/), Friday, 8th of
 February 2019, 19:00 - we had an interesting mix of people, novice to
-experienced users of Go, various polyglott developers, cluster admins and
+experienced users of Go, various polyglot developers, cluster admins and
 devops people. A list of themes discussed at the event is currently being
 processed in preparation for the next meetup, scheduled for March 2019. [See
 you there](https://www.meetup.com/Leipzig-Golang-and-Cloud)!
