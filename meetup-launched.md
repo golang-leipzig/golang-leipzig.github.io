@@ -2,6 +2,9 @@
 title: "Launched 🚀"
 date: 2019-02-09T00:15:25+01:00
 draft: false
+tags:
+- go
+- meetup
 ---
 
 We launched! The first meetup took place
