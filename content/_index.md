@@ -27,7 +27,7 @@ contribute or participate.
 
 ## How to participate
 
-* follow us on [Meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud) for updates
+* follow us on [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud) for updates
 * help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig)
 * [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about topics that you'd like to see covered in this context
 * propose a short talk or demo (5-30 min) about some Go (language, framework,
