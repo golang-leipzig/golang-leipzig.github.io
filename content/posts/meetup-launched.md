@@ -35,7 +35,7 @@ Here are some topics we gathered:
 * Go gotchas and pitfalls
 * net and net/http deep dive
 * Using Go in the browser with WASM
-* The io package and it's interfaces
+* The io package and its interfaces
 * Testing in Go (httptest, coverage, race conditions)
 * Favorite Go tools and projects (maybe in a lightning talk format)
 * GraphQL use cases
