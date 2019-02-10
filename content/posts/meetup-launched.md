@@ -25,7 +25,7 @@ language, its idioms and pitfalls, real-world use cases and more. We also want
 to encourage people to bring their own Go projects for a friendly review, if
 they like.
 
-Here are some topics we gathered:
+Here are some topics that we gathered for talks in future meetups:
 
 * Go modules (coming in [1.12](https://tip.golang.org/doc/go1.12))
 * The Go2 proposals
@@ -42,8 +42,7 @@ Here are some topics we gathered:
 * Proxy landscape, traefik, envoy, diy-solutions
 * Profiling with Go
 * Containers without docker with podman
-* What is gvisor?
-* Kata containers
+* gVisor, Kata Containers, Firecracker: Container sandboxing
 
 We plan a next meeting for March 2019, feel free to join our [meetup
 group](https://www.meetup.com/Leipzig-Golang-and-Cloud/) for updates.
