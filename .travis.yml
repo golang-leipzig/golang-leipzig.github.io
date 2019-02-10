@@ -6,6 +6,7 @@ script:
   | tar -xvzf - hugo
 - "./hugo"
 - cp CNAME ./public/
+- cp static/googlefa59193b0f7a13e4.html ./public/
 deploy:
   local_dir: public/
   provider: pages
