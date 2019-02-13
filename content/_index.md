@@ -10,7 +10,7 @@ took place at [Basislager Leipzig](https://www.basislager.co/), Friday, 8th of
 February 2019, 19:00 - we had an interesting mix of people, novice to
 experienced users of Go, various polyglot developers, cluster admins and
 devops people. A list of themes discussed at the event is currently being
-processed in preparation for the next meetup, scheduled for March 2019. [See
+processed in preparation for the next meetup, scheduled for March, 15 2019. [See
 you there](https://www.meetup.com/Leipzig-Golang-and-Cloud)!
 
 Our goal is to establish a place, where people from all backgrounds interested
