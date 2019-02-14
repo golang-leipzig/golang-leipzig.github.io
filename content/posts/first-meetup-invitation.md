@@ -26,5 +26,5 @@ Lightning Talks haben wir vielleicht auch noch. Bis bald!
 
 ![](/images/event-1-meetup.jpg)
 
-Background image by [Elias Photography](https://pixabay.com/en/users/elias_photography-2829378/)
+Background image by [Elias Photography](https://pixabay.com/en/users/elias_photography-2829378/).
 
