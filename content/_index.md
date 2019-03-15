@@ -11,9 +11,8 @@ event](https://golangleipzig.space/posts/meetup-launched/) took place at
 19:00 - we had an interesting mix of people, novice to experienced users of Go,
 various polyglot developers, cluster admins and devops people. Our next meetup is
 scheduled for [Friday, March, 15
-2019](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/259045114/) and we are
-currently [collecting
-ideas](https://golangleipzig.space/posts/second-meetup-call-for-input/). [See
+2019](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/259045114/), we
+have two lightning talks and have time for code review and discussions.[See
 you there](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/259045114/)!
 
 Our goal is to establish a place, where people from all backgrounds interested
