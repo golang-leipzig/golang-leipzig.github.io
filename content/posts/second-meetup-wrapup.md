@@ -91,6 +91,6 @@ If you have happen to have a copy, please consider contacting us :)
 * Book recommendation: [Designing Data-Intensive
   Applications](https://dataintensive.net/) (2017);
 [avro](https://en.wikipedia.org/wiki/Apache_Avro); [Pat
-Helland](https://dblp.uni-trier.de/pers/hd/h/Helland:Pat), author of [building
-on quicksand](http://db.cs.berkeley.edu/cs286/papers/quicksand-cidr2009.pdf) (2009).
+Helland](https://dblp.uni-trier.de/pers/hd/h/Helland:Pat), author of [Building
+on Quicksand](http://db.cs.berkeley.edu/cs286/papers/quicksand-cidr2009.pdf) (2009).
 
