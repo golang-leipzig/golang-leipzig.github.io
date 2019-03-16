@@ -53,7 +53,7 @@ If you have an idea for a lightning talk or presentation, or if you already use
 Go or cloud native technologies, we love to hear real-world insights, just ping us on
 [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/),
 [twitter](https://twitter.com/golang_leipzig),
-[github](https://github.com/golang-leipzig) or
+[github](https://github.com/golang-leipzig) or via
 [e-mail](mailto:martin.czygan@gmail.com).
 
 Thanks for dropping by!
