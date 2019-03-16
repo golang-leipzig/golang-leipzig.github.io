@@ -77,7 +77,7 @@ Thanks for dropping by!
 
 ### Misc
 
-* [Go package management](https://github.com/golang/go/wiki/PackageManagementTools) - we plan to have a [Go modules](https://github.com/golang/go/wiki/Modules) deep dive in April 2019 meetup.
+* [Go package management](https://github.com/golang/go/wiki/PackageManagementTools) - we plan to have a [Go modules](https://github.com/golang/go/wiki/Modules) deep dive at the April 2019 meetup.
 * Meeting forms: [lean coffee](http://leancoffee.org/).
 * Video: [GOTO 2018 • Old Is the New New • Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E) (2018) - Fundamentals.
 * Channel: [computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Videos all about computers and computer stuff. Sister channel of Numberphile.
