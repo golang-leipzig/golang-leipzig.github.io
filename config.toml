@@ -26,3 +26,7 @@ pygmentsStyle = "github"
     url = "https://github.com/golang-leipzig"
     name = "GitHub"
     weight = 3
+  [[menu.footer]]
+    url = "https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt"
+    name = "Impressum"
+    weight = 4
