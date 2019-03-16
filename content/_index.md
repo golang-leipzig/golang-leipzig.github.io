@@ -5,8 +5,8 @@ draft: false
 
 We're starting a [Golang](https://golang.org/) and [Cloud
 Native](https://www.cncf.io/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/).  For 2019 we want
-to host one meetup per month. The next meetup is scheduled for April 2019.
+Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/). For 2019 we plan
+to host one meetup per month. The next event is scheduled for April 2019.
 
 Our goal is to establish a place, where people from all backgrounds interested
 in the Go programming language and various cloud technologies can meet, learn,
