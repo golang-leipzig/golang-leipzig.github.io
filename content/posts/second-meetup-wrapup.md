@@ -34,7 +34,7 @@ can still offer a clean form of inter-thread communication.
    producer-consumer problem, translated into Go by
 [Michael](https://github.com/panzerdev). In less than [150 lines of
 code](https://gist.github.com/panzerdev/cf8278b346770814088c006643f9bfd1) is it
-possible to write an auto-scaling worker-pool with retries that is using Redis
+possible to write an auto-scaling worker-pool with retries that is using [Redis](https://redis.io/)
 as backing store. An alternative to spawning goroutines for every task is to
 feed a fixed number of workers through a channel (where work is distributed
 round-robin to workers). Both designs work, but we were unsure about some
