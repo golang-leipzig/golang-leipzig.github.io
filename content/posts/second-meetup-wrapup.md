@@ -31,13 +31,15 @@ While message passing does not make multithreaded programs less-error prone, it
 can still offer a clean form of inter-thread communication.
 
 3. Staying on the topic of concurrency, we reviewed a classic, concurrent
-   producer-consumer problem. In less than [150 lines of
+   producer-consumer problem, translated into Go by
+[Michael](https://github.com/panzerdev). In less than [150 lines of
 code](https://gist.github.com/panzerdev/cf8278b346770814088c006643f9bfd1) is it
 possible to write an auto-scaling worker-pool with retries that is using Redis
 as backing store. An alternative to spawning goroutines for every task is to
 feed a fixed number of workers through a channel (where work is distributed
 round-robin to workers). Both designs work, but we were unsure about some
-performance implications - we'll briefly report on new findings at the next meetup.
+performance implications - we'll briefly report on new findings at the next
+meetup.
 
 Apart from these topics, Go and cloud native topics offer plenty of room for
 discussions: the field is moving fast, while a popular implementation language
