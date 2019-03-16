@@ -19,7 +19,7 @@ short wrap-up:
 save you time.
 
 2. [Michael](https://www.meetup.com/Leipzig-Golang-and-Cloud/members/201296430)
-   presented the paper [Understanding Real-World Concurrency Bugs in
+   [presented](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch) the paper [Understanding Real-World Concurrency Bugs in
 Go](https://songlh.github.io/paper/go-study.pdf), which compares bug classes by
 analyzing popular open source projects like
 [BoltDB](https://github.com/etcd-io/bbolt),
