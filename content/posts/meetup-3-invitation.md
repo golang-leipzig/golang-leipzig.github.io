@@ -1,6 +1,6 @@
 ---
 title: "Meetup #3 invitation"
-date: 2019-04-04T13:15:00+01:00
+date: 2019-04-04T13:15:00+02:00
 draft: false
 tags:
 - announcement
