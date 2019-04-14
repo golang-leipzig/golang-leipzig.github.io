@@ -1,5 +1,5 @@
 ---
-title: "Meetup #3 wrapup"
+title: "Meetup #3 wrap-up"
 date: 2019-04-14T23:15:00+02:00
 draft: false
 tags:
