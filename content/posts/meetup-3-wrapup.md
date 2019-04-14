@@ -59,7 +59,7 @@ future.
 
 ## Postponed topics
 
-* worker pool implementation benchmarks (from #2)
+* worker pool implementation benchmarks (from [#2](https://golangleipzig.space/posts/second-meetup-wrapup/))
 * [Ramen Linux](https://ramenlinux.com) lightning talk
 
 ## References
