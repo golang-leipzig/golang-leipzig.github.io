@@ -1,6 +1,6 @@
 ---
 title: "Meetup #3 wrapup"
-date: 2019-04-04T13:15:00+02:00
+date: 2019-04-14T23:15:00+02:00
 draft: false
 tags:
 - meetup
