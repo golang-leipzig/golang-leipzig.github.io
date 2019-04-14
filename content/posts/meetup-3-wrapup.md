@@ -71,15 +71,15 @@ future.
 
 The tool for inspecting Go binaries and list their deps is called [goversion](https://github.com/rsc/goversion):
 
-```shell
-$ go get -u rsc.io/goversion
-```
+
+    $ go get -u rsc.io/goversion
+
 
 On a related note:
 
 * A blog post by Russ Cox on the [software dependency
   problem](https://research.swtch.com/deps), which reflect on the many
-different ways, langauges manage dependencies today.
+different ways, languages manage dependencies today.
 
 > Dependency managers now exist for essentially every programming language.
 > Maven Central (Java), Nuget (.NET), Packagist (PHP), PyPI (Python), and
