@@ -30,7 +30,7 @@ are online.
 
 Furthermore, we had a demonstration of some strange behaviour in the
 [gorilla/handlers](https://github.com/gorilla/handlers) package:
-[gorilla/handlers.CompressHandlers](https://github.com/gorilla/handlers/blob/ac6d24f88de4584385a0cb3a88f953d08a2f7a05/compress.go#L57-L64)
+[gorilla/handlers.CompressHandler](https://github.com/gorilla/handlers/blob/ac6d24f88de4584385a0cb3a88f953d08a2f7a05/compress.go#L57-L64)
 might gzip twice! If you want to see the bug in action,
 [klingtnet](https://github.com/klingtnet) got you covered:
 
