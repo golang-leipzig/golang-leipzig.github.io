@@ -66,7 +66,8 @@ future.
 
 * [github.com/golang-leipzig/gomodintro](https://github.com/golang-leipzig/gomodintro)
 * [github.com/spreadshirt/gorilla-handlers-double-gzip-bug](https://github.com/spreadshirt/gorilla-handlers-double-gzip-bug)
-* [gorilla toolkit](https://www.gorillatoolkit.org/)
+* The [gorilla toolkit](https://www.gorillatoolkit.org/)
+* [github.com/nytimes/gziphandler](https://github.com/nytimes/gziphandler)
 
 The tool for inspecting Go binaries and list their deps is called [goversion](https://github.com/rsc/goversion):
 
