@@ -1,4 +1,4 @@
-# Cloud-Native and Golang Leipzig
+# Go and Cloud Native Leipzig
 
 [![Build Status](https://travis-ci.org/golang-leipzig/golang-leipzig.github.io.svg?branch=source)](https://travis-ci.org/golang-leipzig/golang-leipzig.github.io)
 
