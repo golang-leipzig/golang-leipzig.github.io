@@ -34,3 +34,10 @@ ideas and projects (send us a PM on [twitter](https://twitter.com/golang_leipzig
   [us](https://www.meetup.com/Leipzig-Golang-and-Cloud/members/?op=leaders)
 organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
 have a few nice ideas for events already, but help is always appreciated
+
+## Meetup log
+
+We try to sum up every meetup in a short blog post:
+[#3](https://golangleipzig.space/posts/meetup-3-wrapup/),
+[#2](https://golangleipzig.space/posts/second-meetup-wrapup/),
+[#1](https://golangleipzig.space/posts/meetup-launched/).
