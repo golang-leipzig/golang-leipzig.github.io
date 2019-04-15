@@ -5,7 +5,7 @@ theme = "simple-hugo-theme"
 
 pygmentsCodefences = true
 pygmentsCodeFencesGuessSyntax = true
-pygmentsoptions = "linenos=table"
+# pygmentsoptions = "linenos=table"
 pygmentsStyle = "github"
 
 [menu]
