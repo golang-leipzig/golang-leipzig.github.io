@@ -1,15 +1,15 @@
 ---
-title: "Golang and Cloud Native Meetup Leipzig"
+title: "Go and Cloud Native Meetup Leipzig"
 draft: false
 ---
 
-We're starting a [Golang](https://golang.org/) and [Cloud
+We're starting a [Go](https://golang.org/) and [Cloud
 Native](https://www.cncf.io/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/). For 2019 we plan to
 host one meetup per month. The next event is scheduled for May 2019.
 
 Our goal is to establish a place, where people from all backgrounds interested
-in the Go programming language and various cloud technologies can meet, learn,
+in the Go programming language (golang) and various cloud technologies can meet, learn,
 share experiences, present, discuss and network.
 
 Initial organizers are [miku](https://github.com/miku/),
