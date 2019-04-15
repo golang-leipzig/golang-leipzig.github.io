@@ -75,8 +75,9 @@ The tool for inspecting Go binaries and list their deps is called [goversion](ht
     $ go get -u rsc.io/goversion
 
 
-On a related note:
+### Misc
 
+* [Lightning Talk: Brad Fitzpatrick - The nuclear option, go test -run=InQemu](https://www.youtube.com/watch?v=69Zy77O-BUM) (2018)
 * A blog post by Russ Cox on the [software dependency
   problem](https://research.swtch.com/deps), which reflect on the many
 different ways, languages manage dependencies today.
