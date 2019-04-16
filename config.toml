@@ -8,6 +8,8 @@ pygmentsCodeFencesGuessSyntax = true
 # pygmentsoptions = "linenos=table"
 pygmentsStyle = "github"
 
+paginate = 30
+
 [menu]
   [[menu.main]]
     url = "/posts/"
