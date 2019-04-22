@@ -1,6 +1,6 @@
 ---
 title: "Go at Spartakiade 2019 Berlin"
-date: 2019-04-22T10:00:00+02:00
+date: 2019-04-22T09:00:00+02:00
 draft: false
 tags:
 - workshop
