@@ -20,7 +20,7 @@ There will be two Go workshops (in English or German, depending on the audience)
   applications with Go)
 
 Interested in Go or anything else at Spartakiade 2019? Then you're in luck, we
-have two free ticket for you - use the code W7UJQS55 at
+have two free tickets for you - use the code W7UJQS55 at
 [http://spartakiade.eventbrite.de/](http://spartakiade.eventbrite.de/) - and
 have a fun weekend learning new things. See you there!
 
