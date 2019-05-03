@@ -14,9 +14,9 @@ programming language introductions, among them F#, Python, Purescript -- and Go!
 
 There will be two Go workshops (in English or German, depending on the audience):
 
-* Apr, 27 2019, 10-17: Kann weniger mehr sein? Eine praktische Einführung in
-  die Programmiersprache Go (Can less be more? A practical introduction to Go)
-* Apr, 28 2019, 10-17: Schreiben von Netzwerkanwendungen mit Go (Writing network
+* Apr, 27 2019, 10-17: [Kann weniger mehr sein? Eine praktische Einführung in
+  die Programmiersprache Go](https://github.com/miku/golang6h) (Can less be more? A practical introduction to Go)
+* Apr, 28 2019, 10-17: [Schreiben von Netzwerkanwendungen mit Go](https://github.com/miku/golangnetpkg) (Writing network
   applications with Go)
 
 Interested in Go or anything else at Spartakiade 2019? Then you're in luck, we
