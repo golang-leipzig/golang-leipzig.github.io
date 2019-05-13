@@ -21,6 +21,8 @@ As always are also looking for lightning talks, presentations or other kinds of
 inputs. Please feel free to notify us before (e.g. in comments) or just drop
 by.
 
+----
+
 Hallo, 世界! In Meetup #4 schauen wir uns eine Go middleware für micropayments
 genauer an:
 
@@ -33,8 +35,5 @@ kleinem Refresher zu Bitcoin. Vorgestellt von
 Außerdem sind Lightning Talks, Präsentationen, Erfahrungsberichte, Buch/Paper
 Rezension und sonstiges immer willkommen. Wer etwas vorstellen möchte, kann das
 gern etwas mitbringen.
-
-As always, please bring your own code, projects, ideas, Go and Cloud Native
-questions and let's discuss them. See you there.
 
 
