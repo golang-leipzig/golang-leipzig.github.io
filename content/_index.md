@@ -35,6 +35,12 @@ ideas and projects (send us a PM on [twitter](https://twitter.com/golang_leipzig
 organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
 have a few nice ideas for events already, but help is always appreciated
 
+## Want to host a meetup at your company?
+
+Your company uses Go or wants to look into it? Why not connect with the local
+Go community by hosting a user group event? [Let's
+talk](mailto:martin.czygan@gmail.com).
+
 ## Meetup log
 
 We try to sum up every meetup in a short blog post:
