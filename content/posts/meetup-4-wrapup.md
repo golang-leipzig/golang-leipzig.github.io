@@ -24,11 +24,9 @@ lines](https://github.com/philippgille/ln-paywall/blob/78fd1dfbf10f549a22f4f30ac
 Middleware
 [implementations](https://github.com/philippgille/ln-paywall/tree/master/examples/ping)
 are available for [echo](https://echo.labstack.com/),
-[gin](https://github.com/gin-gonic/gin) and other frameworks. Middleware for
-[echo](https://echo.labstack.com/) and other frameworks.
-
-You can experiment on testnet and a [test wallet](https://htlc.me/) or build
-you own private chain, although this a bit more involved.
+[gin](https://github.com/gin-gonic/gin) and other frameworks.  You can
+experiment on testnet and a [test wallet](https://htlc.me/) or build you own
+private chain, although this a bit more involved.
 
 [Philipp](https://github.com/philippgille) also wrote
 [gokv](https://github.com/philippgille/gokv), a key value store that abstracts
