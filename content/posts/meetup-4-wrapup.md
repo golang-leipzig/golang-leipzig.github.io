@@ -89,6 +89,7 @@ One initiative for Go is [gof.rs](https://gof.rs/):
 
 ## References
 
+* [Presentation Slides: Go middleware for monetizing your API on a per-request basis with the Bitcoin Lightning Network](https://golangleipzig.space/downloads/ln-paywall.pdf).
 * [ln-paywall](https://github.com/philippgille/ln-paywall)
 * [gokv](https://github.com/philippgille/gokv)
 * [HTTP 402](https://httpstatuses.com/402)
