@@ -9,11 +9,12 @@ tags:
 
 ## Lightning Network Micropayments
 
-Go is popular in the crypocurrency space. In [Meetup
+Go is popular in the crypocurrency space. The well-rounded standard library and
+great support for networking applications might be one reason. In [Meetup
 #4](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/261418733/)
-[Philipp](https://github.com/philippgille) presented an introduction to Bitcoin,
-[Lighting Network](https://en.wikipedia.org/wiki/Lightning_Network) and a
-Go project, that makes micropayments for API usage really simple:
+[Philipp](https://github.com/philippgille) presented an introduction to
+Bitcoin, [Lighting Network](https://en.wikipedia.org/wiki/Lightning_Network)
+and a Go project, that makes micropayments for API usage really simple:
 [ln-paywall](https://github.com/philippgille/ln-paywall).
 
 An http middleware takes care of creating
@@ -82,8 +83,9 @@ One initiative for Go is [gof.rs](https://gof.rs/):
 > programmers continues to grow.
 
 > We initially formed in the summer of 2018 to take one of the most popular
-> UUID packages in the Go ecosystem, github.com/satori/go.uuid, and have
-> started to look at contributing to more projects.
+> UUID packages in the Go ecosystem,
+> [github.com/satori/go.uuid](https://github.com/gofrs/uuid), and have started
+> to look at contributing to more projects.
 
 ## References
 
