@@ -17,6 +17,8 @@ Bitcoin, [Lighting Network](https://en.wikipedia.org/wiki/Lightning_Network)
 and a Go project, that makes micropayments for API usage really simple:
 [ln-paywall](https://github.com/philippgille/ln-paywall).
 
+The presentation is [available as PDF](https://golangleipzig.space/downloads/ln-paywall.pdf).
+
 An http middleware takes care of creating
 [invoices](https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md)
 per request, a complete example can be implemented in [a few
