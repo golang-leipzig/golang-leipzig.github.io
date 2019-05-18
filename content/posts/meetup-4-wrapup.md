@@ -33,6 +33,8 @@ you own private chain, although this a bit more involved.
 [gokv](https://github.com/philippgille/gokv), a key value store that abstracts
 away over twenty local and cloud based implementations.
 
+![](/images/go-bitcoin-books.jpg)
+
 ## The zero value in the wild
 
 Cloud providers SDK API differ in style, this might play a role in the decision
