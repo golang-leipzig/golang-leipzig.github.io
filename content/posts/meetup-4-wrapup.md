@@ -70,7 +70,7 @@ reasons to do so:
 
 The Go world is no different than others in this respect. Some developers of
 great open source tools (e.g.
-[fatih](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)) take sabbaticals,
+[Fatih Arslan](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)) take sabbaticals,
 others projects may go unmaintained.
 
 One initiative for Go is [gof.rs](https://gof.rs/):
