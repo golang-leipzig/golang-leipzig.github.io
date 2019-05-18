@@ -41,7 +41,7 @@ away over twenty local and cloud based implementations.
 Cloud providers SDK API differ in style, this might play a role in the decision
 for a cloud provider as well.
 
-Go has the concept of a [Zero value](https://golang.org/ref/spec#The_zero_value):
+Go has the concept of a [zero value](https://golang.org/ref/spec#The_zero_value):
 
 > Each element of such a variable or value is set to the zero value for its
 > type: false for booleans, 0 for numeric types, "" for strings, and nil for
