@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Lightning Network Micropayments
+{{% h2 %}}Lightning Network Micropayments{{% /h2 %}}
 
 Go is popular in the crypocurrency space. The well-rounded standard library and
 great support for networking applications might be one reason. In [Meetup
@@ -36,7 +36,7 @@ away over twenty local and cloud based implementations.
 
 ![](/images/go-bitcoin-books-web.jpg)
 
-## The zero value in the wild
+{{% h2 %}}The zero value in the wild{{% /h2 %}}
 
 Cloud providers SDK API differ in style, this might play a role in the decision
 for a cloud provider as well.
@@ -58,7 +58,7 @@ issue in the [Go Amazon SDK](https://github.com/aws/aws-sdk-go-v2):
 > the string types are represented as string pointers. This make porting
 > existing code difficult. Also, simple initialization become cumbersome ...
 
-## Open Source, Companies and Sustainability
+{{% h2 %}}Open Source, Companies and Sustainability{{% /h2 %}}
 
 Many companies love open source, fewer like to take an active role in
 development and maintenance of free software. However, there are many good
@@ -87,7 +87,7 @@ One initiative for Go is [gof.rs](https://gof.rs/):
 > [github.com/satori/go.uuid](https://github.com/gofrs/uuid), and have started
 > to look at contributing to more projects.
 
-## References
+{{% h2 %}}References{{% /h2 %}}
 
 * [Presentation Slides: Go middleware for monetizing your API on a per-request basis with the Bitcoin Lightning Network](https://golangleipzig.space/downloads/ln-paywall.pdf)
 * Lightning paywall: [ln-paywall](https://github.com/philippgille/ln-paywall)

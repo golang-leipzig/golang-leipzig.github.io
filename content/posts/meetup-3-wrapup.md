@@ -17,7 +17,7 @@ in March 2019](https://blog.golang.org/go-developer-network).
 > mission to empower developer communities with the knowledge, experience, and
 > wisdom to build the next generation of software in Go.
 
-## Meetup topics
+{{% h2 %}}Meetup topics{{% /h2 %}}
 
 We took a closer look at [Go
 modules](https://github.com/golang/go/wiki/Modules) for dependency management
@@ -47,7 +47,7 @@ then it can choose to modify the request (it's [a
 pointer](https://golang.org/pkg/net/http/#HandlerFunc.ServeHTTP), in contrast
 to the response writer).
 
-## From Go to Cloud to Linux
+{{% h2 %}}From Go to Cloud to Linux{{% /h2 %}}
 
 Clouds and cloud native technologies would be nothing without Linux. The [Linux
 Meetup Leipzig](https://www.meetup.com/Linux-Meetup-Leipzig/) hosts interesting
@@ -57,12 +57,12 @@ honeypots](https://www.meetup.com/Linux-Meetup-Leipzig/events/260563903/).
 Since there is overlap in topics, we might organize a joint event in the
 future.
 
-## Postponed topics
+{{% h2 %}}Postponed topics{{% /h2 %}}
 
 * worker pool implementation benchmarks (from [#2](https://golangleipzig.space/posts/second-meetup-wrapup/))
 * [Ramen Linux](https://ramenlinux.com) lightning talk
 
-## References
+{{% h2 %}}References{{% /h2 %}}
 
 * [github.com/golang-leipzig/gomodintro](https://github.com/golang-leipzig/gomodintro)
 * [github.com/spreadshirt/gorilla-handlers-double-gzip-bug](https://github.com/spreadshirt/gorilla-handlers-double-gzip-bug)
