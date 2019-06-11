@@ -30,7 +30,7 @@ Hallo, 世界! Für [Meetup #5](https://www.meetup.com/Leipzig-Golang-and-Cloud/
 1. Beautiful (and strange) IO
 
 Eine kurzer Überblick über das io package in der Standardbibliothek und
-Möglichkeiten für eigene Implementiertungen.
+Möglichkeiten für eigene Implementierungen.
 
 2. Controlling a headless browser with Go.
 
