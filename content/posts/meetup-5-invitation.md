@@ -10,12 +10,13 @@ tags:
 Hello, 世界! For [meetup #5](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/262224151) we will
 have two lightning talks:
 
-1. Beautiful (and strange) IO
+* Beautiful (and strange) IO
 
 A short overview of the io package and its interfaces and possible strategies
-for custom implementations.
+for custom implementations. Plus some a few examples of implementations you
+might not have seen before.
 
-2. Controlling a headless browser with Go.
+* Controlling a headless browser with Go.
 
 A quick look at web automation with Go and Chrome.
 
@@ -27,12 +28,13 @@ by.
 
 Hallo, 世界! Für [Meetup #5](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/262224151) haben wir zwei Lightning Talks:
 
-1. Beautiful (and strange) IO
+* Beautiful (and strange) IO
 
 Eine kurzer Überblick über das io package in der Standardbibliothek und
-Möglichkeiten für eigene Implementierungen.
+Möglichkeiten für eigene Implementierungen. Zusätzlich einige Beispiele für
+seltene Anwendungen.
 
-2. Controlling a headless browser with Go.
+* Controlling a headless browser with Go.
 
 Webautomatisierung mit Go und Chrome.
 
