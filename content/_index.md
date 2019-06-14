@@ -39,8 +39,9 @@ have a few nice ideas for events already, but help is always appreciated
 {{% h2 %}}Want to host a meetup at your company?{{% /h2 %}}
 
 Your company uses Go or wants to look into it? Why not connect with the local
-Go community by hosting a user group event? If you are interested, [let's
-talk](mailto:martin.czygan@gmail.com).
+Go community by hosting a user group event? We do have presentations on
+interesting technical topics and spark lively discussions. If you are
+interested, [let's talk](mailto:martin.czygan@gmail.com).
 
 {{% h2 %}}Meetup log{{% /h2 %}}
 
