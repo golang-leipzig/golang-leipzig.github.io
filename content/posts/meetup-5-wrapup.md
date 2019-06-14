@@ -40,7 +40,7 @@ programmatically). Running many (even headless) Chrome instances will eat your
 RAM.
 
 
-{{% h2 %}}How people come to Go?{{% /h2 %}}
+{{% h2 %}}How do developers discover Go?{{% /h2 %}}
 
 Have you ever wondered about how programmers move from language to language?
 The author of this entertaining and enlightning blog post (and [other
