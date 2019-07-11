@@ -10,7 +10,7 @@ tags:
 
 Hello, 世界! Last minute invitation for [meetup #6](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/263061162/).
 
-This will be an open event - your please bring your projects, questions, findings. Lightning talks and other inputs are welcome. too.
+This will be an open event - please bring your projects, questions, findings. Lightning talks and other inputs are welcome. too.
 
 We have two free tickets for the [Golab 2019 Go conference in Florence](https://golab.io/), Italy - so if you are interested, just drop by.
 
