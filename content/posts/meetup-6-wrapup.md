@@ -11,7 +11,7 @@ tags:
 
 The [Berlin Go User Group
 celebrates](https://www.meetup.com/golang-users-berlin/) its eighth birthday next
-week. Our [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/) just completed out first ½ year - so far, we touched upon quite a few
+week. Our [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/) just completed its first ½ year - so far, we touched upon quite a few
 of the [initial topic ideas](https://golangleipzig.space/posts/meetup-launched/).
 
 As for [Go conferences](https://github.com/golang/go/wiki/Conferences), [Golab](https://golab.io/) is an annual international Go
