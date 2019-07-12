@@ -9,8 +9,8 @@ tags:
 
 {{% h2 %}}Where to Go?{{% /h2 %}}
 
-The Berlin [Go User Group
-celebrates](https://www.meetup.com/golang-users-berlin/) its eigth year next
+The [Berlin Go User Group
+celebrates](https://www.meetup.com/golang-users-berlin/) its eighth year next
 week. Our [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/) just completed out first ½ year - so far, we touched upon quite a few
 of the [initial topic ideas](https://golangleipzig.space/posts/meetup-launched/).
 
