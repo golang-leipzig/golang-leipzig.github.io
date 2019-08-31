@@ -11,7 +11,7 @@ Hello, 世界!
 
 Our next [meetup is scheduled for Sep, 27 2019](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/264425468/), 19:00 at [Basislager](https://www.basislager.co/).
 
-Back after summer break we jump right into core Go topic: [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)).
+Back after summer break we jump right into a core Go topic: [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)).
 
 We will summarize the book
 
