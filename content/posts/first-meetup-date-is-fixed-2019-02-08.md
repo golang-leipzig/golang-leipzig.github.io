@@ -8,7 +8,7 @@ tags:
 - announcement
 ---
 
-The first Golang and Cloud Native Meetup will take place on Friday, 8th of
+The first Golang and Cloud-Native Meetup will take place on Friday, 8th of
 February 2019 starting 19:00 at [Basislager
 Leipzig](https://www.basislager.co/), ground floor.
 

@@ -41,7 +41,7 @@ round-robin to workers). Both designs work, but we were unsure about some
 performance implications - we'll briefly report on new findings at the next
 meetup.
 
-Apart from these topics, Go and cloud native topics offer plenty of room for
+Apart from these topics, Go and Cloud-Native topics offer plenty of room for
 discussions: the field is moving fast, while a popular implementation language
 for [CN projects](https://landscape.cncf.io/) - Go - [stays boring](https://golang.org/doc/go1.12):
 
@@ -50,7 +50,7 @@ for [CN projects](https://landscape.cncf.io/) - Go - [stays boring](https://gola
 > There are no changes to the language specification.
 
 If you have an idea for a lightning talk or presentation, or if you already use
-Go or cloud native technologies, we love to hear real-world insights, just ping us on
+Go or Cloud-Native technologies, we love to hear real-world insights, just ping us on
 [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/),
 [twitter](https://twitter.com/golang_leipzig),
 [github](https://github.com/golang-leipzig) or via

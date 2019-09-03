@@ -16,6 +16,6 @@ modules](https://github.com/golang/go/wiki/Modules) for dependency management.
 We also have one potential proposal for a lightning talk with the cryptic title
 "Ramen Linux".
 
-As always, please bring your own code, projects, ideas, Go and Cloud Native questions and let's discuss them. See you there.
+As always, please bring your own code, projects, ideas, Go and Cloud-Native questions and let's discuss them. See you there.
 
 

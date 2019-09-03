@@ -27,7 +27,7 @@ contribute or participate.
 * help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig)
 * [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about topics that you'd like to see covered in this context
 * propose a short talk or demo (5-30 min) about some Go (language, framework,
-  project, problem, ...) or Cloud Native (containers, orchestration, platforms,
+  project, problem, ...) or Cloud-Native (containers, orchestration, platforms,
 networking, storage, security, ...) related topic - we'll like to create a
 roadmap for the next few events and we would love to see people bring their
 ideas and projects (send us a PM on [twitter](https://twitter.com/golang_leipzig), [via email](mailto:martin.czygan@gmail.com))

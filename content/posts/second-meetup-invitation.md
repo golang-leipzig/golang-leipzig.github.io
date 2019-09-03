@@ -14,6 +14,6 @@ For our [second meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/2
   have seen before - how to implement your own reader and some examples of
 useful (sometimes strange) implementations from existing projects
 
-Please bring your own code, projects, ideas, Go and Cloud Native questions and let's discuss them. See you there.
+Please bring your own code, projects, ideas, Go and Cloud-Native questions and let's discuss them. See you there.
 
 

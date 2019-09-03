@@ -49,7 +49,7 @@ to the response writer).
 
 {{% h2 %}}From Go to Cloud to Linux{{% /h2 %}}
 
-Clouds and cloud native technologies would be nothing without Linux. The [Linux
+Clouds and Cloud-Native technologies would be nothing without Linux. The [Linux
 Meetup Leipzig](https://www.meetup.com/Linux-Meetup-Leipzig/) hosts interesting
 talks, e.g. a series on container technologies (by [Sascha
 Grunert](https://github.com/saschagrunert)) or on [tunnels and
