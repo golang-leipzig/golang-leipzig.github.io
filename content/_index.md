@@ -1,12 +1,15 @@
 ---
-title: "Go and Cloud-Native Meetup Leipzig"
+title: "Leipzig Gophers"
 draft: false
 ---
 
-We're starting a [Go](https://golang.org/) and [Cloud-Native](https://www.cncf.io/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/). For 2019 we plan to
-host one meetup per month. The next [event (#7) is scheduled for September, 27th
-2019 19:00](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/264425468/) at
+We're starting a [Go](https://golang.org/) [Meetup in
+Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/) in Leipzig (we
+started as *Go and Cloud Native*, but
+[split](https://golangleipzig.space/posts/go-cloud-native-split/) in Fall
+2019). For 2019 we plan to host one meetup per month. The next [event (#7) is
+scheduled for September, 27th 2019
+19:00](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/264425468/) at
 [Basislager](https://www.basislager.co/).
 
 Our goal is to establish a place, where people from all backgrounds interested
