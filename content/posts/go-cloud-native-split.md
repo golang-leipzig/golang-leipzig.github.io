@@ -37,7 +37,7 @@ the meetup split seems to make sense now. It will allow for a sharper focus.
 In any case, we are happy to contribute to a growing set of interesting
 developer meetups in Leipzig, with
 [Go](https://www.meetup.com/Leipzig-Golang-and-Cloud/),
-[https://www.meetup.com/Linux-Meetup-Leipzig/](Linux) (Cloud Native),
+[Linux](https://www.meetup.com/Linux-Meetup-Leipzig/) (Cloud Native),
 [Softwerkskammer Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/) or
 [Google Developer Group](https://www.meetup.com/GDG-Leipzig/) being just a few
 of them.
