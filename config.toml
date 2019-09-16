@@ -1,5 +1,5 @@
 baseurl = "https://golang-leipzig.github.io/"
-title = "Go and Cloud-Native Leipzig"
+title = "Leipzig Gophers"
 languageCode = "en-us"
 theme = "simple-hugo-theme"
 
