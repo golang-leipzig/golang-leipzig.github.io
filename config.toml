@@ -17,7 +17,7 @@ paginate = 30
     weight = 1
 
   [[menu.footer]]
-    url = "https://www.meetup.com/Leipzig-Golang-and-Cloud/"
+    url = "https://www.meetup.com/Leipzig-Golang/"
     name = "Meetup"
     weight = 1
   [[menu.footer]]

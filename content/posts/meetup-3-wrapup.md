@@ -7,7 +7,7 @@ tags:
 - summary
 ---
 
-[Meetup #3](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/260338152/)
+[Meetup #3](https://www.meetup.com/Leipzig-Golang/events/260338152/)
 took place on Friday, April 12, 2019, 19:00 CEST at
 [Basislager](https://www.basislager.co/). We are now officially part of the [Go
 Developer Network](https://www.meetup.com/pro/go/) (GDN, currently 103 groups with 47418 members in 37 countries), which was [announced

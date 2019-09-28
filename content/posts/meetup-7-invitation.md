@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-Our next [meetup is scheduled for Sep, 27 2019](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/264425468/), 19:00 at [Basislager](https://www.basislager.co/).
+Our next [meetup is scheduled for Sep, 27 2019](https://www.meetup.com/Leipzig-Golang/events/264425468/), 19:00 at [Basislager](https://www.basislager.co/).
 
 Back after summer break we jump right into a core Go topic: [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)).
 
@@ -25,7 +25,7 @@ As always, please bring your projects, questions, findings. Spontaneous lightnin
 
 Hallo, 世界!
 
-Unser nächstes [Meetup findet am 27. September 19:00](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/264425468/) im [Basislager](https://www.basislager.co/) statt.
+Unser nächstes [Meetup findet am 27. September 19:00](https://www.meetup.com/Leipzig-Golang/events/264425468/) im [Basislager](https://www.basislager.co/) statt.
 
 Nach der Sommerpause steigen wir mit einem typischen Go Thema ein: [Nebenläufigkeit](https://de.wikipedia.org/wiki/Nebenl%C3%A4ufigkeit).
 

@@ -8,6 +8,6 @@ tags:
 ---
 
 We now have an [meetup.com
-profile](https://www.meetup.com/Leipzig-Golang-and-Cloud/), upcoming events
+profile](https://www.meetup.com/Leipzig-Golang/), upcoming events
 will be announced there. Thrilled to see [people expressing
-interest](https://www.meetup.com/Leipzig-Golang-and-Cloud/members/) in this.
+interest](https://www.meetup.com/Leipzig-Golang/members/) in this.

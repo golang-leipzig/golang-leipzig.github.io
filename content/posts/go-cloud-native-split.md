@@ -10,7 +10,7 @@ tags:
 {{% h2 %}}TL;DR{{% /h2 %}}
 
 We will reshuffle meetups a bit: The current [Go and Cloud Native
-meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/) will be split up,
+meetup](https://www.meetup.com/Leipzig-Golang/) will be split up,
 into a Go focussed meetup (we will keep the Meetup group, just rename it) and a
 dedicated Cloud Native Meetup - which might be merged with the growing [Linux
 Meetup Leipzig](https://www.meetup.com/Linux-Meetup-Leipzig/).
@@ -36,7 +36,7 @@ the meetup split seems to make sense now. It will allow for a sharper focus.
 
 In any case, we are happy to contribute to a growing set of interesting
 developer meetups in Leipzig, with
-[Go](https://www.meetup.com/Leipzig-Golang-and-Cloud/),
+[Go](https://www.meetup.com/Leipzig-Golang/),
 [Linux](https://www.meetup.com/Linux-Meetup-Leipzig/) (Cloud Native),
 [Softwerkskammer Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/) or
 [Google Developer Group](https://www.meetup.com/GDG-Leipzig/) being just a few

@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-Hello, 世界! For [meetup #5](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/262224151) we will
+Hello, 世界! For [meetup #5](https://www.meetup.com/Leipzig-Golang/events/262224151) we will
 have two lightning talks:
 
 * Beautiful (and strange) IO
@@ -26,7 +26,7 @@ by.
 
 ----
 
-Hallo, 世界! Für [Meetup #5](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/262224151) haben wir zwei Lightning Talks:
+Hallo, 世界! Für [Meetup #5](https://www.meetup.com/Leipzig-Golang/events/262224151) haben wir zwei Lightning Talks:
 
 * Beautiful (and strange) IO
 

@@ -4,12 +4,12 @@ draft: false
 ---
 
 We're starting a [Go](https://golang.org/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang-and-Cloud/) in Leipzig (we
+Leipzig](https://www.meetup.com/Leipzig-Golang/) in Leipzig (we
 started as *Go and Cloud Native*, but
 [split](https://golangleipzig.space/posts/go-cloud-native-split/) in Fall
 2019). For 2019 we plan to host one meetup per month. The next [event (#7) is
 scheduled for September, 27th 2019
-19:00](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/264425468/) at
+19:00](https://www.meetup.com/Leipzig-Golang/events/264425468/) at
 [Basislager](https://www.basislager.co/).
 
 Our goal is to establish a place, where people from all backgrounds interested
@@ -26,16 +26,16 @@ contribute or participate.
 
 {{% h2 %}}How to participate{{% /h2 %}}
 
-* follow us on [meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud) for updates, or via [RSS feed](https://golangleipzig.space/posts/index.xml)
+* follow us on [meetup](https://www.meetup.com/Leipzig-Golang) for updates, or via [RSS feed](https://golangleipzig.space/posts/index.xml)
 * help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig)
-* [tell us](https://www.meetup.com/Leipzig-Golang-and-Cloud/#discussions) about topics that you'd like to see covered in this context
+* [tell us](https://www.meetup.com/Leipzig-Golang/#discussions) about topics that you'd like to see covered in this context
 * propose a short talk or demo (5-30 min) about some Go (language, framework,
   project, problem, ...) or Cloud-Native (containers, orchestration, platforms,
 networking, storage, security, ...) related topic - we'll like to create a
 roadmap for the next few events and we would love to see people bring their
 ideas and projects (send us a PM on [twitter](https://twitter.com/golang_leipzig), [via email](mailto:martin.czygan@gmail.com))
 * join
-  [us](https://www.meetup.com/Leipzig-Golang-and-Cloud/members/?op=leaders)
+  [us](https://www.meetup.com/Leipzig-Golang/members/?op=leaders)
 organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
 have a few nice ideas for events already, but help is always appreciated
 

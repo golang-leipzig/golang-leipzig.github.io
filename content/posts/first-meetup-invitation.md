@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-First event [announced](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/258372375/).
+First event [announced](https://www.meetup.com/Leipzig-Golang/events/258372375/).
 
 Hello, 世界! This is our first meetup, for anybody interested in the Go
 programming language and Cloud-Native technologies. We would like to know, what

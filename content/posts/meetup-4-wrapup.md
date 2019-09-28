@@ -11,7 +11,7 @@ tags:
 
 Go is popular in the crypocurrency space. The well-rounded standard library and
 great support for networking applications might be one reason. In [Meetup
-#4](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/261418733/)
+#4](https://www.meetup.com/Leipzig-Golang/events/261418733/)
 [Philipp](https://github.com/philippgille) presented an introduction to
 Bitcoin, [Lighting Network](https://en.wikipedia.org/wiki/Lightning_Network)
 and a Go project, that makes micropayments for API usage really simple:

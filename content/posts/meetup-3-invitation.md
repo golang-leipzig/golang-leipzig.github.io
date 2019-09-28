@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-[Meetup #3](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/260338152/)
+[Meetup #3](https://www.meetup.com/Leipzig-Golang/events/260338152/)
 is scheduled for Friday, April 12, 2019, 19:00 CEST at
 [Basislager](https://www.basislager.co/).
 

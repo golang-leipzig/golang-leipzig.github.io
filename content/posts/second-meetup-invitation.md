@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-For our [second meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/259045114/) tonight, we have two lighting talk proposals:
+For our [second meetup](https://www.meetup.com/Leipzig-Golang/events/259045114/) tonight, we have two lighting talk proposals:
 
 * Turn data into Go struct - how to easily work with complex XML documents and JSON data with Go
 * Glance at the [io package](https://golang.org/pkg/io/) and some io.Reader implementation, that you may not

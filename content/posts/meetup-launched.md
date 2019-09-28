@@ -8,7 +8,7 @@ tags:
 ---
 
 We launched! The first meetup took place
-[yesterday](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/258372375/)
+[yesterday](https://www.meetup.com/Leipzig-Golang/events/258372375/)
 (2019-02-08) at [Basislager](https://www.basislager.co/). A dozen gophers,
 programmers, devops developers, cluster admins and curious individuals
 followed our invitation.
@@ -45,7 +45,7 @@ Here are some topics that we gathered for talks in future meetups:
 * gVisor, Kata Containers, Firecracker: Container sandboxing
 
 We plan a next meeting for March 2019, feel free to join our [meetup
-group](https://www.meetup.com/Leipzig-Golang-and-Cloud/) for updates.
+group](https://www.meetup.com/Leipzig-Golang/) for updates.
 
 ----
 

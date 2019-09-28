@@ -8,7 +8,7 @@ tags:
 ---
 
 Our [second
-meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/events/259045114/) took
+meetup](https://www.meetup.com/Leipzig-Golang/events/259045114/) took
 place yesterday (2019-03-15) at [Basislager Leipzig](https://www.basislager.co), here's a
 short wrap-up:
 
@@ -18,7 +18,7 @@ short wrap-up:
 [zek](https://github.com/miku/zek). Code generation is not perfect, but can
 save you time.
 
-2. [Michael](https://www.meetup.com/Leipzig-Golang-and-Cloud/members/201296430)
+2. [Michael](https://www.meetup.com/Leipzig-Golang/members/201296430)
    [presented](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch) the paper [Understanding Real-World Concurrency Bugs in
 Go](https://songlh.github.io/paper/go-study.pdf), which compares bug classes by
 analyzing popular open source projects like
@@ -51,7 +51,7 @@ for [CN projects](https://landscape.cncf.io/) - Go - [stays boring](https://gola
 
 If you have an idea for a lightning talk or presentation, or if you already use
 Go or Cloud-Native technologies, we love to hear real-world insights, just ping us on
-[meetup](https://www.meetup.com/Leipzig-Golang-and-Cloud/),
+[meetup](https://www.meetup.com/Leipzig-Golang/),
 [twitter](https://twitter.com/golang_leipzig),
 [github](https://github.com/golang-leipzig) or via
 [e-mail](mailto:martin.czygan@gmail.com).
