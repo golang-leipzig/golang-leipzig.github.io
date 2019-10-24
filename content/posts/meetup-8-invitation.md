@@ -14,7 +14,7 @@ Our next meetup is scheduled for Friday Nov, 15 2019, 19:00 at [Basislager](http
 We will have input presentations on two topics:
 
 * A custom deployment utility for Pull Requests written in Go
-* An overview about the new module proxy, [introduced in Go 1.13](https://proxy.golang.org/)
+* [Go module proxy](https://proxy.golang.org/) internals and pitfalls to consider when developing one yourself
 
 As always, please bring your projects, questions, findings. Spontaneous
 lightning talks and other inputs are welcome, too.
