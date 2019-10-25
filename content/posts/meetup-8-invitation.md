@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-Our next meetup is scheduled for Friday Nov, 15 2019, 19:00 at [Basislager](https://www.basislager.co/).
+Our next meetup is scheduled for [Friday Nov, 15 2019, 19:00](https://www.meetup.com/Leipzig-Golang/events/265955691/) at [Basislager](https://www.basislager.co/).
 
 We will have input presentations on two topics:
 
@@ -23,7 +23,7 @@ lightning talks and other inputs are welcome, too.
 
 Hallo, 世界!
 
-Unser nächstes Meetup findet am 15. November 19:00 im [Basislager](https://www.basislager.co/) statt.
+Unser nächstes Meetup findet am [15. November 19:00](https://www.meetup.com/Leipzig-Golang/events/265955691/) im [Basislager](https://www.basislager.co/) statt.
 
 Wir haben zwei Input-Präsentationen
 
