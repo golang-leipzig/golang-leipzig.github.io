@@ -28,7 +28,7 @@ Unser nächstes Meetup findet am [15. November 19:00](https://www.meetup.com/Lei
 Wir haben zwei Input-Präsentationen
 
 * Implementierung eines Deployment-Tools für Pull Requests
-* Überblick über Module Proxy, [eingeführt in Go 1.13](https://proxy.golang.org/)
+* Go Module Proxy Funktionsweise und Hindernisse die es bei der Entwicklung zu beachten gilt
 
 Wie immer sind eigene Projekte, Themen, Tools, Fragen willkommen, ebenso
 spontane lightning talks und andere Inputs.
