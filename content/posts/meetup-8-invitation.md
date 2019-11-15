@@ -14,7 +14,7 @@ Our next meetup is scheduled for [Friday Nov, 15 2019, 19:00](https://www.meetup
 We will have input presentations on two topics:
 
 * A custom deployment utility for Pull Requests written in Go
-* [Go module proxy](https://proxy.golang.org/) internals and pitfalls to consider when developing one yourself
+* [Go module proxy](https://proxy.golang.org/) internals and pitfalls
 
 As always, please bring your projects, questions, findings. Spontaneous
 lightning talks and other inputs are welcome, too.
@@ -28,7 +28,7 @@ Unser nächstes Meetup findet am [15. November 19:00](https://www.meetup.com/Lei
 Wir haben zwei Input-Präsentationen
 
 * Implementierung eines Deployment-Tools für Pull Requests
-* Go Module Proxy Funktionsweise und Hindernisse die es bei der Entwicklung zu beachten gilt
+* Go Module Proxy Interna und Probleme
 
 Wie immer sind eigene Projekte, Themen, Tools, Fragen willkommen, ebenso
 spontane lightning talks und andere Inputs.
