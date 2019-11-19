@@ -33,6 +33,13 @@ Advantages, implementations and the proxy protocal details can be found in the s
 
 ![](/proxy-protocol.png)
 
+Thanks [klingtnet](https://github.com/klingtnet) for liberating an slightly
+strange zip implementation from the depth of the Go module proxy
+implementation!
+
+* This issue started the conversation: [golang/go/issues/34953](https://github.com/golang/go/issues/34953)
+* And a few weeks later, we have: [golang.org/x/mod/zip](https://godoc.org/golang.org/x/mod/zip)
+
 {{% h2 %}}Pull Request Deployment{{% /h2 %}}
 
 Everyone needs this. When a change to a codebase is made, how great would it be
