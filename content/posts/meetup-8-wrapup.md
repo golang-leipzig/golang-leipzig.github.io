@@ -33,7 +33,7 @@ Advantages, implementations and the proxy protocal details can be found in the s
 
 ![](/proxy-protocol.png)
 
-Thanks [klingtnet](https://github.com/klingtnet) for liberating an slightly
+Also, thanks [klingtnet](https://github.com/klingtnet) for liberating an slightly
 strange zip implementation from the depth of the Go module proxy
 implementation!
 
