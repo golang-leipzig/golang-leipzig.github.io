@@ -15,7 +15,7 @@ of the main obstactles for people getting started with Go. Since [Go
 1.11](https://golang.org/doc/go1.11#modules), we have experimental support for
 Go modules.
 
-An new component related to modules is the [module
+A new component related to modules is the [module
 proxy](https://proxy.golang.org/). A bit of history, internals and pitfalls has
 been compiled by [klingtnet](https://github.com/klingtnet) into a great talk.
 
