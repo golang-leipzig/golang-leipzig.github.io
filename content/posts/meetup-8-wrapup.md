@@ -70,6 +70,8 @@ Read the slides, get inspired, join us next time - and: automate all the things!
 open source project and distribution, while go.dev is the hub for Go users
 providing centralized and curated resources from across the Go ecosystem.
 
-* [GOLAB](https://golab.io/) 2019 was great - a truly international conference with over 2/3 of the people coming from all over the world!
+* [GOLAB](https://golab.io/) 2019 in Florence, Italy was great - a truly
+  international conference with over 2/3 of the people coming from all over the
+  world!
 * For upcoming conferences, consult the wiki: [Go Conferences and Major Events](https://github.com/golang/go/wiki/Conferences)
 
