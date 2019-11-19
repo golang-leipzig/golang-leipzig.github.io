@@ -31,7 +31,7 @@ help](https://github.com/golang/go/issues/33796).
 
 Advantages, implementations and the proxy protocal details can be found in the slides.
 
-![](static/proxy-protocol.png)
+![](/proxy-protocol.png)
 
 {{% h2 %}}Pull Request Deployment{{% /h2 %}}
 
@@ -40,7 +40,7 @@ to just see that single change, e.g. for a given pull request? That's what this
 pull request deployment tool does. While the tool itself is tied to company
 context, [panzerdev](https://github.com/panzerdev) condensed the workings of the tool into these slides:
 
-* [Pull_Request_Deployment](static/downloads/Pull_Request_Deployment.pdf)
+* [Pull_Request_Deployment.pdf](/downloads/Pull_Request_Deployment.pdf)
 
 Motivation:
 
