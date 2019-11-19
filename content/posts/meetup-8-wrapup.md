@@ -11,25 +11,28 @@ tags:
 
 The Go packaging story started many years ago with `GO15VENDOREXPERIMENT` and
 a myriad of tools for managing dependencies. And, annoyingly `GOPATH` was one
-of the main obstactles for people getting started with Go.
+of the main obstactles for people getting started with Go. Since [Go
+1.11](https://golang.org/doc/go1.11#modules), we have experimental support for
+Go modules.
 
-An new component related to modules is the module proxy. A bit of history,
-internals and pitfalls has been compiled by
-[klingtnet](https://github.com/klingtnet) into a great talk.
+An new component related to modules is the [module
+proxy](https://proxy.golang.org/). A bit of history, internals and pitfalls has
+been compiled by [klingtnet](https://github.com/klingtnet) into a great talk.
 
 [Go Module Proxy - Internals and
 Pitfalls](https://rawcdn.githack.com/golang-leipzig/module-proxy-november-meetup/c58770084e025fd4a1ea0f6b7f69c5adeae1817a/slides.html#/title-slide).
 The repository for can be found at
-[https://github.com/golang-leipzig/module-proxy-november-meetup](https://github.com/golang-leipzig/module-proxy-november-meetup).
+[golang-leipzig/module-proxy-november-meetup](https://github.com/golang-leipzig/module-proxy-november-meetup).
 
-Proxies are great, as they lower the load on source repository hosts and
-can prevent events like [left-pad](http://left-pad.io/) (2016). However, there
-is a slight potential information leak when the Go tools contact
+Proxies are great, as they lower the load on source repository hosts and can
+prevent events like [left-pad](http://left-pad.io/) (2016). However, there is
+a slight potential information leak when the Go tools contact
 [proxy.golang.org](https://proxy.golang.org/) - the `GOPRIVATE` [environment
 variable](https://golang.org/doc/go1.13#modules) [can
 help](https://github.com/golang/go/issues/33796).
 
-Advantages, implementations and the proxy protocal details can be found in the slides.
+Advantages, implementations and the proxy protocal details can be found in the
+[slides](https://rawcdn.githack.com/golang-leipzig/module-proxy-november-meetup/c58770084e025fd4a1ea0f6b7f69c5adeae1817a/slides.html#/title-slide).
 
 ![](/proxy-protocol.png)
 
@@ -69,3 +72,4 @@ providing centralized and curated resources from across the Go ecosystem.
 
 * [GOLAB](https://golab.io/) 2019 was great - a truly international conference with over 2/3 of the people coming from all over the world!
 * For upcoming conferences, consult the wiki: [Go Conferences and Major Events](https://github.com/golang/go/wiki/Conferences)
+
