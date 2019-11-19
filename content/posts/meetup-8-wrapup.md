@@ -37,7 +37,7 @@ Advantages, implementations and the proxy protocal details can be found in the
 ![](/proxy-protocol.png)
 
 Also, thanks [klingtnet](https://github.com/klingtnet) for liberating an slightly
-strange zip implementation from the depth of the Go module proxy
+strange zip implementation from the depths of the Go module proxy
 implementation!
 
 * This issue started the conversation: [golang/go/issues/34953](https://github.com/golang/go/issues/34953)
