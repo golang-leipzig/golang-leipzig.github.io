@@ -4,7 +4,7 @@ draft: false
 ---
 
 We're starting a [Go](https://golang.org/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang/) in Leipzig (we started as *Go
+Leipzig](https://www.meetup.com/Leipzig-Golang/) (we started as *Go
 and Cloud Native*, but
 [split](https://golangleipzig.space/posts/go-cloud-native-split/) in Fall
 2019). For 2019 we plan to host about one meetup per month. The last event for
