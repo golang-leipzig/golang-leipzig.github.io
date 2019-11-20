@@ -50,7 +50,7 @@ to just see that single change, e.g. for a given pull request? That's what this
 pull request deployment tool does. While the tool itself is tied to company
 context, [panzerdev](https://github.com/panzerdev) condensed the workings of the tool into these slides:
 
-* [Pull_Request_Deployment.pdf](/downloads/Pull_Request_Deployment.pdf)
+* [PR_Deployment.pdf](/downloads/PR_Deployment.pdf)
 
 Motivation:
 
