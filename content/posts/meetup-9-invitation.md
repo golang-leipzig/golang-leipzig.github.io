@@ -13,8 +13,8 @@ Our first 2020 meetup is scheduled for Friday Feb, 21 2020, 19:00 at Basislager
 Leipzig (https://www.basislager.co/).
 
 We'll have a 30 min input presentation about Golang's standard library package
-net/http, especially extension points and customization options for clients and
-alternative implementations.
+[net/http](https://golang.org/pkg/net/http/), especially extension points and
+customization options for clients and alternative implementations.
 
 As always, please bring your projects, questions, findings. Spontaneous
 lightning talks and other inputs are welcome, too.
