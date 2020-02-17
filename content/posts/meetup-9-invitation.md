@@ -19,6 +19,6 @@ customization options for clients and alternative implementations.
 As always, please bring your projects, questions, findings. Spontaneous
 lightning talks and other inputs are welcome, too.
 
-Meetup #9 special: Get a unique 10th anniversary Gopher pin!
+Meetup #9 special: Get a unique [10th anniversary](https://blog.golang.org/10years) Gopher pin!
 
 ![](/images/gopher10th-pin-small.jpg)
