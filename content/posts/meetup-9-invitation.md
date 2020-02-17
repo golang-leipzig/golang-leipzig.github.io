@@ -9,8 +9,8 @@ tags:
 
 Hello, 世界!
 
-Our first 2020 meetup is scheduled for Friday Feb, 21 2020, 19:00 at Basislager
-Leipzig (https://www.basislager.co/).
+Our first 2020 meetup is scheduled for [Friday Feb, 21 2020, 19:00](https://www.meetup.com/Leipzig-Golang/events/268785494/) at
+[Basislager Leipzig](https://www.basislager.co/).
 
 We'll have a 30 min input presentation about Golang's standard library package
 [net/http](https://golang.org/pkg/net/http/), especially extension points and
