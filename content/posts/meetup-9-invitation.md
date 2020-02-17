@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-Our first 2020 meetup is scheduled for Friday Feb, 21 2019, 19:00 at Basislager
+Our first 2020 meetup is scheduled for Friday Feb, 21 2020, 19:00 at Basislager
 Leipzig (https://www.basislager.co/).
 
 We'll have a 30 min input presentation about Golang's standard library package
@@ -19,4 +19,6 @@ alternative implementations.
 As always, please bring your projects, questions, findings. Spontaneous
 lightning talks and other inputs are welcome, too.
 
+Meetup #9 special: Get a unique 10th anniversary Gopher pin!
 
+![](/images/gopher10th-pin-small.jpg)
