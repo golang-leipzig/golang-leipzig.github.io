@@ -9,6 +9,9 @@ Native*, but [split](https://golangleipzig.space/posts/go-cloud-native-split/)
 in Fall 2019). In 2019 we hosted 8 meetups and we plan something similar for
 2020. The next event (#9) is [scheduled for Feb 21, 2020 19:00](https://www.meetup.com/Leipzig-Golang/events/268785494/) at [Basislager](https://www.basislager.co/).
 
+We have [preliminary fixed date for all meetups in
+2020](https://www.meetup.com/Leipzig-Golang/events/).
+
 Our goal is to establish a place, where people from all backgrounds interested
 in the Go programming language (golang) and various cloud technologies can meet, learn,
 share experiences, present, discuss and network.
