@@ -16,7 +16,7 @@ We'll have a 30 min input presentation about Golang's standard library package
 [net/http](https://golang.org/pkg/net/http/), especially extension points and
 customization options for clients and alternative implementations.
 
-UPDATE: There will also be a presentation about Go 1.14 (which will be released next week) and what we already know about Go 1.15 and beyond.
+UPDATE: There will also be a presentation about Go 1.14 (which will be released next week) and what we already know about Go 1.15 and beyond. Slides and sources can be found [here](https://github.com/golang-leipzig/go-1.14-and-beyond/).
 
 As always, please bring your projects, questions, findings. Spontaneous
 lightning talks and other inputs are welcome, too.
