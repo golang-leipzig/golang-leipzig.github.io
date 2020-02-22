@@ -36,7 +36,7 @@ Recommended podcast: [gotime/112](https://changelog.com/gotime/112).
 
 {{% h2 %}}HTTP Getaway{{% /h2 %}}
 
-The [net/http]() package offers many extensions points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketches out in [HTTP Getaway](https://github.com/miku/httpgetaway).
+The [net/http](https://golang.org/pkg/net/http/) package offers many extensions points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketches out in [HTTP Getaway](https://github.com/miku/httpgetaway).
 
 ![](https://raw.githubusercontent.com/miku/httpgetaway/master/static/hijack.gif)
 
