@@ -51,6 +51,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{% h2 %}}Meetup log{{% /h2 %}}
 
 We try to sum up every meetup in a short blog post:
+[#9](https://golangleipzig.space/posts/meetup-9-wrapup/),
 [#8](https://golangleipzig.space/posts/meetup-8-wrapup/),
 [#7](https://golangleipzig.space/posts/meetup-7-wrapup/),
 [#6](https://golangleipzig.space/posts/meetup-6-wrapup/),
