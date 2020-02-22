@@ -71,6 +71,8 @@ always be enough, sometimes only a connection reset will help.
   and also defines a means to add and propagate provider-specific context
   information.*
 
+And much more.
+
 ----
 
 {{% h2 %}}Contributing{{% /h2 %}}
@@ -83,3 +85,4 @@ Until then, please feel invited to:
 * follow our [RSS feed](https://golangleipzig.space/posts/index.xml)
 * [PR a topic](https://github.com/golang-leipzig/topics)
 * contact us via [Meetup](https://www.meetup.com/Leipzig-Golang/) or [E-mail](mailto:martin.czygan@gmail.com)
+* join us at GitHub at [Leipzig Gophers](https://github.com/golang-leipzig) org
