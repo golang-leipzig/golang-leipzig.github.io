@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{% h3 %}}Go 1.14{{% /h3 %}}
+{{% h2 %}}Go 1.14{{% /h2 %}}
 
 [Meetup #9](https://www.meetup.com/Leipzig-Golang/events/268785494/)
 took place on Friday, February 21, 2020, 19:00 CEST at
@@ -34,7 +34,7 @@ Recommended podcast: [gotime/112](https://changelog.com/gotime/112).
 
 ----
 
-{{% h3 %}}HTTP Getaway{{% /h3 %}}
+{{% h2 %}}HTTP Getaway{{% /h2 %}}
 
 The [net/http]() package offers many extensions points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketches out in [HTTP Getaway](https://github.com/miku/httpgetaway).
 
@@ -45,7 +45,7 @@ always be enough, sometimes only a connection reset will help.
 
 ----
 
-{{% h3 %}}Misc{{% /h3 %}}
+{{% h2 %}}Misc{{% /h2 %}}
 
 * We discussed various ways to handle errors, there has been some updates
   starting with Go 1.13: [Working with Errors in Go
@@ -71,7 +71,7 @@ always be enough, sometimes only a connection reset will help.
 
 ----
 
-{{% h3 %}}Contributing{{% /h3 %}}
+{{% h2 %}}Contributing{{% /h2 %}}
 
 We want to make it simpler to contribute and to stay up to date with our meetup
 and we may create a mailing list in the future.
