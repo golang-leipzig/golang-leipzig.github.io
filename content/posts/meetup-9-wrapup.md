@@ -23,7 +23,7 @@ The slides can be found here:
 
 [![](/images/go1.14andbeyond.png)](https://rawcdn.githack.com/golang-leipzig/go-1.14-and-beyond/750e27aec11e1fa49064173fc6512d7d79515e84/slides.html#/title-slide)
 
-There are many improvements, just on of them is a lower-cost [defer
+There are many improvements, just one of them is a lower-cost [defer
 statements](https://golang.org/ref/spec#Defer_statements).
 
 The proposal can be found here:
