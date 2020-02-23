@@ -5,6 +5,7 @@ draft: false
 tags:
 - go
 - meetup
+- summary
 ---
 
 We launched! The first meetup took place
