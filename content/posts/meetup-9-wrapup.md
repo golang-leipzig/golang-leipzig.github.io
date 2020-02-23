@@ -58,6 +58,16 @@ always be enough, sometimes only a connection reset will help.
 * Speaking of panics: Shall libraries panic? In which cases? According to
   [Effective Go](https://golang.org/doc/effective_go.html#panic), `panic`
   should be an exception, rather the rule.
+* Pop quiz on modules: Is
+  [go.sum](https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more)
+immutable? The [docs
+say](https://golang.org/cmd/go/#hdr-Module_authentication_using_go_sum): "In
+day-to-day development, the checksum of a given module version should never
+change." - however it *can* change, here's an example commit:
+[766e40eb](https://github.com/kubernetes-sigs/kind/commit/766e40ebe4c6ca4cf8c845cba3a4a6d51e94fc9b#diff-f949e2d81c8076ebbf8af38fcbb72c1f).
+More details can be found a blog series on modules, e.g. [Part 4: Mirrors,
+Checksums and
+Athens](https://www.ardanlabs.com/blog/2020/02/modules-04-mirros-checksums-athens.html).
 * Three HTTP router libraries that seem to be popular:
   [mux](https://github.com/gorilla/mux), [chi](https://github.com/go-chi/chi),
   [httprouter](https://github.com/julienschmidt/httprouter)
