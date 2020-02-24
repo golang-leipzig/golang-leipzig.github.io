@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 on Leipzig Gophers</title>
+    <link>https://golang-leipzig.github.io/tags/2020/</link>
+    <description>Recent content in 2020 on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2019 13:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://golang-leipzig.github.io/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thanks and to the future!</title>
+      <link>https://golang-leipzig.github.io/posts/bye-2019/</link>
+      <pubDate>Tue, 31 Dec 2019 13:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/bye-2019/</guid>
+      <description>Thanks everyone for joining our meetup (we currently have 111 members), being curious about Go and for sharing your projects and topics in 2019. We hope you had as much fun as we had.
+The future of Go seems bright, the language and ecosystem being so versatile, cloud-friendly and popular.
+Let&amp;rsquo;s explore this future together in 2020!</description>
+    </item>
+    
+  </channel>
+</rss>

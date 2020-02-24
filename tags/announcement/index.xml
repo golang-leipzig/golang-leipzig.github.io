@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>announcement on Leipzig Gophers</title>
+    <link>https://golang-leipzig.github.io/tags/announcement/</link>
+    <description>Recent content in announcement on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2020 20:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://golang-leipzig.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup #9 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-9-invitation/</link>
+      <pubDate>Mon, 17 Feb 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-9-invitation/</guid>
+      <description>Hello, 世界!
+Our first 2020 meetup is scheduled for Friday, Feb 21, 2020 19:00 at Basislager Leipzig.
+We&amp;rsquo;ll have a 30 min input presentation about Golang&amp;rsquo;s standard library package net/http, especially extension points and customization options for clients and alternative implementations.
+UPDATE: There will also be a presentation about Go 1.14 (which will be released next week) and what we already know about Go 1.15 and beyond. Slides and sources can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #8 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-8-invitation/</link>
+      <pubDate>Thu, 24 Oct 2019 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-8-invitation/</guid>
+      <description>Hello, 世界!
+Our next meetup is scheduled for Friday Nov, 15 2019, 19:00 at Basislager.
+We will have input presentations on two topics:
+ A custom deployment utility for Pull Requests written in Go Go module proxy internals and pitfalls  As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome, too.
+Hallo, 世界!
+Unser nächstes Meetup findet am 15. November 19:00 im Basislager statt.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #7 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-7-invitation/</link>
+      <pubDate>Fri, 30 Aug 2019 13:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-7-invitation/</guid>
+      <description>Hello, 世界!
+Our next meetup is scheduled for Sep, 27 2019, 19:00 at Basislager.
+Back after summer break we jump right into a core Go topic: concurrency.
+We will summarize the book
+Concurrency in Go: Tools and Techniques for Developers
+and present and discuss techniques - from theoretical to practical aspects.
+As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome. too.
+Hallo, 世界!</description>
+    </item>
+    
+    <item>
+      <title>Meetup #6 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-6-invitation/</link>
+      <pubDate>Thu, 11 Jul 2019 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-6-invitation/</guid>
+      <description>Hello, 世界! Last minute invitation for meetup #6.
+This will be an open event - please bring your projects, questions, findings. Lightning talks and other inputs are welcome. too.
+We have two free tickets for the Golab 2019 Go conference in Florence, Italy - so if you are interested, just drop by.
+Hallo, 世界! Last Minute Einladung zu Meetup #6.
+Offenes Treffen, eigene Projekte, Themen, Tools, Fragen sind willkommen, ebenso lightning talks und andere Inputs.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #5 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-5-invitation/</link>
+      <pubDate>Tue, 11 Jun 2019 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-5-invitation/</guid>
+      <description>Hello, 世界! For meetup #5 we will have two lightning talks:
+ Beautiful (and strange) IO  A short overview of the io package and its interfaces and possible strategies for custom implementations. Plus some a few examples of implementations you might not have seen before.
+ Controlling a headless browser with Go.  A quick look at web automation with Go and Chrome.
+As always are also looking for lightning talks, presentations or other kinds of inputs.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #4 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-4-invitation/</link>
+      <pubDate>Mon, 13 May 2019 11:45:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-4-invitation/</guid>
+      <description>Meetup #4 is scheduled for Friday, May 17, 2019, 19:00 CEST at Basislager.
+Hello, 世界! For meetup #4 we will have a presentation Philipp, about the Lightning Network by especially about a Go middleware that allows to monetize Web APIs on a per-request basis. Without accounts, credit cards, payment providers - in a pure P2P fashion. We will have a short refresher on Bitcoin as well.
+As always are also looking for lightning talks, presentations or other kinds of inputs.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #3 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-3-invitation/</link>
+      <pubDate>Thu, 04 Apr 2019 13:15:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-3-invitation/</guid>
+      <description>Meetup #3 is scheduled for Friday, April 12, 2019, 19:00 CEST at Basislager.
+We will take a closer look at Go modules for dependency management. We also have one potential proposal for a lightning talk with the cryptic title &amp;ldquo;Ramen Linux&amp;rdquo;.
+As always, please bring your own code, projects, ideas, Go and Cloud-Native questions and let&amp;rsquo;s discuss them. See you there.</description>
+    </item>
+    
+    <item>
+      <title>Second meetup invitation</title>
+      <link>https://golang-leipzig.github.io/posts/second-meetup-invitation/</link>
+      <pubDate>Fri, 15 Mar 2019 15:20:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/second-meetup-invitation/</guid>
+      <description>For our second meetup tonight, we have two lighting talk proposals:
+ Turn data into Go struct - how to easily work with complex XML documents and JSON data with Go Glance at the io package and some io.Reader implementation, that you may not have seen before - how to implement your own reader and some examples of useful (sometimes strange) implementations from existing projects  Please bring your own code, projects, ideas, Go and Cloud-Native questions and let&amp;rsquo;s discuss them.</description>
+    </item>
+    
+    <item>
+      <title>First meetup invitation</title>
+      <link>https://golang-leipzig.github.io/posts/first-meetup-invitation/</link>
+      <pubDate>Tue, 29 Jan 2019 00:12:45 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/first-meetup-invitation/</guid>
+      <description>First event announced.
+Hello, 世界! This is our first meetup, for anybody interested in the Go programming language and Cloud-Native technologies. We would like to know, what you would expect from the meetup, what you would be interested in and talk about the roadmap for the next months. For this first event, we do not have a special topic, so it’s more a come together to get to know and connect the community.</description>
+    </item>
+    
+    <item>
+      <title>New Golang and Cloud-Native Meetup</title>
+      <link>https://golang-leipzig.github.io/posts/new-meetup-group/</link>
+      <pubDate>Sat, 26 Jan 2019 12:45:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/new-meetup-group/</guid>
+      <description>We now have an meetup.com profile, upcoming events will be announced there. Thrilled to see people expressing interest in this.</description>
+    </item>
+    
+    <item>
+      <title>First meetup date is fixed</title>
+      <link>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</link>
+      <pubDate>Mon, 21 Jan 2019 00:14:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</guid>
+      <description>The first Golang and Cloud-Native Meetup will take place on Friday, 8th of February 2019 starting 19:00 at Basislager Leipzig, ground floor.
+Are you using Go? Are you curious about Go? Are you a cloud architect? You are working on an interesting project that you would like to share? Or maybe you just want to meet some fellow Gophers in your city? Then, by all means, consider dropping by.
+This will be our first meeting and there will be plenty of room to participate and shape this meetup going forward.</description>
+    </item>
+    
+  </channel>
+</rss>

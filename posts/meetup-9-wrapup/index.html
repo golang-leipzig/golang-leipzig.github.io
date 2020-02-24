@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Meetup #9 wrap-up | Leipzig Gophers</title>
+
+    <style>body{margin:1em auto;padding:1em;color:#2f2d2e;max-width:45em;line-height:1.6;font-family:Georgia,serif;font-size:1.2em}h1{border-bottom:2pt solid #2f2d2e}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 .4em;display:inline-block}div.footer{border-top:1pt solid;text-align:center;padding:1em}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}@media(min-width:45em){div.tags{float:right}}img.half{width:50%}a{text-decoration:none;color:#35a7ff;border-bottom:2pt solid #fff}a:visited{color:#ff5964}a:hover{border-bottom:2pt solid #ff5964;transition:all 333ms ease-in}a.tag{padding:.1em .4em;background:#2f2d2e;color:#fff;text-decoration:none;border-radius:5pt}a.anchor{padding-right:.3em}</style>
+
+    
+</head>
+
+<body>
+<div class="header">
+    <a href="/">Leipzig Gophers</a>
+    <div class="header-menu">
+        <a href="/posts/">blog</a>
+    </div>
+</div>
+<div id="content">
+
+<header>
+    <h1 id="#meetup-9-wrap-up">
+        <a class="anchor" href="#meetup-9-wrap-up">🔗</a>Meetup #9 wrap-up</h1>
+    
+
+<div class="post-meta"><time datetime="2020-02-22">Feb 22, 2020</time><div class="tags">
+        Tags
+        <a class="tag" href="https://golang-leipzig.github.io/tags/summary/">summary</a>
+        <a class="tag" href="https://golang-leipzig.github.io/tags/meetup/">meetup</a>
+    </div>
+</div>
+</header>
+<article>
+    <h2 id="go-1-14">
+  <a class="anchor" href="#go-1-14">🔗</a>
+  Go 1.14
+</h2>
+
+<p><a href="https://www.meetup.com/Leipzig-Golang/events/268785494/">Meetup #9</a>
+took place on Friday, February 21, 2020, 19:00 CEST at
+<a href="https://www.basislager.co/">Basislager</a>.</p>
+
+<p>We looked at changes coming in the upcoming <a href="https://tip.golang.org/doc/go1.14">Go
+1.14</a> release, which is is expected to be
+released in February 2020.</p>
+
+<p>The slides can be found here:</p>
+
+<ul>
+<li><a href="https://rawcdn.githack.com/golang-leipzig/go-1.14-and-beyond/e430eef8ac39a2a3eb15a4d422bebe2069e05960/slides.html">Slides</a>, <a href="https://github.com/golang-leipzig/go-1.14-and-beyond">Repo</a></li>
+</ul>
+
+<p><a href="https://rawcdn.githack.com/golang-leipzig/go-1.14-and-beyond/750e27aec11e1fa49064173fc6512d7d79515e84/slides.html#/title-slide"><img src="/images/go1.14andbeyond.png" alt="" /></a></p>
+
+<p>There are many improvements, just one of them is lower-cost <a href="https://golang.org/ref/spec#Defer_statements">defer
+statements</a>.</p>
+
+<p>The proposal can be found here:</p>
+
+<ul>
+<li><a href="https://go.googlesource.com/proposal/+/refs/heads/master/design/34481-opencoded-defers.md">Proposal: Low-cost defers through inline code, and extra funcdata to manage
+the panic
+case</a></li>
+</ul>
+
+<p>Recommended podcast: <a href="https://changelog.com/gotime/112">gotime/112</a>.</p>
+
+<hr />
+
+<h2 id="http-getaway">
+  <a class="anchor" href="#http-getaway">🔗</a>
+  HTTP Getaway
+</h2>
+
+<p>The <a href="https://golang.org/pkg/net/http/">net/http</a> package offers many extension points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketched out in <a href="https://github.com/miku/httpgetaway">HTTP Getaway</a>.</p>
+
+<p><img src="https://raw.githubusercontent.com/miku/httpgetaway/master/static/hijack.gif" alt="" /></p>
+
+<p>Retry is a common pattern. Interestingly, application layer retries might not
+always be enough, sometimes only a connection reset will help.</p>
+
+<p><img src="https://raw.githubusercontent.com/miku/httpgetaway/master/static/levels.png" alt="" /></p>
+
+<hr />
+
+<h2 id="misc">
+  <a class="anchor" href="#misc">🔗</a>
+  Misc
+</h2>
+
+<ul>
+<li>We discussed various ways to handle errors, there has been some updates
+starting with Go 1.13: <a href="https://blog.golang.org/go1.13-errors">Working with Errors in Go
+1.13</a></li>
+<li>A popular testing library is <a href="https://github.com/stretchr/testify">stretchr/testify</a>, e.g. helps to test code that panics. Maybe more lightweight - <a href="https://github.com/matryer/is">is</a>.</li>
+<li>Speaking of panics: Shall libraries panic? In which cases? According to
+<a href="https://golang.org/doc/effective_go.html#panic">Effective Go</a>, <code>panic</code>
+should be an exception, rather the rule.</li>
+<li>Pop quiz on modules: Is
+<a href="https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more">go.sum</a>
+immutable? The <a href="https://golang.org/cmd/go/#hdr-Module_authentication_using_go_sum">docs
+say</a>: &ldquo;In
+day-to-day development, the checksum of a given module version should never
+change.&rdquo; - however it <em>can</em> change, here&rsquo;s an example commit:
+<a href="https://github.com/kubernetes-sigs/kind/commit/766e40ebe4c6ca4cf8c845cba3a4a6d51e94fc9b#diff-f949e2d81c8076ebbf8af38fcbb72c1f">766e40eb</a>.
+More details can be found a blog series on modules, e.g. <a href="https://www.ardanlabs.com/blog/2020/02/modules-04-mirros-checksums-athens.html">Part 4: Mirrors,
+Checksums and
+Athens</a>.</li>
+<li>Three HTTP router libraries that seem to be popular:
+<a href="https://github.com/gorilla/mux">mux</a>, <a href="https://github.com/go-chi/chi">chi</a>,
+<a href="https://github.com/julienschmidt/httprouter">httprouter</a></li>
+<li>Combining <a href="https://golang.org/pkg/io/#Reader">io.Reader</a> and
+<a href="https://golang.org/pkg/context/#Context">Context</a> can be useful to cancel an expensive read (e.g. large file) in an HTTP handler, here&rsquo;s a description of <a href="https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer">context-aware IO</a>.</li>
+<li>One cool project: <a href="https://github.com/kubernetes-sigs/kind">kind</a>, providing local clusters for testing Kubernetes. Given a docker with at least Go 1.11, starting a cluster becomes a one-liner: <code>GO111MODULE=&quot;on&quot; go get sigs.k8s.io/kind@v0.7.0 &amp;&amp; kind create cluster</code> - incredible.</li>
+<li>16 days ago, a new W3C recommendation was published, <a href="https://www.w3.org/TR/trace-context/">Trace Context Level
+1</a>, which <em>defines
+standard HTTP headers and a value format to propagate context information
+that enables distributed tracing scenarios. The specification standardizes
+how context information is sent and modified between services. Context
+information uniquely identifies individual requests in a distributed system
+and also defines a means to add and propagate provider-specific context
+information.</em></li>
+</ul>
+
+<p>And much more.</p>
+
+<hr />
+
+<h2 id="contributing">
+  <a class="anchor" href="#contributing">🔗</a>
+  Contributing
+</h2>
+
+<p>We want to make it simpler to contribute and to stay up to date with our meetup
+and we may create a mailing list in the future.</p>
+
+<p>Until then, please feel invited to:</p>
+
+<ul>
+<li>follow our <a href="https://golangleipzig.space/posts/index.xml">RSS feed</a></li>
+<li><a href="https://github.com/golang-leipzig/topics">PR a topic</a></li>
+<li>contact us via <a href="https://www.meetup.com/Leipzig-Golang/">Meetup</a> or <a href="mailto:martin.czygan@gmail.com">E-mail</a></li>
+<li>join us at GitHub at <a href="https://github.com/golang-leipzig">Leipzig Gophers</a> org</li>
+</ul>
+
+</article>
+
+
+    </div>
+<div class="footer">
+    
+    
+    <div class="footer-links">
+        <a href="https://www.meetup.com/Leipzig-Golang/">Meetup</a>
+        <a href="https://twitter.com/golang_leipzig">Twitter</a>
+        <a href="https://github.com/golang-leipzig">GitHub</a>
+        <a href="https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt">Impressum</a>
+    </div>
+    
+
+    
+    
+</div>
+</body>
+
+</html>

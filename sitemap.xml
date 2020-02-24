@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/</loc>
+    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-9-wrapup/</loc>
+    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/</loc>
+    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/</loc>
+    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/meetup/</loc>
+    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/summary/</loc>
+    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-9-invitation/</loc>
+    <lastmod>2020-02-17T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
+    <lastmod>2020-02-17T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/2020/</loc>
+    <lastmod>2019-12-31T13:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/bye-2019/</loc>
+    <lastmod>2019-12-31T13:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-8-wrapup/</loc>
+    <lastmod>2019-11-19T21:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-8-invitation/</loc>
+    <lastmod>2019-10-24T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-7-wrapup/</loc>
+    <lastmod>2019-09-28T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/go-cloud-native-split/</loc>
+    <lastmod>2019-09-16T21:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/meta/</loc>
+    <lastmod>2019-09-16T21:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-7-invitation/</loc>
+    <lastmod>2019-08-30T13:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/decentralized-storage-summit-berlin/</loc>
+    <lastmod>2019-07-29T00:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/conference/</loc>
+    <lastmod>2019-07-29T00:12:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/storage/</loc>
+    <lastmod>2019-07-29T00:12:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-6-wrapup/</loc>
+    <lastmod>2019-07-12T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-6-invitation/</loc>
+    <lastmod>2019-07-11T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-5-wrapup/</loc>
+    <lastmod>2019-06-15T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-5-invitation/</loc>
+    <lastmod>2019-06-11T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-4-wrapup/</loc>
+    <lastmod>2019-05-17T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-4-invitation/</loc>
+    <lastmod>2019-05-13T11:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/go-at-spartakiade-2019-berlin/</loc>
+    <lastmod>2019-04-22T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/invitation/</loc>
+    <lastmod>2019-04-22T09:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/workshop/</loc>
+    <lastmod>2019-04-22T09:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-3-wrapup/</loc>
+    <lastmod>2019-04-14T23:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-3-invitation/</loc>
+    <lastmod>2019-04-04T13:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/second-meetup-wrapup/</loc>
+    <lastmod>2019-03-16T13:15:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/second-meetup-invitation/</loc>
+    <lastmod>2019-03-15T15:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/go-at-coding-leipzig-chapter-four/</loc>
+    <lastmod>2019-02-27T15:45:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/go/</loc>
+    <lastmod>2019-02-27T15:45:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/second-meetup-call-for-input/</loc>
+    <lastmod>2019-02-18T17:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/cfi/</loc>
+    <lastmod>2019-02-18T17:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-launched/</loc>
+    <lastmod>2019-02-09T00:15:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/first-meetup-invitation/</loc>
+    <lastmod>2019-01-29T00:12:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/new-meetup-group/</loc>
+    <lastmod>2019-01-26T12:45:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/go-heise-frontpage/</loc>
+    <lastmod>2019-01-23T00:10:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/news/</loc>
+    <lastmod>2019-01-23T00:10:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</loc>
+    <lastmod>2019-01-21T00:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

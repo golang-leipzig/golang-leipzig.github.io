@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summary on Leipzig Gophers</title>
+    <link>https://golang-leipzig.github.io/tags/summary/</link>
+    <description>Recent content in summary on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 01:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://golang-leipzig.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup #9 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-9-wrapup/</link>
+      <pubDate>Sat, 22 Feb 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-9-wrapup/</guid>
+      <description>🔗 Go 1.14  Meetup #9 took place on Friday, February 21, 2020, 19:00 CEST at Basislager.
+We looked at changes coming in the upcoming Go 1.14 release, which is is expected to be released in February 2020.
+The slides can be found here:
+ Slides, Repo  
+There are many improvements, just one of them is lower-cost defer statements.
+The proposal can be found here:
+ Proposal: Low-cost defers through inline code, and extra funcdata to manage the panic case  Recommended podcast: gotime/112.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #8 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-8-wrapup/</link>
+      <pubDate>Tue, 19 Nov 2019 21:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-8-wrapup/</guid>
+      <description>🔗 Anatomy of a Go module proxy  The Go packaging story started many years ago with GO15VENDOREXPERIMENT and a myriad of tools for managing dependencies. And, annoyingly GOPATH was one of the main obstactles for people getting started with Go. Since Go 1.11, we have experimental support for Go modules.
+A new component related to modules is the module proxy. A bit of history, internals and pitfalls has been compiled by klingtnet into a great talk.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #7 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-7-wrapup/</link>
+      <pubDate>Sat, 28 Sep 2019 14:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-7-wrapup/</guid>
+      <description>🔗 Concurrency in Go  Concurrency is hard, but the primitive building blocks of CSP in Go - goroutines and channels - can make things simpler.
+We glanced at the six chapters of Concurrency in Go, and learned a bit about the problem setting, goroutine sizes, context switch times and patterns.
+The notes can be found here:
+ Notes on Concurrency in Go  In the book, the perf tool is used to benchmark context switch times of the kernel - and to compare it with context switch times in the Go scheduler.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #6 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-6-wrapup/</link>
+      <pubDate>Fri, 12 Jul 2019 22:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-6-wrapup/</guid>
+      <description>🔗 Where to Go?  The Berlin Go User Group celebrates its eighth birthday next week. Our meetup just completed its first ½ year - so far, we touched upon quite a few of the initial topic ideas.
+As for Go conferences, Golab is an annual international Go conference, which will have its 4th edition this October. We have two free tickets for you - if you are interested, just drop me a line.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #5 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-5-wrapup/</link>
+      <pubDate>Sat, 15 Jun 2019 01:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-5-wrapup/</guid>
+      <description>🔗 Bits from the IO package  The IO package is a central package in the standard library, as it provides (among other things) two main interfaces:
+ io.Reader io.Writer  In a lightning talk we digged a bit into the package:
+ Slides (PDF) Repo  The IO model is simple and powerful (and reminds one of UNIX pipes).
+🔗 Automate the Web with chromedp  In a code walkthrough we explored chromedp, a pure Go library talking the Chrome devtools protocol.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #4 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-4-wrapup/</link>
+      <pubDate>Fri, 17 May 2019 22:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-4-wrapup/</guid>
+      <description>🔗 Lightning Network Micropayments  Go is popular in the crypocurrency space. The well-rounded standard library and great support for networking applications might be one reason. In Meetup #4 Philipp presented an introduction to Bitcoin, Lighting Network and a Go project, that makes micropayments for API usage really simple: ln-paywall.
+The presentation is available as PDF.
+An http middleware takes care of creating invoices per request, a complete example can be implemented in a few lines.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #3 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-3-wrapup/</link>
+      <pubDate>Sun, 14 Apr 2019 23:15:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-3-wrapup/</guid>
+      <description>Meetup #3 took place on Friday, April 12, 2019, 19:00 CEST at Basislager. We are now officially part of the Go Developer Network (GDN, currently 103 groups with 47418 members in 37 countries), which was announced in March 2019.
+ The GDN is a collection of Go user groups working together with a shared mission to empower developer communities with the knowledge, experience, and wisdom to build the next generation of software in Go.</description>
+    </item>
+    
+    <item>
+      <title>Second meetup wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/second-meetup-wrapup/</link>
+      <pubDate>Sat, 16 Mar 2019 13:15:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/second-meetup-wrapup/</guid>
+      <description>Our second meetup took place yesterday (2019-03-15) at Basislager Leipzig, here&amp;rsquo;s a short wrap-up:
+ miku gave a lightning talk about generating Go structs from JSON and XML documents, e.g. via JSONGen or zek. Code generation is not perfect, but can save you time.
+ Michael presented the paper Understanding Real-World Concurrency Bugs in Go, which compares bug classes by analyzing popular open source projects like BoltDB, etcd, Docker and Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Launched 🚀</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-launched/</link>
+      <pubDate>Sat, 09 Feb 2019 00:15:25 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-launched/</guid>
+      <description>We launched! The first meetup took place yesterday (2019-02-08) at Basislager. A dozen gophers, programmers, devops developers, cluster admins and curious individuals followed our invitation.
+A good mix of backgrounds, experience levels and professional contexts lead to lively discussions around Go, the language, microservices, company cultures, adoption, streaming, cruise ships, conference impressions, book tips, distributed denial-of-service attacks, kubernetes operators and much more. Thanks for joining us, we think we&amp;rsquo;re off to a good start!</description>
+    </item>
+    
+  </channel>
+</rss>

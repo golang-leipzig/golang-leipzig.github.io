@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on Leipzig Gophers</title>
+    <link>https://golang-leipzig.github.io/tags/conference/</link>
+    <description>Recent content in conference on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2019 00:12:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://golang-leipzig.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decentralized Storage Summit Berlin</title>
+      <link>https://golang-leipzig.github.io/posts/decentralized-storage-summit-berlin/</link>
+      <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/decentralized-storage-summit-berlin/</guid>
+      <description>In Meetup #4 we learned about a Go project using the Lightning Network. Many more projects in the Cryptocurrenty space use Go, such filecoin, subprojects from sia and many more.
+If you are excited about these technologies, why not attend the Decentralized Storage Summit at TU Berlin on Friday, August 23, 2019?
+Here&amp;rsquo;s a link to a discount code to get in for free:
+ https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2  Enjoy.</description>
+    </item>
+    
+  </channel>
+</rss>

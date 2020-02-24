@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Leipzig Gophers</title>
+    <link>https://golang-leipzig.github.io/tags/</link>
+    <description>Recent content in Tags on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 01:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://golang-leipzig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>meetup</title>
+      <link>https://golang-leipzig.github.io/tags/meetup/</link>
+      <pubDate>Sat, 22 Feb 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summary</title>
+      <link>https://golang-leipzig.github.io/tags/summary/</link>
+      <pubDate>Sat, 22 Feb 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>https://golang-leipzig.github.io/tags/announcement/</link>
+      <pubDate>Mon, 17 Feb 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>https://golang-leipzig.github.io/tags/2020/</link>
+      <pubDate>Tue, 31 Dec 2019 13:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://golang-leipzig.github.io/tags/meta/</link>
+      <pubDate>Mon, 16 Sep 2019 21:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://golang-leipzig.github.io/tags/conference/</link>
+      <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>storage</title>
+      <link>https://golang-leipzig.github.io/tags/storage/</link>
+      <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>invitation</title>
+      <link>https://golang-leipzig.github.io/tags/invitation/</link>
+      <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/invitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://golang-leipzig.github.io/tags/workshop/</link>
+      <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://golang-leipzig.github.io/tags/go/</link>
+      <pubDate>Wed, 27 Feb 2019 15:45:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cfi</title>
+      <link>https://golang-leipzig.github.io/tags/cfi/</link>
+      <pubDate>Mon, 18 Feb 2019 17:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/cfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://golang-leipzig.github.io/tags/news/</link>
+      <pubDate>Wed, 23 Jan 2019 00:10:01 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
