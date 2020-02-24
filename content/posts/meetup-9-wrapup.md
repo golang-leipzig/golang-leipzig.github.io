@@ -19,11 +19,11 @@ released in February 2020.
 
 The slides can be found here:
 
-* [Slides](https://rawcdn.githack.com/golang-leipzig/go-1.14-and-beyond/750e27aec11e1fa49064173fc6512d7d79515e84/slides.html#/title-slide), [Repo](https://github.com/golang-leipzig/go-1.14-and-beyond)
+* [Slides](https://rawcdn.githack.com/golang-leipzig/go-1.14-and-beyond/e430eef8ac39a2a3eb15a4d422bebe2069e05960/slides.html), [Repo](https://github.com/golang-leipzig/go-1.14-and-beyond)
 
 [![](/images/go1.14andbeyond.png)](https://rawcdn.githack.com/golang-leipzig/go-1.14-and-beyond/750e27aec11e1fa49064173fc6512d7d79515e84/slides.html#/title-slide)
 
-There are many improvements, just one of them is a lower-cost [defer
+There are many improvements, just one of them is lower-cost [defer
 statements](https://golang.org/ref/spec#Defer_statements).
 
 The proposal can be found here:
@@ -38,7 +38,7 @@ Recommended podcast: [gotime/112](https://changelog.com/gotime/112).
 
 {{% h2 %}}HTTP Getaway{{% /h2 %}}
 
-The [net/http](https://golang.org/pkg/net/http/) package offers many extensions points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketched out in [HTTP Getaway](https://github.com/miku/httpgetaway).
+The [net/http](https://golang.org/pkg/net/http/) package offers many extension points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketched out in [HTTP Getaway](https://github.com/miku/httpgetaway).
 
 ![](https://raw.githubusercontent.com/miku/httpgetaway/master/static/hijack.gif)
 
@@ -54,7 +54,7 @@ always be enough, sometimes only a connection reset will help.
 * We discussed various ways to handle errors, there has been some updates
   starting with Go 1.13: [Working with Errors in Go
   1.13](https://blog.golang.org/go1.13-errors)
-* A popular testing library is [stretchr/testify](https://github.com/stretchr/testify), e.g. helps to tests code that panics. Maybe more lightweight - [is](https://github.com/matryer/is).
+* A popular testing library is [stretchr/testify](https://github.com/stretchr/testify), e.g. helps to test code that panics. Maybe more lightweight - [is](https://github.com/matryer/is).
 * Speaking of panics: Shall libraries panic? In which cases? According to
   [Effective Go](https://golang.org/doc/effective_go.html#panic), `panic`
   should be an exception, rather the rule.
@@ -73,7 +73,7 @@ Athens](https://www.ardanlabs.com/blog/2020/02/modules-04-mirros-checksums-athen
   [httprouter](https://github.com/julienschmidt/httprouter)
 * Combining [io.Reader](https://golang.org/pkg/io/#Reader) and
   [Context](https://golang.org/pkg/context/#Context) can be useful to cancel an expensive read (e.g. large file) in an HTTP handler, here's a description of [context-aware IO](https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer).
-* One cool project: [kind](https://github.com/kubernetes-sigs/kind), providing local clusters for testing Kubernetes. Given a docker 1.11, starting a cluster becomes a one-liner: `GO111MODULE="on" go get sigs.k8s.io/kind@v0.7.0 && kind create cluster` - incredible.
+* One cool project: [kind](https://github.com/kubernetes-sigs/kind), providing local clusters for testing Kubernetes. Given a docker with at least Go 1.11, starting a cluster becomes a one-liner: `GO111MODULE="on" go get sigs.k8s.io/kind@v0.7.0 && kind create cluster` - incredible.
 * 16 days ago, a new W3C recommendation was published, [Trace Context Level
   1](https://www.w3.org/TR/trace-context/), which *defines
   standard HTTP headers and a value format to propagate context information
