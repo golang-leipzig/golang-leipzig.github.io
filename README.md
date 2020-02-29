@@ -1,6 +1,6 @@
 # Go and Cloud-Native Leipzig
 
-[![Build Status](https://travis-ci.org/golang-leipzig/golang-leipzig.github.io.svg?branch=source)](https://travis-ci.org/golang-leipzig/golang-leipzig.github.io)
+![github pages](https://github.com/golang-leipzig/golang-leipzig.github.io/workflows/github%20pages/badge.svg)
 
 This is a work in progress - [golangleipzig.space](https://golangleipzig.space/).
 
