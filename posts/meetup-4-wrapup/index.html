@@ -33,11 +33,7 @@
 </div>
 </header>
 <article>
-    <h2 id="lightning-network-micropayments">
-  <a class="anchor" href="#lightning-network-micropayments">🔗</a>
-  Lightning Network Micropayments
-</h2>
-
+    <!-- raw HTML omitted -->
 <p>Go is popular in the crypocurrency space. The well-rounded standard library and
 great support for networking applications might be one reason. In <a href="https://www.meetup.com/Leipzig-Golang/events/261418733/">Meetup
 #4</a>
@@ -45,9 +41,7 @@ great support for networking applications might be one reason. In <a href="https
 Bitcoin, <a href="https://en.wikipedia.org/wiki/Lightning_Network">Lighting Network</a>
 and a Go project, that makes micropayments for API usage really simple:
 <a href="https://github.com/philippgille/ln-paywall">ln-paywall</a>.</p>
-
 <p>The presentation is <a href="https://golangleipzig.space/downloads/ln-paywall.pdf">available as PDF</a>.</p>
-
 <p>An http middleware takes care of creating
 <a href="https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md">invoices</a>
 per request, a complete example can be implemented in <a href="https://github.com/philippgille/ln-paywall/blob/78fd1dfbf10f549a22f4f30ac7f68c2a2735e989/examples/ping/handlerfunc/main.go">a few
@@ -58,83 +52,59 @@ are available for <a href="https://echo.labstack.com/">echo</a>,
 <a href="https://github.com/gin-gonic/gin">gin</a> and other frameworks.  You can
 experiment on testnet and with a <a href="https://htlc.me/">test wallet</a> or build you own
 private chain, although this a bit more involved.</p>
-
 <p><a href="https://github.com/philippgille">Philipp</a> also wrote
 <a href="https://github.com/philippgille/gokv">gokv</a>, a key value store that abstracts
 away over twenty local and cloud based implementations.</p>
-
-<p><img src="/images/go-bitcoin-books-web.jpg" alt="" /></p>
-
-<h2 id="the-zero-value-in-the-wild">
-  <a class="anchor" href="#the-zero-value-in-the-wild">🔗</a>
-  The zero value in the wild
-</h2>
-
+<p><img src="/images/go-bitcoin-books-web.jpg" alt=""></p>
+<!-- raw HTML omitted -->
 <p>Cloud providers SDK API differ in style, this might play a role in the decision
 for a cloud provider as well.</p>
-
 <p>Go has the concept of a <a href="https://golang.org/ref/spec#The_zero_value">zero value</a>:</p>
-
 <blockquote>
 <p>Each element of such a variable or value is set to the zero value for its
-type: false for booleans, 0 for numeric types, &ldquo;&rdquo; for strings, and nil for
+type: false for booleans, 0 for numeric types, &quot;&rdquo; for strings, and nil for
 pointers, functions, interfaces, slices, channels, and maps. This
 initialization is done recursively, so for instance each element of an array
 of structs will have its fields zeroed if no value is specified.</p>
 </blockquote>
-
 <p>While in general this is a useful feature, you lose the distinction between an
 uninitialized and an empty value. One example for this can be found in an older
 issue in the <a href="https://github.com/aws/aws-sdk-go-v2">Go Amazon SDK</a>:
 <a href="https://github.com/aws/aws-sdk-go/issues/114">#114</a>.</p>
-
 <blockquote>
 <p>One big issue migration to this SDK from other community SDKs is that most of
 the string types are represented as string pointers. This make porting
 existing code difficult. Also, simple initialization become cumbersome &hellip;</p>
 </blockquote>
-
-<h2 id="open-source-companies-and-sustainability">
-  <a class="anchor" href="#open-source-companies-and-sustainability">🔗</a>
-  Open Source, Companies and Sustainability
-</h2>
-
+<!-- raw HTML omitted -->
 <p>Many companies love open source, fewer like to take an active role in
 development and maintenance of free software. However, there are many good
 reasons to do so:</p>
-
 <ul>
 <li>a chance to improve software quality</li>
 <li>allow engineers to build a portfolio</li>
 <li>excellent way to attract the developers you want</li>
 <li>contribute to the strength of software ecosystems</li>
 </ul>
-
 <p>The Go world is no different than others in this respect. Some developers of
 great open source tools (e.g.
 <a href="https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/">Fatih Arslan</a>) take sabbaticals,
 others projects may go unmaintained.</p>
-
 <p>One initiative for Go is <a href="https://gof.rs/">gof.rs</a>:</p>
-
 <blockquote>
 <p>The Gofrs (pronounced Gophers) is a community-formed group working together
 to better the entire Go ecosystem. Some of these efforts include picking up
 the maintenance of projects that are widely used or have large impact, as
 well as to consider new solutions to problems that arise as the number of Go
 programmers continues to grow.</p>
-
+</blockquote>
+<blockquote>
 <p>We initially formed in the summer of 2018 to take one of the most popular
 UUID packages in the Go ecosystem,
 <a href="https://github.com/gofrs/uuid">github.com/satori/go.uuid</a>, and have started
 to look at contributing to more projects.</p>
 </blockquote>
-
-<h2 id="references">
-  <a class="anchor" href="#references">🔗</a>
-  References
-</h2>
-
+<!-- raw HTML omitted -->
 <ul>
 <li><a href="https://golangleipzig.space/downloads/ln-paywall.pdf">Presentation Slides: Go middleware for monetizing your API on a per-request basis with the Bitcoin Lightning Network</a></li>
 <li>Lightning paywall: <a href="https://github.com/philippgille/ln-paywall">ln-paywall</a></li>

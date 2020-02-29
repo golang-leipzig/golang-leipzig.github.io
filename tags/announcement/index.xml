@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>announcement on Leipzig Gophers</title>
@@ -33,7 +33,7 @@ UPDATE: There will also be a presentation about Go 1.14 (which will be released 
 Our next meetup is scheduled for Friday Nov, 15 2019, 19:00 at Basislager.
 We will have input presentations on two topics:
  A custom deployment utility for Pull Requests written in Go Go module proxy internals and pitfalls  As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome, too.
-Hallo, 世界!
+ Hallo, 世界!
 Unser nächstes Meetup findet am 15. November 19:00 im Basislager statt.</description>
     </item>
     
@@ -50,7 +50,7 @@ We will summarize the book
 Concurrency in Go: Tools and Techniques for Developers
 and present and discuss techniques - from theoretical to practical aspects.
 As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome. too.
-Hallo, 世界!</description>
+ Hallo, 世界!</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ Hallo, 世界!</description>
       <description>Hello, 世界! Last minute invitation for meetup #6.
 This will be an open event - please bring your projects, questions, findings. Lightning talks and other inputs are welcome. too.
 We have two free tickets for the Golab 2019 Go conference in Florence, Italy - so if you are interested, just drop by.
-Hallo, 世界! Last Minute Einladung zu Meetup #6.
+ Hallo, 世界! Last Minute Einladung zu Meetup #6.
 Offenes Treffen, eigene Projekte, Themen, Tools, Fragen sind willkommen, ebenso lightning talks und andere Inputs.</description>
     </item>
     

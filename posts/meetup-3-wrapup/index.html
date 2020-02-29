@@ -33,25 +33,17 @@
 </div>
 </header>
 <article>
-    
-
-<p><a href="https://www.meetup.com/Leipzig-Golang/events/260338152/">Meetup #3</a>
+    <p><a href="https://www.meetup.com/Leipzig-Golang/events/260338152/">Meetup #3</a>
 took place on Friday, April 12, 2019, 19:00 CEST at
 <a href="https://www.basislager.co/">Basislager</a>. We are now officially part of the <a href="https://www.meetup.com/pro/go/">Go
 Developer Network</a> (GDN, currently 103 groups with 47418 members in 37 countries), which was <a href="https://blog.golang.org/go-developer-network">announced
 in March 2019</a>.</p>
-
 <blockquote>
 <p>The GDN is a collection of Go user groups working together with a shared
 mission to empower developer communities with the knowledge, experience, and
 wisdom to build the next generation of software in Go.</p>
 </blockquote>
-
-<h2 id="meetup-topics">
-  <a class="anchor" href="#meetup-topics">🔗</a>
-  Meetup topics
-</h2>
-
+<!-- raw HTML omitted -->
 <p>We took a closer look at <a href="https://github.com/golang/go/wiki/Modules">Go
 modules</a> for dependency management
 by highlighting a few passages from the <a href="https://research.swtch.com/vgo">Go and versioning design
@@ -60,17 +52,14 @@ documents</a>. The
 <a href="https://github.com/golang-leipzig/gomodintro/blob/master/Slides.md">Slides</a>
 (<a href="https://github.com/golang-leipzig/gomodintro/blob/master/Slides.pdf">PDF</a>)
 are online.</p>
-
 <p>Furthermore, we had a demonstration of some strange behaviour in the
 <a href="https://github.com/gorilla/handlers">gorilla/handlers</a> package:
 <a href="https://github.com/gorilla/handlers/blob/ac6d24f88de4584385a0cb3a88f953d08a2f7a05/compress.go#L57-L64">gorilla/handlers.CompressHandler</a>
 might gzip twice! If you want to see the bug in action,
 <a href="https://github.com/klingtnet">klingtnet</a> got you covered:</p>
-
 <ul>
 <li><a href="https://github.com/spreadshirt/gorilla-handlers-double-gzip-bug">spreadshirt/gorilla-handlers-double-gzip-bug</a></li>
 </ul>
-
 <p>Interestingly, the
 <a href="https://github.com/nytimes/gziphandler">nytimes/gziphandler</a> does not exhibit
 the double compression behavior. The solution becomes a bit clearer, when you take into account,
@@ -81,12 +70,7 @@ header (e.g.
 then it can choose to modify the request (it&rsquo;s <a href="https://golang.org/pkg/net/http/#HandlerFunc.ServeHTTP">a
 pointer</a>, in contrast
 to the response writer).</p>
-
-<h2 id="from-go-to-cloud-to-linux">
-  <a class="anchor" href="#from-go-to-cloud-to-linux">🔗</a>
-  From Go to Cloud to Linux
-</h2>
-
+<!-- raw HTML omitted -->
 <p>Clouds and Cloud-Native technologies would be nothing without Linux. The <a href="https://www.meetup.com/Linux-Meetup-Leipzig/">Linux
 Meetup Leipzig</a> hosts interesting
 talks, e.g. a series on container technologies (by <a href="https://github.com/saschagrunert">Sascha
@@ -94,40 +78,28 @@ Grunert</a>) or on <a href="https://www.meetup.com/Linux-Meetup-Leipzig/events/2
 honeypots</a>.
 Since there is overlap in topics, we might organize a joint event in the
 future.</p>
-
-<h2 id="postponed-topics">
-  <a class="anchor" href="#postponed-topics">🔗</a>
-  Postponed topics
-</h2>
-
+<!-- raw HTML omitted -->
 <ul>
 <li>worker pool implementation benchmarks (from <a href="https://golangleipzig.space/posts/second-meetup-wrapup/">#2</a>)</li>
 <li><a href="https://ramenlinux.com">Ramen Linux</a> lightning talk</li>
 </ul>
-
-<h2 id="references">
-  <a class="anchor" href="#references">🔗</a>
-  References
-</h2>
-
+<!-- raw HTML omitted -->
 <ul>
 <li><a href="https://github.com/golang-leipzig/gomodintro">github.com/golang-leipzig/gomodintro</a></li>
 <li><a href="https://github.com/spreadshirt/gorilla-handlers-double-gzip-bug">github.com/spreadshirt/gorilla-handlers-double-gzip-bug</a></li>
 <li>The <a href="https://www.gorillatoolkit.org/">gorilla toolkit</a></li>
 <li><a href="https://github.com/nytimes/gziphandler">github.com/nytimes/gziphandler</a></li>
 </ul>
-
 <p>The tool for inspecting Go binaries and list their deps is called <a href="https://github.com/rsc/goversion">goversion</a>:</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4">$ go get -u rsc.io/goversion</pre></div>
+<pre><code>$ go get -u rsc.io/goversion
+</code></pre>
 <h3 id="misc">Misc</h3>
-
 <ul>
 <li><a href="https://www.youtube.com/watch?v=69Zy77O-BUM">Lightning Talk: Brad Fitzpatrick - The nuclear option, go test -run=InQemu</a> (2018)</li>
 <li>A blog post by Russ Cox on the <a href="https://research.swtch.com/deps">software dependency
 problem</a>, which reflect on the many
 different ways, languages manage dependencies today.</li>
 </ul>
-
 <blockquote>
 <p>Dependency managers now exist for essentially every programming language.
 Maven Central (Java), Nuget (.NET), Packagist (PHP), PyPI (Python), and

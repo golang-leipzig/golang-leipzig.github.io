@@ -33,63 +33,44 @@
 </div>
 </header>
 <article>
-    <h2 id="anatomy-of-a-go-module-proxy">
-  <a class="anchor" href="#anatomy-of-a-go-module-proxy">🔗</a>
-  Anatomy of a Go module proxy
-</h2>
-
+    <!-- raw HTML omitted -->
 <p>The Go packaging story started many years ago with <code>GO15VENDOREXPERIMENT</code> and
 a myriad of tools for managing dependencies. And, annoyingly <code>GOPATH</code> was one
 of the main obstactles for people getting started with Go. Since <a href="https://golang.org/doc/go1.11#modules">Go
 1.11</a>, we have experimental support for
 Go modules.</p>
-
 <p>A new component related to modules is the <a href="https://proxy.golang.org/">module
 proxy</a>. A bit of history, internals and pitfalls has
 been compiled by <a href="https://github.com/klingtnet">klingtnet</a> into a great talk.</p>
-
 <p><a href="https://rawcdn.githack.com/golang-leipzig/module-proxy-november-meetup/c58770084e025fd4a1ea0f6b7f69c5adeae1817a/slides.html#/title-slide">Go Module Proxy - Internals and
 Pitfalls</a>.
 The repository for can be found at
 <a href="https://github.com/golang-leipzig/module-proxy-november-meetup">golang-leipzig/module-proxy-november-meetup</a>.</p>
-
 <p>Proxies are great, as they lower the load on source repository hosts and can
 prevent events like <a href="http://left-pad.io/">left-pad</a> (2016). However, there is
 a slight potential information leak when the Go tools contact
 <a href="https://proxy.golang.org/">proxy.golang.org</a> - the <code>GOPRIVATE</code> <a href="https://golang.org/doc/go1.13#modules">environment
 variable</a> <a href="https://github.com/golang/go/issues/33796">can
 help</a>.</p>
-
 <p>Advantages, implementations and the proxy protocal details can be found in the
 <a href="https://rawcdn.githack.com/golang-leipzig/module-proxy-november-meetup/c58770084e025fd4a1ea0f6b7f69c5adeae1817a/slides.html#/title-slide">slides</a>.</p>
-
-<p><img src="/proxy-protocol.png" alt="" /></p>
-
+<p><img src="/proxy-protocol.png" alt=""></p>
 <p>Also, thanks <a href="https://github.com/klingtnet">klingtnet</a> for liberating an slightly
 strange zip implementation from the depths of the Go module proxy
 implementation!</p>
-
 <ul>
 <li>This issue started the conversation: <a href="https://github.com/golang/go/issues/34953">golang/go/issues/34953</a></li>
 <li>And a few weeks later, we have: <a href="https://godoc.org/golang.org/x/mod/zip">golang.org/x/mod/zip</a></li>
 </ul>
-
-<h2 id="pull-request-deployment">
-  <a class="anchor" href="#pull-request-deployment">🔗</a>
-  Pull Request Deployment
-</h2>
-
+<!-- raw HTML omitted -->
 <p>Everyone needs this. When a change to a codebase is made, how great would it be
 to just see that single change, e.g. for a given pull request? That&rsquo;s what this
 pull request deployment tool does. While the tool itself is tied to company
 context, <a href="https://github.com/panzerdev">panzerdev</a> condensed the workings of the tool into these slides:</p>
-
 <ul>
 <li><a href="/downloads/PR_Deployment.pdf">PR_Deployment.pdf</a></li>
 </ul>
-
 <p>Motivation:</p>
-
 <blockquote>
 <ul>
 <li>Code changes in a branch should be tested in isolation based on latest master</li>
@@ -98,28 +79,20 @@ context, <a href="https://github.com/panzerdev">panzerdev</a> condensed the work
 <li>Should be gone after merge without leftover junk</li>
 </ul>
 </blockquote>
-
 <p>Read the slides, get inspired, join us next time - and: automate all the things!</p>
-
-<h2 id="misc">
-  <a class="anchor" href="#misc">🔗</a>
-  Misc
-</h2>
-
+<!-- raw HTML omitted -->
 <ul>
 <li>Go turned 10 this month - <a href="https://blog.golang.org/10years">Happy Birthday</a> and thanks for bringing fun back into programming!</li>
 <li>A new site emerged: <a href="https://pkg.go.dev/">pkg.go.dev/</a></li>
 </ul>
-
 <blockquote>
 <p>Go.dev is a companion website to golang.org. Golang.org is the home of the
 open source project and distribution, while go.dev is the hub for Go users
 providing centralized and curated resources from across the Go ecosystem.</p>
 </blockquote>
-
 <ul>
 <li><a href="https://golab.io/">GOLAB</a> 2019 in Florence, Italy was great - a truly
-international conference with over <sup>2</sup>&frasl;<sub>3</sub> of the people coming from all over the
+international conference with over 2/3 of the people coming from all over the
 world!</li>
 <li>For upcoming conferences, consult the wiki: <a href="https://github.com/golang/go/wiki/Conferences">Go Conferences and Major Events</a></li>
 </ul>

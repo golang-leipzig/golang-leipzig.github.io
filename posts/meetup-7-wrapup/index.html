@@ -33,41 +33,27 @@
 </div>
 </header>
 <article>
-    <h2 id="concurrency-in-go">
-  <a class="anchor" href="#concurrency-in-go">🔗</a>
-  Concurrency in Go
-</h2>
-
-<p><img src="/images/cignotes-chapter-1-topics.png" alt="" /></p>
-
+    <!-- raw HTML omitted -->
+<p><img src="/images/cignotes-chapter-1-topics.png" alt=""></p>
 <p>Concurrency is hard, but the primitive building blocks of CSP in Go -
 goroutines and channels - can make things simpler.</p>
-
 <p>We glanced at the six chapters of <a href="http://shop.oreilly.com/product/0636920046189.do">Concurrency in
 Go</a>, and learned a bit about
 the problem setting, goroutine sizes, context switch times and patterns.</p>
-
 <p>The notes can be found here:</p>
-
 <ul>
 <li><a href="https://github.com/miku/cignotes">Notes on Concurrency in Go</a></li>
 </ul>
-
 <p>In the book, the <a href="https://perf.wiki.kernel.org">perf</a> tool is used to benchmark
 context switch times of the kernel - and to compare it with context switch
 times in the Go scheduler.</p>
-
 <p>Sidenote: you can see the number of context switches with various tools, e.g. <a href="https://linux.die.net/man/1/dstat">dstat</a>.</p>
-
-<p><img src="/images/dstat.png" alt="" /></p>
-
+<p><img src="/images/dstat.png" alt=""></p>
 <p>Another performance debugging tool are flame graphs, which can be extended in
 time, e.g. with flamescope:</p>
-
 <ul>
 <li><a href="https://github.com/Netflix/flamescope">flamescope</a></li>
 </ul>
-
 <p>Apart from technical topics, we discussed adoption stories of Go in companies.
 It&rsquo;s impossible to replace a huge system at once, but people might be surprised
 by how resource efficient Go can be - and get curious.</p>

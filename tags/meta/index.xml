@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meta on Leipzig Gophers</title>
@@ -17,8 +17,8 @@
       <pubDate>Mon, 16 Sep 2019 21:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/posts/go-cloud-native-split/</guid>
-      <description>🔗 TL;DR  We will reshuffle meetups a bit: The current Go and Cloud Native meetup will be split up, into a Go focussed meetup (we will keep the Meetup group, just rename it) and a dedicated Cloud Native Meetup - which might be merged with the growing Linux Meetup Leipzig.
-If you have not attended Linux Meetup Leipzig yet and you are interested in Enterprise Linux and Cloud Native topics, please join.</description>
+      <description>We will reshuffle meetups a bit: The current Go and Cloud Native meetup will be split up, into a Go focussed meetup (we will keep the Meetup group, just rename it) and a dedicated Cloud Native Meetup - which might be merged with the growing Linux Meetup Leipzig.
+If you have not attended Linux Meetup Leipzig yet and you are interested in Enterprise Linux and Cloud Native topics, please join. It&amp;rsquo;s awesome!</description>
     </item>
     
   </channel>

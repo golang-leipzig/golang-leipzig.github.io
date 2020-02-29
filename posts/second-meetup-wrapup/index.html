@@ -33,21 +33,20 @@
 </div>
 </header>
 <article>
-    
-
-<p>Our <a href="https://www.meetup.com/Leipzig-Golang/events/259045114/">second
+    <p>Our <a href="https://www.meetup.com/Leipzig-Golang/events/259045114/">second
 meetup</a> took
 place yesterday (2019-03-15) at <a href="https://www.basislager.co">Basislager Leipzig</a>, here&rsquo;s a
 short wrap-up:</p>
-
 <ol>
-<li><p><a href="https://github.com/miku">miku</a> gave a lightning talk about generating
+<li>
+<p><a href="https://github.com/miku">miku</a> gave a lightning talk about generating
 Go structs from JSON and XML documents, e.g. via
 <a href="https://github.com/bemasher/JSONGen">JSONGen</a> or
 <a href="https://github.com/miku/zek">zek</a>. Code generation is not perfect, but can
-save you time.</p></li>
-
-<li><p><a href="https://www.meetup.com/Leipzig-Golang/members/201296430">Michael</a>
+save you time.</p>
+</li>
+<li>
+<p><a href="https://www.meetup.com/Leipzig-Golang/members/201296430">Michael</a>
 <a href="https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch">presented</a> the paper <a href="https://songlh.github.io/paper/go-study.pdf">Understanding Real-World Concurrency Bugs in
 Go</a>, which compares bug classes by
 analyzing popular open source projects like
@@ -57,9 +56,10 @@ and <a href="https://kubernetes.io/">Kubernetes</a>. Did you know that some conc
 bugs stay undetected for months, <a href="https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch?slide=10">even
 years</a>?
 While message passing does not make multithreaded programs less-error prone, it
-can still offer a clean form of inter-thread communication.</p></li>
-
-<li><p>Staying on the topic of concurrency, we reviewed a classic, concurrent
+can still offer a clean form of inter-thread communication.</p>
+</li>
+<li>
+<p>Staying on the topic of concurrency, we reviewed a classic, concurrent
 producer-consumer problem, translated into Go by
 <a href="https://github.com/panzerdev">Michael</a>. In less than <a href="https://gist.github.com/panzerdev/cf8278b346770814088c006643f9bfd1">150 lines of
 code</a> is it
@@ -68,68 +68,50 @@ as backing store. An alternative to spawning goroutines for every task is to
 feed a fixed number of workers through a channel (where work is distributed
 round-robin to workers). Both designs work, but we were unsure about some
 performance implications - we&rsquo;ll briefly report on new findings at the next
-meetup.</p></li>
+meetup.</p>
+</li>
 </ol>
-
 <p>Apart from these topics, Go and Cloud-Native topics offer plenty of room for
 discussions: the field is moving fast, while a popular implementation language
 for <a href="https://landscape.cncf.io/">CN projects</a> - Go - <a href="https://golang.org/doc/go1.12">stays boring</a>:</p>
-
 <blockquote>
 <p><strong>Changes to the language</strong></p>
-
 <p>There are no changes to the language specification.</p>
 </blockquote>
-
 <p>If you have an idea for a lightning talk or presentation, or if you already use
 Go or Cloud-Native technologies, we love to hear real-world insights, just ping us on
 <a href="https://www.meetup.com/Leipzig-Golang/">meetup</a>,
 <a href="https://twitter.com/golang_leipzig">twitter</a>,
 <a href="https://github.com/golang-leipzig">github</a> or via
 <a href="mailto:martin.czygan@gmail.com">e-mail</a>.</p>
-
 <p>Thanks for dropping by!</p>
-
-<h2 id="references">
-  <a class="anchor" href="#references">🔗</a>
-  References
-</h2>
-
+<!-- raw HTML omitted -->
 <h3 id="code-generation">Code generation</h3>
-
 <ul>
 <li>JSON, <a href="https://github.com/bemasher/JSONGen">JSONGen</a>, <a href="https://mholt.github.io/json-to-go/">online version, json-to-go</a></li>
 <li>XML, <a href="https://github.com/miku/zek">zek</a>, <a href="https://www.onlinetool.io/xmltogo/">online version, xmltogo</a></li>
 </ul>
-
 <h3 id="concurrency-bugs">Concurrency bugs</h3>
-
 <ul>
 <li><a href="https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch">Lightning Talk Slides</a></li>
 <li><a href="https://songlh.github.io/paper/go-study.pdf">Understanding Real-World Concurrency Bugs in Go</a> (2019)</li>
 <li>Book recommendation: <a href="https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/">Concurrency in Go</a> (2017)</li>
 </ul>
-
 <h3 id="worker-pools">Worker pools</h3>
-
 <ul>
 <li><a href="https://gist.github.com/panzerdev/cf8278b346770814088c006643f9bfd1">Topic based Worker with Redis example</a></li>
 </ul>
-
 <h3 id="misc">Misc</h3>
-
 <ul>
 <li><a href="https://github.com/golang/go/wiki/PackageManagementTools">Go package management</a> - we plan to have a <a href="https://github.com/golang/go/wiki/Modules">Go modules</a> deep dive at the April 2019 meetup.</li>
 <li>Meeting forms: <a href="http://leancoffee.org/">lean coffee</a>.</li>
 <li>Video: <a href="https://www.youtube.com/watch?v=AbgsfeGvg3E">GOTO 2018 • Old Is the New New • Kevlin Henney</a> (2018) - Fundamentals.</li>
 <li>Channel: <a href="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA">computerphile</a> - Videos all about computers and computer stuff. Sister channel of Numberphile.</li>
 </ul>
-
 <p>Now defunkt company <a href="https://en.wikipedia.org/wiki/Basho_Technologies">Basho</a>,
 creators of database technology (RIAK) had a format, similar to <a href="https://paperswelove.org/">papers we
 love</a>, but their video recordings seem to be lost.
 If you have happen to have a copy, please consider contacting us :)</p>
-
 <ul>
 <li>A classic tool: <a href="https://www.gnu.org/software/sed/manual/sed.html">sed</a> &ndash; a stream editor (1974).</li>
 <li>Book recommendation: <a href="https://dataintensive.net/">Designing Data-Intensive
