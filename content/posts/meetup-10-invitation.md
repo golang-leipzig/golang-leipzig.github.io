@@ -11,7 +11,7 @@ Hello, 世界!
 
 The global [coronavirus
 pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
-puts limitations on all aspects of societal life. During our last meetup, [two
+puts limitations on all aspects of societal life. At the time of our last meetup, [two
 people were
 infected](https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/novel-coronavirus-cases-EU-UK-29-03-2020%20.jpg.png) in Germany,
 as of this announcement, we are at
