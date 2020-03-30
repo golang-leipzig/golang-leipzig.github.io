@@ -27,8 +27,8 @@ We may use [Zoom](https://zoom.us/) or [Jitsi](https://jitsi.org/) for
 videoconferencing. If you have other useful tools, just [drop us a
 line](mailto:martin.czygan@gmail.com).
 
-Given probable limitation of the medium, we do not plan to have any long
-presentation, but instead would be more interested in the following:
+Given the limits of the medium, we do not plan to have any long presentation,
+but instead would be more interested in the following:
 
 * Do you work remotely - if so, how do you manage the situation?
 * What tools you find useful for development, communication or collaboration?
