@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual Meetup #10 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-10-invitation/</link>
+      <pubDate>Mon, 30 Mar 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-10-invitation/</guid>
+      <description>Hello, 世界!
+The global coronavirus pandemic puts limitations on all aspects of societal life. During our last meetup, two people were infected, as of this announcement, we are at 57.298.
+The Go community addresses resulting issues in a blogpost on the pandemic.
+For Meetup #10 on Friday, April 17, 2020, we still would like to bring people together, in form of a shorter, virtual meetup.
+We may use Zoom or Jitsi for videoconferencing.</description>
+    </item>
     
     <item>
       <title>Meetup #9 wrap-up</title>
