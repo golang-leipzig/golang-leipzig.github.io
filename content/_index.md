@@ -7,10 +7,9 @@ We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) (we started as *Go and Cloud
 Native*, but [split](https://golangleipzig.space/posts/go-cloud-native-split/)
 in Fall 2019). In 2019 we hosted 8 meetups and we plan something similar for
-2020. The next event [on April 17,
-      2020](https://www.meetup.com/Leipzig-Golang/events/268785531/) will be
-virtual - [here's our
-invitation](https://golangleipzig.space/posts/meetup-10-invitation/).
+2020. The next event [on May 15,
+      2020](https://www.meetup.com/Leipzig-Golang/events/268785545/) will probably be
+virtual.
 
 We have [preliminary fixed dates for all meetups in
 2020](https://www.meetup.com/Leipzig-Golang/events/).
