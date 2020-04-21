@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
-    <lastmod>2020-03-30T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golang-leipzig.github.io/</loc>
-    <lastmod>2020-03-30T12:00:00+02:00</lastmod>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/tags/meetup/</loc>
-    <lastmod>2020-03-30T12:00:00+02:00</lastmod>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-10-wrapup/</loc>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/posts/</loc>
-    <lastmod>2020-03-30T12:00:00+02:00</lastmod>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/summary/</loc>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/tags/</loc>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
     <lastmod>2020-03-30T12:00:00+02:00</lastmod>
   </url>
   
@@ -34,11 +44,6 @@
   
   <url>
     <loc>https://golang-leipzig.github.io/posts/meetup-9-wrapup/</loc>
-    <lastmod>2020-02-22T01:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golang-leipzig.github.io/tags/summary/</loc>
     <lastmod>2020-02-22T01:00:00+02:00</lastmod>
   </url>
   

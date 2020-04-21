@@ -6,10 +6,21 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetup #10 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-10-wrapup/</link>
+      <pubDate>Tue, 21 Apr 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-10-wrapup/</guid>
+      <description>Virtual Meetup #10 took place on Friday, April 17, 2020, 19:00 CEST via Zoom (thanks to saschagrunert and CNCF).
+Michael prepared a great overview of the sync and x/sync packages, which implement concurrency related facialities (concurrency is hard with either classical approaches or CSP, as we learned from a presenatation last year at meetup #2).
+The overview included among other things a bug hunt in a counter example and a benchmark of the builtin map and sync.</description>
+    </item>
     
     <item>
       <title>Virtual Meetup #10 invitation</title>
