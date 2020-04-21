@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://golang-leipzig.github.io/posts/meetup-10-wrapup/</loc>
-    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golang-leipzig.github.io/posts/</loc>
     <lastmod>2020-04-21T10:00:00+02:00</lastmod>
   </url>
@@ -29,6 +24,11 @@
   
   <url>
     <loc>https://golang-leipzig.github.io/tags/</loc>
+    <lastmod>2020-04-21T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-10-wrapup/</loc>
     <lastmod>2020-04-21T10:00:00+02:00</lastmod>
   </url>
   
