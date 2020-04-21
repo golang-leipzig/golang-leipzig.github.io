@@ -19,7 +19,7 @@ took place on Friday, April 17, 2020, 19:00 CEST via [Zoom](https://zoom.us/)
 [x/sync](https://pkg.go.dev/golang.org/x/sync) packages, which implement
 concurrency related facialities (concurrency is hard with either classical
 approaches or CSP, as we [learned from a
-presenatation](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch)
+presentation](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch)
 last year at [meetup
 #2](https://golangleipzig.space/posts/second-meetup-wrapup/)).
 
