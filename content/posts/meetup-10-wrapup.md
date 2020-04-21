@@ -24,7 +24,7 @@ last year at [meetup
 #2](https://golangleipzig.space/posts/second-meetup-wrapup/)).
 
 The overview included among other things a bug hunt in a
-[counter](https://github.com/miku/go-meetup-lej-04-2020/blob/martin-map-benchmark-colors/sync/sync-rwmutex/counter.go)
+[counter](https://github.com/embano1/go-meetup-lej-04-2020/blob/master/sync/sync-rwmutex/counter.go)
 example and a benchmark of the builtin [map](https://golang.org/ref/spec#Map_types)
 and [sync.Map](https://golang.org/pkg/sync/#Map).
 
