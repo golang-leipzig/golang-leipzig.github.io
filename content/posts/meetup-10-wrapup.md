@@ -49,7 +49,7 @@ And:
 An implementation of this feature can be found in [k8s apimachinery's](https://github.com/kubernetes/apimachinery) [error
 utilities](https://github.com/kubernetes/apimachinery/blob/06deae5c9c2c030d771a467e086b6c791e8800dc/pkg/util/errors/errors.go#L231-L246).
 
-The singleflight pattern can also be found in the perkeep utils [go4]() repository, in the [singleflight](https://github.com/go4org/go4/blob/f5505b9728ddf920bb673137648788c5ac99de1b/syncutil/singleflight/singleflight.go#L17-L19) package.
+The singleflight pattern can also be found in the perkeep utils [go4](https://github.com/go4org/go4) repository, in the [singleflight](https://github.com/go4org/go4/blob/f5505b9728ddf920bb673137648788c5ac99de1b/syncutil/singleflight/singleflight.go#L17-L19) package.
 
 > Package singleflight provides a duplicate function call suppression mechanism.
 
