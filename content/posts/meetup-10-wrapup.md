@@ -14,7 +14,7 @@ took place on Friday, April 17, 2020, 19:00 CEST via [Zoom](https://zoom.us/)
 (thanks to [saschagrunert](https://github.com/saschagrunert) and
 [CNCF](https://www.cncf.io/)).
 
-[Michael](https://twitter.com/embano1) prepared a great overview of the
+[Michael](https://twitter.com/embano1) prepared a [great overview](https://github.com/embano1/go-meetup-lej-04-2020) of the
 [sync](https://golang.org/pkg/sync/) and
 [x/sync](https://pkg.go.dev/golang.org/x/sync) packages, which implement
 concurrency related facialities (concurrency is hard with either classical
