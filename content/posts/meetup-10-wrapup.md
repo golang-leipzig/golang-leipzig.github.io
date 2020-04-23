@@ -20,8 +20,7 @@ took place on Friday, April 17, 2020, 19:00 CEST via [Zoom](https://zoom.us/)
 concurrency related facilities (concurrency is hard with either classical
 approaches or CSP, as we [learned from a
 presentation](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch)
-last year at [meetup
-#2](https://golangleipzig.space/posts/second-meetup-wrapup/)).
+last year at [meetup #2](https://golangleipzig.space/posts/second-meetup-wrapup/)).
 
 The overview included among other things a bug hunt in a
 [counter](https://github.com/embano1/go-meetup-lej-04-2020/blob/master/sync/sync-rwmutex/counter.go)
