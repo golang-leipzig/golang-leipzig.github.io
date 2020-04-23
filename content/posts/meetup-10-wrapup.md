@@ -63,8 +63,13 @@ a single function call.
 
 {{% h2 %}}Misc{{% /h2 %}}
 
+In one of the upcoming meetups, we will certainly highlight tools from the
+[Hashicorp stack](https://github.com/hashicorp/), as there is certainly in
+interest in these tools.
+
 Go can be a glue language, e.g. to combine exiting, tested tools with some thin
-convenience layer. This is what [ttarc](https://github.com/miku/ttarc) does, a
+convenience layer. On a lighter side, this is what
+[ttarc](https://github.com/miku/ttarc) does, a
 [TikTok](https://www.tiktok.com/) archiving tool: It wraps
 [wget](https://www.gnu.org/software/wget/) with a bit of networking and JSON
 parsing to generate [WARC](https://en.wikipedia.org/wiki/Web_ARChive) files.
