@@ -39,12 +39,12 @@ One thing that the [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
 will not provide for out of the box is the pickup of multiple error, should
 more than one occur.
 
-> Go calls the given function in a new goroutine. The **first call** to return a non-nil error cancels the group; its error will be returned by Wait.
+> Go calls the given function in a new goroutine. The **first call** to return a non-nil error cancels the group; its error will be returned by Wait. -- https://godoc.org/golang.org/x/sync/errgroup#Group.Go
 
 And:
 
 > Wait blocks until all function calls from the Go method have returned, then
-> returns the **first non-nil error** (if any) from them.
+> returns the **first non-nil error** (if any) from them. -- https://godoc.org/golang.org/x/sync/errgroup#Group.Wait
 
 An implementation of this feature can be found in [k8s apimachinery's](https://github.com/kubernetes/apimachinery) [error
 utilities](https://github.com/kubernetes/apimachinery/blob/06deae5c9c2c030d771a467e086b6c791e8800dc/pkg/util/errors/errors.go#L231-L246).
