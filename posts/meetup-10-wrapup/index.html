@@ -59,12 +59,12 @@ and
 will not provide for out of the box is the pickup of multiple error, should
 more than one occur.</p>
 <blockquote>
-<p>Go calls the given function in a new goroutine. The <strong>first call</strong> to return a non-nil error cancels the group; its error will be returned by Wait.</p>
+<p>Go calls the given function in a new goroutine. The <strong>first call</strong> to return a non-nil error cancels the group; its error will be returned by Wait. &ndash; <a href="https://godoc.org/golang.org/x/sync/errgroup#Group.Go">https://godoc.org/golang.org/x/sync/errgroup#Group.Go</a></p>
 </blockquote>
 <p>And:</p>
 <blockquote>
 <p>Wait blocks until all function calls from the Go method have returned, then
-returns the <strong>first non-nil error</strong> (if any) from them.</p>
+returns the <strong>first non-nil error</strong> (if any) from them. &ndash; <a href="https://godoc.org/golang.org/x/sync/errgroup#Group.Wait">https://godoc.org/golang.org/x/sync/errgroup#Group.Wait</a></p>
 </blockquote>
 <p>An implementation of this feature can be found in <a href="https://github.com/kubernetes/apimachinery">k8s apimachinery&rsquo;s</a> <a href="https://github.com/kubernetes/apimachinery/blob/06deae5c9c2c030d771a467e086b6c791e8800dc/pkg/util/errors/errors.go#L231-L246">error
 utilities</a>.</p>
@@ -79,8 +79,12 @@ waiting a bit). Then, a single value sent on a channel serves as a starting
 shot. At the same time, the atomic counter on calls ensure there has only been
 a single function call.</p>
 <!-- raw HTML omitted -->
+<p>In one of the upcoming meetups, we will certainly highlight tools from the
+<a href="https://github.com/hashicorp/">Hashicorp stack</a>, as there is certainly in
+interest in these tools.</p>
 <p>Go can be a glue language, e.g. to combine exiting, tested tools with some thin
-convenience layer. This is what <a href="https://github.com/miku/ttarc">ttarc</a> does, a
+convenience layer. On a lighter side, this is what
+<a href="https://github.com/miku/ttarc">ttarc</a> does, a
 <a href="https://www.tiktok.com/">TikTok</a> archiving tool: It wraps
 <a href="https://www.gnu.org/software/wget/">wget</a> with a bit of networking and JSON
 parsing to generate <a href="https://en.wikipedia.org/wiki/Web_ARChive">WARC</a> files.</p>
