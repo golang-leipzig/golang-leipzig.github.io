@@ -7,8 +7,6 @@ tags:
 - meetup
 ---
 
-# Virtual Meetup #11
-
 Hello, 世界!
 
 Meetup #11 will take place on [Friday, May 15, 2020 19:00
