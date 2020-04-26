@@ -17,7 +17,7 @@
       <pubDate>Sun, 26 Apr 2020 12:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/posts/meetup-11-invitation/</guid>
-      <description>Virtual Meetup #11 Hello, 世界!
+      <description>Hello, 世界!
 Meetup #11 will take place on Friday, May 15, 2020 19:00 CET and will most likely be virtual again (we will share the zoom link here and on the meetup event page).
 This time, we&amp;rsquo;re excited to look at software built with Go. Our main topic will be the cloud native machine learning toolkit: kubeflow.
 Kubeflow - A follow up Leveraging Kubernetes for Data Science purposes is still a burden for many users these days.</description>
