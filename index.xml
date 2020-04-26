@@ -6,10 +6,22 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual Meetup #11 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-11-invitation/</link>
+      <pubDate>Sun, 26 Apr 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-11-invitation/</guid>
+      <description>Virtual Meetup #11 Hello, 世界!
+Meetup #11 will take place on Friday, May 15, 2020 19:00 CET and will most likely be virtual again (we will share the zoom link here and on the meetup event page).
+This time, we&amp;rsquo;re excited to look at software built with Go. Our main topic will be the cloud native machine learning toolkit: kubeflow.
+Kubeflow - A follow up Leveraging Kubernetes for Data Science purposes is still a burden for many users these days.</description>
+    </item>
     
     <item>
       <title>Virtual Meetup #10 wrap-up</title>
