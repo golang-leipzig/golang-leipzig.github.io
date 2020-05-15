@@ -36,7 +36,7 @@ with [Katib](https://github.com/kubeflow/katib) and Tensorflow model serving.
 
 Interested and want to hear more? Join the Meetup!
 
-![](/images/LeipzigGophers11.jpg)
+<!-- ![](/images/LeipzigGophers11.jpg) -->
 
 ----
 
