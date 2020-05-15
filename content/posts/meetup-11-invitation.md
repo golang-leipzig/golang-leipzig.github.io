@@ -14,6 +14,8 @@ CET](https://www.meetup.com/Leipzig-Golang/events/268785545/) and will most
 likely be virtual again (we will share the zoom link here and on the meetup
 event page).
 
+![](/images/LeipzigGophers11Zoom.png)
+
 This time, we're excited to look at software *built with Go*. Our main topic
 will be the cloud native machine learning toolkit:
 [kubeflow](https://www.kubeflow.org/).
