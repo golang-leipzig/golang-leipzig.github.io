@@ -36,6 +36,8 @@ with [Katib](https://github.com/kubeflow/katib) and Tensorflow model serving.
 
 Interested and want to hear more? Join the Meetup!
 
+![](/images/LeipzigGophers11.jpg)
+
 ----
 
 PSA: We are hosting our a videochat instance of [jitsi](https://jitsi.org/)
