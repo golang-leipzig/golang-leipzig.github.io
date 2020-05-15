@@ -42,3 +42,5 @@ Interested and want to hear more? Join the Meetup!
 
 PSA: We are hosting our a videochat instance of [jitsi](https://jitsi.org/)
 until 2020-05-31 at [jitsi.cc](https://jitsi.cc/). Stay save and connected!
+
+<!-- https://www.linkedin.com/posts/martin-czygan-58348842_last-minute-call-for-leipzig-gophers-meetup-activity-6667059863689936896-NI-3 -->
