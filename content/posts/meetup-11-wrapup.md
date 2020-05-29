@@ -11,7 +11,7 @@ tags:
 
 The data science process is not free of friction, especially when acquiring,
 preparing and cleaning data. But even when data is readily available, one might
-want to use it to train a number of ML model to perform model selection.
+want to use it to train a number of ML models to perform model selection.
 
 And what happens, if an update is available and the whole process needs to be
 run again? Optimally with a tested model that is put into production in
