@@ -14,7 +14,7 @@ preparing and cleaning data. But even when data is readily available, one might
 want to use it to train a number of ML model to perform model selection.
 
 And what happens, if an update is available and the whole process needs to be
-run again. Optimally with a tested model that is put into production in
+run again? Optimally with a tested model that is put into production in
 a canary deployment workflow?
 
 The [Kubeflow](https://www.kubeflow.org/) project is a cloud native machine
