@@ -88,7 +88,7 @@ We&amp;rsquo;ll take a short summer break, and will continue in September 2019.<
       
       <guid>https://golang-leipzig.github.io/posts/meetup-5-wrapup/</guid>
       <description>The IO package is a central package in the standard library, as it provides (among other things) two main interfaces:
- io.Reader io.Writer  In a lightning talk we digged a bit into the package:
+ io.Reader io.Writer  In a lightning talk we dug a bit into the package:
  Slides (PDF) Repo  The IO model is simple and powerful (and reminds one of UNIX pipes).
 In a code walkthrough we explored chromedp, a pure Go library talking the Chrome devtools protocol. It allows to run a headless browser.</description>
     </item>
