@@ -15,7 +15,7 @@ standard library, as it provides (among other things) two main interfaces:
 * [io.Reader](https://golang.org/pkg/io/#Reader)
 * [io.Writer](https://golang.org/pkg/io/#Writer)
 
-In a lightning talk we digged a bit into the package:
+In a lightning talk we dug a bit into the package:
 
 * [Slides](https://github.com/miku/io15min/blob/master/Slides.md) ([PDF](https://github.com/miku/io15min/blob/master/Slides.pdf))
 * [Repo](https://github.com/miku/io15min)
