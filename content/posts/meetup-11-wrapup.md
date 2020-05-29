@@ -1,7 +1,7 @@
 ---
 title: "Virtual Meetup #11 wrap-up"
-date: 2020-05-16T16:00:00+02:00
-draft: true
+date: 2020-05-29T20:00:00+02:00
+draft: false
 tags:
 - summary
 - meetup
@@ -25,6 +25,13 @@ and services, from managing Jupyter notebooks, pipelines, dashboard and serving
 tools.
 
 [Sascha](github.com/saschagrunert/) and [Markus](https://github.com/mbu93/)
-took us on a tour using a real world use case.
+took us on an amazing tour using a real world use case, showcasing the various
+parts of Kubeflow and how they fit together.
 
-TODO(martin): include screenshots, link to repo, blog post, ...
+Rather than repeating the details here, check out the blog post [My exciting
+journey into Kubernetes’
+history](https://kubernetes.io/blog/2020/05/my-exciting-journey-into-kubernetes-history/):
+
+> A story of data science-ing 90,000 GitHub issues and pull requests by using Kubeflow, TensorFlow, Prow and a fully automated CI/CD pipeline.
+
+The accompanying repository can be found at: [https://github.com/kubernetes-analysis/kubernetes-analysis](https://github.com/kubernetes-analysis/kubernetes-analysis).
