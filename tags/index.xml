@@ -6,24 +6,15 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>announcement</title>
-      <link>https://golang-leipzig.github.io/tags/announcement/</link>
-      <pubDate>Sun, 26 Apr 2020 12:00:00 +0200</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/tags/announcement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>meetup</title>
       <link>https://golang-leipzig.github.io/tags/meetup/</link>
-      <pubDate>Sun, 26 Apr 2020 12:00:00 +0200</pubDate>
+      <pubDate>Fri, 29 May 2020 20:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/tags/meetup/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>summary</title>
       <link>https://golang-leipzig.github.io/tags/summary/</link>
-      <pubDate>Tue, 21 Apr 2020 10:00:00 +0200</pubDate>
+      <pubDate>Fri, 29 May 2020 20:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/tags/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>https://golang-leipzig.github.io/tags/announcement/</link>
+      <pubDate>Sun, 26 Apr 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/announcement/</guid>
       <description></description>
     </item>
     

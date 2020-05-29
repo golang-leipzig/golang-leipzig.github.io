@@ -6,10 +6,20 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual Meetup #11 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-11-wrapup/</link>
+      <pubDate>Fri, 29 May 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-11-wrapup/</guid>
+      <description>The data science process is not free of friction, especially when acquiring, preparing and cleaning data. But even when data is readily available, one might want to use it to train a number of ML model to perform model selection.
+And what happens, if an update is available and the whole process needs to be run again. Optimally with a tested model that is put into production in a canary deployment workflow?</description>
+    </item>
     
     <item>
       <title>Virtual Meetup #10 wrap-up</title>
