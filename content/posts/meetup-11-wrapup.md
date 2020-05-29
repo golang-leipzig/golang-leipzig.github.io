@@ -30,7 +30,7 @@ parts of Kubeflow and how they fit together.
 
 Rather than repeating the details here, check out the blog post [My exciting
 journey into Kubernetes’
-history](https://kubernetes.io/blog/2020/05/my-exciting-journey-into-kubernetes-history/):
+history](https://kubernetes.io/blog/2020/05/my-exciting-journey-into-kubernetes-history/) &mdash;
 
 > A story of data science-ing 90,000 GitHub issues and pull requests by using Kubeflow, TensorFlow, Prow and a fully automated CI/CD pipeline.
 
