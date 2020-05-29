@@ -24,7 +24,7 @@ As a cloud native tool it is
 and services, from managing Jupyter notebooks, pipelines, dashboard and serving
 tools.
 
-[Sascha](github.com/saschagrunert/) and [Markus](https://github.com/mbu93/)
+[Sascha](https://github.com/saschagrunert/) and [Markus](https://github.com/mbu93/)
 took us on an amazing tour using a real world use case, showcasing the various
 parts of Kubeflow and how they fit together.
 
