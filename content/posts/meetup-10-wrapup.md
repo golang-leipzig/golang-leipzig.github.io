@@ -62,7 +62,7 @@ a single function call.
 
 {{% h2 %}}Misc{{% /h2 %}}
 
-In one of the upcoming meetups, we will certainly highlight tools from the
+In one of the upcoming meetups, we will highlight tools from the
 [Hashicorp stack](https://github.com/hashicorp/), as there is certainly in
 interest in these tools.
 
