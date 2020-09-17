@@ -6,10 +6,22 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 16:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual Meetup #12 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-12-invitation/</link>
+      <pubDate>Thu, 17 Sep 2020 16:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-12-invitation/</guid>
+      <description>Hello, 世界!
+Meetup #12 will take place today, Thurdays, Sep 17, 2020 19:00 CET and will be virtual again.
+We have a talk about HTTP proxies. You&amp;rsquo;ll discover one CVE you never heard of and we see what the author of curl says on SO, why curl does not strictly follow the HTTP RFC.
+See you!</description>
+    </item>
     
     <item>
       <title>Virtual Meetup #11 invitation</title>
