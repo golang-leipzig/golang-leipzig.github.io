@@ -7,7 +7,7 @@ We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) (we started as *Go and Cloud
 Native*, but [split](https://golangleipzig.space/posts/go-cloud-native-split/)
 in Fall 2019). In 2019 we hosted 8 meetups and we plan something similar for
-2020. Meetup #12 is scheduled for [Sep 17,
+2020. [Meetup #12](https://golangleipzig.space/posts/meetup-12-invitation/) is scheduled for [Sep 17,
       2020](https://www.meetup.com/Leipzig-Golang/events/268785554/).
 
 We have [preliminary fixed dates for all meetups in
