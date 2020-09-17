@@ -21,4 +21,6 @@ see what the author of curl says [on
 SO](https://stackoverflow.com/questions/62722430/why-does-curl-send-a-proxy-connection-header-even-though-the-rfc-seems-to-disco),
 why curl does not strictly follow the HTTP RFC.
 
+**UPDATE** We accidentally posted the wrong link, [here you go](http://meet.uni-leipzig.de/b/czy-6pa-37k).
+
 See you!
