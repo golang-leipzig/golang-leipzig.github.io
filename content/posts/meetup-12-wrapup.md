@@ -25,9 +25,9 @@ draft](https://tools.ietf.org/html/draft-luotonen-web-proxy-tunneling-01).
   2016. Note that the discussion and development of "server scripts" [started
         in
 1993](http://1997.webhistory.org/www.lists/www-talk.1993q4/0485.html).
-* Core curl developer [explains](https://stackoverflow.com/a/62722840/89391),
+* Core [curl](https://curl.haxx.se/) developer [explains](https://stackoverflow.com/a/62722840/89391),
   why curl does not follow RFC in each and every aspect, e.g. when it comes to
-the `Proxy-Connection` header - because "The world wild web is a crazy place."
+the `Proxy-Connection` header - he sums it up as "The world wild web is a crazy place."
 
 The presentation can be found here: [HTTP Getaway (part 2): HTTP proxy intro](https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md)
 
