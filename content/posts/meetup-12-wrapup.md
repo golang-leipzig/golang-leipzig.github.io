@@ -1,6 +1,6 @@
 ---
 title: "Virtual Meetup #12 wrap-up"
-date: 2020-07-18T10:00:00+02:00
+date: 2020-09-18T10:00:00+02:00
 draft: false
 tags:
 - summary
