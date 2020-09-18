@@ -29,6 +29,8 @@ draft](https://tools.ietf.org/html/draft-luotonen-web-proxy-tunneling-01).
   why curl does not follow RFC in each and every aspect, e.g. when it comes to
 the `Proxy-Connection` header - because "The world wild web is a crazy place."
 
+The presentation can be found here: [HTTP Getaway (part 2): HTTP proxy intro](https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md)
+
 See you next time!
 
 
