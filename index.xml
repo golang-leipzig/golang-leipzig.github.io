@@ -6,10 +6,22 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual Meetup #12 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-12-wrapup/</link>
+      <pubDate>Fri, 18 Sep 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-12-wrapup/</guid>
+      <description>We had a short talk about HTTP proxies in Go. As expected, Go supports the usual environment variables, like HTTP_PROXY, HTTPS_PROXY and NO_PROXY - and you can easily customize the proxy selection, as we saw in an example code walkthrough of an ip rotation proxy.
+The x/net package contains support in x/net/http/httpproxy.
+A couple of fun facts from the talk:
+ The first book on HTTP proxies was published in 1998: &amp;ldquo;Web Proxy Servers&amp;rdquo; by Ari Luotonen (CERN), who also wrote a web proxy tunneling draft.</description>
+    </item>
     
     <item>
       <title>Virtual Meetup #12 invitation</title>
@@ -21,18 +33,6 @@
 Meetup #12 will take place today, Thurdays, Sep 17, 2020 19:00 CET and will be virtual again.
 We have a talk about HTTP proxies. You&amp;rsquo;ll discover one CVE you never heard of and we see what the author of curl says on SO, why curl does not strictly follow the HTTP RFC.
 See you!</description>
-    </item>
-    
-    <item>
-      <title>Virtual Meetup #12 wrap-up</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-12-wrapup/</link>
-      <pubDate>Sat, 18 Jul 2020 10:00:00 +0200</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/posts/meetup-12-wrapup/</guid>
-      <description>We had a short talk about HTTP proxies in Go. As expected, Go supports the usual environment variables, like HTTP_PROXY, HTTPS_PROXY and NO_PROXY - and you can easily customize the proxy selection, as we saw in an example code walkthrough of an ip rotation proxy.
-The x/net package contains support in x/net/http/httpproxy.
-A couple of fun facts from the talk:
- The first book on HTTP proxies was published in 1998: &amp;ldquo;Web Proxy Servers&amp;rdquo; by Ari Luotonen (CERN), who also wrote a web proxy tunneling draft.</description>
     </item>
     
     <item>
