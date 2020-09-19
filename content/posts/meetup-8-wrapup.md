@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{% h2 %}}Anatomy of a Go module proxy{{% /h2 %}}
+{{< h2 >}}Anatomy of a Go module proxy{{< /h2 >}}
 
 The Go packaging story started many years ago with `GO15VENDOREXPERIMENT` and
 a myriad of tools for managing dependencies. And, annoyingly `GOPATH` was one
@@ -43,7 +43,7 @@ implementation!
 * This issue started the conversation: [golang/go/issues/34953](https://github.com/golang/go/issues/34953)
 * And a few weeks later, we have: [golang.org/x/mod/zip](https://godoc.org/golang.org/x/mod/zip)
 
-{{% h2 %}}Pull Request Deployment{{% /h2 %}}
+{{< h2 >}}Pull Request Deployment{{< /h2 >}}
 
 Everyone needs this. When a change to a codebase is made, how great would it be
 to just see that single change, e.g. for a given pull request? That's what this
@@ -61,7 +61,7 @@ Motivation:
 
 Read the slides, get inspired, join us next time - and: automate all the things!
 
-{{% h2 %}}Misc{{% /h2 %}}
+{{< h2 >}}Misc{{< /h2 >}}
 
 * Go turned 10 this month - [Happy Birthday](https://blog.golang.org/10years) and thanks for bringing fun back into programming!
 * A new site emerged: [pkg.go.dev/](https://pkg.go.dev/)

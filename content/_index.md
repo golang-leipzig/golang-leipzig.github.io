@@ -24,7 +24,7 @@ contribute or participate.
 
 <img class="half" src="logo.svg" alt="Depiction of a Leipzig Cloud Gopher">
 
-{{% h2 %}}How to participate{{% /h2 %}}
+{{< h2 >}}How to participate{{< /h2 >}}
 
 * follow us on [meetup](https://www.meetup.com/Leipzig-Golang) for updates, or via [RSS feed](https://golangleipzig.space/posts/index.xml)
 * help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig)
@@ -39,14 +39,14 @@ ideas and projects (send us a PM on [twitter](https://twitter.com/golang_leipzig
 organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
 have a few nice ideas for events already, but help is always appreciated
 
-{{% h2 %}}Want to host a meetup at your company?{{% /h2 %}}
+{{< h2 >}}Want to host a meetup at your company?{{< /h2 >}}
 
 Your company uses Go or wants to look into it? Why not connect with the local
 Go community by hosting a user group event? We do have presentations on
 interesting technical topics and spark lively discussions. If you are
 interested, [let's talk](mailto:martin.czygan@gmail.com).
 
-{{% h2 %}}Meetup log{{% /h2 %}}
+{{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
 [#12](https://golangleipzig.space/posts/meetup-12-wrapup/),

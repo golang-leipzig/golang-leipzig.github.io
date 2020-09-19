@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{% h2 %}}Concurrency in Go{{% /h2 %}}
+{{< h2 >}}Concurrency in Go{{< /h2 >}}
 
 ![](/images/cignotes-chapter-1-topics.png)
 

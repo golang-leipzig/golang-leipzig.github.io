@@ -7,7 +7,7 @@ tags:
 - meta
 ---
 
-{{% h2 %}}TL;DR{{% /h2 %}}
+{{< h2 >}}TL;DR{{< /h2 >}}
 
 We will reshuffle meetups a bit: The current [Go and Cloud Native
 meetup](https://www.meetup.com/Leipzig-Golang/) will be split up,
@@ -20,7 +20,7 @@ Leipzig](https://www.meetup.com/Linux-Meetup-Leipzig/) yet and you are
 interested in Enterprise Linux and Cloud Native topics, please join. It's
 awesome!
 
-{{% h2 %}}Background{{% /h2 %}}
+{{< h2 >}}Background{{< /h2 >}}
 
 We started the Go meetup in February 2019 jointly with a Cloud Native label,
 since a lot of Cloud Native tools are actually written in Go. Also, if you
@@ -42,7 +42,7 @@ developer meetups in Leipzig, with
 [Google Developer Group](https://www.meetup.com/GDG-Leipzig/) being just a few
 of them.
 
-{{% h2 %}}Timeline{{% /h2 %}}
+{{< h2 >}}Timeline{{< /h2 >}}
 
 It will take a few weeks to rename all our sites and groups, but the process
 should be done be end of October 2019.
