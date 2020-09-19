@@ -27,13 +27,12 @@ contribute or participate.
 {{< h2 >}}How to participate{{< /h2 >}}
 
 * follow us on [meetup](https://www.meetup.com/Leipzig-Golang) for updates, or via [RSS feed](https://golangleipzig.space/posts/index.xml)
-* help us spread the word - we're on [twitter](https://twitter.com/golang_leipzig)
 * [tell us](https://www.meetup.com/Leipzig-Golang/#discussions) about topics that you'd like to see covered in this context
 * propose a short talk or demo (5-30 min) about some Go (language, framework,
   project, problem, ...) or Cloud-Native (containers, orchestration, platforms,
 networking, storage, security, ...) related topic - we'll like to create a
 roadmap for the next few events and we would love to see people bring their
-ideas and projects (send us a PM on [twitter](https://twitter.com/golang_leipzig), [via email](mailto:martin.czygan@gmail.com))
+ideas and projects [via email](mailto:martin.czygan@gmail.com)
 * join
   [us](https://www.meetup.com/Leipzig-Golang/members/?op=leaders)
 organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
