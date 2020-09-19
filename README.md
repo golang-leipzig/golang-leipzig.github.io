@@ -4,5 +4,4 @@
 
 This is a work in progress - [golangleipzig.space](https://golangleipzig.space/).
 
-We're also at [Twitter](https://twitter.com/golang_leipzig) and
-[Meetup.com](https://www.meetup.com/Leipzig-Golang/).
+Find us on [Meetup.com](https://www.meetup.com/Leipzig-Golang/).
