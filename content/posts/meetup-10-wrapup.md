@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{% h2 %}}The sync package{{% /h2 %}}
+{{< h2 >}}The sync package{{< /h2 >}}
 
 Virtual [Meetup #10](https://www.meetup.com/Leipzig-Golang/events/268785531/)
 took place on Friday, April 17, 2020, 19:00 CEST via [Zoom](https://zoom.us/)
@@ -60,7 +60,7 @@ shot. At the same time, the atomic counter on calls ensure there has only been
 a single function call.
 
 
-{{% h2 %}}Misc{{% /h2 %}}
+{{< h2 >}}Misc{{< /h2 >}}
 
 In one of the upcoming meetups, we will highlight tools from the
 [Hashicorp stack](https://github.com/hashicorp/), as there is certainly in

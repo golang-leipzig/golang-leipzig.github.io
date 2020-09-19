@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{% h2 %}}Bits from the IO package{{% /h2 %}}
+{{< h2 >}}Bits from the IO package{{< /h2 >}}
 
 The [IO package](https://golang.org/pkg/io/) is a central package in the
 standard library, as it provides (among other things) two main interfaces:
@@ -23,7 +23,7 @@ In a lightning talk we dug a bit into the package:
 The IO model is simple and powerful (and reminds one of UNIX pipes).
 
 
-{{% h2 %}}Automate the Web with chromedp{{% /h2 %}}
+{{< h2 >}}Automate the Web with chromedp{{< /h2 >}}
 
 In a code walkthrough we explored [chromedp](https://github.com/chromedp/chromedp), a pure Go library
 talking the Chrome [devtools protocol](https://github.com/ChromeDevTools/devtools-protocol). It allows to run a headless
@@ -40,7 +40,7 @@ programmatically). Running many (even headless) Chrome instances will eat your
 RAM.
 
 
-{{% h2 %}}How do developers discover Go?{{% /h2 %}}
+{{< h2 >}}How do developers discover Go?{{< /h2 >}}
 
 Have you ever wondered about how programmers move from language to language?
 The author of this entertaining and enlightning blog post (and [other
@@ -50,7 +50,7 @@ things](https://github.com/sshuttle/sshuttle)) did as well:
 
 
 
-{{% h2 %}}More Linux and Cloud{{% /h2 %}}
+{{< h2 >}}More Linux and Cloud{{< /h2 >}}
 
 We have a presentation about libpod (a tool to work with OCI images) in the
 pipeline. Meanwhile, do not miss the next [Linux
@@ -60,7 +60,7 @@ Tue, 2019-06-18 about runc and CRI-O.
 
 
 
-{{% h2 %}}References{{% /h2 %}}
+{{< h2 >}}References{{< /h2 >}}
 
 * [IO lightning talk repo](https://github.com/miku/io15min/)
 * [chromedp](https://github.com/chromedp/chromedp)

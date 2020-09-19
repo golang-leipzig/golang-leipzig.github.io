@@ -58,7 +58,7 @@ Go or Cloud-Native technologies, we love to hear real-world insights, just ping 
 
 Thanks for dropping by!
 
-{{% h2 %}}References{{% /h2 %}}
+{{< h2 >}}References{{< /h2 >}}
 
 ### Code generation
 

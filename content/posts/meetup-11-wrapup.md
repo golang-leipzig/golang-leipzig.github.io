@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{% h2 %}}Kubeflow{{% /h2 %}}
+{{< h2 >}}Kubeflow{{< /h2 >}}
 
 The data science process is not free of friction, especially when acquiring,
 preparing and cleaning data. But even when data is readily available, one might
