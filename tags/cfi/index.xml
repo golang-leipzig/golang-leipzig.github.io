@@ -6,11 +6,7 @@
     <description>Recent content in cfi on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Feb 2019 17:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://golang-leipzig.github.io/tags/cfi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 18 Feb 2019 17:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/cfi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second meetup: Call for Input</title>
       <link>https://golang-leipzig.github.io/posts/second-meetup-call-for-input/</link>

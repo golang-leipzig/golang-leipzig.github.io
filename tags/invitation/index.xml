@@ -6,11 +6,7 @@
     <description>Recent content in invitation on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2019 09:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://golang-leipzig.github.io/tags/invitation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 22 Apr 2019 09:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/invitation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go at Spartakiade 2019 Berlin</title>
       <link>https://golang-leipzig.github.io/posts/go-at-spartakiade-2019-berlin/</link>

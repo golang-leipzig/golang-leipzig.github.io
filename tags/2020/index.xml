@@ -6,11 +6,7 @@
     <description>Recent content in 2020 on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 13:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://golang-leipzig.github.io/tags/2020/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Dec 2019 13:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thanks and to the future!</title>
       <link>https://golang-leipzig.github.io/posts/bye-2019/</link>

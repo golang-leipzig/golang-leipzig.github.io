@@ -6,11 +6,7 @@
     <description>Recent content in news on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 00:10:01 +0100</lastBuildDate>
-    
-	<atom:link href="https://golang-leipzig.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 23 Jan 2019 00:10:01 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go makes the frontpage</title>
       <link>https://golang-leipzig.github.io/posts/go-heise-frontpage/</link>
