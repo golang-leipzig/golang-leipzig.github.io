@@ -21,10 +21,6 @@ paginate = 50
     name = "Meetup"
     weight = 1
   [[menu.footer]]
-    url = "https://twitter.com/golang_leipzig"
-    name = "Twitter"
-    weight = 2
-  [[menu.footer]]
     url = "https://github.com/golang-leipzig"
     name = "GitHub"
     weight = 3

@@ -52,7 +52,6 @@ for [CN projects](https://landscape.cncf.io/) - Go - [stays boring](https://gola
 If you have an idea for a lightning talk or presentation, or if you already use
 Go or Cloud-Native technologies, we love to hear real-world insights, just ping us on
 [meetup](https://www.meetup.com/Leipzig-Golang/),
-[twitter](https://twitter.com/golang_leipzig),
 [github](https://github.com/golang-leipzig) or via
 [e-mail](mailto:martin.czygan@gmail.com).
 

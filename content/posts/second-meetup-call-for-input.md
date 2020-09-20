@@ -15,8 +15,7 @@ until March, 1 2019 by filling out this form:
 
 * [https://goo.gl/forms/btBm0tInUp25XdUi2](https://goo.gl/forms/btBm0tInUp25XdUi2)
 
-You can also send us ideas by [email](mailto:martin.czygan@gmail.com) or
-[Twitter](https://twitter.com/golang_leipzig)!
+You can also send us ideas by [email](mailto:martin.czygan@gmail.com)!
 
 For some inspiration, there is a [list of
 topics](https://golangleipzig.space/posts/meetup-launched/), we discussed at
