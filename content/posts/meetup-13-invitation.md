@@ -30,3 +30,9 @@ easy.
 As always, other lightning talks or contributions are welcome.
 
 See you!
+
+----
+
+Teaser: There will be a talk on [Productive
+Go](https://www.meetup.com/Developer-Group-Leipzig/events/273876459/) at the
+Developer Group Leipzig 2020-12-08 event.
