@@ -6,7 +6,19 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 16:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #13 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-13-invitation/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-13-invitation/</guid>
+      <description>Hello, 世界!
+Meetup #13 will take place today, Friday Oct 16, 2020 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
+$ echo &amp;#39;aHR0cHM6Ly91czAyd2ViLnpvb20udXMvai84NTk3NDQwNzE3Mj9wd2Q9UVdwQ1lqWXJWM0ZoYldJd0wyTlBiVTlPYldaaFVUMDkK&amp;#39; | base64 -d We have a short talk on seaweedfs, a key value store written in Go and inspired by the Facebook Haystack paper (back when FB only had 20PB of image data).
+Beyond a key-value store seaweedfs offers various storage access methods on top, e.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #12 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-12-invitation/</link>
