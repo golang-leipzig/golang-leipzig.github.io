@@ -15,7 +15,7 @@ virtual again. We'll use Zoom (find the link on [the event
 page](https://www.meetup.com/Leipzig-Golang/events/268785569/) or below):
 
 ```shell
-$ curl -sL https://is.gd/GOIxW7 | base64 -d
+$ curl -L is.gd/GOIxW7 | base64 -d
 ```
 
 We have a short talk on [seaweedfs](https://github.com/chrislusf/seaweedfs), a
