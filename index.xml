@@ -15,7 +15,8 @@
       <guid>https://golang-leipzig.github.io/posts/meetup-13-invitation/</guid>
       <description>Hello, 世界!
 Meetup #13 will take place today, Friday Oct 16, 2020 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
-$ echo &amp;#39; aHR0cHM6Ly 91czAyd2Vi Lnpvb20udX Mvai84NTk3 NDQwNzE3Mj 9wd2Q9UVdw Q1lqWXJWM0 ZoYldJd0wy TlBiVTlPYl daaFVUMDkK&amp;#39; | tr -d &amp;#39;\n&amp;#39; | base64 -d We have a short talk on seaweedfs, a key value store written in Go and inspired by the Facebook Haystack paper (back when FB only had 20PB of image data).</description>
+$ curl -sL https://is.gd/GOIxW7 | base64 -d We have a short talk on seaweedfs, a key value store written in Go and inspired by the Facebook Haystack paper (back when FB only had 20PB of image data).
+Beyond a key-value store seaweedfs offers various storage access methods on top, e.</description>
     </item>
     
     <item>
