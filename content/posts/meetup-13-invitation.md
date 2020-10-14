@@ -15,17 +15,7 @@ virtual again. We'll use Zoom (find the link on [the event
 page](https://www.meetup.com/Leipzig-Golang/events/268785569/) or below):
 
 ```shell
-$ echo '
-aHR0cHM6Ly
-91czAyd2Vi
-Lnpvb20udX
-Mvai84NTk3
-NDQwNzE3Mj
-9wd2Q9UVdw
-Q1lqWXJWM0
-ZoYldJd0wy
-TlBiVTlPYl
-daaFVUMDkK' | tr -d '\n' | base64 -d
+$ curl -sL https://is.gd/GOIxW7 | base64 -d
 ```
 
 We have a short talk on [seaweedfs](https://github.com/chrislusf/seaweedfs), a
