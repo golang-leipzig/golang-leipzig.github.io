@@ -80,3 +80,7 @@ And finally, a few ideas that came up as topics for another talk:
 * Higher Order Go, or functional patterns in Go
 
 Join us [next time](https://www.meetup.com/Leipzig-Golang/events/268785591/)!
+
+----
+
+Image credit: [Kobol](https://wiki.kobol.io/helios64/intro/)
