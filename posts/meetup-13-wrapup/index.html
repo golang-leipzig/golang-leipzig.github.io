@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Virtual Meetup #13 wrap-up | Leipzig Gophers</title>
+
+    <style>body{margin:1em auto;padding:1em;color:#2f2d2e;max-width:45em;line-height:1.6;font-family:Georgia,serif;font-size:1.2em}h1{border-bottom:2pt solid #2f2d2e}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 .4em;display:inline-block}div.footer{border-top:1pt solid;text-align:center;padding:1em}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}@media(min-width:45em){div.tags{float:right}}img.half{width:50%}a{text-decoration:none;color:#35a7ff;border-bottom:2pt solid #fff}a:visited{color:#ff5964}a:hover{border-bottom:2pt solid #ff5964;transition:all 333ms ease-in}a.tag{padding:.1em .4em;background:#2f2d2e;color:#fff;text-decoration:none;border-radius:5pt}a.anchor{padding-right:.3em}</style>
+
+    
+
+    
+</head>
+
+
+<body>
+<div class="header">
+    <a href="/">Leipzig Gophers</a>
+    <div class="header-menu">
+        <a href="/posts/">blog</a>
+    </div>
+</div>
+<div id="content">
+
+<header>
+    <h1 id="#virtual-meetup-13-wrap-up">
+        <a class="anchor" href="#virtual-meetup-13-wrap-up">🔗</a>Virtual Meetup #13 wrap-up</h1>
+    
+
+<div class="post-meta"><time datetime="2020-10-16">Oct 16, 2020</time><div class="tags">
+        Tags
+        <a class="tag" href="https://golang-leipzig.github.io/tags/summary/">summary</a>
+        <a class="tag" href="https://golang-leipzig.github.io/tags/meetup/">meetup</a>
+    </div>
+</div>
+</header>
+<article>
+    <p>Today we had two input presentations:</p>
+<ul>
+<li>Haystack and seaweedfs <a href="https://github.com/miku/haystack">https://github.com/miku/haystack</a></li>
+<li>Functional Options Pattern <a href="https://github.com/embano1/funcy-ops">https://github.com/embano1/funcy-ops</a></li>
+</ul>
+<p>The haystack talk gave an overview about an early Facebook photo storage system
+and a Go project inspired by it, called
+<a href="https://github.com/chrislusf/seaweedfs">seaweedfs</a>. The seaweedfs project is
+great, as it is developer friend, scales up and down and is easy to use out of
+the box. It offers an <a href="https://github.com/chrislusf/seaweedfs/wiki/Amazon-S3-API">S3 compatible
+API</a> and a <a href="https://github.com/chrislusf/seaweedfs/wiki/FUSE-Mount">FUSE
+filesystem</a> option.</p>
+<p>The function option pattern addresses API stability when it comes to
+configuration options. A simple way to configure a type is by passing in
+options directly (there can be too many), or by passing in a single config
+struct type (which becomes a part of the public API). The functional option
+pattern works because in Go function as just like any other value and can be
+passed as arguments or returned by functions.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// WithInsecure skips certificate verification
+</span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">func</span> <span style="color:#900;font-weight:bold">WithInsecure</span>(in <span style="color:#458;font-weight:bold">bool</span>) ServerOption {
+    <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">func</span>(s <span style="color:#000;font-weight:bold">*</span>Server) <span style="color:#458;font-weight:bold">error</span> {
+        <span style="color:#000;font-weight:bold">if</span> in {
+            <span style="color:#000;font-weight:bold">return</span> errors.<span style="color:#900;font-weight:bold">New</span>(<span style="color:#d14">&#34;security alert&#34;</span>)
+        }
+        s.insecure = in
+        <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">nil</span>
+    }
+}
+</code></pre></div><p>The complete example can be found here:
+<a href="https://github.com/embano1/funcy-ops/blob/main/server.go">https://github.com/embano1/funcy-ops/blob/main/server.go</a>.</p>
+<p>The functional options is a Go pattern and addresses some issues with too many
+arguments, variants of New and API stability.</p>
+<hr>
+<p>Discussion evolved around testing (Go) code with controlled, restricted
+environments, like memory limits or maybe different
+<a href="https://man7.org/linux/man-pages/man3/ulimit.3.html">ulimits</a>. Running tests
+in containers can address these tasks (or one can get
+<a href="https://wiki.archlinux.org/index.php/Cgroups#With_systemd_2">systemd</a> to
+impose limits).</p>
+<p>Furthermore, another way to embed files:</p>
+<ul>
+<li><a href="https://github.com/klingtnet/embed">https://github.com/klingtnet/embed</a></li>
+</ul>
+<p>Book recommendatation:</p>
+<ul>
+<li><a href="https://www.databass.dev/">databass.dev</a></li>
+</ul>
+<p>Go runtime interplay with containers and pods? Fasten your seatbelt:
+<a href="https://twitter.com/embano1/status/1149654812595646471">https://twitter.com/embano1/status/1149654812595646471</a></p>
+
+</article>
+
+
+    </div>
+<div class="footer">
+    
+    
+    <div class="footer-links">
+        <a href="https://www.meetup.com/Leipzig-Golang/">Meetup</a><span> / <span><a href="https://github.com/golang-leipzig">GitHub</a><span> / <span><a href="https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt">Impressum</a></div>
+    
+
+    
+    
+</div>
+</body>
+
+</html>

@@ -6,7 +6,17 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #13 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-13-wrapup/</link>
+      <pubDate>Fri, 16 Oct 2020 22:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-13-wrapup/</guid>
+      <description>Today we had two input presentations:
+ Haystack and seaweedfs https://github.com/miku/haystack Functional Options Pattern https://github.com/embano1/funcy-ops  The haystack talk gave an overview about an early Facebook photo storage system and a Go project inspired by it, called seaweedfs. The seaweedfs project is great, as it is developer friend, scales up and down and is easy to use out of the box. It offers an S3 compatible API and a FUSE filesystem option.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #13 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-13-invitation/</link>
