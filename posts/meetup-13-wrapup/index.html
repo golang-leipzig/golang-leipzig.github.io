@@ -41,6 +41,7 @@
 <li>Haystack and seaweedfs <a href="https://github.com/miku/haystack">https://github.com/miku/haystack</a></li>
 <li>Functional Options Pattern <a href="https://github.com/embano1/funcy-ops">https://github.com/embano1/funcy-ops</a></li>
 </ul>
+<h2 id="haystack">Haystack</h2>
 <p>The haystack talk gave an overview about an early Facebook photo storage system
 and a Go project inspired by it, called
 <a href="https://github.com/chrislusf/seaweedfs">seaweedfs</a>. The seaweedfs project is
@@ -48,6 +49,8 @@ great, as it is developer friend, scales up and down and is easy to use out of
 the box. It offers an <a href="https://github.com/chrislusf/seaweedfs/wiki/Amazon-S3-API">S3 compatible
 API</a> and a <a href="https://github.com/chrislusf/seaweedfs/wiki/FUSE-Mount">FUSE
 filesystem</a> option.</p>
+<p><img src="/images/assembly_pic13.png" alt=""></p>
+<h2 id="functional-option-pattern">Functional Option Pattern</h2>
 <p>The function option pattern addresses API stability when it comes to
 configuration options. A simple way to configure a type is by passing in
 options directly (there can be too many), or by passing in a single config
@@ -68,7 +71,7 @@ passed as arguments or returned by functions.</p>
 <a href="https://github.com/embano1/funcy-ops/blob/main/server.go">https://github.com/embano1/funcy-ops/blob/main/server.go</a>.</p>
 <p>The functional options is a Go pattern and addresses some issues with too many
 arguments, variants of New and API stability.</p>
-<hr>
+<h2 id="misc">Misc</h2>
 <p>Discussion evolved around testing (Go) code with controlled, restricted
 environments, like memory limits or maybe different
 <a href="https://man7.org/linux/man-pages/man3/ulimit.3.html">ulimits</a>. Running tests
