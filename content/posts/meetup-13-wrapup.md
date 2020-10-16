@@ -72,3 +72,11 @@ Book recommendatation:
 Go runtime interplay with containers and pods? Fasten your seatbelt:
 [https://twitter.com/embano1/status/1149654812595646471](https://twitter.com/embano1/status/1149654812595646471)
 
+
+And finally, a few ideas that came up as topics for another talk:
+
+* crypto?
+* kubernetes operators (and what they can teach about (event oriented) systems design in general)
+* Higher Order Go, or functional patterns in Go
+
+Join us [next time](https://www.meetup.com/Leipzig-Golang/events/268785591/)!
