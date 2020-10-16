@@ -9,8 +9,8 @@ tags:
 
 Today we had two input presentations:
 
-* Haystack and seaweedfs [https://github.com/miku/haystack](https://github.com/miku/haystack)
-* Functional Options Pattern [https://github.com/embano1/funcy-ops](https://github.com/embano1/funcy-ops)
+* Haystack and seaweedfs: [https://github.com/miku/haystack](https://github.com/miku/haystack)
+* Functional Options Pattern: [https://github.com/embano1/funcy-ops](https://github.com/embano1/funcy-ops)
 
 ## Haystack
 
