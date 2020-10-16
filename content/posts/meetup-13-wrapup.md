@@ -12,6 +12,8 @@ Today we had two input presentations:
 * Haystack and seaweedfs [https://github.com/miku/haystack](https://github.com/miku/haystack)
 * Functional Options Pattern [https://github.com/embano1/funcy-ops](https://github.com/embano1/funcy-ops)
 
+## Haystack
+
 The haystack talk gave an overview about an early Facebook photo storage system
 and a Go project inspired by it, called
 [seaweedfs](https://github.com/chrislusf/seaweedfs). The seaweedfs project is
@@ -19,6 +21,10 @@ great, as it is developer friend, scales up and down and is easy to use out of
 the box. It offers an [S3 compatible
 API](https://github.com/chrislusf/seaweedfs/wiki/Amazon-S3-API) and a [FUSE
 filesystem](https://github.com/chrislusf/seaweedfs/wiki/FUSE-Mount) option.
+
+![](/images/assembly_pic13.png)
+
+## Functional Option Pattern
 
 The function option pattern addresses API stability when it comes to
 configuration options. A simple way to configure a type is by passing in
@@ -46,7 +52,7 @@ The complete example can be found here:
 The functional options is a Go pattern and addresses some issues with too many
 arguments, variants of New and API stability.
 
-----
+## Misc
 
 Discussion evolved around testing (Go) code with controlled, restricted
 environments, like memory limits or maybe different
