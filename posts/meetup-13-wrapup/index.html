@@ -55,8 +55,8 @@ filesystem</a> option.</p>
 configuration options. A simple way to configure a type is by passing in
 options directly (there can be too many), or by passing in a single config
 struct type (which becomes a part of the public API). The functional option
-pattern works because in Go function as just like any other value and can be
-passed as arguments or returned by functions.</p>
+pattern works because in Go functions are first class values and can be passed
+as arguments into or returned by functions.</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// WithInsecure skips certificate verification
 </span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">func</span> <span style="color:#900;font-weight:bold">WithInsecure</span>(in <span style="color:#458;font-weight:bold">bool</span>) ServerOption {
     <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">func</span>(s <span style="color:#000;font-weight:bold">*</span>Server) <span style="color:#458;font-weight:bold">error</span> {
