@@ -49,8 +49,8 @@ func WithInsecure(in bool) ServerOption {
 The complete example can be found here:
 [https://github.com/embano1/funcy-ops/blob/main/server.go](https://github.com/embano1/funcy-ops/blob/main/server.go).
 
-The functional options is a Go pattern and addresses some issues with too many
-arguments, variants of New and API stability.
+Functional Options is a Go *pattern* and addresses some issues with too many
+arguments, variants of *New* and API stability.
 
 ## Misc
 
@@ -65,7 +65,7 @@ Furthermore, another way to embed files:
 
 * [https://github.com/klingtnet/embed](https://github.com/klingtnet/embed)
 
-Book recommendatation:
+Book recommendation:
 
 * [databass.dev](https://www.databass.dev/)
 
@@ -75,8 +75,8 @@ Go runtime interplay with containers and pods? Fasten your seatbelt:
 
 And finally, a few ideas that came up as topics for another talk:
 
-* crypto?
-* kubernetes operators (and what they can teach about (event oriented) systems design in general)
+* (Go) Crypto
+* Kubernetes operators (and what they can teach about (event oriented) systems design in general)
 * Higher Order Go, or functional patterns in Go
 
 Join us [next time](https://www.meetup.com/Leipzig-Golang/events/268785591/)!
