@@ -30,8 +30,8 @@ The function option pattern addresses API stability when it comes to
 configuration options. A simple way to configure a type is by passing in
 options directly (there can be too many), or by passing in a single config
 struct type (which becomes a part of the public API). The functional option
-pattern works because in Go function as just like any other value and can be
-passed as arguments or returned by functions.
+pattern works because in Go functions are first class values and can be passed
+as arguments into or returned by functions.
 
 ```go
 // WithInsecure skips certificate verification
