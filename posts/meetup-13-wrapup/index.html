@@ -45,16 +45,16 @@
 <p>The haystack talk gave an overview about an early Facebook photo storage system
 and a Go project inspired by it, called
 <a href="https://github.com/chrislusf/seaweedfs">seaweedfs</a>. The seaweedfs project is
-great, as it is developer friend, scales up and down and is easy to use out of
+great, as it is developer friendly, scales up and down and is easy to use out of
 the box. It offers an <a href="https://github.com/chrislusf/seaweedfs/wiki/Amazon-S3-API">S3 compatible
 API</a> and a <a href="https://github.com/chrislusf/seaweedfs/wiki/FUSE-Mount">FUSE
 filesystem</a> option.</p>
 <p><img src="/images/assembly_pic13.png" alt=""></p>
-<h2 id="functional-option-pattern">Functional Option Pattern</h2>
-<p>The function option pattern addresses API stability when it comes to
+<h2 id="functional-options-pattern">Functional Options Pattern</h2>
+<p>The <em>Functional Options Pattern</em> addresses API stability when it comes to
 configuration options. A simple way to configure a type is by passing in
 options directly (there can be too many), or by passing in a single config
-struct type (which becomes a part of the public API). The functional option
+struct (which becomes part of the public API, for better or for worse). The functional options
 pattern works because in Go functions are first class values and can be passed
 as arguments into or returned by functions.</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// WithInsecure skips certificate verification
@@ -78,7 +78,8 @@ environments, like memory limits or maybe different
 in containers can address these tasks (or one can get
 <a href="https://wiki.archlinux.org/index.php/Cgroups#With_systemd_2">systemd</a> to
 impose limits).</p>
-<p>Furthermore, another way to embed files:</p>
+<p>Furthermore, another way to embed files (there is a proposal from <a href="https://go.googlesource.com/proposal/+/master/design/draft-embed.md">July
+2020</a>):</p>
 <ul>
 <li><a href="https://github.com/klingtnet/embed">https://github.com/klingtnet/embed</a></li>
 </ul>
