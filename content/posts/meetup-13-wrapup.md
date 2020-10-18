@@ -17,19 +17,19 @@ Today we had two input presentations:
 The haystack talk gave an overview about an early Facebook photo storage system
 and a Go project inspired by it, called
 [seaweedfs](https://github.com/chrislusf/seaweedfs). The seaweedfs project is
-great, as it is developer friend, scales up and down and is easy to use out of
+great, as it is developer friendly, scales up and down and is easy to use out of
 the box. It offers an [S3 compatible
 API](https://github.com/chrislusf/seaweedfs/wiki/Amazon-S3-API) and a [FUSE
 filesystem](https://github.com/chrislusf/seaweedfs/wiki/FUSE-Mount) option.
 
 ![](/images/assembly_pic13.png)
 
-## Functional Option Pattern
+## Functional Options Pattern
 
-The function option pattern addresses API stability when it comes to
+The *Functional Options Pattern* addresses API stability when it comes to
 configuration options. A simple way to configure a type is by passing in
 options directly (there can be too many), or by passing in a single config
-struct type (which becomes a part of the public API). The functional option
+struct (which becomes part of the public API, for better or for worse). The functional options
 pattern works because in Go functions are first class values and can be passed
 as arguments into or returned by functions.
 
@@ -61,7 +61,8 @@ in containers can address these tasks (or one can get
 [systemd](https://wiki.archlinux.org/index.php/Cgroups#With_systemd_2) to
 impose limits).
 
-Furthermore, another way to embed files:
+Furthermore, another way to embed files (there is a proposal from [July
+2020](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)):
 
 * [https://github.com/klingtnet/embed](https://github.com/klingtnet/embed)
 
@@ -71,7 +72,6 @@ Book recommendation:
 
 Go runtime interplay with containers and pods? Fasten your seatbelt:
 [https://twitter.com/embano1/status/1149654812595646471](https://twitter.com/embano1/status/1149654812595646471)
-
 
 And finally, a few ideas that came up as topics for another talk:
 
