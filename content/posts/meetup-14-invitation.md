@@ -31,8 +31,15 @@ As always, other lightning talks or contributions are welcome.
 
 See you!
 
+<!--
+
+https://www.linkedin.com/posts/martin-czygan-58348842_virtual-meetup-14-invitation-activity-6732229118777196544-MOwI
+
+-->
+
 ----
 
 Teaser: There will be a talk on [Productive
 Go](https://www.meetup.com/Developer-Group-Leipzig/events/273876459/) - at the
 Developer Group Leipzig 2020-12-08 event.
+
