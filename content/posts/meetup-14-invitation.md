@@ -25,7 +25,7 @@ which of these to use? Thanksfully, [klingtnet](https://github.com/klingtnet)
 shed some light on this and we'll learn about the ups and downs of a few tools
 and also what it would take to write one yourself.
 
-![](/images/unixv6embed.png)
+[![](/images/unixv6embed.png)](https://github.com/yisooan/unix-v6/blob/2c7099ee501923775c4c96079a6fe94da109b552/sys/ken/main.c#L12-L30)
 
 As always, other lightning talks or contributions are welcome.
 
