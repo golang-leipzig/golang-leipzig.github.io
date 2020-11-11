@@ -9,7 +9,7 @@ Native*, but [split](https://golangleipzig.space/posts/go-cloud-native-split/)
 in Fall 2019). In 2019 we hosted 8 meetups and we plan something similar for
 2020. Meetup #14 is scheduled for [Nov 13, 2020 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/268785591/).
 
-You'll find the zoom link on the meetup event page or on your command line:
+You'll find the zoom link on the [meetup event page](https://www.meetup.com/Leipzig-Golang/events/268785591/) or on your command line:
 
 ```shell
 $ curl -sL git.io/JkIVG | base64 -d
