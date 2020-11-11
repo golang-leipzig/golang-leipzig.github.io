@@ -6,7 +6,18 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 10:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #14 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-14-invitation/</link>
+      <pubDate>Wed, 11 Nov 2020 10:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-14-invitation/</guid>
+      <description>Hello, 世界!
+Meetup #14 will take place today, Nov 13, 2020 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
+$ curl -sL git.io/JkIVG | base64 -d We will have a input presentation on file embedding - a popular technique to make deployments and workflows easier. Many tools exists today, as can be seen in #35950 - we will learn about the ups and downs of a few tools and also what it would take to write a custom tool.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #13 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-13-wrapup/</link>
