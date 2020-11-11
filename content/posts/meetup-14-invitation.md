@@ -18,12 +18,12 @@ page](https://www.meetup.com/Leipzig-Golang/events/268785591/) or below):
 $ curl -sL git.io/JkIVG | base64 -d
 ```
 
-We will have a input presentation on file embedding - a popular technique to
+We will have an input presentation on file embedding - a popular technique to
 make deployments and workflows easier. Many tools exists today, as can be seen
 in [#35950](https://github.com/golang/go/issues/35950). Have you ever wondered,
 which of these to use? Thankfully, [klingtnet](https://github.com/klingtnet)
-will shed some light on this and we'll learn about the ups and downs of a few tools
-and also what it would take to write one yourself.
+will shed some light on this and we'll learn about the ups and downs of a few
+options and also what it would take to write one embedding utility yourself.
 
 [![](/images/unixv6embed.png)](https://github.com/yisooan/unix-v6/blob/2c7099ee501923775c4c96079a6fe94da109b552/sys/ken/main.c#L12-L30)
 
