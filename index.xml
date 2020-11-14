@@ -6,7 +6,20 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 10:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2020 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #14 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-14-wrapup/</link>
+      <pubDate>Sat, 14 Nov 2020 22:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-14-wrapup/</guid>
+      <description>File Embedding We had a great input presentation on file embedding, which allows to ship additional files within a binary.
+How do you put files into a binary? There a numerous tools, some of them limited, some of them with large feature sets.
+Is it time for Yet Another File Embedding Tool? Yes!
+That such a tool can be simple and easy to use is shown by klingtnet/embed.
+Misc  awsls is a tool that uses code generation to simplify AWS command line interactions we side-tracked into note-taking, and found out that people use all kinds of journal software, from OneNote, plain text files, custom software and plain paper notebooks   Join us next time!</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #14 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-14-invitation/</link>
