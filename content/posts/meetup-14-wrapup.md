@@ -20,7 +20,7 @@ some of them limited, some of them with large feature sets.
 Is it time for *Yet Another File Embedding Tool*? Yes!
 
 That such a tool can be simple and easy to use is shown by
-[klingtnet/embed](github.com/klingtnet/embed).
+[klingtnet/embed](https://github.com/klingtnet/embed).
 
 ![](/372959.gif)
 
