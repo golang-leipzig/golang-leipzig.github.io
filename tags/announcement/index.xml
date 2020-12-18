@@ -16,7 +16,7 @@
       <description>Hello, 世界!
 Meetup #15 will take place today Dec 18, 2020 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -sL https://git.io/JLBe8 | base64 -d We&amp;rsquo;ll have two input presentations:
- On a WaitGroup wrapper, including testing strategies. On small library - parallel that allows to write parallel filters fast.  As always, other lightning talks or contributions are welcome.</description>
+ On a WaitGroup wrapper, including testing strategies. On a tiny library - parallel that allows to write parallel filters fast.  As always, other lightning talks or contributions are welcome.</description>
     </item>
     
     <item>
