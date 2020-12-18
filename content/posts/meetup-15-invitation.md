@@ -37,3 +37,8 @@ PS. And if you cannot join us today, thanks for visiting us in 2020! Merry Chris
 
 Example colorchars implementation: [colorchars](https://gist.github.com/miku/339a2ad63623b08da449bfdab3bd680a#file-main-go)
 
+<!--
+
+https://www.linkedin.com/posts/martin-czygan-58348842_virtual-meetup-15-invitation-activity-6745727036632948736-HBYk
+
+-->
