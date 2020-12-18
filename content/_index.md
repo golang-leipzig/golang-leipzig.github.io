@@ -4,19 +4,9 @@ draft: false
 ---
 
 We're hosting a [Go](https://golang.org/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang/) (we started as *Go and Cloud
-Native*, but [split](https://golangleipzig.space/posts/go-cloud-native-split/)
-in Fall 2019). In 2019 we hosted 8 meetups and we plan something similar for
-2020. Meetup #15 is scheduled for [Dec 18, 2020 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/268785606/).
+Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 15 events so far.
 
-You'll find the zoom link on the [meetup event page](https://www.meetup.com/Leipzig-Golang/events/268785606/) or on your command line:
-
-```shell
-$ curl -sL https://git.io/JkO18 | base64 -d
-```
-
-We have [preliminary fixed dates for all meetups in
-2020](https://www.meetup.com/Leipzig-Golang/events/).
+We are currently in planning mode for 2021.
 
 Our goal is to establish a place, where people from all backgrounds interested
 in the Go programming language (golang) and various cloud technologies can meet, learn,
