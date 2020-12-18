@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2020 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 12:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #15 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-15-invitation/</link>
+      <pubDate>Fri, 18 Dec 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-15-invitation/</guid>
+      <description>Hello, 世界!
+Meetup #15 will take place today Dec 18, 2020 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
+$ curl -sL https://git.io/JLBe8 | base64 -d We&amp;rsquo;ll have two input presentations:
+ On a WaitGroup wrapper, including testing strategies. On small library - parallel that allows to write parallel filters fast.  As always, other lightning talks or contributions are welcome.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #14 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-14-wrapup/</link>
