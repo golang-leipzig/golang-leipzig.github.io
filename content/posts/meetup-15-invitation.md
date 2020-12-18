@@ -21,7 +21,7 @@ $ curl -sL https://git.io/JLBe8 | base64 -d
 We'll have two input presentations:
 
 1. On a [WaitGroup](https://golang.org/pkg/sync/#WaitGroup) wrapper, including testing strategies.
-2. On small library - [parallel](https://github.com/miku/parallel) that allows to write parallel filters fast.
+2. On a tiny library - [parallel](https://github.com/miku/parallel) that allows to write parallel filters fast.
 
 As always, other lightning talks or contributions are welcome.
 
