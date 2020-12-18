@@ -6,7 +6,13 @@ draft: false
 We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 15 events so far.
 
-We are currently in planning mode for 2021.
+We are currently in planning mode for 2021. Happy Holidays!
+
+![](/images/xmas2020.png)
+
+----
+
+{{< h2 >}}About{{< /h2 >}}
 
 Our goal is to establish a place, where people from all backgrounds interested
 in the Go programming language (golang) and various cloud technologies can meet, learn,
