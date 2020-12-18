@@ -23,8 +23,6 @@ We'll have two input presentations:
 1. On a [WaitGroup](https://golang.org/pkg/sync/#WaitGroup) wrapper, including testing strategies.
 2. On small library - [parallel](https://github.com/miku/parallel) that allows to write parallel filters fast.
 
-![](/images/exploreio.png)
-
 As always, other lightning talks or contributions are welcome.
 
 See you!
@@ -38,6 +36,4 @@ PS. And if you cannot join us today, thanks for visiting us in 2020! Merry Chris
 
 
 Example colorchars implementation: [colorchars](https://gist.github.com/miku/339a2ad63623b08da449bfdab3bd680a#file-main-go)
-
-----
 
