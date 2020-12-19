@@ -51,10 +51,12 @@ routines in flight, that need some kind of cancellation (modern packages use
 <a href="https://github.com/golang/go/wiki/Timeouts">timeouts</a>).</p>
 <p>The solution of <a href="https://github.com/embano1/waitgroup">waitgroup</a> is to embed
 the standard library waitgroup and combine it with timeout. The package comes
-with, examples too:</p>
+with examples too:</p>
 <ul>
 <li><a href="https://pkg.go.dev/github.com/embano1/waitgroup#example-Await">https://pkg.go.dev/github.com/embano1/waitgroup#example-Await</a></li>
 </ul>
+<p>Testing concurrent code is its own challange, but this package has examples for that as well.</p>
+<hr>
 <p>The second lightning talk summarized chapter 2 on &ldquo;Filters&rdquo; of <a href="https://openlibrary.org/works/OL4617639W/">Software
 Tools</a> by Kernighan and Plauger
 (1976) and highlighted some timeless ideas on software style (today, you might
@@ -68,6 +70,44 @@ one off filters.</p>
 <li><a href="https://gist.github.com/miku/738f361c8156264626c74f9b717927ff#fast-parallel-filters-in-go">Fast parallel filters in Go</a></li>
 </ul>
 <h2 id="misc">Misc</h2>
+<p>The best about meetups is everything, that is not in the slides and code,
+beside discussions e.g. screen shared setups, neat tools people use, and much
+more.</p>
+<p>Here&rsquo;s a list of things to check out:</p>
+<ul>
+<li>The <a href="https://github.com/google/ko">ko</a> project helps to get Go applications
+to run on <a href="https://kubernetes.io/">kubernetes</a> fast, with minimal effort. If
+you run go on k8s, you will need this.</li>
+<li>The <a href="https://github.com/uber-go/zap">zap</a> logger is a fast structured logging library.</li>
+<li>Just as you can combine waitgroups with timeouts, you can also blend context
+and reader, for details see:
+<a href="https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer.html">https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer.html</a></li>
+<li>Behavious driven development (BDD) uses a semi-formal language to describe test cases, in Go we have <a href="https://github.com/onsi/ginkgo">ginkgo</a> - the terminology is language-agnostic.</li>
+</ul>
+<p>Can you tame complexity with BDD style? WMware OCTO tech deep dives addresses this question in a blog post:</p>
+<ul>
+<li><a href="https://octo.vmware.com/taming-complexity-software-testing-behavior-driven-development/">Taming Complexity in Software Development with Behavior Driven Development (BDD)</a></li>
+</ul>
+<p>As for stream processing, there is a classic blog post, as well as a few interesting projects:</p>
+<ul>
+<li><a href="https://blog.golang.org/pipelines">Go concurrency patterns: Pipelines and cancellation</a></li>
+<li><a href="https://github.com/vladimirvivien/automi">Automi</a> (prototype)</li>
+<li><a href="https://github.com/ReactiveX/RxGo">RxGo</a>, an implementation of
+<a href="http://reactivex.io">reactive</a> style (in short: observer pattern + iterator
+pattern + functional programming)</li>
+</ul>
+<p>Fast things:</p>
+<ul>
+<li><a href="https://www.gnu.org/software/parallel/">GNU parallel</a></li>
+<li><a href="https://github.com/livegrep/livegrep">livegrep</a></li>
+<li><a href="https://github.com/junegunn/fzf">fzf</a></li>
+</ul>
+<p>Basic (database) things:</p>
+<ul>
+<li>BW trees, <a href="https://stackoverflow.com/questions/18859123/what-is-a-bw-tree">What is a Bw-tree?</a></li>
+<li>log-structured merge trees</li>
+<li>and many more (see: <a href="https://databass.dev/">databass.dev/</a>)</li>
+</ul>
 <hr>
 <p><a href="https://www.meetup.com/Leipzig-Golang">Join our meetup</a> to get notified of upcoming events!</p>
 
