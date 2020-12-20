@@ -87,7 +87,7 @@ Fast things:
 
 Basic (database) things:
 
-* BW trees, [What is a BW-tree?](https://stackoverflow.com/questions/18859123/what-is-a-bw-tree)
+* BW trees, [What is a BW-tree?](https://stackoverflow.com/questions/18859123/what-is-a-bw-tree), [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bw-tree-icde2013-final.pdf)
 * log-structured merge trees
 * and many more (see: [databass.dev/](https://databass.dev/))
 
