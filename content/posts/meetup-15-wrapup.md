@@ -64,7 +64,7 @@ you run go on k8s, you will need this.
 [https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer.html](https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer.html)
 * Behavious driven development (BDD) uses a semi-formal language to describe test cases, in Go we have [ginkgo](https://github.com/onsi/ginkgo) - the terminology is language-agnostic.
 
-Can you tame complexity with BDD style? WMware OCTO tech deep dives addresses this question in a blog post:
+Can you tame complexity with BDD style? VMware Office of the CTO tech deep dives addresses this question in a blog post:
 
 * [Taming Complexity in Software Development with Behavior Driven Development (BDD)](https://octo.vmware.com/taming-complexity-software-testing-behavior-driven-development/)
 
