@@ -43,7 +43,7 @@ say clean code). Go has great facilities for streaming data processing in the
 [io](https://golang.org/pkg/io/) package. Furthermore, you can spice up filters
 with parallel processing, without adding much complexity to the program.
 
-![](/images/softwaretools76.jpg)
+![](/images/softwaretools76-s.png)
 
 That's what [parallel](https://github.com/miku/parallel) is about - it allow to
 write parallel filters fast. The package is best used as a little utility for
