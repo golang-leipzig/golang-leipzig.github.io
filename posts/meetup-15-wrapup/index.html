@@ -37,12 +37,13 @@
 </header>
 <article>
     <h2 id="concurrent-woes">Concurrent woes</h2>
-<p>We had two input presentations, both involving concurrent contructs.</p>
+<p>We had two input presentations, both involving concurrent constructs.</p>
 <p>First, we heard from the <a href="https://twitter.com/embano1">author</a> of <a href="https://github.com/embano1/waitgroup">package
 waitgroup</a> about problems with concurrent
-code, waitgroups and shutdowns. The basic problem: At shutdown time, you want
-to be graceful, but at the same time enforce a hard timeout on a number of
-processes running (and potentially joining in a <code>wg.Wait</code>).</p>
+code, waitgroups and shutdowns (especially in cloud native and serverless
+scenarios). The basic problem: At shutdown time, you want to be graceful, but
+at the same time enforce a hard timeout on a number of processes running (and
+potentially joining in a <a href="https://golang.org/pkg/sync/#WaitGroup.Wait"><code>wg.Wait</code></a>).</p>
 <p>Enter <a href="https://github.com/embano1/waitgroup">package waitgroup</a> which allows to
 preempt running goroutines. The general problem of goroutine termination is
 hard, and even harder, if you have a large code base and a tree of concurrent
@@ -50,8 +51,9 @@ routines in flight, that need some kind of cancellation (modern packages use
 <a href="https://golang.org/pkg/context/">context</a>, or maybe manual
 <a href="https://github.com/golang/go/wiki/Timeouts">timeouts</a>).</p>
 <p>The solution of <a href="https://github.com/embano1/waitgroup">waitgroup</a> is to embed
-the standard library waitgroup and combine it with timeout. The package comes
-with examples too:</p>
+the <a href="https://golang.org/pkg/sync/#WaitGroup">standard library waitgroup</a> and
+combine it with a <a href="https://github.com/golang/go/wiki/Timeouts">timeout</a>. The
+package comes with examples too:</p>
 <ul>
 <li><a href="https://pkg.go.dev/github.com/embano1/waitgroup#example-Await">https://pkg.go.dev/github.com/embano1/waitgroup#example-Await</a></li>
 </ul>
@@ -63,6 +65,7 @@ Tools</a> by Kernighan and Plauger
 say clean code). Go has great facilities for streaming data processing in the
 <a href="https://golang.org/pkg/io/">io</a> package. Furthermore, you can spice up filters
 with parallel processing, without adding much complexity to the program.</p>
+<p><img src="/images/softwaretools76.jpg" alt=""></p>
 <p>That&rsquo;s what <a href="https://github.com/miku/parallel">parallel</a> is about - it allow to
 write parallel filters fast. The package is best used as a little utility for
 one off filters.</p>
@@ -70,21 +73,20 @@ one off filters.</p>
 <li><a href="https://gist.github.com/miku/738f361c8156264626c74f9b717927ff#fast-parallel-filters-in-go">Fast parallel filters in Go</a></li>
 </ul>
 <h2 id="misc">Misc</h2>
-<p>The best about meetups is everything, that is not in the slides and code,
-beside discussions e.g. screen shared setups, neat tools people use, and much
-more.</p>
+<p>The best about meetups are things beyond slides and code: discussions, screen
+shared setups, neat tools people use, and much more.</p>
 <p>Here&rsquo;s a list of things to check out:</p>
 <ul>
 <li>The <a href="https://github.com/google/ko">ko</a> project helps to get Go applications
 to run on <a href="https://kubernetes.io/">kubernetes</a> fast, with minimal effort. If
 you run go on k8s, you will need this.</li>
 <li>The <a href="https://github.com/uber-go/zap">zap</a> logger is a fast structured logging library.</li>
-<li>Just as you can combine waitgroups with timeouts, you can also blend context
-and reader, for details see:
+<li>Just as you can combine waitgroups with timeouts, you can blend context
+and readers, for details see:
 <a href="https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer.html">https://pace.dev/blog/2020/02/03/context-aware-ioreader-for-golang-by-mat-ryer.html</a></li>
-<li>Behavious driven development (BDD) uses a semi-formal language to describe test cases, in Go we have <a href="https://github.com/onsi/ginkgo">ginkgo</a> - the terminology is language-agnostic.</li>
+<li>Behaviour driven development (BDD) uses a semi-formal language to describe test cases, in Go we have <a href="https://github.com/onsi/ginkgo">ginkgo</a> - the terminology is language-agnostic.</li>
 </ul>
-<p>Can you tame complexity with BDD style? VMware Office of the CTO tech deep dives addresses this question in a blog post:</p>
+<p>Can you tame complexity with BDD style development? A VMware <em>Office of the CTO</em> tech deep dive addresses this question in a blog post:</p>
 <ul>
 <li><a href="https://octo.vmware.com/taming-complexity-software-testing-behavior-driven-development/">Taming Complexity in Software Development with Behavior Driven Development (BDD)</a></li>
 </ul>
@@ -104,7 +106,7 @@ pattern + functional programming)</li>
 </ul>
 <p>Basic (database) things:</p>
 <ul>
-<li>BW trees, <a href="https://stackoverflow.com/questions/18859123/what-is-a-bw-tree">What is a Bw-tree?</a></li>
+<li>BW trees, <a href="https://stackoverflow.com/questions/18859123/what-is-a-bw-tree">What is a BW-tree?</a></li>
 <li>log-structured merge trees</li>
 <li>and many more (see: <a href="https://databass.dev/">databass.dev/</a>)</li>
 </ul>

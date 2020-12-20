@@ -13,9 +13,9 @@
       <pubDate>Sat, 19 Dec 2020 14:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/posts/meetup-15-wrapup/</guid>
-      <description>Concurrent woes We had two input presentations, both involving concurrent contructs.
-First, we heard from the author of package waitgroup about problems with concurrent code, waitgroups and shutdowns. The basic problem: At shutdown time, you want to be graceful, but at the same time enforce a hard timeout on a number of processes running (and potentially joining in a wg.Wait).
-Enter package waitgroup which allows to preempt running goroutines. The general problem of goroutine termination is hard, and even harder, if you have a large code base and a tree of concurrent routines in flight, that need some kind of cancellation (modern packages use context, or maybe manual timeouts).</description>
+      <description>Concurrent woes We had two input presentations, both involving concurrent constructs.
+First, we heard from the author of package waitgroup about problems with concurrent code, waitgroups and shutdowns (especially in cloud native and serverless scenarios). The basic problem: At shutdown time, you want to be graceful, but at the same time enforce a hard timeout on a number of processes running (and potentially joining in a wg.Wait).
+Enter package waitgroup which allows to preempt running goroutines.</description>
     </item>
     
     <item>
