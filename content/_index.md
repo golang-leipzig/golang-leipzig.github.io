@@ -23,7 +23,7 @@ Initial organizers are [miku](https://github.com/miku/),
 [dataduke](https://github.com/dataduke), and we are inviting everyone to
 contribute or participate.
 
-![Depiction of a Leipzig Gopher](leipzig-gopher.svg#half)
+![Depiction of a Leipzig Gopher](/leipzig-gopher.svg#half)
 
 {{< h2 >}}How to participate{{< /h2 >}}
 
