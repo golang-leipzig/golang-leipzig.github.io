@@ -5,9 +5,7 @@ draft: false
 
 We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 15 events
-so far. We are currently in planning mode for 2021. Happy Holidays!
-
-![](/images/xmas2020.png)
+so far. We are currently in planning mode for 2021.
 
 ----
 
