@@ -1,5 +1,5 @@
 ---
-title: "New year, new dates new logo!"
+title: "New year, new dates, new logo!"
 date: 2021-01-20T22:00:00+02:00
 draft: false
 tags:
