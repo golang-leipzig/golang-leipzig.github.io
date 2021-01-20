@@ -19,5 +19,5 @@ year. We might add more dates as we go along.
 Finally, we have a new, charming, unique Gopher-Lion mascot - thanks
 [Andreas](https://www.klingt.net/) for bringing it alive!
 
-![](/static/images/leipzig-gopher.svg#half)
+![](/leipzig-gopher.svg#half)
 
