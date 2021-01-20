@@ -1,6 +1,6 @@
 ---
 title: "New year, new dates new logo!"
-date: 2019-12-31T13:00:00+02:00
+date: 2021-01-20T22:00:00+02:00
 draft: false
 tags:
 - 2021
