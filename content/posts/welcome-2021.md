@@ -16,7 +16,7 @@ We expect a remote only meetup for the foreseeable future. So far we [fixed six
 dates for 2021](https://www.meetup.com/Leipzig-Golang/events/), and they will
 all be on Tuesdays this year. We might add more dates as we go along.
 
-Finally, we have a new, charming, unique Gopher-Lion mascot - thanks
+Finally, we have a new, charming, unique [Gopher-Lion](https://github.com/golang-leipzig/leipzig-gopher) mascot - thanks
 [Andreas](https://www.klingt.net/) for bringing it alive!
 
 ![](/leipzig-gopher.svg#half)
