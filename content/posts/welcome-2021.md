@@ -9,8 +9,9 @@ tags:
 Thanks everyone for joining our
 [meetup](https://www.meetup.com/Leipzig-Golang/) (we currently have 194
 members), connecting, sharing experiences and projects in 2020. A positive
-side-effect of remote meetups is that people join from all over the world - we
-were happy to have people tuning in from South America and Asia this year.
+side-effect of remote meetups during a pandemic is that people join from all
+over the world - we were happy to have people tuning in from South America and
+Asia this year.
 
 We expect a remote only meetup for the foreseeable future. So far we [fixed six
 dates for 2021](https://www.meetup.com/Leipzig-Golang/events/), and they will
