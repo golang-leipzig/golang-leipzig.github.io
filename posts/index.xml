@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 14:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New year, new dates new logo!</title>
+      <link>https://golang-leipzig.github.io/posts/welcome-2021/</link>
+      <pubDate>Wed, 20 Jan 2021 22:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/welcome-2021/</guid>
+      <description>Thanks everyone for joining our meetup (we currently have 194 members), connecting, sharing experiences and projects in 2020. A positive side-effect of remote meetups is that people join from all over the world - we were happy to have people tuning in from South America and Asia this year.
+We expect a remote only meetup for the foreseeable future. So far we fixed six dates for 2021, and they will all be on Tuesdays this year.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #15 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-15-wrapup/</link>
@@ -170,16 +180,6 @@ The proposal can be found here:
 Our first 2020 meetup is scheduled for Friday, Feb 21, 2020 19:00 at Basislager Leipzig.
 We&amp;rsquo;ll have a 30 min input presentation about Golang&amp;rsquo;s standard library package net/http, especially extension points and customization options for clients and alternative implementations.
 UPDATE: There will also be a presentation about Go 1.14 (which will be released next week) and what we already know about Go 1.15 and beyond. Slides and sources can be found here.</description>
-    </item>
-    
-    <item>
-      <title>New year, new dates new logo!</title>
-      <link>https://golang-leipzig.github.io/posts/welcome-2021/</link>
-      <pubDate>Tue, 31 Dec 2019 13:00:00 +0200</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/posts/welcome-2021/</guid>
-      <description>Thanks everyone for joining our meetup (we currently have 194 members), connecting, sharing experiences and projects in 2020. A positive side-effect of remote meetups is that people join from all over the world - we were happy to have people tuning in from South America and Asia this year.
-We expect a remote only meetup for the foreseeable future. So far we fixed six dates for 2021, and they will all be on Tuesdays this year.</description>
     </item>
     
     <item>

@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://golang-leipzig.github.io/tags/2021/</loc>
+    <lastmod>2021-01-20T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://golang-leipzig.github.io/</loc>
-    <lastmod>2020-12-19T14:00:00+02:00</lastmod>
+    <lastmod>2021-01-20T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/welcome-2021/</loc>
+    <lastmod>2021-01-20T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/</loc>
+    <lastmod>2021-01-20T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/</loc>
+    <lastmod>2021-01-20T22:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +33,7 @@
   </url>
   
   <url>
-    <loc>https://golang-leipzig.github.io/posts/</loc>
-    <lastmod>2020-12-19T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golang-leipzig.github.io/tags/summary/</loc>
-    <lastmod>2020-12-19T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golang-leipzig.github.io/tags/</loc>
     <lastmod>2020-12-19T14:00:00+02:00</lastmod>
   </url>
   
@@ -104,16 +114,6 @@
   
   <url>
     <loc>https://golang-leipzig.github.io/tags/2020/</loc>
-    <lastmod>2019-12-31T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golang-leipzig.github.io/tags/2021/</loc>
-    <lastmod>2019-12-31T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golang-leipzig.github.io/posts/welcome-2021/</loc>
     <lastmod>2019-12-31T13:00:00+02:00</lastmod>
   </url>
   
