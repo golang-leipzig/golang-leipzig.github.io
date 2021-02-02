@@ -1,6 +1,6 @@
 ---
 title: "Virtual Meetup #16 invitation"
-date: 2021-02-01T12:00:00+01:00
+date: 2021-02-02T12:00:00+01:00
 draft: false
 tags:
 - announcement
