@@ -16,8 +16,7 @@
       <description>Hello, 世界!
 Meetup #16 will take place Tuesday, Feb 16, 2021 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -sL https://git.io/Jt0pk | base64 -d We&amp;rsquo;ll have input presentations on the upcoming Go 1.16 release and the generics proposal.
-As always, other lightning talks or contributions are welcome.
-See you!</description>
+Note: This time the meetup will be all about the number sixteen, i.e. this will be the sixteenth time we come together, on the 16th of February and there will be a presentation about the next big Go release that is Go 1.</description>
     </item>
     
     <item>
