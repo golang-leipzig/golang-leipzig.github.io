@@ -21,6 +21,11 @@ $ curl -sL https://git.io/Jt0pk | base64 -d
 We'll have input presentations on the upcoming [Go
 1.16](https://tip.golang.org/doc/go1.16) release and the generics proposal.
 
+Note: This time the meetup will be all about the number sixteen, i.e. this will
+be the sixteenth time we come together, on the 16th of February and there will
+be a presentation about the next big Go release that is Go 1.16 (details
+follow).
+
 As always, other lightning talks or contributions are welcome.
 
 See you!
