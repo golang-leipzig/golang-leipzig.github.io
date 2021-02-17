@@ -6,7 +6,18 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 12:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 13:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #16 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-16-wrapup/</link>
+      <pubDate>Wed, 17 Feb 2021 13:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-16-wrapup/</guid>
+      <description>Go 1.16 Meetup #16 was all about Go 1.16 (which was released after the meetup).
+We had an informative breakdown of the updates coming in this release, the full slides can be found here:
+ A quick tour of Go 1.16  A few highlights are: the go tool is now module aware by default, ioutil gets deprecated, support for file embedding (we talked about that in #14) and there is a new io subpackage io/fs, defining among other things interfaces for filesystems.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #16 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-16-invitation/</link>
