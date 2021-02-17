@@ -23,8 +23,6 @@ embedding (we talked about that in
 io subpackage [io/fs](https://golang.org/pkg/io/fs/), defining among other
 things interfaces for filesystems.
 
-We also saw examples
-
 Check out the [slides](https://github.com/golang-leipzig/go-1.16-and-beyond),
 [blog post](https://blog.golang.org/go1.16) and [release
 notes](https://golang.org/doc/go1.16) for more details.
