@@ -18,6 +18,8 @@ page](https://www.meetup.com/Leipzig-Golang/events/275871252/) or below):
 
 We'll have lightning talk on data deduduplication with Go.
 
+![](/images/cat_dup_s.jpg)
+
 As always, other lightning talks or contributions are welcome.
 
 See you!
