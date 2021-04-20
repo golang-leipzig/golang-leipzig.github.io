@@ -23,7 +23,7 @@ The graph concern citations, so we looked at a part of the citation of:
 
 > Hoare, Charles Antony Richard. "Communicating sequential processes." Communications of the ACM 21.8 (1978): 666-677.
 
-![](https://i.imgur.com/6dSaW2q.png)
+[![](https://i.imgur.com/6dSaW2q.png)](https://i.imgur.com/6dSaW2q.png)
 
 The custom tool exploits *sorted keys* and works in a merge sort style way to
 run compution on groups of items with the same key. One might consider key
