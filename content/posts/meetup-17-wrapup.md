@@ -1,6 +1,6 @@
 ---
 title: "Virtual Meetup #17 wrap-up"
-date: 2021-02-20T22:00:00+02:00
+date: 2021-04-20T22:00:00+02:00
 draft: false
 tags:
 - summary
