@@ -16,7 +16,7 @@ page](https://www.meetup.com/Leipzig-Golang/events/275871252/) or below):
 
 * [https://us02web.zoom.us/j/88430151082?pwd=QzlFWlhKaUJKajFxcXRqRkpYYzNSdz09](https://us02web.zoom.us/j/88430151082?pwd=QzlFWlhKaUJKajFxcXRqRkpYYzNSdz09)
 
-We'll have lightning talk on data deduduplication with Go.
+We'll have lightning talk on data deduplication with Go.
 
 ![](/images/cat_dup_s.jpg)
 
