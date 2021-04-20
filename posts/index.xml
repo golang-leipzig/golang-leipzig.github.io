@@ -21,6 +21,16 @@ See you!</description>
     </item>
     
     <item>
+      <title>Virtual Meetup #17 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-17-wrapup/</link>
+      <pubDate>Sat, 20 Feb 2021 22:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-17-wrapup/</guid>
+      <description>A data engineering short story: (Fuzzy) Matching with command line tools and Go Meetup #17 took place Apr 20, 2021 19:00 CEST, and was virtual again (crossing one year of virtual meetups). We had a (longer) lightning talk on a data engineering topic:
+ A data engineering short story: (Fuzzy) Matching with command line tools and Go  How to build a graph dataset with about 1B nodes from semi structured data?</description>
+    </item>
+    
+    <item>
       <title>Virtual Meetup #16 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-16-wrapup/</link>
       <pubDate>Wed, 17 Feb 2021 13:00:00 +0100</pubDate>
