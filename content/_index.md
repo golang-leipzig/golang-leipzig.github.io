@@ -4,9 +4,9 @@ draft: false
 ---
 
 We're hosting a [Go](https://golang.org/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 16 events
-so far. Next Meetup #17 on [Tue, Apr 20, 2021, 7PM
-CET](https://www.meetup.com/Leipzig-Golang/events/275871252/).
+Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 17 events
+so far. Next Meetup #18 on [Tue, Jun 23, 2021, 7PM
+CEST](https://www.meetup.com/Leipzig-Golang/events/275871268/).
 
 ----
 
