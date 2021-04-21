@@ -42,24 +42,25 @@
 <article>
     <h2 id="a-data-engineering-short-story-fuzzy-matching-with-command-line-tools-and-go">A data engineering short story: (Fuzzy) Matching with command line tools and Go</h2>
 <p>Meetup #17 took place Apr 20, 2021 19:00 CEST, and was virtual again (crossing
-one year of virtual meetups).  We had a (longer) lightning talk on a data
+one year of virtual meetups).  We had a lightning talk on a data
 engineering topic:</p>
 <ul>
-<li><a href="https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df">A data engineering short story: (Fuzzy) Matching with command line tools and Go</a></li>
+<li><a href="https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df">(Fuzzy) Matching with command line tools and Go</a></li>
 </ul>
-<p>How to build a graph dataset with about 1B nodes from semi structured data?
-With Taco Bell style programming, you can reuse (UNIX) command line tools and
-sprinkle a few additional Go tools.</p>
-<p>The graph concern citations, so we looked at a part of the citation of:</p>
+<p>How to build a graph dataset with about 1B nodes from semi-structured data?
+With <em>Taco Bell</em> style programming, you can reuse (UNIX) command line tools and
+combine it with a few custom Go programs.</p>
+<p>The graph is about citations, so we looked at publications that cite a paper
+relevant to Go, name the classic CSP paper from 1978.</p>
 <blockquote>
 <p>Hoare, Charles Antony Richard. &ldquo;Communicating sequential processes.&rdquo; Communications of the ACM 21.8 (1978): 666-677.</p>
 </blockquote>
 <p><a href="https://i.imgur.com/6dSaW2q.png"><img src="https://i.imgur.com/6dSaW2q.png" alt=""></a></p>
-<p>The custom tool exploits <em>sorted keys</em> and works in a merge sort style way to
-run compution on groups of items with the same key. One might consider key
-extraction a mapping and grouping operations a reduce step.</p>
+<p>The custom tool exploits <em>sorted keys</em> and works in a merge sort style to run
+computation on groups of items with the same key. One might consider key
+extraction a <em>mapping</em> and grouping operations a <em>reduce</em> step.</p>
 <h2 id="graph-stores-and-algorithms">Graph stores and algorithms</h2>
-<p>Are there interesting graph libraries and project written in Go?</p>
+<p>Are there interesting graph libraries and project written in Go? There are a few &hellip;</p>
 <ul>
 <li><a href="https://github.com/cayleygraph/cayley">https://github.com/cayleygraph/cayley</a></li>
 <li><a href="https://github.com/dgraph-io/dgraph">https://github.com/dgraph-io/dgraph</a></li>
@@ -80,7 +81,7 @@ processing</a> as well.</p>
 the coming months: <a href="https://golab.io/agenda/">https://golab.io/agenda/</a>, e.g.
 <a href="https://golab.io/agenda/addestrare-e-distribuire-modelli-tensorflow-in-go/">Go and
 Tensorflow</a></li>
-<li>Go garbage notes: <a href="https://blog.golang.org/ismmkeynote">https://blog.golang.org/ismmkeynote</a></li>
+<li>Go garbage collector notes: <a href="https://blog.golang.org/ismmkeynote">https://blog.golang.org/ismmkeynote</a></li>
 </ul>
 <p>Data stores and analytics engines (outside Go):</p>
 <ul>
@@ -93,9 +94,10 @@ Tensorflow</a></li>
 <li><a href="https://stedolan.github.io/jq/">jq</a> (json pretty printer and processing
 tool), <a href="https://sr.ht/~gpanders/ijq/">ijq</a> - interactive version</li>
 </ul>
-<p>A couple of reading recommendations:</p>
+<p>Reading recommendations:</p>
 <ul>
 <li><a href="https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/">Surprisingly Slow</a></li>
+<li><a href="https://bodil.lol/parser-combinators/">Learning Parser Combinators With Rust</a></li>
 </ul>
 <p>Some research questions:</p>
 <ul>
@@ -104,10 +106,11 @@ tool), <a href="https://sr.ht/~gpanders/ijq/">ijq</a> - interactive version</li>
 </ul>
 <p>Misc in Go and other languages</p>
 <ul>
-<li><a href="https://bodil.lol/parser-combinators/">Learning Parser Combinators With Rust</a></li>
 <li><a href="https://www.youtube.com/watch?v=OyfBQmvr2Hc">The Most Beautiful Program Ever Written</a> (Scheme)</li>
 <li><a href="https://www.destroyallsoftware.com/talks/boundaries">Boundaries</a>, Gary Bernhardt</li>
 </ul>
+<h2 id="thanks">Thanks</h2>
+<p>Thanks everyone for dropping by - great to see people join from across Europe and the globe!</p>
 <hr>
 <p><a href="https://www.meetup.com/Leipzig-Golang">Join our meetup</a> to get notified of upcoming events!</p>
 
