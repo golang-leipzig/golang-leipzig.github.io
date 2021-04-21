@@ -20,7 +20,7 @@ With *Taco Bell* style programming, you can reuse (UNIX) command line tools and
 combine it with a few custom Go programs.
 
 The graph is about citations, so we looked at publications that cite a paper
-relevant to Go, name the classic CSP paper from 1978.
+relevant to Go, namely the classic CSP paper from 1978.
 
 > Hoare, Charles Antony Richard. "Communicating sequential processes." Communications of the ACM 21.8 (1978): 666-677.
 
