@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## A data engineering short story: (Fuzzy) Matching with command line tools and Go
+## (Fuzzy) Matching with command line tools and Go
 
 Meetup #17 took place Apr 20, 2021 19:00 CEST, and was virtual again (crossing
 one year of virtual meetups).  We had a lightning talk on a data
