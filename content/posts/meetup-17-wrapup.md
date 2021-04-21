@@ -22,7 +22,7 @@ combine it with a few custom Go programs.
 The graph is about citations, so we looked at publications that cite a paper
 relevant to Go, namely the classic CSP paper from 1978.
 
-> Hoare, Charles Antony Richard. "Communicating sequential processes." Communications of the ACM 21.8 (1978): 666-677.
+> Hoare, Charles Antony Richard. "[Communicating sequential processes.](http://www.cs.cmu.edu/afs/cs/user/crary/www/819-f09/Hoare78.pdf)" Communications of the ACM 21.8 (1978): 666-677.
 
 [![](https://i.imgur.com/6dSaW2q.png)](https://i.imgur.com/6dSaW2q.png)
 
