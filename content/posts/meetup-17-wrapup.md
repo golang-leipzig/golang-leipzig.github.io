@@ -10,28 +10,29 @@ tags:
 ## A data engineering short story: (Fuzzy) Matching with command line tools and Go
 
 Meetup #17 took place Apr 20, 2021 19:00 CEST, and was virtual again (crossing
-one year of virtual meetups).  We had a (longer) lightning talk on a data
+one year of virtual meetups).  We had a lightning talk on a data
 engineering topic:
 
-* [A data engineering short story: (Fuzzy) Matching with command line tools and Go](https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df)
+* [(Fuzzy) Matching with command line tools and Go](https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df)
 
-How to build a graph dataset with about 1B nodes from semi structured data?
-With Taco Bell style programming, you can reuse (UNIX) command line tools and
-sprinkle a few additional Go tools.
+How to build a graph dataset with about 1B nodes from semi-structured data?
+With *Taco Bell* style programming, you can reuse (UNIX) command line tools and
+combine it with a few custom Go programs.
 
-The graph concern citations, so we looked at a part of the citation of:
+The graph is about citations, so we looked at publications that cite a paper
+relevant to Go, name the classic CSP paper from 1978.
 
 > Hoare, Charles Antony Richard. "Communicating sequential processes." Communications of the ACM 21.8 (1978): 666-677.
 
 [![](https://i.imgur.com/6dSaW2q.png)](https://i.imgur.com/6dSaW2q.png)
 
-The custom tool exploits *sorted keys* and works in a merge sort style way to
-run compution on groups of items with the same key. One might consider key
-extraction a mapping and grouping operations a reduce step.
+The custom tool exploits *sorted keys* and works in a merge sort style to run
+computation on groups of items with the same key. One might consider key
+extraction a *mapping* and grouping operations a *reduce* step.
 
 ## Graph stores and algorithms
 
-Are there interesting graph libraries and project written in Go?
+Are there interesting graph libraries and project written in Go? There are a few ...
 
 * [https://github.com/cayleygraph/cayley](https://github.com/cayleygraph/cayley)
 * [https://github.com/dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
@@ -54,7 +55,7 @@ Sometimes people write custom code for specific algorithms, e.g. for [pagerank](
   the coming months: [https://golab.io/agenda/](https://golab.io/agenda/), e.g.
 [Go and
 Tensorflow](https://golab.io/agenda/addestrare-e-distribuire-modelli-tensorflow-in-go/)
-* Go garbage notes: [https://blog.golang.org/ismmkeynote](https://blog.golang.org/ismmkeynote)
+* Go garbage collector notes: [https://blog.golang.org/ismmkeynote](https://blog.golang.org/ismmkeynote)
 
 Data stores and analytics engines (outside Go):
 
@@ -67,9 +68,10 @@ Tiny, useful tools:
 * [jq](https://stedolan.github.io/jq/) (json pretty printer and processing
   tool), [ijq](https://sr.ht/~gpanders/ijq/) - interactive version
 
-A couple of reading recommendations:
+Reading recommendations:
 
 * [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
+* [Learning Parser Combinators With Rust](https://bodil.lol/parser-combinators/)
 
 Some research questions:
 
@@ -78,9 +80,12 @@ Some research questions:
 
 Misc in Go and other languages
 
-* [Learning Parser Combinators With Rust](https://bodil.lol/parser-combinators/)
 * [The Most Beautiful Program Ever Written](https://www.youtube.com/watch?v=OyfBQmvr2Hc) (Scheme)
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries), Gary Bernhardt
+
+## Thanks
+
+Thanks everyone for dropping by - great to see people join from across Europe and the globe!
 
 ----
 
