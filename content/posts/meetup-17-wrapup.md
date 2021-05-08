@@ -15,7 +15,7 @@ engineering topic:
 
 * [(Fuzzy) Matching with command line tools and Go](https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df)
 
-How to build a graph dataset with about 1B nodes from semi-structured data?
+How to build a graph dataset with about 1B edges from semi-structured data?
 With *Taco Bell* style programming, you can reuse (UNIX) command line tools and
 combine it with a few custom Go programs.
 
