@@ -14,7 +14,7 @@
       
       <guid>https://golang-leipzig.github.io/posts/meetup-17-wrapup/</guid>
       <description>(Fuzzy) Matching with command line tools and Go Meetup #17 took place Apr 20, 2021 19:00 CEST, and was virtual again (crossing one year of virtual meetups). We had a lightning talk on a data engineering topic:
- (Fuzzy) Matching with command line tools and Go  How to build a graph dataset with about 1B nodes from semi-structured data? With Taco Bell style programming, you can reuse (UNIX) command line tools and combine it with a few custom Go programs.</description>
+ (Fuzzy) Matching with command line tools and Go  How to build a graph dataset with about 1B edges from semi-structured data? With Taco Bell style programming, you can reuse (UNIX) command line tools and combine it with a few custom Go programs.</description>
     </item>
     
     <item>
