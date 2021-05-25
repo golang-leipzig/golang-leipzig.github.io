@@ -6,7 +6,20 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 10:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #18 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-18-invitation/</link>
+      <pubDate>Tue, 25 May 2021 10:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-18-invitation/</guid>
+      <description>Hello, 世界!
+Meetup #18 will take place Tuesday, May 25, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
+ https://us02web.zoom.us/j/84647419671?pwd=Z0l2aDBrNWtqZDR5azRVbkRmeHdyUT09  We&amp;rsquo;ll have lightning talk on a data topic.
+As always, other lightning talks or contributions are welcome.
+See you!</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #17 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-17-wrapup/</link>
