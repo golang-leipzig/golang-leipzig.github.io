@@ -15,11 +15,13 @@ called:
 
 * [Seeking Data](https://gist.github.com/miku/6dcffb5c104bc44709c330ec90682189)
 
+![](/images/floppy_icon.gif)
+
 We looked at a few patterns when working with data, e.g. I/O considerations,
 what kernel hackers [think](http://varnish-cache.org/docs/trunk/phk/notes.html)
-about the memory hierarchy, working with large scale data at rest, or how to speed up container startup times (via [lazy pulling](https://github.com/opencontainers/image-spec/issues/815)).
-
-![](/images/floppy_icon.gif)
+about the memory hierarchy, working with large scale data at rest, or how to
+speed up container startup times (via [lazy
+pulling](https://github.com/opencontainers/image-spec/issues/815)).
 
 
 ## Misc
@@ -29,7 +31,7 @@ do a deep dive on this topic in a future meetup.
 * Technologies, which are widespread, despite some flaws, are hard to replace,
   e.g. JSON might have issues, yet it is widely used and has lots of tooling
 around it (might be an instance of [Worse is
-Better](https://en.wikipedia.org/wiki/Worse_is_better))
+Better](https://en.wikipedia.org/wiki/Worse_is_better)).
 * Fuzzying is an interesting topic, and many tools are written in Go, e.g.
   [ffuf](https://github.com/ffuf/ffuf), a fast web fuzzer written in Go.
 * For autoincrement URL snooping, you can use [urlbisect](https://github.com/miku/urlbisect).
@@ -45,7 +47,7 @@ types](https://golang.org/ref/spec#Function_types)), which will allow for some
   Tests](https://github.com/golang/go/wiki/TableDrivenTests), [Test
 Containers](https://github.com/testcontainers/testcontainers-go) (example:
 testing [esbulk](https://github.com/miku/esbulk) against [a few major
-versions](https://git.io/JGUUS) of elasticsearch.
+versions](https://git.io/JGUUS) of elasticsearch).
 * [ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping) seems
   to have fallen out of favor a bit; switching databases is not that common
 after all, so why not start with some lighter helpers like
