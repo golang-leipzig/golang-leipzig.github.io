@@ -11,9 +11,7 @@ tags:
 
 Meetup #18 took place May 25, 2021 19:00 CEST, and was virtual again. We
 continued the data and storage supertopic for this year had a lightning talk
-called:
-
-* [Seeking Data](https://gist.github.com/miku/6dcffb5c104bc44709c330ec90682189)
+called [Seeking Data](https://gist.github.com/miku/6dcffb5c104bc44709c330ec90682189).
 
 ![](/images/floppy_icon.gif)
 
