@@ -13,8 +13,8 @@
       <pubDate>Wed, 26 May 2021 12:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/posts/meetup-18-wrapup/</guid>
-      <description>Seeking Data Meetup #18 took place May 25, 2021 19:00 CEST, and was virtual again. We continued the data and storage supertopic for this year had a lightning talk called:
- Seeking Data  We looked at a few patterns when working with data, e.g. I/O considerations, what kernel hackers think about the memory hierarchy, working with large scale data at rest, or how to speed up container startup times (via lazy pulling).</description>
+      <description>Seeking Data Meetup #18 took place May 25, 2021 19:00 CEST, and was virtual again. We continued the data and storage supertopic for this year had a lightning talk called Seeking Data.
+We looked at a few patterns when working with data, e.g. I/O considerations, what kernel hackers think about the memory hierarchy, working with large scale data at rest, or how to speed up container startup times (via lazy pulling).</description>
     </item>
     
     <item>
