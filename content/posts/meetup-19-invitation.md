@@ -31,7 +31,7 @@ Originally inspired by
 (2006) and developed by
 [CoreOS](http://web.archive.org/web/20130805052834/http://coreos.com/)
 (Container Linux) etcd is used today as a key building block in many cloud
-applications, such as Kubernetes.
+infrastructure applications, such as Kubernetes.
 
 Join us to learn and discuss all things Go - and etcd!
 
