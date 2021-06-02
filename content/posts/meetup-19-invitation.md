@@ -26,8 +26,12 @@ project: [etcd](https://etcd.io/).
 reliable way to store data that needs to be accessed by a distributed system or
 cluster of machines.
 
-Originally developed by CoreOS (Container Linux) etcd is used today as a key
-building block in many cloud applications, such as Kubernetes.
+Originally inspired by
+[Chubby](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+(2006) and developed by
+[CoreOS](http://web.archive.org/web/20130805052834/http://coreos.com/)
+(Container Linux) etcd is used today as a key building block in many cloud
+applications, such as Kubernetes.
 
 Join us to learn and discuss all things Go - and etcd!
 

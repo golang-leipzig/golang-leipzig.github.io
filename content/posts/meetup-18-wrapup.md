@@ -51,9 +51,9 @@ versions](https://git.io/JGUUS) of elasticsearch).
 after all, so why not start with some lighter helpers like
 [sqlx](https://github.com/jmoiron/sqlx), or specific database libraries.
 
-## Upcoming Go 1-day workshop
+## Upcoming 1-day Go workshop
 
-There will be an upcoming, online, 1-day workshop on Go at [Spartakiade
+There will be an online, 1-day workshop on Go at [Spartakiade
 2021](https://spartakiade.org/), a developer-centric community conference (not
 free, but with nice variety of topics plus a bag of conference swag). The [Go
 workshop](https://github.com/miku/goforprogrammers) will be a condensed
