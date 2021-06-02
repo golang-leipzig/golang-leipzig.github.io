@@ -30,7 +30,7 @@ do a deep dive on this topic in a future meetup.
   e.g. JSON might have issues, yet it is widely used and has lots of tooling
 around it (might be an instance of [Worse is
 Better](https://en.wikipedia.org/wiki/Worse_is_better)).
-* Fuzzying is an interesting topic, and many tools are written in Go, e.g.
+* Fuzzing is an interesting topic, and many tools are written in Go, e.g.
   [ffuf](https://github.com/ffuf/ffuf), a fast web fuzzer written in Go.
 * For autoincrement URL snooping, you can use [urlbisect](https://github.com/miku/urlbisect).
 * Go is not a classic functional programming language, but it supports function
