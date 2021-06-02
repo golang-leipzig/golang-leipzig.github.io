@@ -20,14 +20,14 @@ We'll have an input presentation about a
 [core](https://www.mgasch.com/2021/01/listwatch-part-1/) distributed systems
 project: [etcd](https://etcd.io/).
 
+![](/images/watch.svg)
+
 > etcd is a strongly consistent, distributed key-value store that provides a
 reliable way to store data that needs to be accessed by a distributed system or
 cluster of machines.
 
 Originally developed by CoreOS (Container Linux) etcd is used today as a key
 building block in many cloud applications, such as Kubernetes.
-
-![](https://etcd.io/img/watch.svg)
 
 Join us to learn and discuss all things Go - and etcd!
 
