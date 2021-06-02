@@ -27,6 +27,8 @@ cluster of machines.
 Originally developed by CoreOS (Container Linux) etcd is used today as a key
 building block in many cloud applications, such as Kubernetes.
 
+![](https://etcd.io/img/watch.svg)
+
 Join us to learn and discuss all things Go - and etcd!
 
 See you!
