@@ -37,3 +37,10 @@ Join us to learn and discuss all things Go - and etcd!
 
 See you!
 
+
+<!--
+
+https://www.linkedin.com/posts/martin-czygan-58348842_virtual-meetup-19-invitation-activity-6812792933281005568-MfF1
+https://twitter.com/embano1/status/1407000135062757388
+
+-->
