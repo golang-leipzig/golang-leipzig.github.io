@@ -14,11 +14,13 @@ CEST](https://www.meetup.com/Leipzig-Golang/events/275871279/), and was virtual
 again. We had an input presentation on [etcd](https://etcd.io/) and did a deep dive into its
 role in the container-orchestrator [kubernetes](https://kubernetes.io/).
 
-We learned about the API of etcd, its data model, key value stores layours, append-only processing and compaction. A recording of the talk is available on youtube:
+We learned about the API of etcd, its data model, key value stores layouts,
+append-only storage and compaction. A recording of the talk is available on
+youtube:
 
 [![Leipzig Gophers #19: A Journey in the Kubernetes ListerWatcher Rabbit Hole](http://img.youtube.com/vi/Z9fwIzy0C_8/0.jpg)](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
 
-Some more highlights:
+A few highlights from the talk:
 
 * etcd is a distributed key value store, using the [RAFT](https://raft.github.io/) consensus algorithm.
 
@@ -40,6 +42,20 @@ which among many other things supports
 * kubernetes does not need to use etcd (others use [sqlite3](https://www.sqlite.org/index.html) or [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)), but etcd is the most common choice
 * etcd comes with an HTTP and a gRPC API
 * compaction in etcd is key to limit overall database size
+
+Kubernetes uses etcd as a registry with components starting to watch specific keys for events.
+
+* the difference between edge-driven (a sequence of events that leads to a
+  state) and level-driven (transmit the whole state at once) design and its
+reflection in the API (e.g. add, update, delete vs reconcile).
+
+Some tools mentioned or used in the talk:
+
+* [jq](https://stedolan.github.io/jq/), and its [base64](https://stedolan.github.io/jq/manual/#Formatstringsandescaping) capabilities
+* [delta](https://github.com/dandavison/delta) for diffs
+* [auger](https://github.com/jpbetz/auger) - encodes and decodes Kubernetes objects from the binary storage encoding used to store data to etcd
+* [jaeger](https://www.jaegertracing.io/), [zipkin](https://zipkin.io/), for tracing
+* [zap](https://github.com/uber-go/zap) for structured logging
 
 ----
 
