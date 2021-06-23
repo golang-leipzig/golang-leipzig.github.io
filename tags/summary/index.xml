@@ -14,9 +14,8 @@
       
       <guid>https://golang-leipzig.github.io/posts/meetup-19-wrapup/</guid>
       <description>Journey to the Center of Kubernetes Meetup #19 took place Jun 22, 2021 19:00 CEST, and was virtual again. We had an input presentation on etcd and did a deep dive into its role in the container-orchestrator kubernetes.
-The talk is based on a blog post, please check it out at:
- https://www.mgasch.com/2021/01/listwatch-part-1/  A shell transcript can be found here:
- https://gist.github.com/embano1/aedd423abe07c8012897658db15e139a  We learned about the API of etcd, its data model, key value stores layouts, append-only storage and compaction.</description>
+The talk is based on a blog post: Onwards to the Core: etcd. A shell transcript can be found here:
+ https://git.io/JnQ1n  We learned about the API of etcd, its data model, key value stores layouts, append-only storage and compaction.</description>
     </item>
     
     <item>
