@@ -57,6 +57,13 @@ Some tools mentioned or used in the talk:
 * [jaeger](https://www.jaegertracing.io/), [zipkin](https://zipkin.io/), for tracing
 * [zap](https://github.com/uber-go/zap) for structured logging
 
+## Misc
+
+* Does you favorite encoding schema support tree structures natively? Would you be interested in an encoding that supports one? Please share your ideas at [concise-encoding/issues/33](https://github.com/kstenerud/concise-encoding/issues/33)
+* [Cuelang](https://cuelang.org/) - a language for configuration, database schemas, validation and more - e.g. to adress subtle issues like [different int max sizes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_SAFE_INTEGER) across languages
+* Two cloud native books: [Design Patterns for Cloud Native Applications](https://www.oreilly.com/library/view/design-patterns-for/9781492090700/) and [Cloud Native Patterns](https://www.oreilly.com/library/view/cloud-native-patterns/9781617294297/)
+* [Peter Alvaro](https://scholar.google.com/citations?user=TKSjVTUAAAAJ&hl=en) at [Strange Loop](https://www.youtube.com/watch?v=R2Aa4PivG0g) (2015, Distributed Systems, Data Management Systems)
+
 ----
 
 [Join our meetup](https://www.meetup.com/Leipzig-Golang) to get notified of upcoming events!
