@@ -6,7 +6,20 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 13:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #19 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-19-wrapup/</link>
+      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-19-wrapup/</guid>
+      <description>Journey to the Center of Kubernetes Meetup #19 took place Jun 22, 2021 19:00 CEST, and was virtual again. We had an input presentation on etcd and did a deep dive into its role in the container-orchestrator kubernetes.
+We learned about the API of etcd, its data model, key value stores layours, append-only processing and compaction. A recording of the talk is available on youtube:
+
+Some more highlights:
+ etcd is a distributed key value store, using the RAFT consensus algorithm.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #19 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-19-invitation/</link>
