@@ -14,9 +14,17 @@ CEST](https://www.meetup.com/Leipzig-Golang/events/275871279/), and was virtual
 again. We had an input presentation on [etcd](https://etcd.io/) and did a deep dive into its
 role in the container-orchestrator [kubernetes](https://kubernetes.io/).
 
+The talk is based on a blog post, please check it out at:
+
+* [https://www.mgasch.com/2021/01/listwatch-part-1/](https://www.mgasch.com/2021/01/listwatch-part-1/)
+
+A shell transcript can be found here:
+
+* [https://gist.github.com/embano1/aedd423abe07c8012897658db15e139a](https://gist.github.com/embano1/aedd423abe07c8012897658db15e139a)
+
 We learned about the API of etcd, its data model, key value stores layouts,
-append-only storage and compaction. A recording of the talk is available on
-youtube:
+append-only storage and compaction. A recording of the talk is [available on
+youtube](https://www.youtube.com/watch?v=Z9fwIzy0C_8):
 
 [![Leipzig Gophers #19: A Journey in the Kubernetes ListerWatcher Rabbit Hole](http://img.youtube.com/vi/Z9fwIzy0C_8/0.jpg)](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
 
