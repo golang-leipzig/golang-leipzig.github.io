@@ -45,9 +45,11 @@
 CEST</a>, and was virtual
 again. We had an input presentation on <a href="https://etcd.io/">etcd</a> and did a deep dive into its
 role in the container-orchestrator <a href="https://kubernetes.io/">kubernetes</a>.</p>
-<p>We learned about the API of etcd, its data model, key value stores layours, append-only processing and compaction. A recording of the talk is available on youtube:</p>
+<p>We learned about the API of etcd, its data model, key value stores layouts,
+append-only storage and compaction. A recording of the talk is available on
+youtube:</p>
 <p><a href="https://www.youtube.com/watch?v=Z9fwIzy0C_8"><img src="http://img.youtube.com/vi/Z9fwIzy0C_8/0.jpg" alt="Leipzig Gophers #19: A Journey in the Kubernetes ListerWatcher Rabbit Hole"></a></p>
-<p>Some more highlights:</p>
+<p>A few highlights from the talk:</p>
 <ul>
 <li>etcd is a distributed key value store, using the <a href="https://raft.github.io/">RAFT</a> consensus algorithm.</li>
 </ul>
@@ -71,6 +73,20 @@ mimick hierarchy by using, e.g. path like notation; you can use the
 <li>kubernetes does not need to use etcd (others use <a href="https://www.sqlite.org/index.html">sqlite3</a> or <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/introduction">Cosmos DB</a>), but etcd is the most common choice</li>
 <li>etcd comes with an HTTP and a gRPC API</li>
 <li>compaction in etcd is key to limit overall database size</li>
+</ul>
+<p>Kubernetes uses etcd as a registry with components starting to watch specific keys for events.</p>
+<ul>
+<li>the difference between edge-driven (a sequence of events that leads to a
+state) and level-driven (transmit the whole state at once) design and its
+reflection in the API (e.g. add, update, delete vs reconcile).</li>
+</ul>
+<p>Some tools mentioned or used in the talk:</p>
+<ul>
+<li><a href="https://stedolan.github.io/jq/">jq</a>, and its <a href="https://stedolan.github.io/jq/manual/#Formatstringsandescaping">base64</a> capabilities</li>
+<li><a href="https://github.com/dandavison/delta">delta</a> for diffs</li>
+<li><a href="https://github.com/jpbetz/auger">auger</a> - encodes and decodes Kubernetes objects from the binary storage encoding used to store data to etcd</li>
+<li><a href="https://www.jaegertracing.io/">jaeger</a>, <a href="https://zipkin.io/">zipkin</a>, for tracing</li>
+<li><a href="https://github.com/uber-go/zap">zap</a> for structured logging</li>
 </ul>
 <hr>
 <p><a href="https://www.meetup.com/Leipzig-Golang">Join our meetup</a> to get notified of upcoming events!</p>
