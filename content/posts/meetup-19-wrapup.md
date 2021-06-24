@@ -11,7 +11,7 @@ tags:
 
 Meetup #19 took place [Jun 22, 2021 19:00
 CEST](https://www.meetup.com/Leipzig-Golang/events/275871279/), and was virtual
-again. We had an input presentation on [etcd](https://etcd.io/) and did a deep dive into its
+again. [Michael Gasch](https://www.mgasch.com) gave an input presentation on [etcd](https://etcd.io/) and did a deep dive into its
 role in the container-orchestrator [kubernetes](https://kubernetes.io/).
 
 The talk is based on a blog post: [Onwards to the Core: etcd](https://www.mgasch.com/2021/01/listwatch-part-1/). A shell transcript can be found here:
