@@ -58,7 +58,7 @@ Some tools mentioned or used in the talk:
 * [jq](https://stedolan.github.io/jq/), and its [base64](https://stedolan.github.io/jq/manual/#Formatstringsandescaping) capabilities
 * [delta](https://github.com/dandavison/delta) for diffs
 * [auger](https://github.com/jpbetz/auger) - encodes and decodes Kubernetes objects from the binary storage encoding used to store data to etcd
-* [jaeger](https://www.jaegertracing.io/), [zipkin](https://zipkin.io/), for tracing
+* [jaeger](https://www.jaegertracing.io/) or [zipkin](https://zipkin.io/) for tracing
 * [zap](https://github.com/uber-go/zap) for structured logging
 
 ## Misc
