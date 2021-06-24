@@ -20,7 +20,7 @@ The talk is based on a blog post: [Onwards to the Core: etcd](https://www.mgasch
 
 We learned about the API of etcd, its data model, key value stores layouts,
 append-only storage and compaction. A recording of the talk is [available on
-youtube](https://www.youtube.com/watch?v=Z9fwIzy0C_8):
+YouTube](https://www.youtube.com/watch?v=Z9fwIzy0C_8):
 
 [![Leipzig Gophers #19: A Journey in the Kubernetes ListerWatcher Rabbit Hole](http://img.youtube.com/vi/Z9fwIzy0C_8/0.jpg)](https://www.youtube.com/watch?v=Z9fwIzy0C_8)
 
