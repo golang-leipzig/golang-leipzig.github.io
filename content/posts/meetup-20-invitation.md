@@ -15,7 +15,7 @@ we'll meet outside for a cold drink - specifically at [Cantona
 Leipzig](https://www.google.com/search?q=cantona+leipzig) ([on
 OpenStreetMap](https://www.openstreetmap.org/node/243213647)).
 
-![](/images/Ani-Lemonade-tst.gif)
+[![](/images/Ani-Lemonade-tst.gif)](https://gifcities.org/?q=lemonade)
 
 We have no specific agenda. We hope for good weather and look forward to meet you all in person, after all.
 
