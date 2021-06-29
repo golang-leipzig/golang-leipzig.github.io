@@ -11,7 +11,7 @@ Hello, 世界!
 
 Meetup #20 will take place Tuesday, [Jul 20,
 2021 18:30 CEST](https://www.meetup.com/Leipzig-Golang/events/279027402/) and
-we'll meet outside for cold drink - specifically at [Cantona
+we'll meet outside for a cold drink - specifically at [Cantona
 Leipzig](https://www.google.com/search?q=cantona+leipzig) ([on
 OpenStreetMap](https://www.openstreetmap.org/node/243213647)).
 
