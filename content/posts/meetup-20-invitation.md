@@ -1,5 +1,5 @@
 ---
-title: "Leipzig Golang AFK Summer Meetup #20 invitation"
+title: "AFK Summer Meetup #20 invitation"
 date: 2021-06-29T13:00:00+02:00
 draft: false
 tags:
