@@ -9,7 +9,7 @@ tags:
 
 We keep this short, as there would be too many interesting things to mention that come up, if curious and fun people meet.
 
-Just to mention a few things:
+Just to name a few things:
 
 * [https://twitter.com/embano1/status/1417599138796118016](https://twitter.com/embano1/status/1417599138796118016)
 * [Cue](https://cuelang.org/)
