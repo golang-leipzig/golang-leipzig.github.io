@@ -27,7 +27,7 @@ IDEs, e.g. [GoLand](https://www.jetbrains.com/go/) or [liteide](https://github.c
 
 > LiteIDE is a simple, open source, cross-platform Go IDE.
 
-A lot more topics were discusses, so [join our
+A lot more topics were discussed, so [join our
 meetup](https://www.meetup.com/Leipzig-Golang) to get notified of upcoming
 events!
 
