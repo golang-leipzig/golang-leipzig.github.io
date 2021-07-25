@@ -6,20 +6,7 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 02:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meetup #20 reflections</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-20-wrapup/</link>
-      <pubDate>Sun, 25 Jul 2021 02:00:00 +0200</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/posts/meetup-20-wrapup/</guid>
-      <description>We keep this short, as there would be too many interesting things to mention that come up, if curious and fun people meet.
-Just to mention a few things:
- https://twitter.com/embano1/status/1417599138796118016 Cue Automerge (JS)  A couple of people had distant memories of Pascal, and the Go FAQ mentions it when talking about ancestors (e.g. declarations, conditions without parentheses, &amp;hellip;).
-liteide is a Go IDE:
- LiteIDE is a simple, open source, cross-platform Go IDE.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Jun 2021 13:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AFK Summer Meetup #20 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-20-invitation/</link>
