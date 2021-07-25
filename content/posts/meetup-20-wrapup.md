@@ -1,6 +1,6 @@
 ---
-title: "Meetup #20 reflections"
-date: 2021-07-25T02:00:00+02:00
+title: "Meetup #20 wrap-up"
+date: 2021-07-25T12:00:00+02:00
 draft: false
 tags:
 - summary
@@ -16,12 +16,14 @@ Just to mention a few things:
 * [Automerge](https://github.com/automerge/automerge) (JS)
 
 A couple of people had distant memories of
-[Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal), and the Go FAQ mentions
-it when talking about [ancestors](https://golang.org/doc/faq#ancestors) (e.g.
-[declarations](https://wiki.freepascal.org/Variable#declaration), conditions
-without [parentheses](https://wiki.freepascal.org/IF), ...).
+[Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal), which also [influenced
+Go](https://golang.org/doc/faq#ancestors) e.g.  in
+[declarations](https://wiki.freepascal.org/Variable#declaration) or conditions
+without [parentheses](https://wiki.freepascal.org/IF).
 
-[liteide](https://github.com/visualfc/liteide) is a Go IDE:
+Many people use [vscode](https://code.visualstudio.com/docs/languages/go) or
+[vim](https://github.com/fatih/vim-go), but there are also some dedicated Go
+IDEs, e.g. [GoLand](https://www.jetbrains.com/go/) or [liteide](https://github.com/visualfc/liteide):
 
 > LiteIDE is a simple, open source, cross-platform Go IDE.
 
