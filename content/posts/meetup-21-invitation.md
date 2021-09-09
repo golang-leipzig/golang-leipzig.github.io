@@ -38,6 +38,8 @@ Encodings need to balance a lot of tradeoffs between efficiency and ease of use;
 we're glad to hear from the author about some key decisions and how they manifest
 themselves in the implementation.
 
+![](/images/concise_encoding_table.png)
+
 Join us to learn and discuss all things Go!
 
 See you!
