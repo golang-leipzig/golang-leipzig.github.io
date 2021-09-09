@@ -10,7 +10,7 @@ tags:
 Hello, 世界!
 
 Meetup #21 will take place Tuesday, [Sep 28,
-2021 19:00 CEST](https://www.meetup.com/Leipzig-Golang/events/275871279) and will be
+2021 19:00 CEST](https://www.meetup.com/Leipzig-Golang/events/275871284/) and will be
 virtual again. We'll use Zoom (find the link on [the event
 page](https://www.meetup.com/Leipzig-Golang/events/275871284/) or below):
 
