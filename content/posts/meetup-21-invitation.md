@@ -1,7 +1,7 @@
 ---
 title: "Virtual Meetup #21 invitation"
-date: 2021-09-10T13:00:00+02:00
-draft: true
+date: 2021-09-09T14:00:00+02:00
+draft: false
 tags:
 - announcement
 - meetup
@@ -45,7 +45,6 @@ See you!
 
 <!--
 
-https://www.linkedin.com/posts/martin-czygan-58348842_virtual-meetup-19-invitation-activity-6812792933281005568-MfF1
-https://twitter.com/embano1/status/1407000135062757388
+TODO: outreach.
 
 -->
