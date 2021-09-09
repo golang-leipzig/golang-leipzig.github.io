@@ -6,7 +6,20 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jul 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 14:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #21 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-21-invitation/</link>
+      <pubDate>Thu, 09 Sep 2021 14:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-21-invitation/</guid>
+      <description>Hello, 世界!
+Meetup #21 will take place Tuesday, Sep 28, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
+ https://us02web.zoom.us/j/81869277732?pwd=ZldmeHp0eWs0N1YyTE94OUo2Z01vdz09  We will have an input presentation by the author of Concise Encoding about the project and its Go reference implementation. Concise encoding is a
+ friendly data format for human &amp;amp; machine.
+ It addresses a modern dilemma:</description>
+    </item>
+    
     <item>
       <title>Meetup #20 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-20-wrapup/</link>
