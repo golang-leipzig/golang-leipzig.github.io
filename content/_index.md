@@ -5,9 +5,10 @@ draft: false
 
 We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 20 events
-so far. Taking a summer break. Meetup #21 is currently planned for [Tuesday,
-September 28, 2021 19:00
-CEST](https://www.meetup.com/Leipzig-Golang/events/275871284/).
+so far. Taking a summer break. Meetup #21 is scheduled for [Tuesday, September
+28, 2021 19:00 CEST](https://www.meetup.com/Leipzig-Golang/events/275871284/) -
+our [topic will be](https://golangleipzig.space/posts/meetup-21-invitation/)
+[Concise Encoding](https://concise-encoding.org/).
 
 ----
 
