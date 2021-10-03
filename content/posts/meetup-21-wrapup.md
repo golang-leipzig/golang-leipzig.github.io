@@ -1,6 +1,6 @@
 ---
 title: "Meetup #21 wrap-up"
-date: 2021-07-24T12:00:00+02:00
+date: 2021-10-03T14:00:00+02:00
 draft: false
 tags:
 - summary

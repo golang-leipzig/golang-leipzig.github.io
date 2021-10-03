@@ -10,14 +10,12 @@ tags:
 We keep this short, as there would be too many interesting things to mention that come up, if curious and fun people meet.
 
 Just to name a few things:
-
-* [https://twitter.com/embano1/status/1417599138796118016](https://twitter.com/embano1/status/1417599138796118016)
-* [Cue](https://cuelang.org/)
-* [Automerge](https://github.com/automerge/automerge) (JS)
+[https://twitter.com/embano1/status/1417599138796118016](https://twitter.com/embano1/status/1417599138796118016),
+[Cue](https://cuelang.org/) and [Automerge](https://github.com/automerge/automerge) (JS), ...
 
 A couple of people had distant memories of
 [Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal), which also [influenced
-Go](https://golang.org/doc/faq#ancestors) e.g.  in
+Go](https://golang.org/doc/faq#ancestors) e.g. in
 [declarations](https://wiki.freepascal.org/Variable#declaration) or conditions
 without [parentheses](https://wiki.freepascal.org/IF).
 
