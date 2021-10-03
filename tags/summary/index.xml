@@ -20,6 +20,17 @@ Many people use vscode or vim, but there are also some dedicated Go IDEs, e.g. G
     </item>
     
     <item>
+      <title>Meetup #21 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-21-wrapup/</link>
+      <pubDate>Sat, 24 Jul 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-21-wrapup/</guid>
+      <description>Concise Encoding We had a great presentation about Concise Encoding, a proposed encoding standard that aims to be human and machine friendly.
+ Presentation: go-concise-encoding  Concise encoding is element-oriented (similar to e.g. JSON) and tries to solve some issues in existing standards, such as lack of types, performance and security (one similar format is Amazon Ion).
+In prerelease stage, feedback is highly appreciated, a reference implementation written in Go exists at:</description>
+    </item>
+    
+    <item>
       <title>Virtual Meetup #19 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-19-wrapup/</link>
       <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
