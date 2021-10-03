@@ -4,11 +4,11 @@ draft: false
 ---
 
 We're hosting a [Go](https://golang.org/) [Meetup in
-Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized 20 events
-so far. Taking a summer break. Meetup #21 is scheduled for [Tuesday, September
-28, 2021 19:00 CEST](https://www.meetup.com/Leipzig-Golang/events/275871284/) -
-our [topic will be](https://golangleipzig.space/posts/meetup-21-invitation/)
-[Concise Encoding](https://concise-encoding.org/).
+Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
+events so far. Meetup #22 will be virtual again and is scheduled for [Tuesday,
+October 26, 2021 19:00
+CEST](https://www.meetup.com/Leipzig-Golang/events/275871290/). We're thrilled
+to have a talk about [Confidential Computing with Go](https://www.ego.dev/).
 
 ----
 
@@ -50,6 +50,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#21](https://golangleipzig.space/posts/meetup-21-wrapup/),
 [#20](https://golangleipzig.space/posts/meetup-20-wrapup/),
 [#19](https://golangleipzig.space/posts/meetup-19-wrapup/),
 [#18](https://golangleipzig.space/posts/meetup-18-wrapup/),
