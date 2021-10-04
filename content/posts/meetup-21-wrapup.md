@@ -46,7 +46,7 @@ and memory issues of your program.
 
 Additional helpers exists, such as
 [benchcmp](https://pkg.go.dev/golang.org/x/tools/cmd/benchcmp) or the
-possibility to inspect changes over time, with the `-diff` flag:
+possibility to inspect changes over time, with the `-diff_base` flag:
 
 ```sh
 $ go tool pprof -web -diff_base cpu-prev.prof cpu-now.prof
