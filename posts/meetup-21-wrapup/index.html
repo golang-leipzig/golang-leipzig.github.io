@@ -72,7 +72,7 @@ and example iterators and builders and
 and memory issues of your program.</p>
 <p>Additional helpers exists, such as
 <a href="https://pkg.go.dev/golang.org/x/tools/cmd/benchcmp">benchcmp</a> or the
-possibility to inspect changes over time, with the <code>-diff</code> flag:</p>
+possibility to inspect changes over time, with the <code>-diff_base</code> flag:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">$ go tool pprof -web -diff_base cpu-prev.prof cpu-now.prof
 </code></pre></div><p>Allocations can kill performance and sometimes they are not obvious, e.g.
 converting a byte slice to a string requires an allocation. However, you can
