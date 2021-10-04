@@ -81,7 +81,7 @@ Finally, a short free course to improve your technical writing:
 * [https://developers.google.com/tech-writing](https://developers.google.com/tech-writing)
 
 
-Thanks to [Karl](https://github.com/kstenerud) for the presentation and everyone for dropping by.
+Thanks [Karl](https://github.com/kstenerud) for the presentation and everyone for dropping by.
 
 ----
 
