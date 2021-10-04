@@ -12,6 +12,12 @@ to have a talk about [Confidential Computing with Go](https://www.ego.dev/).
 
 ----
 
+NEW! Since Summer 2021, we have a [YouTube
+Channel](https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ) where we are
+publishing recordings of selected talks.
+
+----
+
 {{< h2 >}}About{{< /h2 >}}
 
 Our goal is to establish a place, where people from all backgrounds interested
