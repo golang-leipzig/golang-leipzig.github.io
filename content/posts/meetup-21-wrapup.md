@@ -13,7 +13,7 @@ We had a great presentation about [Concise
 Encoding](https://concise-encoding.org/), a proposed encoding standard that aims to
 be human and machine friendly.
 
-* [Presentation: go-concise-encoding](https://github.com/kstenerud/go-concise-encoding/blob/presentation/presentation-go-concise-encoding.md])
+* [Presentation: go-concise-encoding](https://github.com/kstenerud/go-concise-encoding/blob/presentation/presentation-go-concise-encoding.md)
 
 Concise encoding is element-oriented (similar to e.g. JSON) and tries to solve
 some issues in existing standards, such as lack of types, performance and
