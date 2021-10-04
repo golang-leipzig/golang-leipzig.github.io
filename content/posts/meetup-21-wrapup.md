@@ -30,7 +30,7 @@ implementation written in Go exists at:
 * [https://github.com/kstenerud/go-concise-encoding](https://github.com/kstenerud/go-concise-encoding)
 
 We looked at the
-[architecture](https://github.com/kstenerud/go-concise-encoding/blob/presentation/presentation-go-concise-encoding.md#reference-implementation)
+[architecture](https://github.com/kstenerud/go-concise-encoding/blob/presentation/presentation-go-concise-encoding.md#architecture)
 and example iterators and builders and
 [takeaways](https://github.com/kstenerud/go-concise-encoding/blob/presentation/presentation-go-concise-encoding.md#takeaways).
 
