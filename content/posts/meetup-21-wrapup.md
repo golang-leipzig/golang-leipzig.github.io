@@ -15,6 +15,10 @@ be human and machine friendly.
 
 * [Presentation: go-concise-encoding](https://github.com/kstenerud/go-concise-encoding/blob/presentation/presentation-go-concise-encoding.md)
 
+Here's a recording:
+
+[![Leipzig Gophers #21: Concise Encoding](https://img.youtube.com/vi/_dIHq4GJE14/0.jpg)](https://www.youtube.com/watch?v=_dIHq4GJE14)
+
 Concise encoding is element-oriented (similar to e.g. JSON) and tries to solve
 some issues in existing standards, such as lack of types, performance and
 security (one similar format is [Amazon Ion](https://amzn.github.io/ion-docs/)).
