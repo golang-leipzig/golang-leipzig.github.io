@@ -6,7 +6,19 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 11:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #22 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-22-invitation/</link>
+      <pubDate>Wed, 06 Oct 2021 11:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-22-invitation/</guid>
+      <description>Hello, 世界!
+For virtual meetup #22 - scheduled 2021-10-26, 19:00 CEST - we&amp;rsquo;ll have an interesting presentation on a security related topic: Confidential Computing with Go.
+Join us via Zoom.
+ Confidential Computing with Go Confidential computing is a new security paradigm that protects data not only at rest or in transit but also in use. A hardware-based trusted execution environment provides an isolated area, a secure enclave within a CPU, that protects sensitive data while being processed.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #21 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-21-wrapup/</link>
