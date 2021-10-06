@@ -30,7 +30,7 @@ Initial organizers are [miku](https://github.com/miku/),
 [klingtnet](https://github.com/klingtnet),
 [panzerdev](https://github.com/panzerdev) and
 [dataduke](https://github.com/dataduke), and we are inviting everyone to
-contribute or participate.
+participate.
 
 {{< h2 >}}How to participate{{< /h2 >}}
 
