@@ -1,7 +1,7 @@
 ---
 title: "Virtual Meetup #22 invitation"
-date: 2021-10-05T15:00:00+02:00
-draft: true
+date: 2021-10-06T11:00:00+02:00
+draft: false
 tags:
 - announcement
 - meetup
@@ -9,7 +9,11 @@ tags:
 
 Hello, 世界!
 
-For [meetup #22](https://www.meetup.com/Leipzig-Golang/events/275871290/), we'll have an interesting presentation on a security related topic.
+For virtual [meetup #22](https://www.meetup.com/Leipzig-Golang/events/275871290/) -
+scheduled [2021-10-26, 19:00 CEST](https://www.meetup.com/Leipzig-Golang/events/275871290/) - we'll have an interesting presentation on a
+security related topic: Confidential Computing with Go.
+
+[Join us via Zoom](https://us02web.zoom.us/j/85343669228?pwd=clhoM2FuazBrRFRVSEVwd2cxc1BXUT09).
 
 ----
 
