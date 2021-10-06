@@ -26,9 +26,10 @@ protects sensitive data while being processed.
 
 Until recently, confidential computing frameworks were mostly restricted to
 C/C++ with a significantly reduced system interface. To make confidential
-computing more accessible and use it in cloud-native contexts, we created EGo.
-EGo is an open-source framework that enables users to build, debug, and run
-confidential apps with Go.
+computing more accessible and use it in cloud-native contexts, we created
+EGo. [EGo](https://www.ego.dev/) is an open-source
+framework that enables users to build, debug, and run confidential apps with
+Go.
 
 In this talk, I’ll give a brief introduction to confidential computing and show
 why Go is a great fit for it. I’ll present the architecture design of EGo and
@@ -40,7 +41,7 @@ hands-on examples and use cases.
 Bio:
 
 Moritz Eckert leads cloud-related development at [Edgeless Systems](https://www.edgeless.systems/) and is the
-primary maintainer of MarbleRun. Moritz is a seasoned engineer and has
+primary maintainer of [MarbleRun](https://marblerun.sh/). Moritz is a seasoned engineer and has
 presented at top-tier conferences including Usenix Security Symposium, Conf42,
 and OC3 in the past. Alongside his professional work, Moritz is part of
 Shellphish, one of the highest-ranked competitive hacking groups in the world.
