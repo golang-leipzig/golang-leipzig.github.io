@@ -57,4 +57,6 @@ See you!
 
 TODO: outreach.
 
+https://www.linkedin.com/posts/martin-czygan-58348842_security-golang-leipzig-activity-6858703511115358208-gGa4
+
 -->
