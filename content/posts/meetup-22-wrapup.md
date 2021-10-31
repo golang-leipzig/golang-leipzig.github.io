@@ -45,6 +45,16 @@ Confidential computing is most likely becoming more deployed in the coming
 years and it's really nice to be able to experiment and deploy solutions in Go
 today.
 
+## More information
+
+* [Intel® Software Guard Extensions (Intel® SGX) Developer Guide](https://download.01.org/intel-sgx/linux-2.2/docs/Intel_SGX_Developer_Guide.pdf)
+* [Edgeless Systems GitHub](https://github.com/edgelesssys), open source components for Confidential Computing
+* [Open Enclave](https://openenclave.io)
+* [RandomClave](https://arxiv.org/abs/2107.09470) (2021) analyzes potential risks in a PoC ransomware attach using SGX
+* [Everything You Should Know about Intel SGX Performance on Virtualized Systems](https://hal.archives-ouvertes.fr/hal-02947792/document) (2019), looks at performance implications of SGX
+* more papers on the topics of Intel SGX and Confidential Computing on [Archive Scholar](https://scholar.archive.org/search?q=%22intel+sgx%22+OR+%22confidential+computing%22&sort_order=time_desc)
+
+
 ----
 
 [Join our meetup](https://www.meetup.com/Leipzig-Golang) to get notified of
