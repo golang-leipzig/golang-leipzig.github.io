@@ -24,16 +24,16 @@ Here's a recording of the talk, code walkthroughs and Q&A:
 A few highlights from the talk:
 
 * a trusted execution environment can be implemented in various ways, Intel SGX
-  being one that it usable today (with some others in development, e.g. [Arm
+  being one that is usable today (with others in development, e.g. [Arm
   CCA](https://www.arm.com/company/news/2021/06/arm-cca-will-put-confidential-compute-in-the-hands-of-every-developer), ...)
 * there are various applications, from security and privacy enhancements (e.g.
   medical records; private contact discovery in
-  [Signal](https://github.com/signalapp/ContactDiscoveryService; ...) to data
+  [Signal](https://github.com/signalapp/ContactDiscoveryService) to data
   sharing options between mistrusting parties (e.g. federated learning)
 * the [SGX
   architecture](https://sgx101.gitbook.io/sgx101/sgx-bootstrap/overview) is
-non-trivial &mdash; however, [ego](https://www.ego.dev/) reduces the amount of
-work required for secure deployments of Go projects considerably
+not necessarily trival to implement as is &mdash; however, [ego](https://www.ego.dev/) reduces the amount of
+work required for secure deployments of Go projects considerably: you can get started with a few commands and zero code changes
 * [ego](https://ego.dev) builds on top of [OpenEnclave](https://openenclave.io/sdk/), an open source SDK that provides consistent API surface across enclave technologies
 
 We looked at a few examples from the [ego.dev](https://github.com/edgelesssys/ego) project:
