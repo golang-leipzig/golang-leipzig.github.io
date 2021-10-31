@@ -29,7 +29,7 @@ A few highlights from the talk:
 * there are various applications, from security and privacy enhancements (e.g.
   medical records; private contact discovery in
   [Signal](https://github.com/signalapp/ContactDiscoveryService) to data
-  sharing options between mistrusting parties (e.g. federated learning)
+  sharing options between mistrusting parties, e.g. federated learning)
 * the [SGX
   architecture](https://sgx101.gitbook.io/sgx101/sgx-bootstrap/overview) is
 not necessarily trival to implement as is &mdash; however, [ego](https://www.ego.dev/) reduces the amount of
