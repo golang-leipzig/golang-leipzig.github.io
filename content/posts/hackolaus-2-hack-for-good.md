@@ -1,6 +1,6 @@
 ---
 title: "Hackolaus #2: Hack for Good"
-date: 2021-10-31T14:00:00+02:00
+date: 2021-11-01T14:00:00+02:00
 draft: true
 tags:
 - announcement
@@ -11,7 +11,7 @@ Hello, 世界!
 
 We would like to invite you to a special hackathon event this year: [Hackolaus #2](https://hackolaus.de/).
 
-![](/images/hackolaus-grafik.svg)
+![](/images/hackolaus-grafik.png)
 
 > When the nights get longer and the weather outside is frightful, we need
 some warmth in our hearts. Many people sacrifice their time and energy to
