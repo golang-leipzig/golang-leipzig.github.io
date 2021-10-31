@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Oct 2021 11:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Oct 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #22 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-22-wrapup/</link>
+      <pubDate>Sun, 31 Oct 2021 14:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-22-wrapup/</guid>
+      <description>Confidential Computing with Go We had a great presentation by Moritz Eckert from edgeless systems about Confidential Computing with Go, and especially ego.dev, a modified Go compiler and additional tooling which allow you to run code within a trusted execution environment, e.g. using Intel® SGX enclaves with zero code changes.
+Here&amp;rsquo;s a recording of the talk, code walkthroughs and Q&amp;amp;A:
+
+A few highlights from the talk:
+ a trusted execution environment can be implemented in various ways, Intel SGX being one that it usable today (with some others in development, e.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #22 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-22-invitation/</link>
