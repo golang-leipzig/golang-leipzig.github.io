@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon on Leipzig Gophers</title>
+    <link>https://golang-leipzig.github.io/tags/hackathon/</link>
+    <description>Recent content in hackathon on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackolaus #2: Hack for Good</title>
+      <link>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</link>
+      <pubDate>Tue, 02 Nov 2021 14:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</guid>
+      <description>Hello, 世界!
+We would like to invite you to a special hackathon event this year: Hackolaus #2.
+ When the nights get longer and the weather outside is frightful, we need some warmth in our hearts. Many people sacrifice their time and energy to create this warmth by giving and contributing to the benefit of those less fortunate and in need.
+  Many NGOs, associations and individuals also work hard to give to social, environmental or other sustainability causes.</description>
+    </item>
+    
+  </channel>
+</rss>

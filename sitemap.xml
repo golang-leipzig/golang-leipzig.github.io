@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://golang-leipzig.github.io/</loc>
-    <lastmod>2021-10-31T14:00:00+01:00</lastmod>
+    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
+    <lastmod>2021-11-02T14:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://golang-leipzig.github.io/tags/meetup/</loc>
-    <lastmod>2021-10-31T14:00:00+01:00</lastmod>
+    <loc>https://golang-leipzig.github.io/tags/hackathon/</loc>
+    <lastmod>2021-11-02T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</loc>
+    <lastmod>2021-11-02T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/</loc>
+    <lastmod>2021-11-02T14:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/posts/</loc>
+    <lastmod>2021-11-02T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/</loc>
+    <lastmod>2021-11-02T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/meetup/</loc>
     <lastmod>2021-10-31T14:00:00+01:00</lastmod>
   </url>
   
@@ -23,18 +43,8 @@
   </url>
   
   <url>
-    <loc>https://golang-leipzig.github.io/tags/</loc>
-    <lastmod>2021-10-31T14:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golang-leipzig.github.io/posts/meetup-22-wrapup/</loc>
     <lastmod>2021-10-31T14:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
-    <lastmod>2021-10-06T11:00:00+02:00</lastmod>
   </url>
   
   <url>
