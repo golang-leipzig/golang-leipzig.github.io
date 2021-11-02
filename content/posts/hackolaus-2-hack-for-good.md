@@ -9,7 +9,9 @@ tags:
 
 Hello, 世界!
 
-We would like to invite you to a special hackathon event this year: [Hackolaus #2](https://hackolaus.de/).
+We would like to invite you to a special hackathon event this year: [Hackolaus
+#2](https://hackolaus.de/) - running from Nov 19 to Nov 21, 2021 [at
+Basislager](https://en.basislager.co/) Leipzig.
 
 [![](/images/hackolaus-grafik.png)](https://hackolaus.de)
 
