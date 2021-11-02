@@ -11,7 +11,7 @@ Hello, 世界!
 
 We would like to invite you to a special hackathon event this year: [Hackolaus #2](https://hackolaus.de/).
 
-![](/images/hackolaus-grafik.png)
+[![](/images/hackolaus-grafik.png)](https://hackolaus.de)
 
 > When the nights get longer and the weather outside is frightful, we need
 some warmth in our hearts. Many people sacrifice their time and energy to
