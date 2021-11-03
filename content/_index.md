@@ -7,7 +7,7 @@ We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
 events so far. [Meetup #23](https://www.meetup.com/Leipzig-Golang/events/280096219/) is scheduled for [Tuesday,
 Nov 23, 2021 19:00
-CEST](https://www.meetup.com/Leipzig-Golang/events/280096219/) (also check out [Hackolaus #2](https://golangleipzig.space/posts/hackolaus-2-hack-for-good/) this month).
+CEST](https://www.meetup.com/Leipzig-Golang/events/280096219/).
 
 ----
 
