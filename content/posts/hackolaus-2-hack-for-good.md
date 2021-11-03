@@ -9,6 +9,13 @@ tags:
 
 Hello, 世界!
 
+----
+
+Update 2021-10-03: ⍰ Hackolaus may be cancelled due to local pandemic regulation;
+please follow updates at the event site.
+
+----
+
 We would like to invite you to a special hackathon event this year: [Hackolaus
 #2](https://hackolaus.de/) - running from Nov 19 to Nov 21, 2021 at
 [Basislager](https://en.basislager.co/) Leipzig.
