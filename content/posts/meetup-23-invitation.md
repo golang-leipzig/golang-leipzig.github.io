@@ -38,6 +38,8 @@ Schedule:
 [Join us](https://www.meetup.com/Leipzig-Golang/events/280096219/) to discuss
 all things Go - and pizza and drinks!
 
+See you!
+
 ----
 
 About Sciendis (German):
@@ -54,12 +56,6 @@ About Sciendis (German):
 > Derzeit umfasst das Unternehmen 12 Beschäftigte und wächst zunehmend. Es
 > bestehen Förderungen vom Europäischen Fond für regionale Entwicklung, der
 > Sächsischen Aufbaubank und des Technologiegründerfonds Sachsen.
-
-----
-
-Join us to discuss all things Go and security!
-
-See you!
 
 
 <!--
