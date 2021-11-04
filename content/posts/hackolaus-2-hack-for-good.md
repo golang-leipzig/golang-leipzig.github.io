@@ -11,7 +11,10 @@ Hello, 世界!
 
 ----
 
-Update 2021-10-03: Hackolaus #2 may be cancelled due to local pandemic regulation;
+* **Update 2021-11-04**: Cancelled: See [hackolaus.de](https://hackolaus.de/) for new
+dates.
+
+* **Update 2021-11-03**: Hackolaus #2 may be cancelled due to local pandemic regulation;
 please follow updates at the event site.
 
 ----
