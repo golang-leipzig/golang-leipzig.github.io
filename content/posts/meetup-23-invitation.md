@@ -18,7 +18,7 @@ The key facts:
 
 * Date and Time: [Tuesday, November 23, 2021, 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/280096219/)
 * Location: [Sciendis GmbH](https://www.sciendis.de/), [Riemannstraße 32, 04107 Leipzig](https://www.openstreetmap.org/way/48244220#map=17/51.33113/12.37591)
-* Pandemic-Policy: **3G** ("vaccinated | tested | recovered", checked on-site)
+* Pandemic-Policy: **2G** ("vaccinated | recovered", checked on-site)
 
 We'll have two input presentations, one by Sciendis on their tech stack and a
 short talk on Writing a Data Web Service in Go.
