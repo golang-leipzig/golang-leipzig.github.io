@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
-events so far. [Meetup #23](https://www.meetup.com/Leipzig-Golang/events/280096219/) is scheduled for [Tuesday,
+events so far. [Meetup #23](https://golangleipzig.space/posts/meetup-23-invitation/) is scheduled for [Tuesday,
 Nov 23, 2021 19:00
 CEST](https://www.meetup.com/Leipzig-Golang/events/280096219/).
 
