@@ -38,7 +38,7 @@ Schedule:
 > data-intensive API service in Go; with code snippets from a recent real world
 > [open source](https://github.com/miku/labe/tree/main/tools/spindel) project.
 
-* 20:15 Discussion + 🍕 Pizza + Drinks
+* 20:00 Discussion + 🍕 Pizza + Drinks
 
 [Join us](https://www.meetup.com/Leipzig-Golang/events/280096219/) to discuss
 all things Go - and for pizza and drinks!
