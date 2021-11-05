@@ -1,7 +1,7 @@
 ---
-title: "Virtual Meetup #23 invitation"
-date: 2021-11-05T11:00:00+01:00
-draft: true
+title: "Meetup #23 invitation"
+date: 2021-11-05T16:00:00+01:00
+draft: false
 tags:
 - announcement
 - meetup
@@ -18,10 +18,10 @@ The key facts:
 
 * Date and Time: [Tuesday, November 23, 2021, 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/280096219/)
 * Location: [Sciendis GmbH](https://www.sciendis.de/), [Riemannstraße 32, 04107 Leipzig](https://www.openstreetmap.org/way/48244220#map=17/51.33113/12.37591)
-* Pandemic-Policy: 3G ("vaccinated, tested, recovered") - this will be checked at the start of the event
+* Pandemic-Policy: **3G** ("vaccinated, tested, recovered", checked on-site)
 
 We'll have two input presentations, one by Sciendis on their tech stack and a
-lightning talk on XXX-TODO.
+short talk on Writing a Data Web Service in Go.
 
 Schedule:
 
@@ -32,13 +32,22 @@ Schedule:
 > and why MongoDB? What happens when you want to migrate your project from one
 > cloud provider to another?
 
-* 19:45 Lighting Talk
-* 20:15 Discussion + 🍕 Pizza + lemonade/beer
+* 19:45 Lighting Talk - A Data Web Service
+
+> A short run down of options and choices when it comes to building a
+> data-intensive API service in Go; with code snippets from recent real world
+> [open source](https://github.com/miku/labe/tree/main/tools/spindel) project.
+
+* 20:15 Discussion + 🍕 Pizza + Drinks
 
 [Join us](https://www.meetup.com/Leipzig-Golang/events/280096219/) to discuss
-all things Go - and pizza and drinks!
+all things Go - and for pizza and drinks!
 
-See you!
+See you, there!
+
+PS. Just one last thing: If the pandemic situation deteriorates to a point where
+real-world meetings get prohibited, we'll let you all know in time and will switch
+to a (usual) online meetup with Zoom.
 
 ----
 
