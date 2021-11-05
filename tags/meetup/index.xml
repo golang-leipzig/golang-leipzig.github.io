@@ -6,7 +6,19 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 16:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup #23 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-23-invitation/</link>
+      <pubDate>Fri, 05 Nov 2021 16:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-23-invitation/</guid>
+      <description>Hello, 世界!
+We&amp;rsquo;re always interested in connecting with the local Go community and we&amp;rsquo;re thrilled that for meetup #23 on Nov 23, 2021 Sciendis reached out to us and offered to host an event at their site.
+The key facts:
+ Date and Time: Tuesday, November 23, 2021, 19:00 CET Location: Sciendis GmbH, Riemannstraße 32, 04107 Leipzig Pandemic-Policy: 3G (&amp;ldquo;vaccinated, tested, recovered&amp;rdquo;, checked on-site)  We&amp;rsquo;ll have two input presentations, one by Sciendis on their tech stack and a short talk on Writing a Data Web Service in Go.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #22 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-22-wrapup/</link>
