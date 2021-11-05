@@ -12,8 +12,8 @@ tags:
 We had a great presentation by [Moritz Eckert](https://twitter.com/m1ghtymo)
 from [edgeless systems](https://edgeless.systems) about Confidential Computing
 with Go, and especially [ego.dev](https://ego.dev), a modified Go compiler and
-additional tooling which allow you to run code within a trusted execution
-environment, e.g. using [Intel® SGX
+additional tooling which allows you to run code within a trusted execution
+environment like [Intel® SGX
 enclaves](https://en.wikipedia.org/wiki/Software_Guard_Extensions) with zero
 code changes.
 
