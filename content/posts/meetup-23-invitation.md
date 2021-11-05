@@ -35,7 +35,7 @@ Schedule:
 * 19:45 Lighting Talk - A Data Web Service
 
 > A short run down of options and choices when it comes to building a
-> data-intensive API service in Go; with code snippets from recent real world
+> data-intensive API service in Go; with code snippets from a recent real world
 > [open source](https://github.com/miku/labe/tree/main/tools/spindel) project.
 
 * 20:15 Discussion + 🍕 Pizza + Drinks
