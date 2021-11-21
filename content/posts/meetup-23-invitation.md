@@ -9,23 +9,35 @@ tags:
 
 Hello, 世界!
 
-We're always interested in connecting with the local Go community and we're
+Corona [emergency ordinance (SächsCoronaNotVO §7
+2021-11-19)](https://www.coronavirus.sachsen.de/download/SaechsCoronaNotVO-2021-11-19.pdf#page=7)
+becoming effective on Monday forces us to move this meeting online. Our talk
+schedule stays the same.
+
+Join us for [meetup
+#23](https://www.meetup.com/Leipzig-Golang/events/280096219/) Nov 23, 2021
+19:00 CET via Zoom:
+[https://us02web.zoom.us/s/81296841393](https://us02web.zoom.us/s/81296841393).
+
+----
+
+~~We're always interested in connecting with the local Go community and we're
 thrilled that for [meetup #23](https://www.meetup.com/Leipzig-Golang/events/280096219/) on Nov 23, 2021
 [Sciendis](https://www.sciendis.de/) reached out to us and offered to host an
-event at their site.
+event at their site.~~
 
-The key facts:
+~~The key facts:~~
 
-* Date and Time: [Tuesday, November 23, 2021, 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/280096219/)
-* Location: [Sciendis GmbH](https://www.sciendis.de/), [Riemannstraße 32, 04107 Leipzig](https://www.openstreetmap.org/way/48244220#map=17/51.33113/12.37591)
-* Pandemic-Policy: **2G** ("vaccinated | recovered", checked on-site, [mdr.de](https://www.mdr.de/nachrichten/sachsen/corona-verordnung-zwei-g-strengere-regeln-kabinett-100.html))
+* ~~Date and Time: [Tuesday, November 23, 2021, 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/280096219/)~~
+* ~~Location: [Sciendis GmbH](https://www.sciendis.de/), [Riemannstraße 32, 04107 Leipzig](https://www.openstreetmap.org/way/48244220#map=17/51.33113/12.37591)~~
+* ~~Pandemic-Policy: **2G** ("vaccinated | recovered", checked on-site, [mdr.de](https://www.mdr.de/nachrichten/sachsen/corona-verordnung-zwei-g-strengere-regeln-kabinett-100.html))~~
 
 We'll have two input presentations, one by Sciendis on their tech stack and a
 short talk on Writing a Data Web Service in Go.
 
 Schedule:
 
-* 19:00 doors open
+* 19:00 ~~doors open~~, [Zoom open](https://us02web.zoom.us/s/81296841393)
 * 19:15 Sciendis Tech Talk
 
 > Overview of the Sciendis tech stack and architecture. Why did we choose Go,
@@ -38,10 +50,10 @@ Schedule:
 > data-intensive API service in Go; with code snippets from a recent real world
 > [open source](https://github.com/miku/labe/tree/main/tools/spindel) project.
 
-* 20:00 Discussion + 🍕 Pizza + Drinks
+* 20:00 Discussion (BYOP - bring your own Pizza + Drinks)
 
 [Join us](https://www.meetup.com/Leipzig-Golang/events/280096219/) to discuss
-all things Go - and for pizza and drinks!
+all things Go!
 
 See you, there!
 
