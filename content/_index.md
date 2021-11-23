@@ -6,7 +6,7 @@ draft: false
 We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
 events so far. Meetup #24 is scheduled for [Tuesday, Dec 21, 2021 19:00
-CEST](https://www.meetup.com/Leipzig-Golang/events/277710643/).
+CEST](https://www.meetup.com/Leipzig-Golang/events/277710643/) 🎄.
 
 ----
 
