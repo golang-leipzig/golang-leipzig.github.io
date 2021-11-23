@@ -16,8 +16,8 @@ schedule stays the same.
 
 Join us for [meetup
 #23](https://www.meetup.com/Leipzig-Golang/events/280096219/) Nov 23, 2021
-19:00 CET via Zoom:
-[https://us02web.zoom.us/s/81296841393](https://us02web.zoom.us/s/81296841393).
+19:00 CET via Google Meet:
+[https://meet.google.com/sym-ohzu-spb](https://meet.google.com/sym-ohzu-spb).
 
 ----
 
