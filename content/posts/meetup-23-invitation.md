@@ -83,4 +83,6 @@ About Sciendis (German):
 
 TODO: outreach.
 
+* https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-golang-meetup-23-activity-6868910290419929089-7pl6
+
 -->
