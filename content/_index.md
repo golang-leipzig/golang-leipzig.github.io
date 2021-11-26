@@ -53,7 +53,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems) and
 [sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
-Media](https://www.oreilly.com/) for their support.
+Media](https://www.oreilly.com/pub/cpc/323592) for their support.
 
 {{< h2 >}}Meetup log{{< /h2 >}}
 
