@@ -41,6 +41,14 @@ standard library) than a specific framework.
 
 ## A data web service
 
+A quick overview on a small web service built on sqlite,
+[net/http](https://pkg.go.dev/net/http) and
+[gorilla](https://www.gorillatoolkit.org/) handlers.
+
+[![](https://github.com/miku/dwstalk/raw/main/static/Untitled-2020-06-15-1740.png)](https://github.com/miku/dwstalk)
+
+Notes: [A data web service](https://github.com/miku/dwstalk)
+
 ## Misc
 
 * Java is drafting a lightweight concurrency model as an alternative to
@@ -65,7 +73,6 @@ Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 
 * For ideas on idiomatic Go, see: [Effective Go](https://go.dev/doc/effective_go)
 * Go has it dark corners, too - we are collecting some of them in [Go Gotchas](https://github.com/golang-leipzig/gotchas)
-* DevOps YT channel: [https://www.youtube.com/c/MarcelDempers](https://www.youtube.com/c/MarcelDempers)
 * End-to-end CI pipeline with GH
   [actions](https://github.com/features/actions),
 [goreleaser](https://github.com/goreleaser/goreleaser) and
@@ -95,6 +102,22 @@ it, too:
 replication](https://github.com/benbjohnson/litestream), or
 [trough](https://github.com/internetarchive/trough); video recommendation: [David Crawshaw SQLite and Go](https://www.youtube.com/watch?v=RqubKSF3wig)
 * For mocking time in tests: [https://github.com/benbjohnson/clock](https://github.com/benbjohnson/clock)
+* Domain-driven design is a popular technique, originating from Eric Evans 2003
+  book [Domain Driven Design](https://openlibrary.org/works/OL4464385W), with a
+good summary being: [DDD
+Distilled](https://openlibrary.org/works/OL19546213W/)
+* If projects get bigger, put an `ARCHITECTURE.md` into the repo, e.g. [like
+  this](https://github.com/kstenerud/go-concise-encoding/blob/master/ARCHITECTURE.md).
+* Tabular test strategy to decouple language from *domain* content ([example](https://gitlab.com/internetarchive/refcat/-/blob/master/skate/testdata/verify.csv) dealing with JSON document comparisons).
+* Test augmentation library for Go: [https://pkg.go.dev/gotest.tools/assert](https://pkg.go.dev/gotest.tools/assert); also useful in tests to compare compound values: [google/go-cmp](https://github.com/google/go-cmp)
+* Writeup on generics in Go: [Go Generics - A Quick Overview](https://www.klingt.net/articles/go-generics-a-quick-overview.html)
+
+Video recommendations:
+
+* [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
+* [dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture](https://www.youtube.com/watch?v=vKbVrsMnhDc)
+* [David Crawshaw SQLite and Go](https://www.youtube.com/watch?v=RqubKSF3wig)
+* Channel: [https://www.youtube.com/c/MarcelDempers](https://www.youtube.com/c/MarcelDempers)
 
 ----
 
