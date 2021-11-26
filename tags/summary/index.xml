@@ -6,26 +6,24 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #23 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</link>
+      <pubDate>Fri, 26 Nov 2021 14:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</guid>
+      <description>Summary Originally planned on-site at Sciendis, we had to meet online again, due to the pandemic situation.
+We had two input presentations, one about the role of Go in the tech stack of Sciendis and reason why Go may be a good choice; and one lightning talk about a data web service.
+Go in a startup environment Sciendis develops a React Native application called Wundera with the backend service being written in Go, in a classic cloud setup.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #22 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-22-wrapup/</link>
       <pubDate>Sun, 31 Oct 2021 14:00:00 +0100</pubDate>
       
       <guid>https://golang-leipzig.github.io/posts/meetup-22-wrapup/</guid>
-      <description>Confidential Computing with Go We had a great presentation by Moritz Eckert from edgeless systems about Confidential Computing with Go, and especially ego.dev, a modified Go compiler and additional tooling which allows you to run code within a trusted execution environment like Intel® SGX enclaves with zero code changes.
-Here&amp;rsquo;s a recording of the talk, code walkthroughs and Q&amp;amp;A:
-
-A few highlights from the talk:
- a trusted execution environment can be implemented in various ways, Intel SGX being one that is usable today (with others in development, e.</description>
-    </item>
-    
-    <item>
-      <title>Virtual Meetup #22 wrap-up</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</link>
-      <pubDate>Sun, 31 Oct 2021 14:00:00 +0100</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</guid>
       <description>Confidential Computing with Go We had a great presentation by Moritz Eckert from edgeless systems about Confidential Computing with Go, and especially ego.dev, a modified Go compiler and additional tooling which allows you to run code within a trusted execution environment like Intel® SGX enclaves with zero code changes.
 Here&amp;rsquo;s a recording of the talk, code walkthroughs and Q&amp;amp;A:
 

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Virtual Meetup #22 wrap-up | Leipzig Gophers</title>
+    <title>Virtual Meetup #23 wrap-up | Leipzig Gophers</title>
 
     <style>body{margin:1em auto;padding:1em;color:#2f2d2e;max-width:45em;line-height:1.6;font-family:Georgia,serif;font-size:1.2em}h1{border-bottom:2pt solid #2f2d2e}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 .4em;display:inline-block}div.footer{border-top:1pt solid;text-align:center;padding:1em}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}@media(min-width:45em){div.tags{float:right}}img[src*="#half"]{width:50%}a{text-decoration:none;color:#35a7ff;border-bottom:2pt solid #fff}a:visited{color:#ff5964}a:hover{border-bottom:2pt solid #ff5964;transition:all 333ms ease-in}a.tag{padding:.1em .4em;background:#2f2d2e;color:#fff;text-decoration:none;border-radius:5pt}a.anchor{padding-right:.3em}</style>
 
@@ -28,11 +28,11 @@
 <div id="content">
 
 <header>
-    <h1 id="#virtual-meetup-22-wrap-up">
-        <a class="anchor" href="#virtual-meetup-22-wrap-up">🔗</a>Virtual Meetup #22 wrap-up</h1>
+    <h1 id="#virtual-meetup-23-wrap-up">
+        <a class="anchor" href="#virtual-meetup-23-wrap-up">🔗</a>Virtual Meetup #23 wrap-up</h1>
     
 
-<div class="post-meta"><time datetime="2021-10-31">Oct 31, 2021</time><div class="tags">
+<div class="post-meta"><time datetime="2021-11-26">Nov 26, 2021</time><div class="tags">
         Tags
         <a class="tag" href="https://golang-leipzig.github.io/tags/summary/">summary</a>
         <a class="tag" href="https://golang-leipzig.github.io/tags/meetup/">meetup</a>
@@ -40,47 +40,112 @@
 </div>
 </header>
 <article>
-    <h2 id="confidential-computing-with-go">Confidential Computing with Go</h2>
-<p>We had a great presentation by <a href="https://twitter.com/m1ghtymo">Moritz Eckert</a>
-from <a href="https://edgeless.systems">edgeless systems</a> about Confidential Computing
-with Go, and especially <a href="https://ego.dev">ego.dev</a>, a modified Go compiler and
-additional tooling which allows you to run code within a trusted execution
-environment like <a href="https://en.wikipedia.org/wiki/Software_Guard_Extensions">Intel® SGX
-enclaves</a> with zero
-code changes.</p>
-<p>Here&rsquo;s a recording of the talk, code walkthroughs and Q&amp;A:</p>
-<p><a href="https://www.youtube.com/watch?v=oycZLZdI8s8"><img src="https://img.youtube.com/vi/oycZLZdI8s8/0.jpg" alt="Leipzig Gophers #22: Confidential Computing with Go"></a></p>
-<p>A few highlights from the talk:</p>
+    <h2 id="summary">Summary</h2>
+<p>Originally planned on-site at <a href="https://www.sciendis.de/">Sciendis</a>, we had to
+meet online again, due to the <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-11-18.pdf?__blob=publicationFile">pandemic
+situation</a>.</p>
+<p>We had two input presentations, one about the role of Go in the tech stack of
+Sciendis and reason why Go may be a good choice; and one lightning talk about
+<a href="https://github.com/miku/dwstalk">a data web service</a>.</p>
+<h2 id="go-in-a-startup-environment">Go in a startup environment</h2>
+<p>Sciendis develops a React Native application called
+<a href="https://wundera.health/">Wundera</a> with the backend service being written in
+Go, in a classic cloud setup. Moving from six to two services (user, patient)
+proved beneficial, reduced code duplication and also lowered the data
+serialization overhead.</p>
+<p>A few points why Go is attractive:</p>
 <ul>
-<li>a trusted execution environment can be implemented in various ways, Intel SGX
-being one that is usable today (with others in development, e.g. <a href="https://www.arm.com/company/news/2021/06/arm-cca-will-put-confidential-compute-in-the-hands-of-every-developer">Arm
-CCA</a>, &hellip;)</li>
-<li>there are various applications, from security and privacy enhancements (e.g.
-medical records; private contact discovery in
-<a href="https://github.com/signalapp/ContactDiscoveryService">Signal</a> to data
-sharing options between mistrusting parties, e.g. federated learning)</li>
-<li>the <a href="https://sgx101.gitbook.io/sgx101/sgx-bootstrap/overview">SGX
-architecture</a> is
-not necessarily trival to implement as is — however, <a href="https://www.ego.dev/">ego</a> reduces the amount of
-work required for secure deployments of Go projects considerably: you can get started with a few commands and zero code changes</li>
-<li><a href="https://ego.dev">ego</a> builds on top of <a href="https://openenclave.io/sdk/">OpenEnclave</a>, an open source SDK that provides consistent API surface across enclave technologies</li>
+<li>easier language with fewer constructs results in less (cognitive) overhead; faster onboarding, maybe less code</li>
+<li>Go compiles to native Code, minimal requirements on deploy target</li>
+<li>Go garbage collector is minimalistic as well (see e.g. <a href="https://archive.fosdem.org/2019/schedule/event/gogc/attachments/slides/3134/export/events/attachments/gogc/slides/3134/Go_GC_Settings_Bryan_Boreham.pdf">Go GC
+Settings</a>)</li>
+<li>Go is still a fast language</li>
+<li>approachable concurrency</li>
+<li>community agreement over code style (no more code reviews discussion
+important, yet shallow problems of style)</li>
 </ul>
-<p>We looked at a few examples from the <a href="https://github.com/edgelesssys/ego">ego.dev</a> project:</p>
+<p>Interestingly, with Go you learn and use more the language itself (and its
+standard library) than a specific framework.</p>
+<h2 id="a-data-web-service">A data web service</h2>
+<p>A quick overview on a small web service built on sqlite,
+<a href="https://pkg.go.dev/net/http">net/http</a> and
+<a href="https://www.gorillatoolkit.org/">gorilla</a> handlers.</p>
+<p><a href="https://github.com/miku/dwstalk"><img src="https://github.com/miku/dwstalk/raw/main/static/Untitled-2020-06-15-1740.png" alt=""></a></p>
+<p>Notes: <a href="https://github.com/miku/dwstalk">A data web service</a></p>
+<h2 id="misc">Misc</h2>
 <ul>
-<li><a href="https://github.com/edgelesssys/ego/tree/master/samples/helloworld">helloworld</a></li>
-<li><a href="https://github.com/edgelesssys/ego/tree/master/samples/remote_attestation">remote attestation</a>, which shows how to connect to a secured server</li>
+<li>Java is drafting a lightweight concurrency model as an alternative to
+threads, see:
+<a href="https://openjdk.java.net/jeps/8277131">https://openjdk.java.net/jeps/8277131</a></li>
 </ul>
-<p>Confidential computing is most likely becoming more deployed in the coming
-years and it&rsquo;s really nice to be able to experiment and deploy solutions in Go
-today.</p>
-<h2 id="more-information">More information</h2>
+<blockquote>
+<p>Drastically reduce the effort of writing, maintaining, and observing
+high-throughput concurrent applications that make the best use of available
+hardware through virtual threads, a lightweight user-mode thread
+implementation with dramatically reduced costs.</p>
+</blockquote>
+<p>Interestingly, the argument of mismatch between application and language view on what the concurrent unit is, pops up:</p>
+<blockquote>
+<p>This results in the asynchronous style of programming, that not only requires
+a separate and incompatible set of APIs, but breaks the connection between
+the logical application unit (transaction) and the platform&rsquo;s unit (thread),
+which makes the platform unaware of the application&rsquo;s logical units.</p>
+</blockquote>
+<p>This argument appears also in <a href="https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/">Concurrency in
+Go</a>
+(which we discussed in <a href="https://golangleipzig.space/posts/meetup-7-invitation/">meetup #7</a>).</p>
 <ul>
-<li><a href="https://download.01.org/intel-sgx/linux-2.2/docs/Intel_SGX_Developer_Guide.pdf">Intel® Software Guard Extensions (Intel® SGX) Developer Guide</a></li>
-<li><a href="https://github.com/edgelesssys">Edgeless Systems GitHub</a>, open source components for Confidential Computing</li>
-<li><a href="https://openenclave.io">Open Enclave</a>, SDK</li>
-<li><a href="https://arxiv.org/abs/2107.09470">RandomClave</a> (2021) analyzes potential risks in a PoC ransomware attack using SGX</li>
-<li><a href="https://hal.archives-ouvertes.fr/hal-02947792/document">Everything You Should Know about Intel SGX Performance on Virtualized Systems</a> (2019), looks at performance implications of SGX</li>
-<li>more papers on the topics of Intel SGX and Confidential Computing on <a href="https://scholar.archive.org/search?q=%22intel+sgx%22+OR+%22confidential+computing%22&amp;sort_order=time_desc">Archive Scholar</a></li>
+<li>For ideas on idiomatic Go, see: <a href="https://go.dev/doc/effective_go">Effective Go</a></li>
+<li>Go has it dark corners, too - we are collecting some of them in <a href="https://github.com/golang-leipzig/gotchas">Go Gotchas</a></li>
+<li>End-to-end CI pipeline with GH
+<a href="https://github.com/features/actions">actions</a>,
+<a href="https://github.com/goreleaser/goreleaser">goreleaser</a> and
+<a href="https://github.com/google/ko">ko</a>:
+<a href="https://github.com/embano1/ci-demo-app">https://github.com/embano1/ci-demo-app</a></li>
+<li>Test options:
+<a href="https://github.com/stretchr/testify">https://github.com/stretchr/testify</a>,
+for integration tests <a href="https://github.com/testcontainers/testcontainers-go">test
+containers</a> can be used
+(example test suite <a href="https://github.com/miku/esbulk/blob/69db0fab576ff53ef40653f8696b3942e6e26734/run_test.go#L78-L106">starting elasticsearch
+servers</a>
+to test an indexing tool).</li>
+<li>In general, having you environment wrapped in containers (and a
+docker-compose to set them up) is a popular technique
+(<a href="https://news.ycombinator.com/item?id=25859588">discussion</a>- VS Code supports
+it, too:
+<a href="https://code.visualstudio.com/docs/remote/containers">https://code.visualstudio.com/docs/remote/containers</a></li>
+</ul>
+<ul>
+<li>especially via a <code>devcontainers.json</code> file in your repo:</li>
+</ul>
+<blockquote>
+<p>A devcontainer.json file in your project tells VS Code how to access (or
+create) a development container with a well-defined tool and runtime stack.</p>
+</blockquote>
+<ul>
+<li>Productive Postgres with Go: <a href="https://www.youtube.com/watch?v=AgHdVPSty7k">GopherCon 2020: Johan Brandhorst-Satzkorn - A Journey to Postgres Productivity with Go</a></li>
+<li>ORM tools seem to be a bit less used with Go, but options are <a href="https://gorm.io/index.html">GORM</a>, or also <a href="https://entgo.io/">ent</a></li>
+<li><a href="https://sqlite.org/">sqlite</a> is an awesome database, and since it&rsquo;s a stable platform, all kinds of
+project develop around or on top of it, like <a href="https://github.com/benbjohnson/litestream">streaming
+replication</a>, or
+<a href="https://github.com/internetarchive/trough">trough</a>; video recommendation: <a href="https://www.youtube.com/watch?v=RqubKSF3wig">David Crawshaw SQLite and Go</a></li>
+<li>For mocking time in tests: <a href="https://github.com/benbjohnson/clock">https://github.com/benbjohnson/clock</a></li>
+<li>Domain-driven design is a popular technique, originating from Eric Evans 2003
+book <a href="https://openlibrary.org/works/OL4464385W">Domain Driven Design</a>, with a
+good summary being: <a href="https://openlibrary.org/works/OL19546213W/">DDD
+Distilled</a></li>
+<li>If projects get bigger, put an <code>ARCHITECTURE.md</code> into the repo, e.g. <a href="https://github.com/kstenerud/go-concise-encoding/blob/master/ARCHITECTURE.md">like
+this</a>.</li>
+<li>Tabular test strategy to decouple language from <em>domain</em> content (<a href="https://gitlab.com/internetarchive/refcat/-/blob/master/skate/testdata/verify.csv">example</a> dealing with JSON document comparisons).</li>
+<li>Test augmentation library for Go: <a href="https://pkg.go.dev/gotest.tools/assert">https://pkg.go.dev/gotest.tools/assert</a>; also useful in tests to compare compound values: <a href="https://github.com/google/go-cmp">google/go-cmp</a></li>
+<li>Writeup on generics in Go: <a href="https://www.klingt.net/articles/go-generics-a-quick-overview.html">Go Generics - A Quick Overview</a></li>
+</ul>
+<p>Video recommendations:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=oL6JBUk6tj0">GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps</a></li>
+<li><a href="https://www.youtube.com/watch?v=vKbVrsMnhDc">dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture</a></li>
+<li><a href="https://www.youtube.com/watch?v=RqubKSF3wig">David Crawshaw SQLite and Go</a></li>
+<li>Channel: <a href="https://www.youtube.com/c/MarcelDempers">https://www.youtube.com/c/MarcelDempers</a></li>
 </ul>
 <hr>
 <p><a href="https://www.meetup.com/Leipzig-Golang">Join our meetup</a> to get notified of
