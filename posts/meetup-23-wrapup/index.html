@@ -138,6 +138,10 @@ Distilled</a></li>
 this</a>.</li>
 <li>Tabular test strategy to decouple language from <em>domain</em> content (<a href="https://gitlab.com/internetarchive/refcat/-/blob/master/skate/testdata/verify.csv">example</a> dealing with JSON document comparisons).</li>
 <li>Test augmentation library for Go: <a href="https://pkg.go.dev/gotest.tools/assert">https://pkg.go.dev/gotest.tools/assert</a>; also useful in tests to compare compound values: <a href="https://github.com/google/go-cmp">google/go-cmp</a></li>
+<li>If you want to test large data structures, snapshot testing may work: save
+expected output once, then compare against that snapshot afterwards
+(snapshotting is also usable for frontend, e.g. making sure your screen did not
+change by comparing a rending to a previous version in your test suite)</li>
 <li>Writeup on generics in Go: <a href="https://www.klingt.net/articles/go-generics-a-quick-overview.html">Go Generics - A Quick Overview</a></li>
 </ul>
 <p>Video recommendations:</p>
