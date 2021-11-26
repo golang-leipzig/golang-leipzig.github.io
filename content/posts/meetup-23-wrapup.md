@@ -13,8 +13,8 @@ Meetup #23, Nov 23, 2021, originally planned on-site at
 [Sciendis](https://www.sciendis.de/), moved online again, due to the [pandemic
 regulations](https://www.coronavirus.sachsen.de/download/SaechsCoronaNotVO-2021-11-19.pdf).
 
-We had two input presentations, one about the role of Go in the tech stack of
-Sciendis and reason why Go may be a good choice; and one lightning talk about
+We had two input presentations, one about *Go in a startup environment* at
+Sciendis and reasons why Go may be a good choice. And one lightning talk about
 [a data web service](https://github.com/miku/dwstalk).
 
 ## Go in a startup environment
