@@ -60,6 +60,7 @@ Media](https://www.oreilly.com/pub/cpc/323592) for their support.
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#23](https://golangleipzig.space/posts/meetup-23-wrapup/),
 [#22](https://golangleipzig.space/posts/meetup-22-wrapup/),
 [#21](https://golangleipzig.space/posts/meetup-21-wrapup/),
 [#20](https://golangleipzig.space/posts/meetup-20-wrapup/),
