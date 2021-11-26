@@ -114,6 +114,7 @@ Distilled](https://openlibrary.org/works/OL19546213W/)
 
 Video recommendations:
 
+* [GopherCon 2020: Johan Brandhorst-Satzkorn - A Journey to Postgres Productivity with Go](https://www.youtube.com/watch?v=AgHdVPSty7k)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 * [dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture](https://www.youtube.com/watch?v=vKbVrsMnhDc)
 * [David Crawshaw SQLite and Go](https://www.youtube.com/watch?v=RqubKSF3wig)
