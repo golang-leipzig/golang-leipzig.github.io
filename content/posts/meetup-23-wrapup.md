@@ -60,7 +60,7 @@ Notes: [A data web service](https://github.com/miku/dwstalk).
 > hardware through virtual threads, a lightweight user-mode thread
 > implementation with dramatically reduced costs.
 
-Interestingly, the argument of mismatch between application and language view on what the concurrent unit is, pops up:
+What a concurrency unit is depends on your perspective:
 
 > This results in the asynchronous style of programming, that not only requires
 > a separate and incompatible set of APIs, but breaks the connection between
