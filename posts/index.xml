@@ -14,7 +14,7 @@
       
       <guid>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</guid>
       <description>Summary Meetup #23, Nov 23, 2021, originally planned on-site at Sciendis, moved online again, due to the pandemic regulations.
-We had two input presentations, one about the role of Go in the tech stack of Sciendis and reason why Go may be a good choice; and one lightning talk about a data web service.
+We had two input presentations, one about Go in a startup environment at Sciendis and reasons why Go may be a good choice. And one lightning talk about a data web service.
 Go in a startup environment Sciendis develops a React Native application called Wundera with the backend service being written in Go, in a classic cloud setup.</description>
     </item>
     
