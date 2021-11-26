@@ -25,7 +25,7 @@ Go, in a classic cloud setup. Moving from six to two services (user, patient)
 proved beneficial, reduced code duplication and also lowered the data
 serialization overhead.
 
-A few points why Go is attractive:
+A few points why Go has been attractive:
 
 * easier language with fewer constructs results in less (cognitive) overhead; faster onboarding, maybe less code
 * Go compiles to native Code, minimal requirements on deploy target
@@ -41,7 +41,7 @@ standard library) than a specific framework.
 
 ## A data web service
 
-A quick overview on a small web service built on sqlite,
+A quick overview on a small web service built on [sqlite](https://sqlite.org),
 [net/http](https://pkg.go.dev/net/http) and
 [gorilla](https://www.gorillatoolkit.org/) handlers.
 
