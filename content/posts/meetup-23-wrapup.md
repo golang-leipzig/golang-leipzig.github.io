@@ -110,6 +110,10 @@ Distilled](https://openlibrary.org/works/OL19546213W/)
   this](https://github.com/kstenerud/go-concise-encoding/blob/master/ARCHITECTURE.md).
 * Tabular test strategy to decouple language from *domain* content ([example](https://gitlab.com/internetarchive/refcat/-/blob/master/skate/testdata/verify.csv) dealing with JSON document comparisons).
 * Test augmentation library for Go: [https://pkg.go.dev/gotest.tools/assert](https://pkg.go.dev/gotest.tools/assert); also useful in tests to compare compound values: [google/go-cmp](https://github.com/google/go-cmp)
+* If you want to test large data structures, snapshot testing may work: save
+  expected output once, then compare against that snapshot afterwards
+(snapshotting is also usable for frontend, e.g. making sure your screen did not
+change by comparing a rending to a previous version in your test suite)
 * Writeup on generics in Go: [Go Generics - A Quick Overview](https://www.klingt.net/articles/go-generics-a-quick-overview.html)
 
 Video recommendations:
