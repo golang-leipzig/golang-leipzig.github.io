@@ -69,7 +69,7 @@ What a concurrency unit is depends on your perspective:
 
 This argument appears also in [Concurrency in
 Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
-(which we discussed in [meetup #7](https://golangleipzig.space/posts/meetup-7-invitation/)).
+(which we discussed in [meetup #7](https://golangleipzig.space/posts/meetup-7-wrapup/)).
 
 * For ideas on idiomatic Go, see: [Effective Go](https://go.dev/doc/effective_go)
 * Go has it dark corners, too - we are collecting some of them in [Go Gotchas](https://github.com/golang-leipzig/gotchas)
