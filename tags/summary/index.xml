@@ -21,6 +21,19 @@ A few highlights from the talk:
     </item>
     
     <item>
+      <title>Virtual Meetup #22 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</link>
+      <pubDate>Sun, 31 Oct 2021 14:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</guid>
+      <description>Confidential Computing with Go We had a great presentation by Moritz Eckert from edgeless systems about Confidential Computing with Go, and especially ego.dev, a modified Go compiler and additional tooling which allows you to run code within a trusted execution environment like Intel® SGX enclaves with zero code changes.
+Here&amp;rsquo;s a recording of the talk, code walkthroughs and Q&amp;amp;A:
+
+A few highlights from the talk:
+ a trusted execution environment can be implemented in various ways, Intel SGX being one that is usable today (with others in development, e.</description>
+    </item>
+    
+    <item>
       <title>Virtual Meetup #21 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-21-wrapup/</link>
       <pubDate>Sun, 03 Oct 2021 14:00:00 +0200</pubDate>
