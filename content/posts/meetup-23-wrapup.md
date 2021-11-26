@@ -9,9 +9,9 @@ tags:
 
 ## Summary
 
-Originally planned on-site at [Sciendis](https://www.sciendis.de/), we had to
-meet online again, due to the [pandemic
-situation](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-11-18.pdf?__blob=publicationFile).
+Meetup #23, Nov 23, 2021, originally planned on-site at
+[Sciendis](https://www.sciendis.de/), moved online again, due to the [pandemic
+regulations](https://www.coronavirus.sachsen.de/download/SaechsCoronaNotVO-2021-11-19.pdf).
 
 We had two input presentations, one about the role of Go in the tech stack of
 Sciendis and reason why Go may be a good choice; and one lightning talk about
