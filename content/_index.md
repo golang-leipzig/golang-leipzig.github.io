@@ -55,6 +55,8 @@ We'd like to thank [edgeless systems](https://www.edgeless.systems) and
 [sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592) for their support.
 
+<a href="https://www.oreilly.com/pub/cpc/323592"><img width="400" src="https://www.oreilly.com/partner_file/oreilly.jpg" /></a>
+
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
