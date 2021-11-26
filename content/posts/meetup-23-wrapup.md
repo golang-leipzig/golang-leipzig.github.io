@@ -47,7 +47,7 @@ A quick overview on a small web service built on [sqlite](https://sqlite.org),
 
 [![](https://github.com/miku/dwstalk/raw/main/static/Untitled-2020-06-15-1740.png)](https://github.com/miku/dwstalk)
 
-Notes: [A data web service](https://github.com/miku/dwstalk)
+Notes: [A data web service](https://github.com/miku/dwstalk).
 
 ## Misc
 
