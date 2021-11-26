@@ -49,7 +49,7 @@ Go community by hosting a user group event? We do have presentations on
 interesting technical topics and spark lively discussions. If you are
 interested, [let's talk](mailto:martin.czygan@gmail.com).
 
-{{ <h2> }} Collaborations and Acknowledgements {{ </h2> }}
+{{ <h2> }} Contributions and Acknowledgements {{ </h2> }}
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems) and
 [sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
