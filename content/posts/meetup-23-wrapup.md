@@ -89,8 +89,7 @@ to test an indexing tool).
   docker-compose to set them up) is a popular technique
 ([discussion](https://news.ycombinator.com/item?id=25859588)- VS Code supports
 it, too:
-[https://code.visualstudio.com/docs/remote/containers](https://code.visualstudio.com/docs/remote/containers)
-- especially via a `devcontainers.json` file in your repo:
+[https://code.visualstudio.com/docs/remote/containers](https://code.visualstudio.com/docs/remote/containers) especially via a `devcontainers.json` file in your repo:
 
 > A devcontainer.json file in your project tells VS Code how to access (or
 > create) a development container with a well-defined tool and runtime stack.
