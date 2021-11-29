@@ -72,8 +72,8 @@ Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 (which we discussed in [meetup #7](https://golangleipzig.space/posts/meetup-7-wrapup/)).
 
 * For ideas on idiomatic Go, see: [Effective Go](https://go.dev/doc/effective_go)
-* Go has it dark corners, too - we are collecting some of them in [Go Gotchas](https://github.com/golang-leipzig/gotchas)
-* End-to-end CI pipeline with GH
+* Go has its dark corners too - we are collecting some of them in [Go Gotchas](https://github.com/golang-leipzig/gotchas)
+* End-to-end CI pipeline with GitHub
   [actions](https://github.com/features/actions),
 [goreleaser](https://github.com/goreleaser/goreleaser) and
 [ko](https://github.com/google/ko):
@@ -85,13 +85,13 @@ containers](https://github.com/testcontainers/testcontainers-go) can be used
 (example test suite [starting elasticsearch
 servers](https://github.com/miku/esbulk/blob/69db0fab576ff53ef40653f8696b3942e6e26734/run_test.go#L78-L106)
 to test an indexing tool).
-* In general, having you environment wrapped in containers (and a
+* In general, having your environment wrapped in containers (and a
   docker-compose to set them up) is a popular technique
-([discussion](https://news.ycombinator.com/item?id=25859588)- VS Code supports
+([discussion](https://news.ycombinator.com/item?id=25859588)) VS Code supports
 it, too:
 [https://code.visualstudio.com/docs/remote/containers](https://code.visualstudio.com/docs/remote/containers) especially via a `devcontainers.json` file in your repo:
 
-> A devcontainer.json file in your project tells VS Code how to access (or
+> A `devcontainer.json` file in your project tells VS Code how to access (or
 > create) a development container with a well-defined tool and runtime stack.
 
 * Productive Postgres with Go: [GopherCon 2020: Johan Brandhorst-Satzkorn - A Journey to Postgres Productivity with Go](https://www.youtube.com/watch?v=AgHdVPSty7k)
@@ -112,7 +112,7 @@ Distilled](https://openlibrary.org/works/OL19546213W/)
 * If you want to test large data structures, snapshot testing may work: save
   expected output once, then compare against that snapshot afterwards
 (snapshotting is also usable for frontend, e.g. making sure your screen did not
-change by comparing a rending to a previous version in your test suite)
+change by comparing a rendering to a previous version in your test suite)
 * Writeup on generics in Go: [Go Generics - A Quick Overview](https://www.klingt.net/articles/go-generics-a-quick-overview.html)
 
 Video recommendations:
