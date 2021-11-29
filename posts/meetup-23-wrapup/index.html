@@ -96,8 +96,8 @@ Go</a>
 (which we discussed in <a href="https://golangleipzig.space/posts/meetup-7-wrapup/">meetup #7</a>).</p>
 <ul>
 <li>For ideas on idiomatic Go, see: <a href="https://go.dev/doc/effective_go">Effective Go</a></li>
-<li>Go has it dark corners, too - we are collecting some of them in <a href="https://github.com/golang-leipzig/gotchas">Go Gotchas</a></li>
-<li>End-to-end CI pipeline with GH
+<li>Go has its dark corners too - we are collecting some of them in <a href="https://github.com/golang-leipzig/gotchas">Go Gotchas</a></li>
+<li>End-to-end CI pipeline with GitHub
 <a href="https://github.com/features/actions">actions</a>,
 <a href="https://github.com/goreleaser/goreleaser">goreleaser</a> and
 <a href="https://github.com/google/ko">ko</a>:
@@ -109,14 +109,14 @@ containers</a> can be used
 (example test suite <a href="https://github.com/miku/esbulk/blob/69db0fab576ff53ef40653f8696b3942e6e26734/run_test.go#L78-L106">starting elasticsearch
 servers</a>
 to test an indexing tool).</li>
-<li>In general, having you environment wrapped in containers (and a
+<li>In general, having your environment wrapped in containers (and a
 docker-compose to set them up) is a popular technique
-(<a href="https://news.ycombinator.com/item?id=25859588">discussion</a>- VS Code supports
+(<a href="https://news.ycombinator.com/item?id=25859588">discussion</a>) VS Code supports
 it, too:
 <a href="https://code.visualstudio.com/docs/remote/containers">https://code.visualstudio.com/docs/remote/containers</a> especially via a <code>devcontainers.json</code> file in your repo:</li>
 </ul>
 <blockquote>
-<p>A devcontainer.json file in your project tells VS Code how to access (or
+<p>A <code>devcontainer.json</code> file in your project tells VS Code how to access (or
 create) a development container with a well-defined tool and runtime stack.</p>
 </blockquote>
 <ul>
@@ -138,7 +138,7 @@ this</a>.</li>
 <li>If you want to test large data structures, snapshot testing may work: save
 expected output once, then compare against that snapshot afterwards
 (snapshotting is also usable for frontend, e.g. making sure your screen did not
-change by comparing a rending to a previous version in your test suite)</li>
+change by comparing a rendering to a previous version in your test suite)</li>
 <li>Writeup on generics in Go: <a href="https://www.klingt.net/articles/go-generics-a-quick-overview.html">Go Generics - A Quick Overview</a></li>
 </ul>
 <p>Video recommendations:</p>
