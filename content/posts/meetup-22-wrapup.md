@@ -52,6 +52,7 @@ today.
 * [Open Enclave](https://openenclave.io), SDK
 * [RandomClave](https://arxiv.org/abs/2107.09470) (2021) analyzes potential risks in a PoC ransomware attack using SGX
 * [Everything You Should Know about Intel SGX Performance on Virtualized Systems](https://hal.archives-ouvertes.fr/hal-02947792/document) (2019), looks at performance implications of SGX
+* [Bunnie](https://www.bunniestudios.com/) [mentioning secure enclaves](https://youtu.be/Fw5FEuGRrLE?t=534)
 * more papers on the topics of Intel SGX and Confidential Computing on [Archive Scholar](https://scholar.archive.org/search?q=%22intel+sgx%22+OR+%22confidential+computing%22&sort_order=time_desc)
 
 
