@@ -35,6 +35,9 @@ A few points why Go has been attractive:
 * approachable concurrency
 * community agreement over code style (no more code reviews discussion
   important, yet shallow problems of style)
+* the Go approach to evolve abstractions during the development process using
+  [structural typing](https://en.wikipedia.org/wiki/Structural_type_system) may mirror project evolution better than upfront
+designs
 
 Interestingly, with Go you learn and use more the language itself (and its
 standard library) than a specific framework.
@@ -104,7 +107,10 @@ replication](https://github.com/benbjohnson/litestream), or
 * Domain-driven design is a popular technique, originating from Eric Evans 2003
   book [Domain Driven Design](https://openlibrary.org/works/OL4464385W), with a
 good summary being: [DDD
-Distilled](https://openlibrary.org/works/OL19546213W/)
+Distilled](https://openlibrary.org/works/OL19546213W/) -- we asked, how a DDD
+and idiomatic Go fits together; in essence DDD is a tool and if you start with
+a tool (e.g. DDD), you may miss to start with the actual problem, you are trying to solve
+(that said, tools are great and certainly necessary)
 * If projects get bigger, put an `ARCHITECTURE.md` into the repo, e.g. [like
   this](https://github.com/kstenerud/go-concise-encoding/blob/master/ARCHITECTURE.md).
 * Tabular test strategy to decouple language from *domain* content ([example](https://gitlab.com/internetarchive/refcat/-/blob/master/skate/testdata/verify.csv) dealing with JSON document comparisons).
@@ -114,6 +120,7 @@ Distilled](https://openlibrary.org/works/OL19546213W/)
 (snapshotting is also usable for frontend, e.g. making sure your screen did not
 change by comparing a rendering to a previous version in your test suite)
 * Writeup on generics in Go: [Go Generics - A Quick Overview](https://www.klingt.net/articles/go-generics-a-quick-overview.html)
+
 
 Video recommendations:
 
