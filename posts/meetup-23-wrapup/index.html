@@ -63,6 +63,9 @@ Settings</a>)</li>
 <li>approachable concurrency</li>
 <li>community agreement over code style (no more code reviews discussion
 important, yet shallow problems of style)</li>
+<li>the Go approach to evolve abstractions during the development process using
+<a href="https://en.wikipedia.org/wiki/Structural_type_system">structural typing</a> may mirror project evolution better than upfront
+designs</li>
 </ul>
 <p>Interestingly, with Go you learn and use more the language itself (and its
 standard library) than a specific framework.</p>
@@ -130,7 +133,10 @@ replication</a>, or
 <li>Domain-driven design is a popular technique, originating from Eric Evans 2003
 book <a href="https://openlibrary.org/works/OL4464385W">Domain Driven Design</a>, with a
 good summary being: <a href="https://openlibrary.org/works/OL19546213W/">DDD
-Distilled</a></li>
+Distilled</a> &ndash; we asked, how a DDD
+and idiomatic Go fits together; in essence DDD is a tool and if you start with
+a tool (e.g. DDD), you may miss to start with the actual problem, you are trying to solve
+(that said, tools are great and certainly necessary)</li>
 <li>If projects get bigger, put an <code>ARCHITECTURE.md</code> into the repo, e.g. <a href="https://github.com/kstenerud/go-concise-encoding/blob/master/ARCHITECTURE.md">like
 this</a>.</li>
 <li>Tabular test strategy to decouple language from <em>domain</em> content (<a href="https://gitlab.com/internetarchive/refcat/-/blob/master/skate/testdata/verify.csv">example</a> dealing with JSON document comparisons).</li>
