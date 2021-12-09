@@ -5,9 +5,9 @@ draft: false
 
 We're hosting a [Go](https://golang.org/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
-events so far. Meetup #24 is scheduled for [Tuesday, Dec 21, 2021 19:00
-CEST](https://www.meetup.com/Leipzig-Golang/events/277710643/) 🎄 - and we try
-to prepare something special this year.
+events so far. [Meetup #24](https://golangleipzig.space/posts/meetup-24-invitation/) is scheduled for [Tuesday, Dec 21, 2021 19:00
+CET](https://www.meetup.com/Leipzig-Golang/events/277710643/) 🎄 - and we are
+preparing something special for the last meetup of 2021.
 
 ----
 
