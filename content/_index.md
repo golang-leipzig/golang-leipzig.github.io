@@ -54,7 +54,12 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems) and
 [sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
-Media](https://www.oreilly.com/pub/cpc/323592) and [Jetbrains](https://www.jetbrains.com/) for their support.
+Media](https://www.oreilly.com/pub/cpc/323592) and
+[Jetbrains](https://www.jetbrains.com/) for their support.
+
+If you are interested in supporting our event, please [reach
+out](mailto:martin.czygan@gmail.com); for current activities around sponsoring,
+see: [Sponsoring.md](https://git.io/JDIwz).
 
 <!-- [![](https://www.oreilly.com/partner_file/oreilly.jpg)](https://www.oreilly.com/pub/cpc/323592) -->
 
