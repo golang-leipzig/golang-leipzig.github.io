@@ -18,18 +18,17 @@ As any language, Go has dark corners and
 [gotchas](https://github.com/golang-leipzig/gotchas) but also some lesser known
 features.
 
-We're lucky to have [Jetbrains](https://www.jetbrains.com/), [About
-You](https://www.aboutyou.de/)
-([jobs](https://corporate.aboutyou.de/en/jobs/senior-golang-developer)) and
-[O'Reilly Media](https://www.oreilly.com/) sponsoring vouchers and books for
-this event. Additionally, we are giving away Go pins and posters.
+We're lucky to have [Jetbrains](https://www.jetbrains.com/) and [O'Reilly
+Media](https://www.oreilly.com/) sponsoring vouchers and books for this event.
+Additionally, we are giving away Go pins and posters.
 
+![](/images/gopher10th-small-50.jpg)
 
 [Join us via Google Meet](https://meet.google.com/ous-mtys-wsx).
 
 ----
 
-Join us to  all things Go and security!
+Join us to discuss all things Go and win prizes!
 
 See you!
 
