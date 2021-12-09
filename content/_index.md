@@ -50,18 +50,6 @@ Go community by hosting a user group event? We do have presentations on
 interesting technical topics and spark lively discussions. If you are
 interested, [let's talk](mailto:martin.czygan@gmail.com).
 
-{{< h2 >}} Contributions and Acknowledgements {{< /h2 >}}
-
-We'd like to thank [edgeless systems](https://www.edgeless.systems) and
-[sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
-Media](https://www.oreilly.com/pub/cpc/323592) and
-[Jetbrains](https://www.jetbrains.com/) for their support.
-
-If you are interested in supporting our event, please [reach
-out](mailto:martin.czygan@gmail.com); for current activities around sponsoring,
-see: [Sponsoring.md](https://git.io/JDIwz).
-
-<!-- [![](https://www.oreilly.com/partner_file/oreilly.jpg)](https://www.oreilly.com/pub/cpc/323592) -->
 
 {{< h2 >}}Meetup log{{< /h2 >}}
 
@@ -89,3 +77,18 @@ We try to sum up every meetup in a short blog post:
 [#3](https://golangleipzig.space/posts/meetup-3-wrapup/),
 [#2](https://golangleipzig.space/posts/second-meetup-wrapup/),
 [#1](https://golangleipzig.space/posts/meetup-launched/).
+
+{{< h2 >}} Contributions, Acknowledgements and Sponsors {{< /h2 >}}
+
+We'd like to thank [edgeless systems](https://www.edgeless.systems) and
+[sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
+Media](https://www.oreilly.com/pub/cpc/323592) and
+[Jetbrains](https://www.jetbrains.com/) for their support.
+
+[![](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
+
+If you are interested in supporting our event, please [reach
+out](mailto:martin.czygan@gmail.com); for current activities around sponsoring,
+see: [Sponsoring.md](https://git.io/JDIwz).
+
+<!-- [![](https://www.oreilly.com/partner_file/oreilly.jpg)](https://www.oreilly.com/pub/cpc/323592) -->
