@@ -9,8 +9,8 @@ Since 09/2021, participation in Jetbrains' user group outreach program: [https:/
 
 ## 2021-12-09
 
-* [blog post](https://golangleipzig.space/posts/meetup-24-invitation/) for meetup #24, mentioning sponsors for the event: [Jetbrains](https://www.jetbrains.com) and [O'Reilly](https://www.oreilly.com)
-* announcement of event on [meetup.com](https://www.meetup.com/Leipzig-Golang/events/277710643/) to 315 members, mentioning sponsors for the event: [Jetbrains](https://www.jetbrains.com) and [O'Reilly](https://www.oreilly.com)
+* [blog post](https://golangleipzig.space/posts/meetup-24-invitation/) for meetup #24, mentioning sponsors for the event: [Jetbrains](https://www.jetbrains.com) and [O'Reilly Media](https://www.oreilly.com)
+* announcement of event on [meetup.com](https://www.meetup.com/Leipzig-Golang/events/277710643/) to 315 members, mentioning sponsors for the event: [Jetbrains](https://www.jetbrains.com) and [O'Reilly Media](https://www.oreilly.com)
 
 ## 2021-11-29
 
