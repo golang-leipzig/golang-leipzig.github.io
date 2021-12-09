@@ -40,7 +40,7 @@ roadmap for the next few events and we would love to see people bring their
 ideas and projects [via email](mailto:martin.czygan@gmail.com)
 * join
   [us](https://www.meetup.com/Leipzig-Golang/members/?op=leaders)
-organizing this (just [drop me an email](mailto:martin.czygan@gmail.com); we
+organizing this (just [drop us an email](mailto:martin.czygan@gmail.com); we
 have a few nice ideas for events already, but help is always appreciated)
 
 {{< h2 >}}Want to host a meetup at your company?{{< /h2 >}}
