@@ -78,7 +78,7 @@ We try to sum up every meetup in a short blog post:
 [#2](https://golangleipzig.space/posts/second-meetup-wrapup/),
 [#1](https://golangleipzig.space/posts/meetup-launched/).
 
-{{< h2 >}} Contributions, Acknowledgements and Sponsors {{< /h2 >}}
+{{< h2 >}} Contributions and Sponsors {{< /h2 >}}
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems) and
 [sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
