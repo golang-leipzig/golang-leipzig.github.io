@@ -1,7 +1,7 @@
 ---
 title: "Virtual Meetup #24 invitation"
 date: 2021-12-09T11:00:00+02:00
-draft: true
+draft: false
 tags:
 - announcement
 - meetup
@@ -22,11 +22,9 @@ We're lucky to have [Jetbrains](https://www.jetbrains.com/) and [O'Reilly
 Media](https://www.oreilly.com/) sponsoring vouchers and books for this event.
 Additionally, we are giving away Go pins and posters.
 
-![](/images/gopher10th-small-50.jpg)
-
 [Join us via Google Meet](https://meet.google.com/ous-mtys-wsx).
 
-----
+![](/images/gopher10th-small-50.jpg)
 
 Join us to discuss all things Go and win prizes!
 
