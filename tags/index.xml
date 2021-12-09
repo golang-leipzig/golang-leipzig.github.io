@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 11:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>announcement</title>
+      <link>https://golang-leipzig.github.io/tags/announcement/</link>
+      <pubDate>Thu, 09 Dec 2021 11:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>meetup</title>
       <link>https://golang-leipzig.github.io/tags/meetup/</link>
-      <pubDate>Fri, 26 Nov 2021 14:00:00 +0100</pubDate>
+      <pubDate>Thu, 09 Dec 2021 11:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/tags/meetup/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Fri, 26 Nov 2021 14:00:00 +0100</pubDate>
       
       <guid>https://golang-leipzig.github.io/tags/summary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>announcement</title>
-      <link>https://golang-leipzig.github.io/tags/announcement/</link>
-      <pubDate>Fri, 05 Nov 2021 16:00:00 +0100</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/tags/announcement/</guid>
       <description></description>
     </item>
     

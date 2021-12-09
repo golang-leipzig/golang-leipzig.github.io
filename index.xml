@@ -6,7 +6,19 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 11:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #24 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-24-invitation/</link>
+      <pubDate>Thu, 09 Dec 2021 11:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-24-invitation/</guid>
+      <description>Hello, 世界!
+For virtual meetup #24 - scheduled 2021-12-21, 19:00 CET we&amp;rsquo;re inviting you to test your knowledge of Go. We&amp;rsquo;re planning a fun quiz and we&amp;rsquo;re going to have a few prizes, too!
+As any language, Go has dark corners and gotchas but also some lesser known features.
+We&amp;rsquo;re lucky to have Jetbrains and O&amp;rsquo;Reilly Media sponsoring vouchers and books for this event. Additionally, we are giving away Go pins and posters.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #23 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-23-wrapup/</link>
