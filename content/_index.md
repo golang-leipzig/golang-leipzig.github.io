@@ -82,10 +82,11 @@ We try to sum up every meetup in a short blog post:
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems) and
 [sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
-Media](https://www.oreilly.com/pub/cpc/323592) and
-[Jetbrains](https://www.jetbrains.com/) for their support.
+Media](https://www.oreilly.com/pub/cpc/323592),
+[Jetbrains](https://www.jetbrains.com/) and [AboutYou](https://www.aboutyou.com) for their support.
 
-[![](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
+[![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
+[![aboutyou logo](/images/aboutyou-small.png)](https://www.aboutyou.com)
 
 If you are interested in supporting our event, please [reach
 out](mailto:martin.czygan@gmail.com); for current activities around sponsoring,
