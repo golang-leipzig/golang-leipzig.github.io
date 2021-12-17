@@ -81,9 +81,11 @@ We try to sum up every meetup in a short blog post:
 {{< h2 >}} Contributions and Sponsors {{< /h2 >}}
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems) and
-[sciendis](https://www.sciendis.de/) for their contributions and [O'Reilly
+[sciendis](https://www.sciendis.de/) for their contributions and [Manning
+Publications](https://www.manning.com/), [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592),
-[Jetbrains](https://www.jetbrains.com/) and [AboutYou](https://www.aboutyou.com) for their support.
+[Jetbrains](https://www.jetbrains.com/) and
+[AboutYou](https://www.aboutyou.com) for their support.
 
 [![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
 [![aboutyou logo](/images/aboutyou-small.png)](https://www.aboutyou.com)
