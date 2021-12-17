@@ -7,6 +7,10 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2021-12-17
+
+* add [Manning Publications](https://www.manning.com/) as sponsor on homepage
+
 ## 2021-12-09
 
 * [blog post](https://golangleipzig.space/posts/meetup-24-invitation/) for meetup #24, mentioning sponsors for the event: [Jetbrains](https://www.jetbrains.com), [O'Reilly Media](https://www.oreilly.com) and [AboutYou](https://www.aboutyou.com).
