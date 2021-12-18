@@ -9,7 +9,7 @@ Since 09/2021, participation in Jetbrains' user group outreach program: [https:/
 
 ## 2021-12-17
 
-* add [Manning Publications](https://www.manning.com/) as sponsor on homepage
+* add [Manning Publications](https://www.manning.com/) as sponsor on homepage; [#24](https://golangleipzig.space/posts/meetup-24-invitation/)
 
 ## 2021-12-09
 
