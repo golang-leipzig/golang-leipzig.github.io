@@ -89,6 +89,7 @@ Media](https://www.oreilly.com/pub/cpc/323592),
 
 [![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
 [![aboutyou logo](/images/aboutyou-small.png)](https://www.aboutyou.com)
+[![manning logo](/images/Manninglogo_outline.png)](https://manning.com)
 
 If you are interested in supporting our event, please [reach
 out](mailto:martin.czygan@gmail.com); for current activities around sponsoring,
