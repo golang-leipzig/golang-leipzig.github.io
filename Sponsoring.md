@@ -9,7 +9,10 @@ Since 09/2021, participation in Jetbrains' user group outreach program: [https:/
 
 ## 2021-12-20
 
-* announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on gophers slack (OR, MA, AY, JB); 399 members; [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2021-12-20-16-41-21.png)
+* announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on
+  gophers slack (OR, MA, AY, JB); 2 groups; 399 members and 5509 members;
+[screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2021-12-20-16-41-21.png),
+[screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2021-12-20-17-44-57.png)
 * announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on
   XING, [personal feed](https://www.xing.com/home/stories/6078666513) and [Go
 group](https://www.xing.com/communities/posts/virtual-meetup-number-24-invitation-leipzig-gophers-1023435721)
