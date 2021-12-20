@@ -14,7 +14,7 @@ Since 09/2021, participation in Jetbrains' user group outreach program: [https:/
   XING, [personal feed](https://www.xing.com/home/stories/6078666513) and [Go
 group](https://www.xing.com/communities/posts/virtual-meetup-number-24-invitation-leipzig-gophers-1023435721)
 (407 members);
-[https://www.xing.com/home/stories/6078666513](https://www.xing.com/home/stories/6078666513); [https://www.xing.com/communities/posts/virtual-meetup-number-24-invitation-leipzig-gophers-1023435721](https://www.xing.com/communities/posts/virtual-meetup-number-24-invitation-leipzig-gophers-1023435721)
+[https://www.xing.com/home/stories/6078666513](https://www.xing.com/home/stories/6078666513); [https://www.xing.com/communities/posts/virtual-meetup-number-24-invitation-leipzig-gophers-1023435721](https://www.xing.com/communities/posts/virtual-meetup-number-24-invitation-leipzig-gophers-1023435721);
 [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2021-12-20-17-23-00.png)
 
 ## 2021-12-17
