@@ -11,6 +11,7 @@ Since 09/2021, participation in Jetbrains' user group outreach program: [https:/
 
 * announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on
   LinkedIn: [https://www.linkedin.com/posts/martin-czygan-58348842_quiz-go-programming-activity-6879000055920001024-puT9](https://www.linkedin.com/posts/martin-czygan-58348842_quiz-go-programming-activity-6879000055920001024-puT9)
+* reminder via group message; 318 members; mention all sponsors; pass along Manning 35% coupon code
 
 ## 2021-12-20
 
