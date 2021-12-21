@@ -7,6 +7,11 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2021-12-21
+
+* announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on
+  LinkedIn: [https://www.linkedin.com/posts/martin-czygan-58348842_quiz-go-programming-activity-6879000055920001024-puT9](https://www.linkedin.com/posts/martin-czygan-58348842_quiz-go-programming-activity-6879000055920001024-puT9)
+
 ## 2021-12-20
 
 * announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on
