@@ -22,6 +22,8 @@ A special thanks 💕 our sponsors:
 
 Happy holidays!
 
+![](/images/meetup-24-prizes.png)
+
 ----
 
 [Join our meetup](https://www.meetup.com/Leipzig-Golang) to get notified of
