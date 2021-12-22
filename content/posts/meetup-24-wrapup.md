@@ -17,7 +17,7 @@ A special thanks 💕 our sponsors:
 
 * [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592)
 * [Manning Publications](https://manning.com)
-* [About You](https://www.aboutyou.com) ([jobs](https://corporate.aboutyou.de/en/jobs/senior-golang-developer), ...)
+* [About You](https://www.aboutyou.com) (check out [jobs](https://corporate.aboutyou.de/en/jobs/senior-golang-developer))
 * [Jetbrains](https://www.jetbrains.com/)
 
 Happy holidays!
