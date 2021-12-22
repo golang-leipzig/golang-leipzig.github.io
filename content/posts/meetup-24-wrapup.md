@@ -13,7 +13,7 @@ Thanks everyone for joining our quiz night at virtual meetup #24, Dec 21, 2021;
 we got through 16 of our 24 prepared questions - from easy to hard. Most prizes
 are already on their way.
 
-A special thanks 💕 our sponsors:
+A special thanks 💕 to our sponsors:
 
 * [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592)
 * [Manning Publications](https://manning.com)
