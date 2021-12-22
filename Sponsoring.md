@@ -7,6 +7,10 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2021-12-22
+
+* wrapup [#24](https://golangleipzig.space/posts/meetup-24-wrapup/), mention sponsors
+
 ## 2021-12-21
 
 * announce [#24](https://golangleipzig.space/posts/meetup-24-invitation/) on
