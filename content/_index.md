@@ -91,7 +91,7 @@ Media](https://www.oreilly.com/pub/cpc/323592),
 [![manning logo](/images/Manninglogo_outline-10.png)](https://manning.com)
 
 If you are interested in supporting our event, please [reach
-out](mailto:martin.czygan@gmail.com); for current activities around sponsoring,
+out](mailto:martin.czygan@gmail.com); for activities around sponsoring,
 see: [Sponsoring.md](https://git.io/JDIwz).
 
 <!-- [![](https://www.oreilly.com/partner_file/oreilly.jpg)](https://www.oreilly.com/pub/cpc/323592) -->
