@@ -10,12 +10,12 @@ Unfortunately, most of the meetups were remote-only again in 2021 - however, on
 the plus side:
 
 * we started with a new Leipzig Gopher mascot - thanks [@klingtnet](https://www.klingt.net/)
-* we grew from 194 to 324 [members](https://www.meetup.com/Leipzig-Golang/) in just eleven months
+* we grew from 194 to 324 [members](https://www.meetup.com/Leipzig-Golang/) in just eleven months 📈
 * we had nine events, eight online, one offline ([#20](https://golangleipzig.space/posts/meetup-20-invitation/))
 * we had presentations from two German startup companies ([#22](https://golangleipzig.space/posts/meetup-22-wrapup/), [#23](https://golangleipzig.space/posts/meetup-23-wrapup/))
-* we started a [youtube channel](https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ) (thanks [@embano1](https://twitter.com/embano1/)), recorded three great talks (18 subscribers, 330+ views)
-* we had a first (X-mas) quiz night ([#24](https://golangleipzig.space/posts/meetup-24-wrapup/)) on Go and some [go gotchas](https://github.com/golang-leipzig/gotchas) and found great sponsors like [Jetbrains](https://jetbrains.com/), [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592), [Manning Publications](https://www.manning.com/) and [About You](https://www.aboutyou.com/) ([jobs](https://corporate.aboutyou.de/en/jobs/senior-golang-developer))
-* we continued to have people joining from around the world, which is incredible
+* we started a [YouTube channel](https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ) (thanks [@embano1](https://twitter.com/embano1/)), recorded three great talks (18 subscribers, 330+ views) 📹
+* we had a first (X-mas 🎄) quiz night ([#24](https://golangleipzig.space/posts/meetup-24-wrapup/)) on Go and some [Go gotchas](https://github.com/golang-leipzig/gotchas) and found great sponsors like [Jetbrains](https://jetbrains.com/), [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592), [Manning Publications](https://www.manning.com/) and [About You](https://www.aboutyou.com/) ([jobs](https://corporate.aboutyou.de/en/jobs/senior-golang-developer)) 🎁
+* we continued to have people joining from around the world, which is incredible 🌐
+* we had a lovely time hosting the meetup and hope you had that too
 
-Thanks everyone for participating, we hope to see you again in 2022.
-
+Thanks everyone for participating, we hope to see you again in 2022!
