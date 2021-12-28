@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
-events so far. Happy holidays!
+events so far. See you in 2022!
 
 ----
 
