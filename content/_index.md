@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
-events so far. See you in 2022!
+events so far. We plan six events for 2022, the first will be Leipzig Gophers #25 on [Feb 22, 2022 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/282941887/).
 
 ----
 
