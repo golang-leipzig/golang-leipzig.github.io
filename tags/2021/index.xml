@@ -6,13 +6,13 @@
     <description>Recent content in 2021 on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 22:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021</title>
-      <link>https://golang-leipzig.github.io/posts/2021-review/</link>
-      <pubDate>Tue, 28 Dec 2021 22:00:00 +0200</pubDate>
+      <link>https://golang-leipzig.github.io/posts/2021/</link>
+      <pubDate>Wed, 29 Dec 2021 22:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/2021-review/</guid>
+      <guid>https://golang-leipzig.github.io/posts/2021/</guid>
       <description>Unfortunately, most of the meetups were remote-only again in 2021 - however, on the plus side:
  we started with a new Leipzig Gopher mascot - thanks @klingtnet we grew from 194 to 324 members in just eleven months 📈 we had nine events, eight online, one offline (#20) we had presentations from two German startup companies (#22, #23) we started a YouTube channel (thanks @embano1), recorded three great talks (18 subscribers, 330+ views) 📹 we had a first (X-mas 🎄) quiz night (#24) on Go and some Go gotchas and found great sponsors like Jetbrains, O&amp;rsquo;Reilly Media, Manning Publications and About You (jobs) 🎁 we continued to have people joining from around the world, which is incredible 🌐 we had a lovely time hosting the meetup and hope you had that too  Thanks everyone for participating, we hope to see you again in 2022!</description>
     </item>
