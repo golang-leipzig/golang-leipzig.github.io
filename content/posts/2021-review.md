@@ -1,7 +1,7 @@
 ---
-title: "2021 review"
+title: "2021"
 date: 2021-12-28T22:00:00+02:00
-draft: true
+draft: false
 tags:
 - 2021
 ---
@@ -18,4 +18,4 @@ the plus side:
 * we continued to have people joining from around the world, which is incredible 🌐
 * we had a lovely time hosting the meetup and hope you had that too
 
-Thanks everyone for participating, we hope to see you again in 2022!
+Thanks everyone for participating, we hope to [see you again](https://www.meetup.com/Leipzig-Golang/) in 2022!
