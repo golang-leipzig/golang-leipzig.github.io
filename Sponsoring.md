@@ -7,6 +7,13 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-02-15
+
+* announce [#25](https://golangleipzig.space/posts/meetup-25-invitation/),
+  mention Jetbrains and Manning Publications as sponsor in
+[blog](https://golangleipzig.space/posts/meetup-25-invitation/) and
+[meetup](https://www.meetup.com/Leipzig-Golang/events/282941887/) (346 members)
+
 ## 2021-12-22
 
 * wrapup [#24](https://golangleipzig.space/posts/meetup-24-wrapup/), mention sponsors
