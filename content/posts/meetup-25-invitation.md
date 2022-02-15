@@ -13,7 +13,7 @@ Join us for [meetup #25](https://www.meetup.com/Leipzig-Golang/events/282941887/
 19:00 CET via Google Meet:
 [https://meet.google.com/fqi-juff-zwy](https://meet.google.com/fqi-juff-zwy).
 
-We'll take a closer look at the [upcoming 1.18](https://tip.golang.org/doc/go1.18), especially [generics](https://tip.golang.org/doc/go1.18#generics).
+We'll take a closer look at the [upcoming Go 1.18](https://tip.golang.org/doc/go1.18) release, especially [generics](https://tip.golang.org/doc/go1.18#generics).
 
 Thanks to the generous support from [JetBrains](https://www.jetbrains.com/) and
 [Manning Publications](https://www.manning.com/), we can share a JetBrains
