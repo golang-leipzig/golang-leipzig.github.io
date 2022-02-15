@@ -15,7 +15,7 @@ Join us for [meetup #25](https://www.meetup.com/Leipzig-Golang/events/282941887/
 
 We'll take a closer look at the [upcoming 1.18](https://tip.golang.org/doc/go1.18), especially [generics](https://tip.golang.org/doc/go1.18#generics).
 
-Thanks to the generous support by [JetBrains](https://www.jetbrains.com/) and
+Thanks to the generous support from [JetBrains](https://www.jetbrains.com/) and
 [Manning Publications](https://www.manning.com/), we can share a JetBrains
 personal subscription and an ebook - [100 Go Mistakes and How to
 Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them) - with our participants.
