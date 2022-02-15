@@ -6,7 +6,20 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Dec 2021 01:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 13:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #25 invitation</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-25-invitation/</link>
+      <pubDate>Tue, 15 Feb 2022 13:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-25-invitation/</guid>
+      <description>Hello, 世界!
+Join us for meetup #25 Feb 22, 2022 19:00 CET via Google Meet: https://meet.google.com/fqi-juff-zwy.
+We&amp;rsquo;ll take a closer look at the upcoming 1.18, especially generics.
+Thanks to the generous support by JetBrains and Manning Publications, we can share a JetBrains personal subscription and an ebook - 100 Go Mistakes and How to Avoid Them - with our participants.
+Join us to discuss all things Go.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #24 wrap-up</title>
       <link>https://golang-leipzig.github.io/posts/meetup-24-wrapup/</link>
