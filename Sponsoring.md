@@ -7,6 +7,10 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-02-21
+
+* announce #25 on "remotemeetup" Gopher Slack (5571 members); [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-02-21-22-55-53.png)
+
 ## 2022-02-15
 
 * announce [#25](https://golangleipzig.space/posts/meetup-25-invitation/),
