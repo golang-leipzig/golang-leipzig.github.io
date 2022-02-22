@@ -7,9 +7,13 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-02-22
+
+* announce #25 "linkedin" (500+ connections); mention [Manning Publications](https://www.linkedin.com/company/manning-publications-co/), [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-02-22-10-55-44.png), [link](https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-gophers-go-activity-6901826607087239168-y7DO/)
+
 ## 2022-02-21
 
-* announce #25 on "remotemeetup" Gopher Slack (5571 members); [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-02-21-22-55-53.png)
+* announce #25 on "remotemeetup" Gopher Slack (5571 members); mention [Manning Publications](https://www.manning.com/) and [100 Go Mistakes](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them), [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-02-21-22-55-53.png)
 
 ## 2022-02-15
 
