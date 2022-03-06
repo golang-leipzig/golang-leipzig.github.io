@@ -1,6 +1,6 @@
 ---
 title: "Virtual Meetup #25 wrap-up"
-date: 2021-03-06T01:00:00+01:00
+date: 2022-03-06T01:00:00+01:00
 draft: false
 tags:
 - summary
