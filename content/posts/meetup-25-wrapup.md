@@ -60,7 +60,7 @@ thank you, sponsors!
 
 ----
 
-🇺🇦-- and one more thing: нет войны, Stop the
+🇺🇦 &mdash; and one more thing: нет войны! Stop the
 [War](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)! -- to help locally: [Leipzig helps Ukraine](https://leipzig-helps-ukraine.de).
 
 
