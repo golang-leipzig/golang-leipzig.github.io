@@ -48,7 +48,7 @@ Other programmers reflecting and discussing this topic:
 [LO](https://lobste.rs/search?q=%22how+to+become+a+hacker%22&what=stories&order=newest), ...
 
 * Go 1.18 adds a new environment variable, `GOAMD64`, which splits support
-  for 64-bit x86 processors into 4 different levels, currently - unlocking
+  for 64-bit x86 processors into [4 different levels](https://github.com/golang/go/wiki/MinimumRequirements#amd64), currently - unlocking
 various instructions. Pop quiz: do you know, which instruction has also been
 name [The NSA instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/)?
 Hint: it belongs to "v2" and has to do with the [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight).
