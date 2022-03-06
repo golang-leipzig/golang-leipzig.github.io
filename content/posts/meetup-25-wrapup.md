@@ -48,6 +48,10 @@ Other programmers reflecting and discussing this topic:
 [LO](https://lobste.rs/search?q=%22how+to+become+a+hacker%22&what=stories&order=newest), ...
 
 * [sync.Pool](https://pkg.go.dev/sync#Pool) helps to reduce GC pressure, by allowing reuse of allocated memory, akin to a [free list](https://en.wikipedia.org/wiki/Free_list)
+* we gave away a [Jetbrains](https://www.jetbrains.com/) Personal Subscription and a copy of [100 mistakes in
+  Go and how to avoid
+them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them) --
+thank you, sponsors!
 
 ----
 
