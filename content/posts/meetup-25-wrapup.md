@@ -47,6 +47,11 @@ Other programmers reflecting and discussing this topic:
 [HN23377186](https://news.ycombinator.com/item?id=23377186),
 [LO](https://lobste.rs/search?q=%22how+to+become+a+hacker%22&what=stories&order=newest), ...
 
+* Go 1.18 adds a new environment variable, `GOAMD64`, which splits support
+  for 64-bit x86 processors into 4 different levels, currently - unlocking
+various instructions. Pop quiz: do you know, which instruction has also been
+name [The NSA instruction](https://vaibhavsagar.com/blog/2019/09/08/popcount/)?
+Hint: it belongs to "v2" and has to do with the [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight).
 * [sync.Pool](https://pkg.go.dev/sync#Pool) helps to reduce GC pressure, by allowing reuse of allocated memory, akin to a [free list](https://en.wikipedia.org/wiki/Free_list)
 * we gave away a [Jetbrains](https://www.jetbrains.com/) Personal Subscription and a copy of [100 mistakes in
   Go and how to avoid
