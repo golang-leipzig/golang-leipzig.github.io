@@ -6,7 +6,19 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 13:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 01:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #25 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-25-wrapup/</link>
+      <pubDate>Sun, 06 Mar 2022 01:00:00 +0100</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-25-wrapup/</guid>
+      <description>Go 1.18 and generics Meetup #25 was virtual again and we were glad to have an international audience again.
+We had a great presentation about the upcoming Go 1.18 release, including generics and fuzzing:
+ Go 1.18 with some fuzzing and a focus on generics  As always, Go 1.18 will include lots of smaller tweaks and improvements, like a new debug/buildinfo package, which
+ provides access to information embedded in a Go binary about how it was built,</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #25 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-25-invitation/</link>
@@ -234,18 +246,6 @@ Meetup #17 will take place Tuesday, Apr 20, 2021 19:00 CEST and will be virtual 
  https://us02web.zoom.us/j/88430151082?pwd=QzlFWlhKaUJKajFxcXRqRkpYYzNSdz09  We&amp;rsquo;ll have lightning talk on data deduplication with Go.
 As always, other lightning talks or contributions are welcome.
 See you!</description>
-    </item>
-    
-    <item>
-      <title>Virtual Meetup #25 wrap-up</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-25-wrapup/</link>
-      <pubDate>Sat, 06 Mar 2021 01:00:00 +0100</pubDate>
-      
-      <guid>https://golang-leipzig.github.io/posts/meetup-25-wrapup/</guid>
-      <description>Go 1.18 and generics Meetup #25 was virtual again and we were glad to have an international audience again.
-We had a great presentation about the upcoming Go 1.18 release, including generics and fuzzing:
- Go 1.18 with some fuzzing and a focus on generics  As always, Go 1.18 will include lots of smaller tweaks and improvements, like a new debug/buildinfo package, which
- provides access to information embedded in a Go binary about how it was built,</description>
     </item>
     
     <item>
