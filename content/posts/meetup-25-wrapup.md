@@ -10,7 +10,7 @@ tags:
 ## Go 1.18 and generics
 
 [Meetup #25](https://www.meetup.com/Leipzig-Golang/events/282941887/) was
-virtual again and we were glad to have an international audience again.
+virtual and we were glad to have an international audience again.
 
 We had a great presentation about the upcoming [Go 1.18](https://tip.golang.org/doc/go1.18) release, including generics and fuzzing:
 
