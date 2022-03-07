@@ -7,6 +7,10 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-03-06
+
+* mention Jetbrains and Manning in wrap-up blog post: [https://golangleipzig.space/posts/meetup-25-wrapup/](https://golangleipzig.space/posts/meetup-25-wrapup/)
+
 ## 2022-02-22
 
 * announce #25 "linkedin" (500+ connections); mention [Manning Publications](https://www.linkedin.com/company/manning-publications-co/), [screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-02-22-10-55-44.png), [link](https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-gophers-go-activity-6901826607087239168-y7DO/)
