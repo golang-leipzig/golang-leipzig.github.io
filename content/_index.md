@@ -6,7 +6,7 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
 events so far (9 in [2021](https://golangleipzig.space/posts/2021/)).
-Next meetup will be Leipzig Gophers #26 on [Apr 26, 2022 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/282941906/).
+Next meetup will be Leipzig Gophers #27 on [Jun 21, 2022 19:00 CEST](https://www.meetup.com/Leipzig-Golang/events/282941935/).
 
 ----
 
