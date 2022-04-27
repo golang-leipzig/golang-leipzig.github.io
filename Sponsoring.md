@@ -7,6 +7,10 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-04-27
+
+* mention [About You](https://aboutyou.de/) in [#26 wrap-up](https://golangleipzig.space/posts/meetup-26-wrapup/)
+
 ## 2022-03-06
 
 * mention Jetbrains and Manning in wrap-up blog post: [https://golangleipzig.space/posts/meetup-25-wrapup/](https://golangleipzig.space/posts/meetup-25-wrapup/)
