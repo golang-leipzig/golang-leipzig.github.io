@@ -3,38 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
-    <lastmod>2022-04-25T07:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golang-leipzig.github.io/</loc>
-    <lastmod>2022-04-25T07:00:00+02:00</lastmod>
+    <lastmod>2022-04-27T01:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/tags/meetup/</loc>
-    <lastmod>2022-04-25T07:00:00+02:00</lastmod>
+    <lastmod>2022-04-27T01:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/posts/</loc>
-    <lastmod>2022-04-25T07:00:00+02:00</lastmod>
+    <lastmod>2022-04-27T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/summary/</loc>
+    <lastmod>2022-04-27T01:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/tags/</loc>
+    <lastmod>2022-04-27T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/posts/meetup-26-wrapup/</loc>
+    <lastmod>2022-04-27T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golang-leipzig.github.io/tags/announcement/</loc>
     <lastmod>2022-04-25T07:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golang-leipzig.github.io/posts/meetup-26-invitation/</loc>
     <lastmod>2022-04-25T07:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golang-leipzig.github.io/tags/summary/</loc>
-    <lastmod>2022-03-06T01:00:00+01:00</lastmod>
   </url>
   
   <url>
