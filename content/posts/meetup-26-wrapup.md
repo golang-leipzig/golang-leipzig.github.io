@@ -10,9 +10,7 @@ tags:
 ## Type Signatures and Cloud Storage
 
 [Meetup #26](https://www.meetup.com/Leipzig-Golang/events/282941906/) was
-virtual again and we were glad to meet Gophers from Leipzig and beyond.
-
-We had a two short talks and code walkthroughs on type signatures and rclone, a
+virtual again and we were glad to meet Gophers from Leipzig and beyond. We had a two short talks and code walkthroughs on type signatures and rclone, a
 cloud storage tool.
 
 ### Type Signatures
@@ -57,7 +55,7 @@ Find out more: [The rsync for the cloud era: Rclone](https://github.com/miku/rcl
 
 ### Tiny Demo
 
-We had a short demo of a Go service called runpad, collaborative code editing - related to [mob programming](https://mob.sh).
+We had a short demo of a Go program called *runpad*, collaborative code editing - related to [mob programming](https://mob.sh).
 
 ![](/images/runpad-screenie.png)
 
