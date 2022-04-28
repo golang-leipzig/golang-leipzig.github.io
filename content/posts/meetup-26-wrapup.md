@@ -53,11 +53,6 @@ providers with classic protocols like FTP, webdav or http.
 
 Find out more: [The rsync for the cloud era: Rclone](https://github.com/miku/rclone-lightning-talk).
 
-### Tiny Demo
-
-We had a short demo of a Go program called *runpad*, collaborative code editing - related to [mob programming](https://mob.sh).
-
-![](/images/runpad-screenie.png)
 
 ## Misc
 
@@ -75,6 +70,9 @@ jobs for "golang" vs "java" (are you looking for a "golang" job? check out: [abo
 * for quick online tools: [CyberChef](https://gchq.github.io/CyberChef/)
 * more interactive online things: [https://messwithdns.net](https://messwithdns.net)
 * sad, but true as ever: [https://xkcd.com/2347](https://xkcd.com/2347) (discussing [jq](https://stedolan.github.io/jq/))
+* tiny demo: we had a short demo of a Go program called *runpad*, collaborative code editing - related to [mob programming](https://mob.sh)
+
+![](/images/runpad-screenie.png)
 
 ----
 
