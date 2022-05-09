@@ -1,5 +1,5 @@
 ---
-title: "Virtual Meetup #26 invitation"
+title: "Virtual Meetup #27 invitation"
 date: 2022-05-09T13:00:00+02:00
 draft: false
 tags:
