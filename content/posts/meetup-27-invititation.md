@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-For meetup #27 we'll have an interactive coding session around [Go generics](https://go.dev/blog/intro-generics).
+For [meetup #27](https://www.meetup.com/Leipzig-Golang/events/285798083/) &mdash; on May 10, 2022 19:00 CEST &mdash; we'll have an interactive coding session around [Go generics](https://go.dev/blog/intro-generics).
 
 We start with a problem and will develop two versions, one with and one without generics.
 
