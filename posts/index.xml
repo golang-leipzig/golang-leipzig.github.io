@@ -16,7 +16,8 @@
       <description>Hello, 世界!
 For meetup #27 we&amp;rsquo;ll have an interactive coding session around Go generics.
 We start with a problem and will develop two versions, one with and one without generics.
-Join us to discuss all things Go.</description>
+For a refresher on Generics see:
+ refs/spec https://go.dev/doc/tutorial/generics https://www.klingt.net/articles/go-1-18-with-some-fuzzing-and-a-focus-on-generics.html (see also: #25)  Join us to discuss all things Go via Google Meet: https://meet.google.com/wxm-argz-hqh</description>
     </item>
     
     <item>
