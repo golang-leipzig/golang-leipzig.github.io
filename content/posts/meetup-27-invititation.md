@@ -9,11 +9,18 @@ tags:
 
 Hello, 世界!
 
-For meetup #27 we'll have an interactive coding session around Go generics.
+For meetup #27 we'll have an interactive coding session around [Go generics](https://go.dev/blog/intro-generics).
 
 We start with a problem and will develop two versions, one with and one without generics.
 
-Join us to discuss all things Go.
+For a refresher on Generics see:
+
+* [refs/spec](https://golang.org/ref/spec#Type_parameter_declarations)
+* [https://go.dev/doc/tutorial/generics](https://go.dev/doc/tutorial/generics)
+* [https://www.klingt.net/articles/go-1-18-with-some-fuzzing-and-a-focus-on-generics.html](https://www.klingt.net/articles/go-1-18-with-some-fuzzing-and-a-focus-on-generics.html)
+  (see also: [#25](https://golangleipzig.space/posts/meetup-25-wrapup/))
+
+Join us to discuss all things Go via Google Meet: [https://meet.google.com/wxm-argz-hqh](https://meet.google.com/wxm-argz-hqh)
 
 
 <!--
