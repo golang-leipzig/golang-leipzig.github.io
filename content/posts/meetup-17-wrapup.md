@@ -76,7 +76,7 @@ Reading recommendations:
 Some research questions:
 
 * [ ] good caching libraries (e.g. for HTTP and other data), beside [LRU](https://github.com/hashicorp/golang-lru)
-* [ ] how to write parsers (e.g. for DSL or markup languages like [simpleml](http://simpleml.com/) - example library: [https://github.com/alecthomas/participle](https://github.com/alecthomas/participle)
+* [ ] how to write parsers (e.g. for DSL or markup languages like [simpleml](http://simpleml.com/) - example library: [https://github.com/alecthomas/participle](https://github.com/alecthomas/participle))
 
 Misc in Go and other languages
 
