@@ -42,7 +42,7 @@ Takeaways:
 The key insight may become obvious in an example:
 
 ```
-input:      [1, 2, 3,  4, -3, -1, 9]
+input:      [1, 2, 3,  4, -3, -1,  9]
 prefix sum: [1, 3, 6, 10,  7,  6, 15]
 ```
 
