@@ -60,7 +60,7 @@ array</a>.</p>
 <p><img src="/images/Prefix_sum_16.svg" alt=""></p>
 <p>Takeaways:</p>
 <ul>
-<li>Any auxiliary data structure that takes <em>O(n)</em> to be build can be considered
+<li>Any auxiliary data structure that takes <em>O(n)</em> to build can be considered
 <em>free</em>, as most of the time a problem requires to iterate over all the data
 at least once anyway.</li>
 <li>Building a prefix sum array requires <em>O(n)</em> and is simple to build, e.g. with
@@ -71,6 +71,10 @@ a recursive formulation.</li>
 prefix sum: [1, 3, 6, 10,  7,  6, 15]
 </code></pre></div><p>Two elements in the prefix array that have the same value (e.g. 6) allow us to
 determine a subsequence that sums to zero.</p>
+<p>A final pass through the prefix sum array allows to keep track of repeated
+numbers and find the longest sequence. If you iterate throught the prefix sum
+array from front and back simultaneously, you can stop at the first occurence
+(same time complexity, still).</p>
 <p>We implemented a version that defined a type set for numbers; similar to the
 ones found in
 <a href="https://pkg.go.dev/golang.org/x/exp/constraints">x/exp/constraints</a>.</p>
