@@ -9,11 +9,11 @@ tags:
 
 ## Algorithm Challenge
 
-[Meetup #27](https://www.meetup.com/Leipzig-Golang/events/285798083/) was
-virtual again and we had an interesting live problem-solving live-coding
-challenge.
+[Meetup #27](https://www.meetup.com/Leipzig-Golang/events/285798083/) took
+place on 2022-05-10 19:00 CEST and was virtual again and we had an interesting
+live problem-solving live-coding challenge.
 
-The repo for the slides and code for this event can be found here: [gitlab.com/telo_tade/prefix_suffix_arrays](https://gitlab.com/telo_tade/prefix_suffix_arrays)
+Slides and code: [gitlab.com/telo_tade/prefix_suffix_arrays](https://gitlab.com/telo_tade/prefix_suffix_arrays)
 
 ### Problem
 
