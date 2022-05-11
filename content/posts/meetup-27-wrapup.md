@@ -56,7 +56,7 @@ array from front and back simultaneously, you can stop at the first occurence
 
 We implemented a version that defined a type set for numbers; similar to the
 ones found in
-[x/exp/constraints](https://pkg.go.dev/golang.org/x/exp/constraints).
+[golang.org/x/exp/constraints](https://pkg.go.dev/golang.org/x/exp/constraints).
 
 In this case, a non-generic version may use reflection and be slower and more
 inconvenient to write.
