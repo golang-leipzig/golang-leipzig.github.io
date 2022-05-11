@@ -11,7 +11,7 @@ tags:
 
 [Meetup #27](https://www.meetup.com/Leipzig-Golang/events/285798083/) took
 place on 2022-05-10 19:00 CEST and was virtual again and we had an interesting
-live problem-solving live-coding challenge.
+problem-solving live-coding challenge.
 
 Slides and code: [gitlab.com/telo_tade/prefix_suffix_arrays](https://gitlab.com/telo_tade/prefix_suffix_arrays)
 
@@ -31,7 +31,7 @@ array](https://en.wikipedia.org/wiki/Prefix_sum).
 
 ![](/images/Prefix_sum_16.svg)
 
-Takeaway:
+Takeaways:
 
 * Any auxiliary data structure that takes *O(n)* to be build can be considered
   *free*, as most of the time a problem requires to iterate over all the data
