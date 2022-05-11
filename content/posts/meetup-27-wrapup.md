@@ -33,7 +33,7 @@ array](https://en.wikipedia.org/wiki/Prefix_sum).
 
 Takeaways:
 
-* Any auxiliary data structure that takes *O(n)* to be build can be considered
+* Any auxiliary data structure that takes *O(n)* to build can be considered
   *free*, as most of the time a problem requires to iterate over all the data
   at least once anyway.
 * Building a prefix sum array requires *O(n)* and is simple to build, e.g. with
@@ -48,6 +48,11 @@ prefix sum: [1, 3, 6, 10,  7,  6, 15]
 
 Two elements in the prefix array that have the same value (e.g. 6) allow us to
 determine a subsequence that sums to zero.
+
+A final pass through the prefix sum array allows to keep track of repeated
+numbers and find the longest sequence. If you iterate throught the prefix sum
+array from front and back simultaneously, you can stop at the first occurence
+(same time complexity, still).
 
 We implemented a version that defined a type set for numbers; similar to the
 ones found in
