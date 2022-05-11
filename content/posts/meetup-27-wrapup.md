@@ -63,7 +63,7 @@ inconvenient to write.
 
 Find out more at:
 [gitlab.com/telo_tade/prefix_suffix_arrays](https://gitlab.com/telo_tade/prefix_suffix_arrays);
-we enjoyed the interactive format. If that's something for you, to, check out
+we enjoyed the interactive format. If that's something for you too, check out
 [Hamburg Whiteboard Coders](https://www.meetup.com/hamburg-whiteboard-coders/)
 meetup.
 
