@@ -26,7 +26,7 @@ First, clarify:
 * What kind of numbers, and how many?
 
 We collaboratively went from a naive *O(n^3)* solution to a slightly improved
-*O(n^2)* using an auxiliary data structure: a [prefix sum
+*O(n^2)* one using an auxiliary data structure: a [prefix sum
 array](https://en.wikipedia.org/wiki/Prefix_sum).
 
 ![](/images/Prefix_sum_16.svg)
