@@ -17,7 +17,7 @@
 Slides and code: gitlab.com/telo_tade/prefix_suffix_arrays
 Problem  You are given a list of numbers. Find its longest slice that sums to zero.
  First, clarify:
- Is it a consecutive list of numbers? What kind of numbers, and how many?  We collaboratively went from a naive O(n^3) solution to a slightly improved O(n^2) using an auxiliary data structure: a prefix sum array.</description>
+ Is it a consecutive list of numbers? What kind of numbers, and how many?  We collaboratively went from a naive O(n^3) solution to a slightly improved O(n^2) one using an auxiliary data structure: a prefix sum array.</description>
     </item>
     
     <item>
