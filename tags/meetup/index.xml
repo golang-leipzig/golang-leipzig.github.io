@@ -6,7 +6,20 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #27 wrap-up</title>
+      <link>https://golang-leipzig.github.io/posts/meetup-27-wrapup/</link>
+      <pubDate>Wed, 11 May 2022 10:00:00 +0200</pubDate>
+      
+      <guid>https://golang-leipzig.github.io/posts/meetup-27-wrapup/</guid>
+      <description>Algorithm Challenge Meetup #27 was virtual again and we had an interesting live problem-solving live-coding challenge.
+The repo for the slides and code for this event can be found here: gitlab.com/telo_tade/prefix_suffix_arrays
+Problem  You are given a list of numbers. Find its longest slice that sums to zero.
+ First, clarify:
+ Is it a consecutive list of numbers? What kind of numbers, and how many?  We collaboratively went from a naive O(n^3) solution to a slightly improved O(n^2) using an auxiliary data structure: a prefix sum array.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #27 invitation</title>
       <link>https://golang-leipzig.github.io/posts/meetup-27-invititation/</link>
