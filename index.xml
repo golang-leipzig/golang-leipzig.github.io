@@ -13,7 +13,7 @@
       <pubDate>Wed, 11 May 2022 10:00:00 +0200</pubDate>
       
       <guid>https://golang-leipzig.github.io/posts/meetup-27-wrapup/</guid>
-      <description>Algorithm Challenge Meetup #27 took place on 2022-05-10 19:00 CEST and was virtual again and we had an interesting live problem-solving live-coding challenge.
+      <description>Algorithm Challenge Meetup #27 took place on 2022-05-10 19:00 CEST and was virtual again and we had an interesting problem-solving live-coding challenge.
 Slides and code: gitlab.com/telo_tade/prefix_suffix_arrays
 Problem  You are given a list of numbers. Find its longest slice that sums to zero.
  First, clarify:
