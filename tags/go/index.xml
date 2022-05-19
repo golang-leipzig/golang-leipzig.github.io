@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go on Leipzig Gophers</title>
-    <link>https://golang-leipzig.github.io/tags/go/</link>
+    <link>https://golangleipzig.space/tags/go/</link>
     <description>Recent content in go on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Feb 2019 15:45:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Feb 2019 15:45:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go at Coding Leipzig Chapter Four</title>
-      <link>https://golang-leipzig.github.io/posts/go-at-coding-leipzig-chapter-four/</link>
+      <link>https://golangleipzig.space/posts/go-at-coding-leipzig-chapter-four/</link>
       <pubDate>Wed, 27 Feb 2019 15:45:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/go-at-coding-leipzig-chapter-four/</guid>
+      <guid>https://golangleipzig.space/posts/go-at-coding-leipzig-chapter-four/</guid>
       <description>A last minute tip for today: There will be a quick introduction to Go at Coding Leipzig Chapter Four meetup tonight at Basislager:
  Michael Panzer | GoBasics in 30 Minutes   Michael is co-organizer of Leipzig Golang and Cloud-Native Meetup and show us the basics of Golang in only 30 minutes. He has prepared a bunch of useful examples.
  </description>
@@ -20,30 +20,30 @@
     
     <item>
       <title>Launched 🚀</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-launched/</link>
+      <link>https://golangleipzig.space/posts/meetup-launched/</link>
       <pubDate>Sat, 09 Feb 2019 00:15:25 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-launched/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-launched/</guid>
       <description>We launched! The first meetup took place yesterday (2019-02-08) at Basislager. A dozen gophers, programmers, devops developers, cluster admins and curious individuals followed our invitation.
 A good mix of backgrounds, experience levels and professional contexts lead to lively discussions around Go, the language, microservices, company cultures, adoption, streaming, cruise ships, conference impressions, book tips, distributed denial-of-service attacks, kubernetes operators and much more. Thanks for joining us, we think we&amp;rsquo;re off to a good start!</description>
     </item>
     
     <item>
       <title>Go makes the frontpage</title>
-      <link>https://golang-leipzig.github.io/posts/go-heise-frontpage/</link>
+      <link>https://golangleipzig.space/posts/go-heise-frontpage/</link>
       <pubDate>Wed, 23 Jan 2019 00:10:01 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/go-heise-frontpage/</guid>
+      <guid>https://golangleipzig.space/posts/go-heise-frontpage/</guid>
       <description>On 22, Jan 2019, Go made it to the frontpage of heise.de, with an introductory article about the language:
  Einstieg in Go (German)  After a brief historical overview, the authors jump right into various channels types. They also highlight struct embedding and interfaces.</description>
     </item>
     
     <item>
       <title>First meetup date is fixed</title>
-      <link>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</link>
+      <link>https://golangleipzig.space/posts/first-meetup-date-is-fixed-2019-02-08/</link>
       <pubDate>Mon, 21 Jan 2019 00:14:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</guid>
+      <guid>https://golangleipzig.space/posts/first-meetup-date-is-fixed-2019-02-08/</guid>
       <description>The first Golang and Cloud-Native Meetup will take place on Friday, 8th of February 2019 starting 19:00 at Basislager Leipzig, ground floor.
 Are you using Go? Are you curious about Go? Are you a cloud architect? You are working on an interesting project that you would like to share? Or maybe you just want to meet some fellow Gophers in your city? Then, by all means, consider dropping by.
 This will be our first meeting and there will be plenty of room to participate and shape this meetup going forward.</description>

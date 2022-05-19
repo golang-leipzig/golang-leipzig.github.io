@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cfi on Leipzig Gophers</title>
-    <link>https://golang-leipzig.github.io/tags/cfi/</link>
+    <link>https://golangleipzig.space/tags/cfi/</link>
     <description>Recent content in cfi on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Feb 2019 17:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/cfi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Feb 2019 17:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/cfi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second meetup: Call for Input</title>
-      <link>https://golang-leipzig.github.io/posts/second-meetup-call-for-input/</link>
+      <link>https://golangleipzig.space/posts/second-meetup-call-for-input/</link>
       <pubDate>Mon, 18 Feb 2019 17:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/second-meetup-call-for-input/</guid>
+      <guid>https://golangleipzig.space/posts/second-meetup-call-for-input/</guid>
       <description>The second meetup is scheduled for Friday, March 15, 2019, again 19:00 CET at Basislager. Do you have an idea for a presentation, lightning talk, code review or any other activity? Let us know until March, 1 2019 by filling out this form:
  https://goo.gl/forms/btBm0tInUp25XdUi2  You can also send us ideas by email!
 For some inspiration, there is a list of topics, we discussed at the first meetup.

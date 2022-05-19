@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>announcement on Leipzig Gophers</title>
-    <link>https://golang-leipzig.github.io/tags/announcement/</link>
+    <link>https://golangleipzig.space/tags/announcement/</link>
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual Meetup #27 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-27-invititation/</link>
+      <link>https://golangleipzig.space/posts/meetup-27-invititation/</link>
       <pubDate>Mon, 09 May 2022 13:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-27-invititation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-27-invititation/</guid>
       <description>Hello, 世界!
 For meetup #27 — on May 10, 2022 19:00 CEST — we&amp;rsquo;ll have an interactive coding session around Go generics.
 We start with a problem and will develop two versions, one with and one without generics.
@@ -22,10 +22,10 @@ For a refresher on Generics see:
     
     <item>
       <title>Virtual Meetup #26 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-26-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-26-invitation/</link>
       <pubDate>Mon, 25 Apr 2022 07:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-26-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-26-invitation/</guid>
       <description>Hello, 世界!
 Join us for meetup #26 Apr 26, 2022 19:00 CEST via Google Meet: https://meet.google.com/weh-dtvn-gpk.
 We&amp;rsquo;ll have two lightning talks:
@@ -34,10 +34,10 @@ We&amp;rsquo;ll have two lightning talks:
     
     <item>
       <title>Virtual Meetup #25 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-25-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-25-invitation/</link>
       <pubDate>Tue, 15 Feb 2022 13:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-25-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-25-invitation/</guid>
       <description>Hello, 世界!
 Join us for meetup #25 Feb 22, 2022 19:00 CET via Google Meet: https://meet.google.com/fqi-juff-zwy.
 We&amp;rsquo;ll take a closer look at the upcoming Go 1.18 release, especially generics.
@@ -47,10 +47,10 @@ Join us to discuss all things Go.</description>
     
     <item>
       <title>Virtual Meetup #24 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-24-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-24-invitation/</link>
       <pubDate>Thu, 09 Dec 2021 11:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-24-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-24-invitation/</guid>
       <description>Hello, 世界!
 For virtual meetup #24 - scheduled 2021-12-21, 19:00 CET we&amp;rsquo;re inviting you to test your knowledge of Go. We&amp;rsquo;re planning a fun quiz and we&amp;rsquo;re going to have a few prizes, too!
 As any language, Go has dark corners and gotchas but also some lesser known features.
@@ -59,10 +59,10 @@ We&amp;rsquo;re lucky to have Jetbrains, Manning Publications, O&amp;rsquo;Reill
     
     <item>
       <title>Meetup #23 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-23-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-23-invitation/</link>
       <pubDate>Fri, 05 Nov 2021 16:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-23-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-23-invitation/</guid>
       <description>Hello, 世界!
 Corona emergency ordinance (SächsCoronaNotVO §7 2021-11-19) becoming effective on Monday forces us to move this meeting online. Our talk schedule stays the same.
 Join us for meetup #23 Nov 23, 2021 19:00 CET via Google Meet: https://meet.google.com/sym-ohzu-spb.
@@ -71,10 +71,10 @@ Join us for meetup #23 Nov 23, 2021 19:00 CET via Google Meet: https://meet.goog
     
     <item>
       <title>Hackolaus #2: Hack for Good</title>
-      <link>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</link>
+      <link>https://golangleipzig.space/posts/hackolaus-2-hack-for-good/</link>
       <pubDate>Tue, 02 Nov 2021 14:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</guid>
+      <guid>https://golangleipzig.space/posts/hackolaus-2-hack-for-good/</guid>
       <description>Hello, 世界!
    Update 2021-11-04: Cancelled: See hackolaus.de for new dates.
   Update 2021-11-03: Hackolaus #2 may be cancelled due to local pandemic regulation; please follow updates at the event site.
@@ -85,10 +85,10 @@ Join us for meetup #23 Nov 23, 2021 19:00 CET via Google Meet: https://meet.goog
     
     <item>
       <title>Virtual Meetup #22 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-22-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-22-invitation/</link>
       <pubDate>Wed, 06 Oct 2021 11:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-22-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-22-invitation/</guid>
       <description>Hello, 世界!
 For virtual meetup #22 - scheduled 2021-10-26, 19:00 CEST - we&amp;rsquo;ll have an interesting presentation on a security related topic: Confidential Computing with Go.
 Join us via Zoom.
@@ -97,10 +97,10 @@ Join us via Zoom.
     
     <item>
       <title>Virtual Meetup #21 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-21-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-21-invitation/</link>
       <pubDate>Thu, 09 Sep 2021 14:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-21-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-21-invitation/</guid>
       <description>Hello, 世界!
 Meetup #21 will take place Tuesday, Sep 28, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
  https://us02web.zoom.us/j/81869277732?pwd=ZldmeHp0eWs0N1YyTE94OUo2Z01vdz09  We will have an input presentation by the author of Concise Encoding about the project and its Go reference implementation. Concise encoding is a
@@ -110,10 +110,10 @@ Meetup #21 will take place Tuesday, Sep 28, 2021 19:00 CEST and will be virtual 
     
     <item>
       <title>AFK Summer Meetup #20 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-20-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-20-invitation/</link>
       <pubDate>Tue, 29 Jun 2021 13:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-20-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-20-invitation/</guid>
       <description>Hello, 世界!
 Meetup #20 will take place Tuesday, Jul 20, 2021 18:30 CEST and we&amp;rsquo;ll meet outside for a cold drink - specifically at Cantona Leipzig (on OpenStreetMap).
 
@@ -123,10 +123,10 @@ See you!</description>
     
     <item>
       <title>Virtual Meetup #19 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-19-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-19-invitation/</link>
       <pubDate>Wed, 02 Jun 2021 13:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-19-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-19-invitation/</guid>
       <description>Hello, 世界!
 Meetup #19 will take place Tuesday, Jun 22, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
  https://us02web.zoom.us/j/84547890514?pwd=eXIzdXU2RGJmWmw4NzVjb0VMazZxZz09  We&amp;rsquo;ll have an input presentation about a core distributed systems project: etcd.
@@ -135,10 +135,10 @@ Meetup #19 will take place Tuesday, Jun 22, 2021 19:00 CEST and will be virtual 
     
     <item>
       <title>Virtual Meetup #18 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-18-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-18-invitation/</link>
       <pubDate>Tue, 25 May 2021 10:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-18-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-18-invitation/</guid>
       <description>Hello, 世界!
 Meetup #18 will take place Tuesday, May 25, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
  https://us02web.zoom.us/j/84647419671?pwd=Z0l2aDBrNWtqZDR5azRVbkRmeHdyUT09  We&amp;rsquo;ll have lightning talk on a data topic.
@@ -148,10 +148,10 @@ See you!</description>
     
     <item>
       <title>Virtual Meetup #17 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-17-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-17-invitation/</link>
       <pubDate>Mon, 19 Apr 2021 16:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-17-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-17-invitation/</guid>
       <description>Hello, 世界!
 Meetup #17 will take place Tuesday, Apr 20, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
  https://us02web.zoom.us/j/88430151082?pwd=QzlFWlhKaUJKajFxcXRqRkpYYzNSdz09  We&amp;rsquo;ll have lightning talk on data deduplication with Go.
@@ -161,10 +161,10 @@ See you!</description>
     
     <item>
       <title>Virtual Meetup #16 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-16-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-16-invitation/</link>
       <pubDate>Tue, 02 Feb 2021 12:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-16-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-16-invitation/</guid>
       <description>Hello, 世界!
 Meetup #16 will take place Tuesday, Feb 16, 2021 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -sL https://git.io/Jt0pk | base64 -d We&amp;rsquo;ll have input presentations on the upcoming Go 1.16 release and the generics proposal.
@@ -173,10 +173,10 @@ Note: This time the meetup will be all about the number sixteen, i.e. this will 
     
     <item>
       <title>Virtual Meetup #15 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-15-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-15-invitation/</link>
       <pubDate>Fri, 18 Dec 2020 12:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-15-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-15-invitation/</guid>
       <description>Hello, 世界!
 Meetup #15 will take place today Dec 18, 2020 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -sL https://git.io/JLBe8 | base64 -d We&amp;rsquo;ll have two input presentations:
@@ -185,10 +185,10 @@ $ curl -sL https://git.io/JLBe8 | base64 -d We&amp;rsquo;ll have two input prese
     
     <item>
       <title>Virtual Meetup #14 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-14-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-14-invitation/</link>
       <pubDate>Wed, 11 Nov 2020 10:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-14-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-14-invitation/</guid>
       <description>Hello, 世界!
 Meetup #14 will take place Nov 13, 2020 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -sL git.io/JkIVG | base64 -d We will have an input presentation on file embedding - a popular technique to make deployments and workflows easier. Many tools exists today, as can be seen in #35950. Have you ever wondered, which of these to use?</description>
@@ -196,10 +196,10 @@ $ curl -sL git.io/JkIVG | base64 -d We will have an input presentation on file e
     
     <item>
       <title>Virtual Meetup #13 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-13-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-13-invitation/</link>
       <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-13-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-13-invitation/</guid>
       <description>Hello, 世界!
 Meetup #13 will take place today, Friday Oct 16, 2020 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -L is.gd/GOIxW7 | base64 -d We have a short talk on seaweedfs, a key value store written in Go and inspired by the Facebook Haystack paper (back when FB only had 20PB of image data).
@@ -208,10 +208,10 @@ Beyond a key-value store seaweedfs offers various storage access methods on top,
     
     <item>
       <title>Virtual Meetup #12 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-12-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-12-invitation/</link>
       <pubDate>Thu, 17 Sep 2020 16:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-12-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-12-invitation/</guid>
       <description>Hello, 世界!
 Meetup #12 will take place today, Thurdays, Sep 17, 2020 19:00 CET and will be virtual again.
 We have a talk about HTTP proxies. You&amp;rsquo;ll discover one CVE you never heard of and we see what the author of curl says on SO, why curl does not strictly follow the HTTP RFC.
@@ -220,10 +220,10 @@ See you!</description>
     
     <item>
       <title>Virtual Meetup #11 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-11-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-11-invitation/</link>
       <pubDate>Sun, 26 Apr 2020 12:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-11-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-11-invitation/</guid>
       <description>Hello, 世界!
 Meetup #11 will take place on Friday, May 15, 2020 19:00 CET and will most likely be virtual again (we will share the zoom link here and on the meetup event page).
 This time, we&amp;rsquo;re excited to look at software built with Go. Our main topic will be the cloud native machine learning toolkit: kubeflow.
@@ -232,10 +232,10 @@ Kubeflow - A follow up Leveraging Kubernetes for Data Science purposes is still 
     
     <item>
       <title>Virtual Meetup #10 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-10-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-10-invitation/</link>
       <pubDate>Mon, 30 Mar 2020 12:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-10-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-10-invitation/</guid>
       <description>Hello, 世界!
 The global coronavirus pandemic puts limitations on all aspects of societal life. At the time of our last meetup, two people were infected in Germany, as of this announcement, we are at 57.298 (archived).
 The Go community addresses resulting issues in a blogpost on the pandemic.
@@ -244,10 +244,10 @@ For Meetup #10 on Friday, April 17, 2020, we still would like to bring people to
     
     <item>
       <title>Meetup #9 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-9-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-9-invitation/</link>
       <pubDate>Mon, 17 Feb 2020 20:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-9-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-9-invitation/</guid>
       <description>Hello, 世界!
 Our first 2020 meetup is scheduled for Friday, Feb 21, 2020 19:00 at Basislager Leipzig.
 We&amp;rsquo;ll have a 30 min input presentation about Golang&amp;rsquo;s standard library package net/http, especially extension points and customization options for clients and alternative implementations.
@@ -256,10 +256,10 @@ UPDATE: There will also be a presentation about Go 1.14 (which will be released 
     
     <item>
       <title>Meetup #8 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-8-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-8-invitation/</link>
       <pubDate>Thu, 24 Oct 2019 12:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-8-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-8-invitation/</guid>
       <description>Hello, 世界!
 Our next meetup is scheduled for Friday Nov, 15 2019, 19:00 at Basislager.
 We will have input presentations on two topics:
@@ -270,10 +270,10 @@ Unser nächstes Meetup findet am 15. November 19:00 im Basislager statt.</descri
     
     <item>
       <title>Meetup #7 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-7-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-7-invitation/</link>
       <pubDate>Fri, 30 Aug 2019 13:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-7-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-7-invitation/</guid>
       <description>Hello, 世界!
 Our next meetup is scheduled for Sep, 27 2019, 19:00 at Basislager.
 Back after summer break we jump right into a core Go topic: concurrency.
@@ -286,10 +286,10 @@ As always, please bring your projects, questions, findings. Spontaneous lightnin
     
     <item>
       <title>Meetup #6 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-6-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-6-invitation/</link>
       <pubDate>Thu, 11 Jul 2019 12:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-6-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-6-invitation/</guid>
       <description>Hello, 世界! Last minute invitation for meetup #6.
 This will be an open event - please bring your projects, questions, findings. Lightning talks and other inputs are welcome. too.
 We have two free tickets for the Golab 2019 Go conference in Florence, Italy - so if you are interested, just drop by.
@@ -299,10 +299,10 @@ Offenes Treffen, eigene Projekte, Themen, Tools, Fragen sind willkommen, ebenso 
     
     <item>
       <title>Meetup #5 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-5-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-5-invitation/</link>
       <pubDate>Tue, 11 Jun 2019 12:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-5-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-5-invitation/</guid>
       <description>Hello, 世界! For meetup #5 we will have two lightning talks:
  Beautiful (and strange) IO  A short overview of the io package and its interfaces and possible strategies for custom implementations. Plus some a few examples of implementations you might not have seen before.
  Controlling a headless browser with Go.  A quick look at web automation with Go and Chrome.
@@ -311,10 +311,10 @@ As always are also looking for lightning talks, presentations or other kinds of 
     
     <item>
       <title>Meetup #4 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-4-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-4-invitation/</link>
       <pubDate>Mon, 13 May 2019 11:45:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-4-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-4-invitation/</guid>
       <description>Meetup #4 is scheduled for Friday, May 17, 2019, 19:00 CEST at Basislager.
 Hello, 世界! For meetup #4 we will have a presentation Philipp, about the Lightning Network by especially about a Go middleware that allows to monetize Web APIs on a per-request basis. Without accounts, credit cards, payment providers - in a pure P2P fashion. We will have a short refresher on Bitcoin as well.
 As always are also looking for lightning talks, presentations or other kinds of inputs.</description>
@@ -322,10 +322,10 @@ As always are also looking for lightning talks, presentations or other kinds of 
     
     <item>
       <title>Meetup #3 invitation</title>
-      <link>https://golang-leipzig.github.io/posts/meetup-3-invitation/</link>
+      <link>https://golangleipzig.space/posts/meetup-3-invitation/</link>
       <pubDate>Thu, 04 Apr 2019 13:15:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/meetup-3-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/meetup-3-invitation/</guid>
       <description>Meetup #3 is scheduled for Friday, April 12, 2019, 19:00 CEST at Basislager.
 We will take a closer look at Go modules for dependency management. We also have one potential proposal for a lightning talk with the cryptic title &amp;ldquo;Ramen Linux&amp;rdquo;.
 As always, please bring your own code, projects, ideas, Go and Cloud-Native questions and let&amp;rsquo;s discuss them. See you there.</description>
@@ -333,39 +333,39 @@ As always, please bring your own code, projects, ideas, Go and Cloud-Native ques
     
     <item>
       <title>Second meetup invitation</title>
-      <link>https://golang-leipzig.github.io/posts/second-meetup-invitation/</link>
+      <link>https://golangleipzig.space/posts/second-meetup-invitation/</link>
       <pubDate>Fri, 15 Mar 2019 15:20:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/second-meetup-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/second-meetup-invitation/</guid>
       <description>For our second meetup tonight, we have two lighting talk proposals:
  Turn data into Go struct - how to easily work with complex XML documents and JSON data with Go Glance at the io package and some io.Reader implementation, that you may not have seen before - how to implement your own reader and some examples of useful (sometimes strange) implementations from existing projects  Please bring your own code, projects, ideas, Go and Cloud-Native questions and let&amp;rsquo;s discuss them.</description>
     </item>
     
     <item>
       <title>First meetup invitation</title>
-      <link>https://golang-leipzig.github.io/posts/first-meetup-invitation/</link>
+      <link>https://golangleipzig.space/posts/first-meetup-invitation/</link>
       <pubDate>Tue, 29 Jan 2019 00:12:45 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/first-meetup-invitation/</guid>
+      <guid>https://golangleipzig.space/posts/first-meetup-invitation/</guid>
       <description>First event announced.
 Hello, 世界! This is our first meetup, for anybody interested in the Go programming language and Cloud-Native technologies. We would like to know, what you would expect from the meetup, what you would be interested in and talk about the roadmap for the next months. For this first event, we do not have a special topic, so it’s more a come together to get to know and connect the community.</description>
     </item>
     
     <item>
       <title>New Golang and Cloud-Native Meetup</title>
-      <link>https://golang-leipzig.github.io/posts/new-meetup-group/</link>
+      <link>https://golangleipzig.space/posts/new-meetup-group/</link>
       <pubDate>Sat, 26 Jan 2019 12:45:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/new-meetup-group/</guid>
+      <guid>https://golangleipzig.space/posts/new-meetup-group/</guid>
       <description>We now have an meetup.com profile, upcoming events will be announced there. Thrilled to see people expressing interest in this.</description>
     </item>
     
     <item>
       <title>First meetup date is fixed</title>
-      <link>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</link>
+      <link>https://golangleipzig.space/posts/first-meetup-date-is-fixed-2019-02-08/</link>
       <pubDate>Mon, 21 Jan 2019 00:14:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/first-meetup-date-is-fixed-2019-02-08/</guid>
+      <guid>https://golangleipzig.space/posts/first-meetup-date-is-fixed-2019-02-08/</guid>
       <description>The first Golang and Cloud-Native Meetup will take place on Friday, 8th of February 2019 starting 19:00 at Basislager Leipzig, ground floor.
 Are you using Go? Are you curious about Go? Are you a cloud architect? You are working on an interesting project that you would like to share? Or maybe you just want to meet some fellow Gophers in your city? Then, by all means, consider dropping by.
 This will be our first meeting and there will be plenty of room to participate and shape this meetup going forward.</description>

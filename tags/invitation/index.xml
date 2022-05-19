@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>invitation on Leipzig Gophers</title>
-    <link>https://golang-leipzig.github.io/tags/invitation/</link>
+    <link>https://golangleipzig.space/tags/invitation/</link>
     <description>Recent content in invitation on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2019 09:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/invitation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2019 09:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/invitation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go at Spartakiade 2019 Berlin</title>
-      <link>https://golang-leipzig.github.io/posts/go-at-spartakiade-2019-berlin/</link>
+      <link>https://golangleipzig.space/posts/go-at-spartakiade-2019-berlin/</link>
       <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/go-at-spartakiade-2019-berlin/</guid>
+      <guid>https://golangleipzig.space/posts/go-at-spartakiade-2019-berlin/</guid>
       <description>Spartakiade is a regular, developer-centric conference in Berlin. This year it will host over twenty full day workshops, with topics ranging from data science, 3D, docker, kubernetes, and also a few programming language introductions, among them F#, Python, Purescript &amp;ndash; and Go!
 There will be two Go workshops (in English or German, depending on the audience):
  Apr, 27 2019, 10-17: Kann weniger mehr sein? Eine praktische Einführung in die Programmiersprache Go (Can less be more?</description>

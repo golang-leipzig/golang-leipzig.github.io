@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hackathon on Leipzig Gophers</title>
-    <link>https://golang-leipzig.github.io/tags/hackathon/</link>
+    <link>https://golangleipzig.space/tags/hackathon/</link>
     <description>Recent content in hackathon on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 14:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hackolaus #2: Hack for Good</title>
-      <link>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</link>
+      <link>https://golangleipzig.space/posts/hackolaus-2-hack-for-good/</link>
       <pubDate>Tue, 02 Nov 2021 14:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/posts/hackolaus-2-hack-for-good/</guid>
+      <guid>https://golangleipzig.space/posts/hackolaus-2-hack-for-good/</guid>
       <description>Hello, 世界!
    Update 2021-11-04: Cancelled: See hackolaus.de for new dates.
   Update 2021-11-03: Hackolaus #2 may be cancelled due to local pandemic regulation; please follow updates at the event site.

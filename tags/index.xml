@@ -2,134 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Leipzig Gophers</title>
-    <link>https://golang-leipzig.github.io/tags/</link>
+    <link>https://golangleipzig.space/tags/</link>
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://golang-leipzig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>meetup</title>
-      <link>https://golang-leipzig.github.io/tags/meetup/</link>
+      <link>https://golangleipzig.space/tags/meetup/</link>
       <pubDate>Wed, 11 May 2022 10:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/meetup/</guid>
+      <guid>https://golangleipzig.space/tags/meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>summary</title>
-      <link>https://golang-leipzig.github.io/tags/summary/</link>
+      <link>https://golangleipzig.space/tags/summary/</link>
       <pubDate>Wed, 11 May 2022 10:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/summary/</guid>
+      <guid>https://golangleipzig.space/tags/summary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>announcement</title>
-      <link>https://golang-leipzig.github.io/tags/announcement/</link>
+      <link>https://golangleipzig.space/tags/announcement/</link>
       <pubDate>Mon, 09 May 2022 13:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/announcement/</guid>
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021</title>
-      <link>https://golang-leipzig.github.io/tags/2021/</link>
+      <link>https://golangleipzig.space/tags/2021/</link>
       <pubDate>Wed, 29 Dec 2021 22:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/2021/</guid>
+      <guid>https://golangleipzig.space/tags/2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hackathon</title>
-      <link>https://golang-leipzig.github.io/tags/hackathon/</link>
+      <link>https://golangleipzig.space/tags/hackathon/</link>
       <pubDate>Tue, 02 Nov 2021 14:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/hackathon/</guid>
+      <guid>https://golangleipzig.space/tags/hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2020</title>
-      <link>https://golang-leipzig.github.io/tags/2020/</link>
+      <link>https://golangleipzig.space/tags/2020/</link>
       <pubDate>Tue, 31 Dec 2019 13:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/2020/</guid>
+      <guid>https://golangleipzig.space/tags/2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meta</title>
-      <link>https://golang-leipzig.github.io/tags/meta/</link>
+      <link>https://golangleipzig.space/tags/meta/</link>
       <pubDate>Mon, 16 Sep 2019 21:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/meta/</guid>
+      <guid>https://golangleipzig.space/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conference</title>
-      <link>https://golang-leipzig.github.io/tags/conference/</link>
+      <link>https://golangleipzig.space/tags/conference/</link>
       <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/conference/</guid>
+      <guid>https://golangleipzig.space/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>storage</title>
-      <link>https://golang-leipzig.github.io/tags/storage/</link>
+      <link>https://golangleipzig.space/tags/storage/</link>
       <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/storage/</guid>
+      <guid>https://golangleipzig.space/tags/storage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>invitation</title>
-      <link>https://golang-leipzig.github.io/tags/invitation/</link>
+      <link>https://golangleipzig.space/tags/invitation/</link>
       <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/invitation/</guid>
+      <guid>https://golangleipzig.space/tags/invitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshop</title>
-      <link>https://golang-leipzig.github.io/tags/workshop/</link>
+      <link>https://golangleipzig.space/tags/workshop/</link>
       <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/workshop/</guid>
+      <guid>https://golangleipzig.space/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://golang-leipzig.github.io/tags/go/</link>
+      <link>https://golangleipzig.space/tags/go/</link>
       <pubDate>Wed, 27 Feb 2019 15:45:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/go/</guid>
+      <guid>https://golangleipzig.space/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cfi</title>
-      <link>https://golang-leipzig.github.io/tags/cfi/</link>
+      <link>https://golangleipzig.space/tags/cfi/</link>
       <pubDate>Mon, 18 Feb 2019 17:00:00 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/cfi/</guid>
+      <guid>https://golangleipzig.space/tags/cfi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>news</title>
-      <link>https://golang-leipzig.github.io/tags/news/</link>
+      <link>https://golangleipzig.space/tags/news/</link>
       <pubDate>Wed, 23 Jan 2019 00:10:01 +0100</pubDate>
       
-      <guid>https://golang-leipzig.github.io/tags/news/</guid>
+      <guid>https://golangleipzig.space/tags/news/</guid>
       <description></description>
     </item>
     
