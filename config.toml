@@ -1,4 +1,4 @@
-baseurl = "https://golang-leipzig.github.io/"
+baseurl = "https://golangleipzig.space" # baseurl = "https://golang-leipzig.github.io/"
 title = "Leipzig Gophers"
 languageCode = "en-us"
 theme = "simple-hugo-theme"
