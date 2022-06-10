@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:12:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Wed, 11 May 2022 10:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Jun 2022 00:12:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://golangleipzig.space/tags/talk/</link>
+      <pubDate>Fri, 10 Jun 2022 00:12:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/talk/</guid>
       <description></description>
     </item>
     

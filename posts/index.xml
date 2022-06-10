@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:12:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of Go at Leipzig Software Craft June 2022 Meetup</title>
+      <link>https://golangleipzig.space/posts/software-craft-state-of-go-2022/</link>
+      <pubDate>Fri, 10 Jun 2022 00:12:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/software-craft-state-of-go-2022/</guid>
+      <description>We will be talking about the State of Go in 2022 at the classic and incredible Leipzig Software Craft Meetup (née Softwerkskammer) in June 2022.
+Go is 12 years old at this point in time. The last years brought quite a few changes into the Go ecosystem and language and we want to highlight some of those, specifically:
+ Generics Go Modules and dependency management Ecosystem developments and more …  Who, when and where?</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #27 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-27-wrapup/</link>
