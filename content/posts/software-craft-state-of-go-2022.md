@@ -25,11 +25,11 @@ Who, when and where?
 
 * Speakers: [Andreas Linz](https://www.klingt.net/), [Martin Czygan](https://github.com/miku/)
 * Date: Thu, Jun 30, 2022, 19:00 CEST
-* Location: [codecentric AG](https://www.codecentric.de/), [August-Bebel-Straße 41](https://www.openstreetmap.org/way/474694374) · Leipzig
+* Location: [codecentric AG](https://www.codecentric.de/), [August-Bebel-Straße 41](https://www.openstreetmap.org/way/40330854) · Leipzig
 
 Please check the [meetup event
 page](https://www.meetup.com/le-software-craft-community/events/286403431/) for
 last minute update due to pandemic regulations.
 
-See you there!
+See you there! -- [1535007080150622214](https://twitter.com/maik_toepfer/status/1535007080150622214)
 
