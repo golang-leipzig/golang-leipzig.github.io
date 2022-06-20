@@ -12,7 +12,7 @@ Hello, 世界!
 For [meetup #28](https://www.meetup.com/leipzig-golang/events/282941935/) &mdash; on Jun 21, 2022 19:00 CEST &mdash; we'll have two lightning talks:
 
 * *Never forget to handle errors, rediscovered the 1000th time* -- Leandro Santiago from [lightmeter.io](https://lightmeter.io/)
-* A glance at glamorous command line tools with [charm](https://charm.sh)
+* A glance at *glamorous command line tools* with [charm](https://charm.sh)
 
 ![](/images/leipzig-gophers-28-charm.png)
 
