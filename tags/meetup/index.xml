@@ -6,7 +6,18 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2022 00:12:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #28 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-28-invititation/</link>
+      <pubDate>Mon, 20 Jun 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-28-invititation/</guid>
+      <description>Hello, 世界!
+For meetup #28 — on Jun 21, 2022 19:00 CEST — we&amp;rsquo;ll have two lightning talks:
+ Never forget to handle errors, rediscovered the 1000th time &amp;ndash; Leandro Santiago from lightmeter.io A glance at glamorous command line tools with charm  Join us to discuss all things Go via Google Meet: https://meet.google.com/mpb-ypdi-est - see you!</description>
+    </item>
+    
     <item>
       <title>State of Go at Leipzig Software Craft June 2022 Meetup</title>
       <link>https://golangleipzig.space/posts/software-craft-state-of-go-2022/</link>
