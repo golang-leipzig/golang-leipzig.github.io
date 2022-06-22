@@ -35,6 +35,14 @@ Interfaces](https://github.com/miku/glamline), using the
 interfaces are nice (and retro) but their widespread adoption is debatable.
 Nonetheless, these interface can be efficient and pleasant to use.
 
+The presentation showed some example, e.g. [glow](https://github.com/charmbracelet/glow) for reading markdown:
+
+```shell
+$ glow tinyurl.com/m-28-wp
+```
+
+or a stock [ticker app](https://github.com/achannarasappa/ticker):
+
 ![](/images/ticker.png)
 
 ----
