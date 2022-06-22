@@ -12,8 +12,6 @@ tags:
 [Meetup #28](https://www.meetup.com/leipzig-golang/events/282941935/) took
 place on 2022-06-21 19:00 CEST virtually and was one of our most visited meetup to date - thank you all for dropping by.
 
-## Error Handling
-
 We had a short presentation *Never forget to handle errors, rediscovered the
 1000th time* by [Leandro](https://www.linkedin.com/in/leandrosansilva/) from
 [Ligthmeter](https://lightmeter.io/) ([gitlab](https://gitlab.com/lightmeter/),
@@ -26,8 +24,8 @@ The presentation can be found here:
 
 Thanks [Leandro](https://www.linkedin.com/in/leandrosansilva/) for your great input!
 
-Discussion about errors reminded us that as a first measure, errors need to be
-actually handled. There's even some research on that - e.g. compiled here into
+A discussion about errors reminded us that as a first measure, errors need to be
+handled, actually. There's even some research on that - e.g. compiled here into
 Software Engineering's Greatest Hits:
 [https://youtu.be/HrVtA-ue-x0?t=595](https://youtu.be/HrVtA-ue-x0?t=595).
 
