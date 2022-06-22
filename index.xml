@@ -14,7 +14,7 @@
       
       <guid>https://golangleipzig.space/posts/meetup-28-wrapup/</guid>
       <description>Errors and Glamour Meetup #28 took place on 2022-06-21 19:00 CEST virtually and was one of our most visited meetup to date - thank you all for dropping by.
-Error Handling We had a short presentation Never forget to handle errors, rediscovered the 1000th time by Leandro from Ligthmeter (jobs) about a few ways to handle errors in Go. The compiler does not complain about unchecked errors, but some linters do.</description>
+Error Handling We had a short presentation Never forget to handle errors, rediscovered the 1000th time by Leandro from Ligthmeter (gitlab, jobs) about a few ways to handle errors in Go. The compiler does not complain about unchecked errors, but some linters do.</description>
     </item>
     
     <item>
