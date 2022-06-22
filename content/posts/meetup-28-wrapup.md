@@ -14,8 +14,8 @@ place on 2022-06-21 19:00 CEST virtually and was one of our most visited meetup 
 
 We had a short presentation *Never forget to handle errors, rediscovered the
 1000th time* by [Leandro](https://www.linkedin.com/in/leandrosansilva/) from
-[Ligthmeter](https://lightmeter.io/) ([gitlab](https://gitlab.com/lightmeter/),
-[jobs](https://www.ycombinator.com/companies/lightmeter/jobs/PB5qMli-principal-network-engineer))
+[Lightmeter](https://lightmeter.io/) ([gitlab](https://gitlab.com/lightmeter/),
+[job](https://www.ycombinator.com/companies/lightmeter/jobs/PB5qMli-principal-network-engineer))
 about a few ways to handle errors in Go.  The compiler does not complain about
 unchecked errors, but some [linters do](https://github.com/kisielk/errcheck).
 
