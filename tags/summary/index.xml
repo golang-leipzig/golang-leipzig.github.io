@@ -6,7 +6,17 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 14:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Meetup #28 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-28-wrapup/</link>
+      <pubDate>Wed, 22 Jun 2022 14:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-28-wrapup/</guid>
+      <description>Errors and Glamour Meetup #28 took place on 2022-06-21 19:00 CEST virtually and was one of our most visited meetup to date - thank you all for dropping by.
+Error Handling We had a short presentation Never forget to handle errors, rediscovered the 1000th time by Leandro from Ligthmeter (jobs) about a few ways to handle errors in Go. The compiler does not complain about unchecked errors, but some linters do.</description>
+    </item>
+    
     <item>
       <title>Virtual Meetup #27 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-27-wrapup/</link>
