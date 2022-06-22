@@ -21,8 +21,8 @@ unchecked errors, but some [linters do](https://github.com/kisielk/errcheck).
 
 The presentation can be found here:
 [presentation.md](https://gitlab.com/leandrosansilva/talks/-/blob/master/errors-golang/presentation.md)
-
-Thanks [Leandro](https://www.linkedin.com/in/leandrosansilva/) for your great input!
+-- Thanks [Leandro](https://www.linkedin.com/in/leandrosansilva/) for your
+great input!
 
 A discussion about errors reminded us that as a first measure, errors need to be
 handled, actually. There's even some research on that - e.g. compiled here into
