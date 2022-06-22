@@ -10,7 +10,7 @@ Please visit the [Meetup Page](https://www.meetup.com/Leipzig-Golang/) for upcom
 
 ----
 
-NEW! Since Summer 2021, we have a [YouTube
+Since Summer 2021, we have a [YouTube
 Channel](https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ) where we are
 publishing recordings of selected talks.
 
