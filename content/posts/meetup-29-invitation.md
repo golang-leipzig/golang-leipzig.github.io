@@ -11,7 +11,7 @@ Hello, 世界!
 
 Summer's getting hot, so let's meet AFK for cold drinks on [Jul 14, 2022 19:00
 CEST](https://www.meetup.com/leipzig-golang/events/286871302) at [Soltmann Bar](https://www.soltmann-bar.de/)
-([OSM](https://www.openstreetmap.org/node/814769372)).
+([OSM](https://www.openstreetmap.org/node/814769372)). We'll have some [Go swag](https://go.dev/blog/10years) to give away!
 
 [![](/images/water020.gif)](https://gifcities.org/?q=water)
 
