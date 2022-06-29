@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-Summer is getting hot, so let's meet for cold drinks on [Jul 14, 2022 19:00
+Summer is getting hot, so let's meet AFK for cold drinks on [Jul 14, 2022 19:00
 CEST]() at [Soltmann Bar](https://www.soltmann-bar.de/)
 ([OSM](https://www.openstreetmap.org/node/814769372)).
 
