@@ -13,7 +13,7 @@ Summer is getting hot, so let's meet AFK for cold drinks on [Jul 14, 2022 19:00
 CEST]() at [Soltmann Bar](https://www.soltmann-bar.de/)
 ([OSM](https://www.openstreetmap.org/node/814769372)).
 
-[![](/images/water-020.gif)](https://gifcities.org/?q=water)
+[![](/images/water020.gif)](https://gifcities.org/?q=water)
 
 We have no specific agenda. We hope for good weather and look forward to meet you all in person, after all.
 
