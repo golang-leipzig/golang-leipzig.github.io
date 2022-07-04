@@ -36,7 +36,7 @@ Testing concurrent code is its own challange, but this package has examples for 
 
 ----
 
-The second lightning talk summarized chapter 2 on "Filters" of [Software
+The second lightning talk summarized chapter 2 on "Filters" from [Software
 Tools](https://openlibrary.org/works/OL4617639W/) by Kernighan and Plauger
 (1976) and highlighted some timeless ideas on software style (today, you might
 say clean code). Go has great facilities for streaming data processing in the
