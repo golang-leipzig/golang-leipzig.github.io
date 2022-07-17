@@ -9,7 +9,7 @@ tags:
 
 ## All things Go and beyond
 
-We met at [Soltmann Bar](https://www.soltmann-bar.de/) and it was nice to see
+We met on 2022-07-14 at [Soltmann Bar](https://www.soltmann-bar.de/) and it was great to see
 everyone in person and also to welcome new Gophers.
 
 In September, we hope to follow up with an in-person meetup featuring a
