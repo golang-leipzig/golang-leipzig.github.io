@@ -6,7 +6,18 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 14:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drinkup #29 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-29-wrapup/</link>
+      <pubDate>Sun, 17 Jul 2022 14:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-29-wrapup/</guid>
+      <description>All things Go and beyond We met at Soltmann Bar and it was nice to see everyone in person and also to welcome new Gophers.
+In September, we hope to follow up with an in-person meetup featuring a presentation from immudb:
+ immudb is database with built-in cryptographic proof and verification. It can track changes in sensitive data and the integrity of the history will be protected by the clients, without the need to trust the server.</description>
+    </item>
+    
     <item>
       <title>Summer Drinkup #29 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-29-invitation/</link>
