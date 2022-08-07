@@ -13,7 +13,7 @@ The global [coronavirus
 pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
 puts limitations on all aspects of societal life. At the time of our last meetup, [two
 people were
-infected](https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/novel-coronavirus-cases-EU-UK-29-03-2020%20.jpg.png) in Germany,
+infected](http://web.archive.org/web/20200330100951/https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/novel-coronavirus-cases-EU-UK-29-03-2020%20.jpg.png) in Germany,
 as of this announcement, we are at
 [57.298](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html) ([archived](https://web.archive.org/web/20200330114457/https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)).
 
