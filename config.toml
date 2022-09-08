@@ -28,3 +28,7 @@ paginate = 80
     url = "https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt"
     name = "Impressum"
     weight = 4
+  [[menu.footer]]
+    url = "https://golangleipzig.space/qr.png"
+    name = "QR"
+    weight = 5
