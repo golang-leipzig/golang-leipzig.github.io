@@ -18,7 +18,7 @@ Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
 who will talk about their open source database project
 [immudb](https://immudb.io/).
 
-![](/images/immudb-mascot-small.png)
+[![](/images/immudb-mascot-small.png)](https://github.com/codenotary/immudb)
 
 > immudb is a ledger database that has been developed with performance,
 > scalability and versatility in mind [...]
