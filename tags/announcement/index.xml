@@ -14,7 +14,7 @@
       
       <guid>https://golangleipzig.space/posts/meetup-30-invitation/</guid>
       <description>Hello, 世界!
-For meetup #30 — on Sep 20, 2022 19:00 CEST we&amp;rsquo;ll thrilled to welcome Dennis Zimmer and Bartłomiej Święcki from Codenotary, who will talk about their open source database project immudb.
+immudb For meetup #30 — on Sep 20, 2022 19:00 CEST we&amp;rsquo;ll thrilled to welcome Dennis Zimmer and Bartłomiej Święcki from Codenotary, who will talk about their open source database project immudb.
  immudb is a ledger database that has been developed with performance, scalability and versatility in mind [&amp;hellip;]
   Data stored in immudb is cryptographically coherent and verifiable. Unlike blockchains, immudb can handle millions of transactions per second, and can be used both as a lightweight service or embedded in your application as a library.</description>
     </item>
