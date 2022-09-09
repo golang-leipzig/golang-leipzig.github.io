@@ -12,7 +12,7 @@ Hello, 世界!
 ## immudb
 
 For [meetup #30](https://www.meetup.com/leipzig-golang/events/286871365/)
-&mdash; on Sep 20, 2022 19:00 CEST we'll thrilled to welcome [Dennis
+&mdash; on Sep 20, 2022 19:00 CEST &mdash; we'll thrilled to welcome [Dennis
 Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
 Święcki](https://github.com/byo) from [Codenotary](https://codenotary.com/),
 who will talk about their open source database project
@@ -31,7 +31,7 @@ who will talk about their open source database project
 
 Also check out Bartłomiej's talk at FOSDEM 2022: [Don't trust us, trust the
 math behind immudb: How immudb protects safety critical
-data](https://fosdem.org/2022/schedule/event/safety_dont_trust_us_trust_the_math_behind_immudb/)
+data](https://fosdem.org/2022/schedule/event/safety_dont_trust_us_trust_the_math_behind_immudb/).
 
 To quote [Pat Helland](https://twitter.com/pathelland) in [Immutability Changes Everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf) (2015):
 
@@ -44,19 +44,21 @@ To quote [Pat Helland](https://twitter.com/pathelland) in [Immutability Changes 
 This meetup will be hybrid:
 
 1. You can join us online via [Zoom](https://us06web.zoom.us/j/87886291736?pwd=aXRFdFBvVHdQSzg0MzVkaGovNnByZz09)
-2. You can join us in person at [Basislager Leipzig](https://www.basislager.co/) ([Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558))
+2. You can join us in person at [Basislager Leipzig](https://www.basislager.co/) &mdash; [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558)
 
 Perks of attending our offline meeting at Basislager:
 
 We are giving away a copy of [Cloud Native
 Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) -
 courtesy of [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592) as well as
-one [Zimaboard](https://www.zimaboard.com/) - courtesy of [Codenotary](https://codenotary.com/)!
+one [Zimaboard](https://www.zimaboard.com/), the *world’s first hackable single
+board server*,  courtesy of [Codenotary](https://codenotary.com/)!
 
 ![](/images/meetup_30_goodies_tile.png)
 
 After the meetup at Basislager, you can join us for drinks at [Dr. Hops Craft
-Beer Bar](https://www.dr-hops.de/) - cheers!
+Beer Bar](https://www.dr-hops.de/) at [Eichendorffstraße 7, 04277
+Leipzig](https://www.openstreetmap.org/node/673082266) - cheers!
 
 
 [Join us](https://www.meetup.com/leipzig-golang/events/286871365/) to discuss all things Go, immutability (and craft beer). See you!
