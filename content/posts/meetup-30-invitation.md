@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-## codenotary/immudb
+## immudb
 
 For [meetup #30](https://www.meetup.com/leipzig-golang/events/286871365/)
 &mdash; on Sep 20, 2022 19:00 CEST we'll thrilled to welcome [Dennis
