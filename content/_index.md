@@ -5,9 +5,11 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
-events so far (9 in [2021](https://golangleipzig.space/posts/2021/)). Please
-visit [our blog](https://golangleipzig.space/posts/) or the [Meetup
-Page](https://www.meetup.com/Leipzig-Golang/) for upcoming events.
+events so far (9 in [2021](https://golangleipzig.space/posts/2021/)). Join us
+for hybrid online and offline [meetup
+#30](https://golangleipzig.space/posts/meetup-30-invitation/) on
+[immudb](https://github.com/codenotary/immudb) on [Tue Sep 20, 2022 19:00
+CEST](https://www.meetup.com/leipzig-golang/events/286871365/).
 
 ----
 
