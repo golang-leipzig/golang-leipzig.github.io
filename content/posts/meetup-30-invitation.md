@@ -9,7 +9,7 @@ tags:
 
 Hello, 世界!
 
-## immudb
+## codenotary/immudb
 
 For [meetup #30](https://www.meetup.com/leipzig-golang/events/286871365/)
 &mdash; on Sep 20, 2022 19:00 CEST we'll thrilled to welcome [Dennis
@@ -17,6 +17,8 @@ Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
 Święcki](https://github.com/byo) from [Codenotary](https://codenotary.com/),
 who will talk about their open source database project
 [immudb](https://immudb.io/).
+
+![](/images/immudb-mascot-small.png)
 
 > immudb is a ledger database that has been developed with performance,
 > scalability and versatility in mind [...]
@@ -51,8 +53,11 @@ Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) -
 courtesy of [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592) as well as
 one [Zimaboard](https://www.zimaboard.com/) - courtesy of [Codenotary](https://codenotary.com/)!
 
+![](/images/meetup_30_goodies_tile.png)
+
 After the meetup at Basislager, you can join us for drinks at [Dr. Hops Craft
 Beer Bar](https://www.dr-hops.de/) - cheers!
+
 
 [Join us](https://www.meetup.com/leipzig-golang/events/286871365/) to discuss all things Go, immutability (and craft beer). See you!
 
