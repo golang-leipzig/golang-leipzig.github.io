@@ -46,7 +46,7 @@ This meetup will be hybrid:
 1. You can join us online via [Zoom](https://us06web.zoom.us/j/87886291736?pwd=aXRFdFBvVHdQSzg0MzVkaGovNnByZz09)
 2. You can join us in person at [Basislager Leipzig](https://www.basislager.co/) &mdash; [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558)
 
-Perks of attending our offline meeting at Basislager:
+Perks of attending our in-person meetup at Basislager:
 
 We are giving away a copy of [Cloud Native
 Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) -
