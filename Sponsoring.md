@@ -7,6 +7,14 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-09-12
+
+* mention [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592) and
+  [Codenotary](https://codenotary.com/) in Gophers Slack remote meetup
+announcement
+([Screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-09-12-18-06-57.png)
+(5738 members)
+
 ## 2022-04-27
 
 * mention [About You](https://aboutyou.de/) in [#26 wrap-up](https://golangleipzig.space/posts/meetup-26-wrapup/)
