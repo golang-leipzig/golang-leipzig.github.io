@@ -12,8 +12,8 @@ Since 09/2021, participation in Jetbrains' user group outreach program: [https:/
 * mention [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592) and
   [Codenotary](https://codenotary.com/) in Gophers Slack remote meetup
 announcement
-([Screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-09-12-18-06-57.png)
-(5738 members)
+([Screenshot](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/static/images/Screenshot-from-2022-09-13-12-38-39.png)
+(5739 members)
 
 ## 2022-04-27
 
