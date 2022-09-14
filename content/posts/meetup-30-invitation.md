@@ -68,6 +68,8 @@ Leipzig](https://www.openstreetmap.org/node/673082266) - cheers!
 
 TODO: outreach.
 
-* https://twitter.com/embano1/status/1568208137982722049
+* [x] https://twitter.com/embano1/status/1568208137982722049
+* [x] slack
+* [x] https://www.linkedin.com/posts/martin-czygan-58348842_hybrid-meetup-30-invitation-activity-6975911656400764928-CCBm?utm_source=share&utm_medium=member_desktop
 
 -->
