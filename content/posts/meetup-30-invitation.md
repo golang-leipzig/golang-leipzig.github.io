@@ -44,9 +44,9 @@ To quote [Pat Helland](https://twitter.com/pathelland) in [Immutability Changes 
 This meetup will be hybrid:
 
 1. You can join us online via [Zoom](https://us06web.zoom.us/j/87886291736?pwd=aXRFdFBvVHdQSzg0MzVkaGovNnByZz09)
-2. You can join us in person at [Basislager Leipzig](https://www.basislager.co/) &mdash; [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558)
+2. You can join us in person at [Lancaster University Leipzig Campus](https://www.google.com/search?channel=fs&client=ubuntu&q=lancaster+leipzig) &mdash; [Nikolaistraße 10, 04109 Leipzig](https://www.openstreetmap.org/node/7925192825#map=19/51.34107/12.37820)
 
-Perks of attending our in-person meetup at Basislager:
+Perks of attending our in-person meetup at Lancaster University Leipzig Campus:
 
 We are giving away a copy of [Cloud Native
 Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) -
@@ -56,12 +56,16 @@ board server*,  courtesy of [Codenotary](https://codenotary.com/)!
 
 ![](/images/meetup_30_goodies_tile.png)
 
-After the meetup at Basislager, you can join us for drinks at [Dr. Hops Craft
-Beer Bar](https://www.dr-hops.de/) at [Eichendorffstraße 7, 04277
-Leipzig](https://www.openstreetmap.org/node/673082266) - cheers!
 
 
-[Join us](https://www.meetup.com/leipzig-golang/events/286871365/) to discuss all things Go, immutability (and craft beer). See you!
+
+[Join us](https://www.meetup.com/leipzig-golang/events/286871365/) to discuss all things Go and immutability. See you!
+
+----
+
+Note: We changed the location due to a WW2 bomb has been found close to our
+original meetup location (Basislager):
+[https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-fund-sperrkreis-evakuierung-polizei-100.html](https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-fund-sperrkreis-evakuierung-polizei-100.html).
 
 
 <!--
