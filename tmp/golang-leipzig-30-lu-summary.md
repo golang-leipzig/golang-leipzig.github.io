@@ -15,8 +15,8 @@ zone - due to a old bomb find nearby [2].
 
 Lancaster University Leipzig graciously offered a room on a very short notice
 and allowed us to gather a dozen people for a great presentation by Dennis
-Zimmer [3], CTO of Codenotary [4] and lead developer Bartłomiej Święcki [4] about a cutting-edge open source database called
-immudb [5]. Evening saved!
+Zimmer [3], CTO of Codenotary [4] and lead developer Bartłomiej Święcki [5] about a cutting-edge open source database called
+immudb [6]. Evening saved!
 
 We'd like to thank Lancaster University for their support - so that we could
 learn and connect - you're awesome!
@@ -25,8 +25,9 @@ learn and connect - you're awesome!
 * [1] https://golangleipzig.space/
 * [2] https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-entschaerft-evakuierung-sperrkreis-polizei-100.html
 * [3] https://www.linkedin.com/in/denniszimmer
-* [4] https://github.com/byo
-* [5] https://immudb.io/
+* [4] https://codenotary.com
+* [5] https://github.com/byo
+* [6] https://immudb.io/
 
 ----
 
