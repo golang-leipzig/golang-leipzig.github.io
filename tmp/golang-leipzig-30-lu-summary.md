@@ -11,7 +11,7 @@ people connect through tech meetups with their peers to learn about new
 technologies and share experiences.
 
 On Tuesday night (2022-09-20), Leipzig's Go Programming Language Meetup [1] had
-scheduled a meetup, but alas their usual meeting place was part of an exclusion
+scheduled a meetup, but alas their usual meeting place became part of an exclusion
 zone - due to an old WW2 bomb find nearby [2]. Hard luck! However, ...
 
 Lancaster University Leipzig graciously offered a room on a very short notice
