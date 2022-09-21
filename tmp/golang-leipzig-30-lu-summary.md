@@ -1,5 +1,8 @@
 # Golang Leipzig x CodeNotary x Lancaster University Leipzig
 
+* Author: [Martin Czygan](mailto:martin.czygan@gmail.com)
+* Status: Draft
+
 > Life does not always go as planned! Continued ...
 
 Software development is as much about people as it is about programs - and many
