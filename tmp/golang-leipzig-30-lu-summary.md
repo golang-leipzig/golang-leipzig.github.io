@@ -16,8 +16,8 @@ zone - due to a old WW2 bomb find nearby [2].
 Lancaster University Leipzig graciously offered a room on a very short notice
 and allowed us to gather a dozen people (and more online) for a great
 presentation by Dennis Zimmer [3], CTO of Codenotary [4] and lead developer
-Bartłomiej Święcki [5] about a cutting-edge open source database called immudb
-[6]. Evening saved!
+Bartłomiej Święcki [5] (who visited us from Wrocław) about a cutting-edge open
+source database called immudb [6]. Evening saved!
 
 We'd like to thank Lancaster University for their support - so that we could
 learn and connect - you're awesome!
