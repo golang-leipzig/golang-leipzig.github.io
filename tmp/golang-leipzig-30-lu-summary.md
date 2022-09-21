@@ -1,7 +1,7 @@
 # Golang Leipzig x CodeNotary x Lancaster University Leipzig
 
 * Author: [Martin Czygan](mailto:martin.czygan@gmail.com)
-* Status: Draft
+* Status: Draft / 2022-09-21
 
 > Life does not always go as planned! Continued ...
 
