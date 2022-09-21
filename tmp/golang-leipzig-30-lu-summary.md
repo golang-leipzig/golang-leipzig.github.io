@@ -2,6 +2,7 @@
 
 * Author: [Martin Czygan](mailto:martin.czygan@gmail.com)
 * Status: Draft / 2022-09-21
+* Download text and photos: [2022_09_21_Leipzig_Golang_Kit.zip](https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/tmp/2022_09_21_Leipzig_Golang_Kit.zip).
 
 > Life does not always go as planned! Continued ...
 
