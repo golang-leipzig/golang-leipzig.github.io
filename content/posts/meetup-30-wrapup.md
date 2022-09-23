@@ -49,8 +49,7 @@ can use this to validate against the server.
 To learn more about the project and the internals of immudb, please also check
 out the FOSDEM 2022 talk by Bartłomiej Święcki: [Don't trust us, trust the math
 behind immudb: How immudb protects safety critical data (with math and
-cryptography)](https://archive.fosdem.org/2022/schedule/event/safety_dont_trust_us_trust_the_math_behind_immudb/)
-- and the paper [immudb: A Lightweight, Performant Immutable
+cryptography)](https://archive.fosdem.org/2022/schedule/event/safety_dont_trust_us_trust_the_math_behind_immudb/) and the paper: [immudb: A Lightweight, Performant Immutable
 Database](http://codenotary.s3.amazonaws.com/Research-Paper-immudb-CodeNotary_v3.0.pdf).
 
 Apart from the tech-talk and discussion, we gave away goodies: A
