@@ -60,11 +60,18 @@ the future and hope *Cloud Native Go* will be a page turner!
 ![](/images/meetup-30-tile.png)
 
 
+## Misc
 
-
+* Thanks to [Lancaster University Leipzig](https://www.lancasterleipzig.de/) for providing a meetup space on a short notice!
+* Security of systems can increase, when the number of witnesses go up. A
+  curious example: The New York Times has been hiding a blockchain since 1995,
+apparently: [The World’s Oldest Blockchain Has Been Hiding in the New York
+Times Since
+1995](https://www.vice.com/en/article/j5nzx4/what-was-the-first-blockchain)
 
 ----
 
 [Join our meetup](https://www.meetup.com/Leipzig-Golang) to get notified of
 upcoming events!
+
 
