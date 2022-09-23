@@ -14,7 +14,7 @@
       
       <guid>https://golangleipzig.space/posts/meetup-30-wrapup/</guid>
       <description>Secure data with immudb Hybrid Meetup #30 took place 2022-09-20 19:00 CEST at Lancaster University Leipzig Campus.
-We had a great presentation by Dennis Zimmer and Bartłomiej Święcki (GitHub from CodeNotary about their open source cutting edge database project immudb.
+We had a great presentation by Dennis Zimmer and Bartłomiej Święcki (GitHub from CodeNotary about their cutting edge open source database project immudb.
 Presentation slides are available here:
 
 Originally, the CodeNotary team looked at blockchains to implement the idea of tamperproof data store - but found that they could build something more performant.</description>
