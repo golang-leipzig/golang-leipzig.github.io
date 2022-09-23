@@ -15,9 +15,10 @@ University Leipzig](https://www.lancasterleipzig.de/) Campus.
 
 We had a great presentation by [Dennis
 Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
-Święcki](https://www.linkedin.com/in/bswiecki/) ([GitHub](https://github.com/byo) from
-[CodeNotary](https://codenotary.com/) about their open source cutting edge
-database project [immudb](https://immudb.io/).
+Święcki](https://www.linkedin.com/in/bswiecki/)
+([GitHub](https://github.com/byo) from [CodeNotary](https://codenotary.com/)
+about their cutting edge open source database project
+[immudb](https://immudb.io/).
 
 Presentation slides are available here:
 
