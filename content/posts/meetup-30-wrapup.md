@@ -11,14 +11,11 @@ tags:
 
 Hybrid Meetup #30 took place [2022-09-20 19:00
 CEST](https://www.meetup.com/leipzig-golang/events/286871365/) at [Lancaster
-University Leipzig](https://www.lancasterleipzig.de/) Campus (change of plans
-caused by a [bomb
-find](http://web.archive.org/web/20220923115054/https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-entschaerft-evakuierung-sperrkreis-polizei-100.html)
-near [Basislager](https://www.basislager.co/) - our original meetup location).
+University Leipzig](https://www.lancasterleipzig.de/) Campus.
 
 We had a great presentation by [Dennis
 Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
-Święcki](https://www.linkedin.com/in/bswiecki/) from
+Święcki](https://www.linkedin.com/in/bswiecki/) ([GitHub](https://github.com/byo) from
 [CodeNotary](https://codenotary.com/) about their open source cutting edge
 database project [immudb](https://immudb.io/).
 
@@ -48,6 +45,10 @@ To ensure the validity of the data, clients and server work together: Clients
 can keep track of the state of the database (which takes only a few bytes) and
 can use this to validate against the server.
 
+To learn more about the internals of immudb, please also check out the FOSDEM 2022
+talk by Bartłomiej Święcki: [Don't trust us, trust the math behind immudb: How immudb protects
+safety critical data (with math and cryptography)](https://archive.fosdem.org/2022/schedule/event/safety_dont_trust_us_trust_the_math_behind_immudb/)
+
 Apart from the tech-talk and discussion, we gave away goodies: A
 [Zimaboard](https://www.zimaboard.com/), courtesy of
 [CodeNotary](https://codenotary.com/) and a copy of [Cloud Native
@@ -62,7 +63,10 @@ the future and hope *Cloud Native Go* will be a page turner!
 
 ## Misc
 
-* Thanks to [Lancaster University Leipzig](https://www.lancasterleipzig.de/) for providing a meetup space on a short notice!
+* Thanks to [Lancaster University Leipzig](https://www.lancasterleipzig.de/) for providing a meetup space on a short notice (change of plans
+caused by a [bomb
+find](http://web.archive.org/web/20220923115054/https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-entschaerft-evakuierung-sperrkreis-polizei-100.html)
+near [Basislager](https://www.basislager.co/) - our original meetup location).
 * Security of systems can increase, when the number of witnesses go up. A
   curious example: The New York Times has been hiding a blockchain since 1995,
 apparently: [The World’s Oldest Blockchain Has Been Hiding in the New York
