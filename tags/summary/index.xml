@@ -6,7 +6,20 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 14:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 14:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid meetup #30 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-30-wrapup/</link>
+      <pubDate>Fri, 23 Sep 2022 14:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-30-wrapup/</guid>
+      <description>Secure data with immudb Hybrid Meetup #30 took place 2022-09-20 19:00 CEST at Lancaster University Leipzig Campus (change of plans caused by a bomb find near Basislager - our original meetup location).
+We had a great presentation by Dennis Zimmer and Bartłomiej Święcki from CodeNotary about their open source cutting edge database project immudb.
+Presentation slides are available here:
+
+Originally, the CodeNotary team looked at blockchains to implement the idea of tamperproof data store - but found that they could build something more performant.</description>
+    </item>
+    
     <item>
       <title>Drinkup #29 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-29-wrapup/</link>
