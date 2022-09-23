@@ -63,7 +63,7 @@ board server*,  courtesy of [Codenotary](https://codenotary.com/)!
 
 ----
 
-Note: We changed the location due to a WW2 bomb has been found close to our
+Note: We changed the location since a WW2 bomb has been found close to our
 original meetup location (Basislager):
 [https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-fund-sperrkreis-evakuierung-polizei-100.html](https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-fund-sperrkreis-evakuierung-polizei-100.html).
 
