@@ -1,7 +1,7 @@
 ---
-title: "Hybrid meetup #29 wrap-up"
+title: "Hybrid meetup #30 wrap-up"
 date: 2022-09-23T14:00:00+02:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
@@ -9,7 +9,7 @@ tags:
 
 ## Secure data with immudb
 
-Meetup #30 took place [2022-09-20 19:00
+Hybrid Meetup #30 took place [2022-09-20 19:00
 CEST](https://www.meetup.com/leipzig-golang/events/286871365/) at [Lancaster
 University Leipzig](https://www.lancasterleipzig.de/) Campus (change of plans
 caused by a [bomb
@@ -27,9 +27,9 @@ Presentation slides are available here:
 [![](/images/codenotary-immudb_Sep-22_dz_1.pptx_cover.png)](https://golangleipzig.space/downloads/codenotary-immudb_Sep-22_dz_1.pptx.pdf)
 
 Originally, the CodeNotary team looked at blockchains to implement the idea of
-tamperproof data - but found that they could build something more performant.
+tamperproof data store - but found that they could build something more performant.
 This work resulted in [immudb](https://immudb.io), a lightweight, high-speed
-immutable database which uses
+immutable database which is written in Go and uses
 [Merkle-Trees](https://en.wikipedia.org/wiki/Merkle_tree) at its core.
 
 Starting with a key-value database, immudb by now supports a dialect and subset
@@ -47,7 +47,6 @@ much simpler (see also
 To ensure the validity of the data, clients and server work together: Clients
 can keep track of the state of the database (which takes only a few bytes) and
 can use this to validate against the server.
-
 
 
 
