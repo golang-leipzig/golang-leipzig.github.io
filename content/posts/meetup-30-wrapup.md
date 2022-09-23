@@ -1,0 +1,60 @@
+---
+title: "Hybrid meetup #29 wrap-up"
+date: 2022-09-23T14:00:00+02:00
+draft: true
+tags:
+- summary
+- meetup
+---
+
+## Secure data with immudb
+
+Meetup #30 took place [2022-09-20 19:00
+CEST](https://www.meetup.com/leipzig-golang/events/286871365/) at [Lancaster
+University Leipzig](https://www.lancasterleipzig.de/) Campus (change of plans
+caused by a [bomb
+find](http://web.archive.org/web/20220923115054/https://www.mdr.de/nachrichten/sachsen/leipzig/bombe-entschaerft-evakuierung-sperrkreis-polizei-100.html)
+near [Basislager](https://www.basislager.co/) - our original meetup location).
+
+We had a great presentation by [Dennis
+Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
+Święcki](https://www.linkedin.com/in/bswiecki/) from
+[CodeNotary](https://codenotary.com/) about their open source cutting edge
+database project [immudb](https://immudb.io/).
+
+Presentation slides are available here:
+
+[![](/images/codenotary-immudb_Sep-22_dz_1.pptx_cover.png)](https://golangleipzig.space/downloads/codenotary-immudb_Sep-22_dz_1.pptx.pdf)
+
+Originally, the CodeNotary team looked at blockchains to implement the idea of
+tamperproof data - but found that they could build something more performant.
+This work resulted in [immudb](https://immudb.io), a lightweight, high-speed
+immutable database which uses
+[Merkle-Trees](https://en.wikipedia.org/wiki/Merkle_tree) at its core.
+
+Starting with a key-value database, immudb by now supports a dialect and subset
+of SQL as well and can speak the Postgres [wire
+protocol](https://www.postgresql.org/docs/current/protocol.html). Some
+challanges include the immutable representation of statements like `ALTER
+TABLE` and the like.
+
+The project takes advantage of Go's excellent deployment story and is set up in
+a few minutes. Currently, [SDKs](https://github.com/codenotary/immudb#how-to-integrate-immudb-in-your-application) are available for
+Java, Go, .NET, Python and nodejs - which makes integration in applications
+much simpler (see also
+[examples](https://github.com/codenotary/immudb-client-examples)).
+
+To ensure the validity of the data, clients and server work together: Clients
+can keep track of the state of the database (which takes only a few bytes) and
+can use this to validate against the server.
+
+
+
+
+
+
+----
+
+[Join our meetup](https://www.meetup.com/Leipzig-Golang) to get notified of
+upcoming events!
+
