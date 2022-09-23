@@ -60,15 +60,15 @@ immutable database which is written in Go and uses
 <p>Starting with a key-value database, immudb by now supports a dialect and subset
 of SQL as well and can speak the Postgres <a href="https://www.postgresql.org/docs/current/protocol.html">wire
 protocol</a>. Some
-challanges include the immutable representation of statements like <code>ALTER TABLE</code> and the like.</p>
+challenges include the immutable representation of statements like <code>ALTER TABLE</code> and the like.</p>
 <p>The project takes advantage of Go&rsquo;s excellent deployment story and is set up in
 a few minutes. Currently, <a href="https://github.com/codenotary/immudb#how-to-integrate-immudb-in-your-application">SDKs</a> are available for
 Java, Go, .NET, Python and nodejs - which makes integration in applications
 much simpler (see also
-<a href="https://github.com/codenotary/immudb-client-examples">examples</a>).</p>
+<a href="https://github.com/codenotary/immudb-client-examples">client examples</a>).</p>
 <p>To ensure the validity of the data, clients and server work together: Clients
 can keep track of the state of the database (which takes only a few bytes) and
-can use this to validate against the server.</p>
+validate against the server.</p>
 <p>To learn more about the project and the internals of immudb, please also check
 out the FOSDEM 2022 talk by Bartłomiej Święcki: <a href="https://archive.fosdem.org/2022/schedule/event/safety_dont_trust_us_trust_the_math_behind_immudb/">Don&rsquo;t trust us, trust the math
 behind immudb: How immudb protects safety critical data (with math and
