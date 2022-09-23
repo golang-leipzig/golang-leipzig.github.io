@@ -33,18 +33,18 @@ immutable database which is written in Go and uses
 Starting with a key-value database, immudb by now supports a dialect and subset
 of SQL as well and can speak the Postgres [wire
 protocol](https://www.postgresql.org/docs/current/protocol.html). Some
-challanges include the immutable representation of statements like `ALTER
+challenges include the immutable representation of statements like `ALTER
 TABLE` and the like.
 
 The project takes advantage of Go's excellent deployment story and is set up in
 a few minutes. Currently, [SDKs](https://github.com/codenotary/immudb#how-to-integrate-immudb-in-your-application) are available for
 Java, Go, .NET, Python and nodejs - which makes integration in applications
 much simpler (see also
-[examples](https://github.com/codenotary/immudb-client-examples)).
+[client examples](https://github.com/codenotary/immudb-client-examples)).
 
 To ensure the validity of the data, clients and server work together: Clients
 can keep track of the state of the database (which takes only a few bytes) and
-can use this to validate against the server.
+validate against the server.
 
 To learn more about the project and the internals of immudb, please also check
 out the FOSDEM 2022 talk by Bartłomiej Święcki: [Don't trust us, trust the math
