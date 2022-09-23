@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Secure data with immudb
+## Secure data with immudb - a fast, immutable database
 
 Hybrid Meetup #30 took place [2022-09-20 19:00
 CEST](https://www.meetup.com/leipzig-golang/events/286871365/) at [Lancaster
@@ -17,7 +17,7 @@ We had a great presentation by [Dennis
 Zimmer](https://www.linkedin.com/in/denniszimmer) and [Bartłomiej
 Święcki](https://www.linkedin.com/in/bswiecki/)
 ([GitHub](https://github.com/byo)) from [CodeNotary](https://codenotary.com/)
-about their cutting edge open source database project
+about their cutting edge, open source, immutable database project
 [immudb](https://immudb.io/).
 
 Presentation slides are available here:
