@@ -9,7 +9,7 @@ tags:
 
 ## Secure data with immudb - a fast, immutable database
 
-Hybrid Meetup #30 took place [2022-09-20 19:00
+Leipzig Gophers Hybrid Meetup #30 took place [2022-09-20 19:00
 CEST](https://www.meetup.com/leipzig-golang/events/286871365/) at [Lancaster
 University Leipzig](https://www.lancasterleipzig.de/) Campus.
 
