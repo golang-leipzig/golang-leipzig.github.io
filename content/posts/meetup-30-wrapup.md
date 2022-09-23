@@ -48,6 +48,17 @@ To ensure the validity of the data, clients and server work together: Clients
 can keep track of the state of the database (which takes only a few bytes) and
 can use this to validate against the server.
 
+Apart from the tech-talk and discussion, we gave away goodies: A
+[Zimaboard](https://www.zimaboard.com/), courtesy of
+[CodeNotary](https://codenotary.com/) and a copy of [Cloud Native
+Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/),
+courtesy of [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592).
+
+We may feature a project built with immudb and the winner of the Zimaboard in
+the future and hope *Cloud Native Go* will be a page turner!
+
+![](/images/meetup-30-tile.png)
+
 
 
 
