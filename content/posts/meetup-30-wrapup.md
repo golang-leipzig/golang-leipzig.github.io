@@ -22,7 +22,7 @@ about their cutting edge, open source, immutable database project
 
 Presentation slides are available here:
 
-[![](/downloads/codenotary-immudb_Sep-22_dz_1.pptx_cover.png)](https://golangleipzig.space/downloads/codenotary-immudb_Sep-22_dz_1.pptx.pdf)
+[![](/downloads/codenotary-immudb_Sep-22_dz_1.pptx_cover-50.jpg)](https://golangleipzig.space/downloads/codenotary-immudb_Sep-22_dz_1.pptx.pdf)
 
 Originally, the CodeNotary team looked at blockchains to implement the idea of
 tamperproof data store - but found that they could build something more performant.
