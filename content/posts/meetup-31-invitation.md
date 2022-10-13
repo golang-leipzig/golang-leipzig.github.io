@@ -23,8 +23,8 @@ We're excited to find out, what makes deta fly!
 
 Depending on time and interest, we have two other registrations from lightning talks:
 
-* "Reading the last bytes of a stream in Go"
-* A quick summary of "[Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/)" ([O'Reilly](https://www.oreilly.com/pub/cpc/323592), 2021)
+* "Reading the last bytes of a stream in Go" -- [blog post](https://www.klingt.net/articles/reading-the-last-bytes-of-a-stream-in-go.html)
+* A quick summary of *[Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/)* ([O'Reilly](https://www.oreilly.com/pub/cpc/323592), 2021)
 
 
 ## Hybrid Meetup
@@ -36,8 +36,8 @@ This meetup will be hybrid:
 
 Perks of attending our in-person meetup at Basislager Leipzig:
 
-* free drinks, (limited, FIFO)
-* Go swag: pins and posters
+* free drinks (limited, FIFO)
+* Go swag: [pins and posters](https://go.dev/blog/10years)
 
 
 [Join us](https://www.meetup.com/leipzig-golang/events/282941951/) to discuss all things Cloud and Go. See you!
