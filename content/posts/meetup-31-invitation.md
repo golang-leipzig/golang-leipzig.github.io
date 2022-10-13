@@ -17,9 +17,9 @@ from Berlin! We'll have a short talk and demo by
 [deta.sh](https://www.deta.sh/): "The personal cloud and the monster that makes
 it".
 
-We're excited to find out, what make deta fly:
-
 [![](/images/flying-20.gif)](https://www.deta.sh/)
+
+We're excited to find out, what makes deta fly!
 
 Depending on time and interest, we have two other registrations from lightning talks:
 
