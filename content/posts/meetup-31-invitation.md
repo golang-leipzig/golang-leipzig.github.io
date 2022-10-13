@@ -11,8 +11,8 @@ Hello, 世界!
 
 ## Clouds, Monsters and Streams
 
-For [meetup #31](https://www.meetup.com/leipzig-golang/events/282941951/)
-&mdash; on Oct 18, 2022 19:00 CEST &mdash; we're happy to have (remote) guests
+For meetup #31
+&mdash; on [Oct 18, 2022 19:00 CEST](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) &mdash; we're happy to have (remote) guests
 from Berlin! We'll have a short talk and demo by personal cloud builders
 [deta.sh](https://www.deta.sh/): *The personal cloud and the monster that makes
 it*.
