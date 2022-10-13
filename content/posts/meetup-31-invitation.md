@@ -13,7 +13,7 @@ Hello, 世界!
 
 For [meetup #31](https://www.meetup.com/leipzig-golang/events/282941951/)
 &mdash; on Oct 18, 2022 19:00 CEST &mdash; we're happy to have (remote) guests
-from Berlin! We'll have a short talk and demo by
+from Berlin! We'll have a short talk and demo by personal cloud builders
 [deta.sh](https://www.deta.sh/): *The personal cloud and the monster that makes
 it*.
 
@@ -23,7 +23,7 @@ We're excited to find out, what makes deta fly!
 
 Depending on time and interest, we have two other lightning talk registrations:
 
-* "Reading the last bytes of a stream in Go" -- [blog post](https://www.klingt.net/articles/reading-the-last-bytes-of-a-stream-in-go.html)
+* *Reading the last bytes of a stream in Go* -- [blog post](https://www.klingt.net/articles/reading-the-last-bytes-of-a-stream-in-go.html)
 * A quick summary of *[Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/)* ([O'Reilly](https://www.oreilly.com/pub/cpc/323592), 2021)
 
 
