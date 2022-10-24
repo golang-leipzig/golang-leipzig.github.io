@@ -1,7 +1,7 @@
 ---
 title: "Meetup 31 Wrapup"
 date: 2022-10-22T13:00:31+02:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
