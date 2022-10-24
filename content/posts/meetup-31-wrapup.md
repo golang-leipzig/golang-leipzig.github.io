@@ -11,7 +11,7 @@ tags:
 
 On [2022-10-18 19:00 CEST](meetup) we had our #31 meetup, this time [Basislager Coworking][basislager] and with a hybrid setup (that still needs some improvement, but we're getting there).
 
-[Max Eusterbrock][max] and his colleague [Aavash Shrestha](aavash) told us about _The personal cloud and the monster that makes it_.  In this presentation they gave us a preview on one of their new platforms that provides one-click hosting of applications, which they demonstrated with the deployment of a [note taking service][knotro].  One of the great things about this new platform was that anyone is able to install services, without requiring preliminary knowledge on cloud services, and that the client also owns the data that is produced by the installed service.  This is in contrast to common cloud services where you just create an account and all you data is owned and stored by whoever runs the service.  Aavash gave us a deep dive on the architecture of the new platform, explaining how they isolate workloads, and also how they designed it to easily scale with increased load.
+[Max Eusterbrock][max] and his colleague [Aavash Shrestha](aavash) told us about [_The personal cloud and the monster that makes it_][slides].  In this presentation they gave us a preview on one of their new platforms that provides one-click hosting of applications, which they demonstrated with the deployment of a [note taking service][knotro].  One of the great things about this new platform was that anyone is able to install services, without requiring preliminary knowledge on cloud services, and that the client also owns the data that is produced by the installed service.  This is in contrast to common cloud services where you just create an account and all you data is owned and stored by whoever runs the service.  Aavash gave us a deep dive on the architecture of the new platform, explaining how they isolate workloads, and also how they designed it to easily scale with increased load.
 
 One of our meetup attendees asked about creating PDF files in Go, which is a potential topic for a future meetup, but because of the lack of experience with this domain we could just recommend an article that was featured in a recent [golangweekly][goweekly] issue called [How To Create a PDF in Go: A Step-By-Step Tutorial][gopdf] ([medium](https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94)).
 
@@ -42,6 +42,7 @@ upcoming events!
 
 which is not obvious ([playground](https://go.dev/play/p/OpE2m09Q-OP)).
 
+[slides]: /downloads/deta-leipzig-gophers-31-slides.pdf
 [meetup]: https://www.meetup.com/leipzig-golang/events/282941951/
 [basislager]: https://www.basislager.co/
 [deta]: https://www.deta.sh/
