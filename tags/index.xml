@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>announcement</title>
-      <link>https://golangleipzig.space/tags/announcement/</link>
-      <pubDate>Thu, 13 Oct 2022 13:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/announcement/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 22 Oct 2022 13:00:31 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Thu, 13 Oct 2022 13:00:00 +0200</pubDate>
+      <pubDate>Sat, 22 Oct 2022 13:00:31 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/meetup/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>summary</title>
       <link>https://golangleipzig.space/tags/summary/</link>
-      <pubDate>Fri, 23 Sep 2022 14:00:00 +0200</pubDate>
+      <pubDate>Sat, 22 Oct 2022 13:00:31 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>https://golangleipzig.space/tags/announcement/</link>
+      <pubDate>Thu, 13 Oct 2022 13:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     

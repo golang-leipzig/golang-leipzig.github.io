@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 13:00:31 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup 31 Wrapup</title>
+      <link>https://golangleipzig.space/posts/meetup-31-wrapup/</link>
+      <pubDate>Sat, 22 Oct 2022 13:00:31 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-31-wrapup/</guid>
+      <description>On 2022-10-18 19:00 CEST we had our #31 meetup, this time Basislager Coworking and with a hybrid setup (that still needs some improvement, but we&amp;rsquo;re getting there).
+Max Eusterbrock and his colleague Aavash Shrestha told us about The personal cloud and the monster that makes it. In this presentation they gave us a preview on one of their new platforms that provides one-click hosting of applications, which they demonstrated with the deployment of a note taking service.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #31 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-31-invitation/</link>

@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://golangleipzig.space/</loc>
+    <lastmod>2022-10-22T13:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/meetup/</loc>
+    <lastmod>2022-10-22T13:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/meetup-31-wrapup/</loc>
+    <lastmod>2022-10-22T13:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/</loc>
+    <lastmod>2022-10-22T13:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/summary/</loc>
+    <lastmod>2022-10-22T13:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/</loc>
+    <lastmod>2022-10-22T13:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://golangleipzig.space/tags/announcement/</loc>
     <lastmod>2022-10-13T13:00:00+02:00</lastmod>
   </url>
@@ -13,32 +43,7 @@
   </url>
   
   <url>
-    <loc>https://golangleipzig.space/</loc>
-    <lastmod>2022-10-13T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/meetup/</loc>
-    <lastmod>2022-10-13T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/posts/</loc>
-    <lastmod>2022-10-13T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/</loc>
-    <lastmod>2022-10-13T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golangleipzig.space/posts/meetup-30-wrapup/</loc>
-    <lastmod>2022-09-23T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/summary/</loc>
     <lastmod>2022-09-23T14:00:00+02:00</lastmod>
   </url>
   
