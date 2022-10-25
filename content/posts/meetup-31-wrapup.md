@@ -1,5 +1,5 @@
 ---
-title: "Meetup 31 Wrapup"
+title: "Meetup #31 wrap-up"
 date: 2022-10-22T13:00:31+02:00
 draft: false
 tags:
