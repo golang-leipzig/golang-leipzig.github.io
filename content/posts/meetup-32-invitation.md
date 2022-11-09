@@ -11,7 +11,7 @@ Hello, 世界!
 
 ## Gridfuse x Leipzig Gophers
 
-For meetup #32 on [Nov 29, 2022 19:00
+For meetup #32 on Tuesday [Nov 29, 2022 19:00
 CET](https://www.meetup.com/leipzig-golang/events/282941959/) we're thrilled to
 collaborate with [Gridfuse](https://gridfuse.com/), a start-up in the heart of Leipzig!
 
