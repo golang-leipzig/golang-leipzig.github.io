@@ -29,7 +29,7 @@ their open source contributions to the telegraf nats plugin.
 > Gridfuse is a team of 14+ tech- and energy experts who want to build software,
 that has a positive impact on current and future generations!
 
-![](/images/linecurve.gif)
+[![](/images/linecurve.gif)](https://gifcities.org/)
 
 ## Hybrid Meetup
 
