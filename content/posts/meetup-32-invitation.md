@@ -41,7 +41,7 @@ This meetup will be hybrid:
 Perks of attending our in-person meetup at Gridfuse offices:
 
 * drinks and 🍕
-* Go swag: [pins and posters](https://go.dev/blog/10years)
+* Go swag: stickers, [pins and posters](https://go.dev/blog/10years)
 
 
 [Join us](https://www.meetup.com/leipzig-golang/events/282941959/) to discuss all things time series, energy and Go. See you!
