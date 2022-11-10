@@ -6,7 +6,7 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 20
 events so far (9 in [2021](https://golangleipzig.space/posts/2021/)). For next
-[meetup #32](https://www.meetup.com/leipzig-golang/events/282941959/) we're collaborating with [Gridfuse](https://gridfuse.com/) - stay tuned!
+[meetup #32](https://golangleipzig.space/posts/meetup-32-invitation/) on [Tue Nov, 29 2022](https://www.meetup.com/leipzig-golang/events/282941959/) we're excited to collaborate with [Gridfuse](https://gridfuse.com/).
 
 <!-- Visit
 [our meetup page](https://www.meetup.com/Leipzig-Golang/) for information about
