@@ -35,7 +35,7 @@ that has a positive impact on current and future generations!
 
 This meetup will be hybrid:
 
-1. You can join us in person at the [Gridfuse](https://www.basislager.co/) office within [Design Offices Leipzig](https://www.designoffices.de/standorte/buero-mieten-leipzig/leipzig-post), located [Augustusplatz 1-4, 04109 Leipzig](https://www.openstreetmap.org/node/7230218702), [Google Maps](https://goo.gl/maps/VeSEcUGvUjZRCcUK8)
+1. You can join us in person at the [Gridfuse](https://www.gridfuse.com/) office within [Design Offices Leipzig](https://www.designoffices.de/standorte/buero-mieten-leipzig/leipzig-post), located [Augustusplatz 1-4, 04109 Leipzig](https://www.openstreetmap.org/node/7230218702), [Google Maps](https://goo.gl/maps/VeSEcUGvUjZRCcUK8)
 2. You can join us online via [meet.jit.si/LeipzigGophers32](https://meet.jit.si/LeipzigGophers32)
 
 Perks of attending our in-person meetup at Gridfuse offices:
