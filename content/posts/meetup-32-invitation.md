@@ -20,7 +20,7 @@ will give a presentation on how they use
 [telegraf](https://www.influxdata.com/time-series-platform/telegraf/)
 ([code](https://github.com/influxdata/telegraf)) to persist timeseries data in
 [influxdb](https://github.com/influxdata/influxdb) and will also talk about
-their open source contributions to the telegraf nats plugin.
+their open source contributions to the telegraf [nats](https://en.wikipedia.org/wiki/NATS_Messaging) plugin.
 
 > Gridfuse is a 2022-founded start-up that has made it its mission to swift
 > the balance of power in the energy domain. The share of Renewables needs to
