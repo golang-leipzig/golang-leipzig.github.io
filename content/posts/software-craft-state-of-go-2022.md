@@ -33,3 +33,9 @@ last minute update due to pandemic regulations.
 
 See you there! -- [1535007080150622214](https://twitter.com/maik_toepfer/status/1535007080150622214)
 
+----
+
+Update: The slides can be found [here](https://github.com/golang-leipzig/state-of-go-in-2022/blob/main/Slides.md).
+
+[![](/images/state-of-go-2022-slides.png)](https://github.com/golang-leipzig/state-of-go-in-2022/blob/main/Slides.md)
+
