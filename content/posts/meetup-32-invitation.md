@@ -51,7 +51,7 @@ Perks of attending our in-person meetup at Gridfuse offices:
 
 TODO: outreach.
 
-* [ ] slack
-* [x] https://www.linkedin.com/feed/update/urn:li:share:7000773081384284161/
+* [x] https://gophers.slack.com/archives/C152YB9UZ/p1669380581663709 (5784)
+* [x] https://www.linkedin.com/feed/update/urn:li:share:7000773081384284161/ (900+ as of 2022-11-25)
 
 -->
