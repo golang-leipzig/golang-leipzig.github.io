@@ -27,7 +27,7 @@ faded out - and the need to attain the same stabilization goals with renewable e
 becomes much more urgent.
 
 Gridfuse choose Go, since a few components like influxdb and NATS use Go, but
-also because of an overall good performance profile of the language.
+also because of the overall good performance profile of the language.
 
 [![](/images/gridfuse-gophers-s.png)](https://www.linkedin.com/posts/lisaekern_gridfuse-leipziggophers-leipzigstartup-activity-7003703311040143360-PnjL?utm_source=share&utm_medium=member_desktop)
 
