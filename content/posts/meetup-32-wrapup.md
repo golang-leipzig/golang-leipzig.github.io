@@ -10,15 +10,15 @@ tags:
 ## Gridfuse x Leipzig Gophers
 
 
-Leipzig Gophers #32 took place on [2022-11-29 19:00 CET][meetup] and we had a
-great meetup at [Gridfuse'](https://gridfuse.com/) new office in the center of
+Leipzig Gophers Meetup #32 took place on [2022-11-29 19:00 CET][meetup] and we had a
+great meetup at [Gridfuse'](https://gridfuse.com/) new office in the heart of
 Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable
 energy sources (wind, solar, ...) to react to market prices - in Germany and
 Europe.
 
 Predicting future loads is one key component, and renewables pose their own set
 of challenges since they depend more on external factors (like the
-weather). Bundling (many smaller) assets is important, too -- e.g. into a 1-20MW is a target range.
+weather). Bundling (many smaller) assets is important, too -- e.g. 1-20MW is a relevant target range.
 
 Affected by the [European energy crisis
 2022](https://www.consilium.europa.eu/en/infographics/eu-measures-to-cut-down-energy-bills/)
@@ -29,7 +29,7 @@ becomes much more urgent.
 Gridfuse choose Go, since a few components like influxdb and NATS use Go, but
 also because of an overall good performance profile of the language.
 
-![](/images/gridfuse-gophers-s.png)
+[![](/images/gridfuse-gophers-s.png)](https://www.linkedin.com/posts/lisaekern_gridfuse-leipziggophers-leipzigstartup-activity-7003703311040143360-PnjL?utm_source=share&utm_medium=member_desktop)
 
 ## Data Collectors and Flows
 
@@ -47,7 +47,7 @@ contributed it to upstream:
 
 
 Running influxdb is an interim solution, as historical data can also be put
-into more static storage like S3 or relations databases for the use case.
+into other (more static) storage like S3 or relational databases for the use case.
 
 ## Energy efficiency of programming languages
 
