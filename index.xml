@@ -6,7 +6,17 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 13:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 13:00:31 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup #32 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-32-wrapup/</link>
+      <pubDate>Wed, 30 Nov 2022 13:00:31 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-32-wrapup/</guid>
+      <description>Gridfuse x Leipzig Gophers Leipzig Gophers #32 took place on 2022-11-29 19:00 CET and we had a great meetup at Gridfuse&#39; new office in the center of Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable energy sources (wind, solar, &amp;hellip;) to react to market prices - in Germany and Europe.
+Predicting future loads is one key component, and renewables pose their own set of challenges since they depend more on external factors (like the weather).</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #32 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-32-invitation/</link>
