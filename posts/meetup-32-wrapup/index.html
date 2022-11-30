@@ -41,14 +41,14 @@
 </header>
 <article>
     <h2 id="gridfuse-x-leipzig-gophers">Gridfuse x Leipzig Gophers</h2>
-<p>Leipzig Gophers #32 took place on <a href="https://www.meetup.com/leipzig-golang/events/282941959/">2022-11-29 19:00 CET</a> and we had a
-great meetup at <a href="https://gridfuse.com/">Gridfuse'</a> new office in the center of
+<p>Leipzig Gophers Meetup #32 took place on <a href="https://www.meetup.com/leipzig-golang/events/282941959/">2022-11-29 19:00 CET</a> and we had a
+great meetup at <a href="https://gridfuse.com/">Gridfuse'</a> new office in the heart of
 Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable
 energy sources (wind, solar, &hellip;) to react to market prices - in Germany and
 Europe.</p>
 <p>Predicting future loads is one key component, and renewables pose their own set
 of challenges since they depend more on external factors (like the
-weather). Bundling (many smaller) assets is important, too &ndash; e.g. into a 1-20MW is a target range.</p>
+weather). Bundling (many smaller) assets is important, too &ndash; e.g. 1-20MW is a relevant target range.</p>
 <p>Affected by the <a href="https://www.consilium.europa.eu/en/infographics/eu-measures-to-cut-down-energy-bills/">European energy crisis
 2022</a>
 the previously used gas-powered plants, which used to stabilize the grid, are
@@ -56,7 +56,7 @@ faded out - and the need to attain the same stabilization goals with renewable e
 becomes much more urgent.</p>
 <p>Gridfuse choose Go, since a few components like influxdb and NATS use Go, but
 also because of an overall good performance profile of the language.</p>
-<p><img src="/images/gridfuse-gophers-s.png" alt=""></p>
+<p><a href="https://www.linkedin.com/posts/lisaekern_gridfuse-leipziggophers-leipzigstartup-activity-7003703311040143360-PnjL?utm_source=share&amp;utm_medium=member_desktop"><img src="/images/gridfuse-gophers-s.png" alt=""></a></p>
 <h2 id="data-collectors-and-flows">Data Collectors and Flows</h2>
 <p>We heard from <a href="https://www.linkedin.com/in/j%C3%B6rg-werner-b49798105/">Jörg</a>
 about parts of their backend, data collection architecture.</p>
@@ -68,7 +68,7 @@ only the payload, so Gridfuse started to implemented this feature and
 contributed it to upstream:
 <a href="https://github.com/influxdata/telegraf/pull/12274">influxdata#12274</a>. Subject parsing is similar to <a href="https://mqtt.org/">MQTT</a>.</p>
 <p>Running influxdb is an interim solution, as historical data can also be put
-into more static storage like S3 or relations databases for the use case.</p>
+into other (more static) storage like S3 or relational databases for the use case.</p>
 <h2 id="energy-efficiency-of-programming-languages">Energy efficiency of programming languages</h2>
 <p>We had a lightning talk about a paper: <a href="https://haslab.github.io/SAFER/scp21.pdf">Ranking Programming Languages by Energy
 Efficiency</a>
