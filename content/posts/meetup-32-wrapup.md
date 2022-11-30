@@ -29,7 +29,7 @@ becomes much more urgent.
 Gridfuse choose Go, since a few components like influxdb and NATS use Go, but
 also because of an overall good performance profile of the language.
 
-![](/images/gridfuse-gophers.png)
+![](/images/gridfuse-gophers-s.png)
 
 ## Data Collectors and Flows
 
