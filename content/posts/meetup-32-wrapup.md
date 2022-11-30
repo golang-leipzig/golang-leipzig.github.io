@@ -43,9 +43,8 @@ via [telegraf](https://docs.influxdata.com/telegraf/v1.24/) into
 The telegraf plugin has no capability to parse subjects from NATS messages,
 only the payload, so Gridfuse started to implemented this feature and
 contributed it to upstream:
-[influxdata#12274](https://github.com/influxdata/telegraf/pull/12274).
+[influxdata#12274](https://github.com/influxdata/telegraf/pull/12274). Subject parsing is similar to [MQTT](https://mqtt.org/).
 
-Subject parsing is similar to [MQTT](https://mqtt.org/).
 
 Running influxdb is an interim solution, as historical data can also be put
 into more static storage like S3 or relations databases for the use case.
