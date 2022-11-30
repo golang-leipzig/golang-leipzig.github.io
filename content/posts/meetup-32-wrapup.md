@@ -53,10 +53,7 @@ into other (more static) storage like S3 or relational databases for the use cas
 
 We had a lightning talk about a paper: [Ranking Programming Languages by Energy
 Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
-([fatcat](https://fatcat.wiki/release/dccqbrxp55fozmzmqytgmgysaq)).
-
-* [Go energy efficiency](https://github.com/miku/goenergy), and a few areas [where Go shines](https://github.com/miku/goenergy#where-go-shines).
-
+([fatcat](https://fatcat.wiki/release/dccqbrxp55fozmzmqytgmgysaq)): [Go energy efficiency](https://github.com/miku/goenergy), and a few areas [where Go shines](https://github.com/miku/goenergy#where-go-shines).
 
 ## Thanks!
 
