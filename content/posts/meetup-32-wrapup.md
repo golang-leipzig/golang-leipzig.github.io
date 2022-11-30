@@ -47,7 +47,7 @@ contributed it to upstream:
 
 
 Running influxdb is an interim solution, as historical data can also be put
-into other (more static) storage like S3 or relational databases for the use case.
+into other (more static) storage systems like S3 or relational databases for the use case.
 
 ## Energy efficiency of programming languages
 
