@@ -29,6 +29,8 @@ becomes much more urgent.
 Gridfuse choose Go, since a few components like influxdb and NATS use Go, but
 also because of an overall good performance profile of the language.
 
+![](/images/gridfuse-gophers.png)
+
 ## Data Collectors and Flows
 
 We heard from [Jörg](https://www.linkedin.com/in/j%C3%B6rg-werner-b49798105/)
@@ -54,7 +56,7 @@ We had a lightning talk about a paper: [Ranking Programming Languages by Energy
 Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
 ([fatcat](https://fatcat.wiki/release/dccqbrxp55fozmzmqytgmgysaq)).
 
-> [Go energy efficiency](https://github.com/miku/goenergy), and Go has a few areas [where it shines](https://github.com/miku/goenergy#where-go-shines).
+* [Go energy efficiency](https://github.com/miku/goenergy), and a few areas [where Go shines](https://github.com/miku/goenergy#where-go-shines).
 
 
 ## Thanks!
