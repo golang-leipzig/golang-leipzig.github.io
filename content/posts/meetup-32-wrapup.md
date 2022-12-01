@@ -10,7 +10,7 @@ tags:
 ## Gridfuse x Leipzig Gophers
 
 
-Leipzig Gophers Meetup #32 took place on [2022-11-29 19:00 CET][meetup] and we had a
+Leipzig Gophers #32 took place on [2022-11-29 19:00 CET][meetup] and we had a
 great meetup at [Gridfuse'](https://gridfuse.com/) new office in the heart of
 Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable
 energy sources (wind, solar, ...) to react to market prices - in Germany and
