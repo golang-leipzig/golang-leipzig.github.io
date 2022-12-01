@@ -16,13 +16,13 @@ Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable
 energy sources (wind, solar, ...) to react to market prices - in Germany and
 Europe.
 
-Predicting future loads is one key component, and renewables pose their own set
+Predicting future energy prices is one key component, and renewables pose their own set
 of challenges since they depend more on external factors (like the
-weather). Bundling (many smaller) assets is important, too -- e.g. 1-20MW is a relevant target range.
+weather, [and more](https://fatcat.wiki/release/rayqayptajhptbxx2al6s3wuy4)...). Bundling (many smaller) assets is important, too -- e.g. 1-20MW is a relevant target range.
 
 Affected by the [European energy crisis
 2022](https://www.consilium.europa.eu/en/infographics/eu-measures-to-cut-down-energy-bills/)
-the previously used gas-powered plants, which used to stabilize the grid, are
+the previously used gas-powered plants, which stabilized the grid, are
 faded out - and the need to attain the same stabilization goals with renewable energy sources
 becomes much more urgent.
 
@@ -51,13 +51,13 @@ into other (more static) storage systems like S3 or relational databases for the
 
 ## Energy efficiency of programming languages
 
-We had a lightning talk about a paper: [Ranking Programming Languages by Energy
+We also had a lightning talk about a paper: [Ranking Programming Languages by Energy
 Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
 ([fatcat](https://fatcat.wiki/release/dccqbrxp55fozmzmqytgmgysaq)): [Go energy efficiency](https://github.com/miku/goenergy), and a few areas [where Go shines](https://github.com/miku/goenergy#where-go-shines).
 
 ## Thanks!
 
-We'd like to thank [Gridfuse](https://gridfuse.com) for a wonderful tech+social event
+We'd like to thank [Gridfuse](https://gridfuse.com) for hosting a wonderful tech+social event
 and the insights into a fascinating domain - and last but not least the incredible Gopher cookies :)
 
 [![](/images/gridfuse-gopher-cookies-s.png)](https://www.linkedin.com/posts/lisaekern_gridfuse-leipziggophers-leipzigstartup-activity-7003703311040143360-PnjL?utm_source=share&utm_medium=member_desktop)
