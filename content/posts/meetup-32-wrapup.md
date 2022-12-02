@@ -1,5 +1,5 @@
 ---
-title: "Meetup #32 wrap-up"
+title: "Hybrid Meetup #32 wrap-up"
 date: 2022-11-30T13:00:31+02:00
 draft: false
 tags:
