@@ -34,7 +34,7 @@ also because of the overall good performance profile of the language.
 ## Data Collectors and Flows
 
 We heard from [Jörg](https://www.linkedin.com/in/j%C3%B6rg-werner-b49798105/)
-about parts of their backend, data collection architecture.
+about parts of their backend, data collection architecture ([Slides](/downloads/Meetup-Telegraf.pdf)).
 
 Data flows from asset connectors, into [NATS](https://nats.io/), then
 via [telegraf](https://docs.influxdata.com/telegraf/v1.24/) into
