@@ -1,6 +1,6 @@
 ---
 title: "Winter Drinkup #33 invitation"
-date: 2022-12-03T19:00:00+02:00
+date: 2022-12-02T19:00:00+02:00
 draft: false
 tags:
 - announcement
