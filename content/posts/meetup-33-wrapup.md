@@ -18,9 +18,9 @@ post, so here's just a fraction of the topics we passed (slightly categorized):
 ## Book recommendations
 
 * [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - a very readable introduction to the topic; more academic angles include the classic [Out of the tar pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf) or [Purely Functional Data Structures](https://openlibrary.org/works/OL1863182W/Purely_functional_data_structures) (always nice to [find references to this book in code](https://github.com/golang/go/blob/78fc81070a853d08a71f70fa20b2093f5535e6c5/src/net/http/transport.go#L1256-L1271))
-* in 04/2022, a JS version of SICP (1984) came out: [Wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition), there's an [open access version](https://sourceacademy.org/sicpjs/index), too
+* in 04/2022, a JS version of [SICP](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) (1984) came out: [SICP JS edition](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition), there's an [open access version](https://sourceacademy.org/sicpjs/index), too
 * [Podman in Action](https://www.manning.com/books/podman-in-action), container tools with a nice Unix backdrop
-* the classic, albeit just five year old [Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+* the classic, albeit just five year old [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 * [100 mistakes in Go and how to avoid them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them) - actionable advice for Go code improvements
 
 ## Software General
