@@ -106,8 +106,8 @@ the interface is well discovered.</p>
 typing: An interface can be <em>added later</em>, in an ad-hoc style, e.g. to facilitate testing
 or establishing a protocol of limited scope.</p>
 <p>Example: A function only uses <code>client.Do</code> for HTTP requests. We can create a
-protocol, so that we are able to use the default HTTP client from the standard
-library or some third-pary library as well. We can define a Doer:</p>
+protocol, so we are able to use the default HTTP client from the standard
+library or some third-pary library as well (as long at it has a suitable <code>Do</code> method). We can define a Doer:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#000;font-weight:bold">type</span> Doer <span style="color:#000;font-weight:bold">interface</span> {
     <span style="color:#900;font-weight:bold">Do</span>(req <span style="color:#000;font-weight:bold">*</span>http.Request) (<span style="color:#000;font-weight:bold">*</span>http.Response, <span style="color:#458;font-weight:bold">error</span>)
 }
