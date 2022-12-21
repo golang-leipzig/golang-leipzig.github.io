@@ -9,11 +9,11 @@ tags:
 
 ## Happy Holidays!
 
+![](/images/cantona_pixel.png)
+
 We met 2022-12-20 19:00 at Café Cantona, with no specific Go agenda, for a
 great exchange of ideas and experiences - too many to capture them in a blog
 post, so here's just a fraction of the topics we passed (slightly categorized):
-
-![](/images/cantona_pixel.png)
 
 ## Book recommendations
 
