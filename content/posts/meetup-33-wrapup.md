@@ -15,7 +15,7 @@ We met 2022-12-20 19:00 at Café Cantona, with no specific Go agenda, for a
 great exchange of ideas and experiences - too many to capture them in a blog
 post, so here's just a fraction of the topics we passed (slightly categorized):
 
-## Book recommendations
+## Reading list
 
 * [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - a very readable introduction to the topic; more academic angles include the classic [Out of the tar pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf) or [Purely Functional Data Structures](https://openlibrary.org/works/OL1863182W/Purely_functional_data_structures) (always nice to [find references to this book in code](https://github.com/golang/go/blob/78fc81070a853d08a71f70fa20b2093f5535e6c5/src/net/http/transport.go#L1256-L1271))
 * in 04/2022, a JS version of [SICP](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) (1984) came out: [SICP JS edition](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition), there's an [open access version](https://sourceacademy.org/sicpjs/index), too
