@@ -59,28 +59,9 @@ post, so here&rsquo;s just a fraction of the topics we passed (slightly categori
 </ul>
 <p>If you have <a href="https://www.gnu.org/software/wget/">wget</a> installed, you can already create WARC files yourself:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">$ wget -rkc --warc-file golangleipzig.space --warc-cdx https://golangleipzig.space
-
-Opening WARC file ‘golangleipzig.space.warc.gz’.
-
---2022-12-21 16:26:47--  https://golangleipzig.space/
-Resolving golangleipzig.space <span style="color:#000;font-weight:bold">(</span>golangleipzig.space<span style="color:#000;font-weight:bold">)</span>... 185.199.110.153, 185.199.109.153
-Connecting to golangleipzig.space <span style="color:#000;font-weight:bold">(</span>golangleipzig.space<span style="color:#000;font-weight:bold">)</span>|185.199.110.153|:443... connected.
-HTTP request sent, awaiting response...
-
-...
-
-$ ls -hgG golangleipzig.space.*
--rw-rw-r-- <span style="color:#099">1</span> 88K Dec <span style="color:#099">21</span> 16:27 golangleipzig.space.cdx
--rw-rw-r-- <span style="color:#099">1</span> 18M Dec <span style="color:#099">21</span> 16:27 golangleipzig.space.warc.gz
-
-$ wc -l golangleipzig.space.cdx <span style="color:#998;font-style:italic"># urls captured</span>
-<span style="color:#099">352</span> golangleipzig.space.cdx
-
-$ shuf -n <span style="color:#099">3</span> golangleipzig.space.cdx | awk <span style="color:#d14">&#39;{print $1}&#39;</span>
-https://golangleipzig.space/images/meetup_30_goodies_tile.png
-https://golangleipzig.space/images/christmasxpalm01.gif
-https://golangleipzig.space/tags/summary/
-</code></pre></div><p>Since web archiving aims for a complete preservation, the whole HTTP exchange
+</code></pre></div><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Since web archiving aims for a complete preservation, the whole HTTP exchange
 is recorded - which can be analyzed later. The <a href="https://httparchive.org/">HTTP Archive</a> creates various reports, e.g. a
 <a href="https://almanac.httparchive.org/en/2022/">yearly state of the web report</a>.</p>
 <ul>
