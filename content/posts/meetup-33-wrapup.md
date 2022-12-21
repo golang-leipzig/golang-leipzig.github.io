@@ -164,7 +164,7 @@ Garage, famously said that *if cloud native has to be a synonym for anything, it
 queue with less effort that writing e.g. [15 lines in
 Go](https://github.com/awsdocs/aws-doc-sdk-examples/blob/5458e2b9fd71abb916bca4ed53d8c1a894e4fe87/go/example_code/sqs/sqs_createqueues.go#L42-L59) (including error handling);
 (btw, [SQS](https://aws.amazon.com/blogs/aws/aws-blog-the-first-five-years/)
-started in 2004); at some places, [infra works differently](https://archive.org/details/jonah-edwards-presentation))
+started in 2004); at some places, [infra works differently](https://archive.org/details/jonah-edwards-presentation) [❤️](https://archive.org/donate/)
 
 
 ## Culture
