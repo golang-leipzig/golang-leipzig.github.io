@@ -31,7 +31,11 @@ If you have [wget](https://www.gnu.org/software/wget/) installed, you can alread
 
 ```shell
 $ wget -rkc --warc-file golangleipzig.space --warc-cdx https://golangleipzig.space
+```
 
+<!--
+
+```
 Opening WARC file ‘golangleipzig.space.warc.gz’.
 
 --2022-12-21 16:26:47--  https://golangleipzig.space/
@@ -53,6 +57,8 @@ https://golangleipzig.space/images/meetup_30_goodies_tile.png
 https://golangleipzig.space/images/christmasxpalm01.gif
 https://golangleipzig.space/tags/summary/
 ```
+
+-->
 
 Since web archiving aims for a complete preservation, the whole HTTP exchange
 is recorded - which can be analyzed later. The [HTTP Archive](https://httparchive.org/) creates various reports, e.g. a
