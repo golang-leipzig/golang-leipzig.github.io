@@ -1,7 +1,7 @@
 ---
 title: "Drinkup #33 wrap-up"
 date: 2022-12-21T20:00:31+02:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
@@ -64,6 +64,20 @@ There's a new wave of big data and analytics tools written in [rust](https://www
 
 ## Go
 
+* JSON matcher: [quamina](https://github.com/timbray/quamina)
+
+> Quamina implements a data type that has APIs to create an instance and add
+> multiple Patterns to it, and then query data objects called Events to
+> discover which of the Patterns match the fields in the Event.
+
+* Go generics utils: [gogu](https://github.com/esimov/gogu)
+
+> Gogu is a versatile, comprehensive, reusable and efficient concurrent-safe
+> utility functions and data structures library taking advantage of the Go
+> generics. It was inspired by other well established and consecrated
+> frameworks like lodash or Apache Commons and some concepts being more closer
+> to the functional programming paradigms.
+
 * Functional options [pattern](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md) (we talked about that in
   [#13](https://golangleipzig.space/posts/meetup-13-wrapup/)) has some
 advantages over the still widely used technique of passing config structs to
@@ -74,7 +88,7 @@ functions.
 > Declare an interface where it is used, not where it is implemented. Unless
 > the interface is well discovered.
 
-Via: [1605116543553019905](https://twitter.com/inancgumus/status/1605116543553019905)
+Via: [1605116543553019905](https://twitter.com/inancgumus/status/1605116543553019905) -- join the [conversation](https://twitter.com/embano1/status/1605173329836404738) ...
 
 Our take: It's a - slightly subtle - consequence of structural
 typing: An interface can be *added later*, in an ad-hoc style, e.g. to facilitate testing
@@ -115,8 +129,27 @@ languages](https://en.wikipedia.org/wiki/Types_and_Programming_Languages)
 * Python in 2022 with [gradual typing](https://en.wikipedia.org/wiki/Gradual_typing) feels like a static language now - a long way since [Static Typing Where Possible, Dynamic Typing When Needed:
 The End of the Cold War Between Programming Languages](http://web.archive.org/web/20060111181527/http://pico.vub.ac.be/~wdmeuter/RDL04/papers/Meijer.pdf) (discussed at the time by [LtU](http://lambda-the-ultimate.org/node/834))
 
+## API Design
+
+* [Expanding objects](https://stripe.com/docs/api/expanding_objects) - another example in the wild: [fatcat API](https://api.fatcat.wiki/v0/release/qaa7ysrn5rfbnkjec7rtrkcao4?expand=files) (*List of sub-entities to expand in response. For releases, 'files', 'filesets, 'webcaptures', 'container', and 'creators' are valid.*)
+* [Idempotency tool for AWS lambda](https://awslabs.github.io/aws-lambda-powertools-python/2.4.0/utilities/idempotency/)
+
+Related, from [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) (a book we gave away in [#30](https://golangleipzig.space/posts/meetup-30-wrapup/), courtesy of [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592)), page 168:
+
+> [Holly Cummins](https://hollycummins.com/), the worldwide development community practice lead for the IBM
+Garage, famously said that *if cloud native has to be a synonym for anything, it would be idempotent*.
+
+* [Joshua Bloch: Bumper-Sticker API Design](https://www.infoq.com/articles/API-Design-Joshua-Bloch/) ([Slides](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf))
+
 
 ## Cloud
+
+* [Running kubernetes with rootless podman on WSL2](https://www.salilmishra.ml/posts/k8s-podman-wsl2/)
+
+> Running Kubernetes with rootless podman is documented on both kind and
+> minikube but to get it up and running on [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) requires some additional tweaks
+> as by default WSL2 uses init daemon, instead of systemd and you have to
+> enable cgroupv2 explicitly.
 
 * The perennial question: how can you beat *cloud* infrastructure from a
   developer experience (and economical) standpoint, e.g. how can we create a robust, scalabale
@@ -125,10 +158,19 @@ Go](https://github.com/awsdocs/aws-doc-sdk-examples/blob/5458e2b9fd71abb916bca4e
 (btw, [SQS](https://aws.amazon.com/blogs/aws/aws-blog-the-first-five-years/)
 started in 2004); at some places, [infra works differently](https://archive.org/details/jonah-edwards-presentation))
 
-## Personal development
 
-* How to improve as an software engineer? We got some ideas, but are curious about what you think - so [join our meetup](https://www.meetup.com/Leipzig-Golang) to get notified of
-upcoming events!
+## Culture
 
+* [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 
+## Writing and blogs
+
+* How to improve as an software engineer? We got some ideas, like keeping a
+  (public) technical journal, but are curious about what you think - so [join
+our meetup](https://www.meetup.com/Leipzig-Golang) to connect and to get
+notified of upcoming events!
+
+## Misc
+
+* Airtags and Parcel: [DHL "Lost" My AirTag Parcel (but I knew where it was)](https://www.youtube.com/watch?v=W8SER24F0U8)
 
