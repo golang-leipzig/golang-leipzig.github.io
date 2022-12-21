@@ -103,8 +103,8 @@ typing: An interface can be *added later*, in an ad-hoc style, e.g. to facilitat
 or establishing a protocol of limited scope.
 
 Example: A function only uses `client.Do` for HTTP requests. We can create a
-protocol, so that we are able to use the default HTTP client from the standard
-library or some third-pary library as well. We can define a Doer:
+protocol, so we are able to use the default HTTP client from the standard
+library or some third-pary library as well (as long at it has a suitable `Do` method). We can define a Doer:
 
 ```go
 type Doer interface {
