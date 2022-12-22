@@ -104,14 +104,13 @@ the interface is well discovered.</p>
 <p>Via: <a href="https://twitter.com/inancgumus/status/1605116543553019905">1605116543553019905</a> &ndash; join the <a href="https://twitter.com/embano1/status/1605173329836404738">conversation</a> &hellip;</p>
 <p>Our take: It&rsquo;s a - slightly subtle - consequence of structural
 typing: An interface can be <em>added later</em>, in an ad-hoc style, e.g. to facilitate testing
-or establishing a protocol of limited scope.</p>
-<p>Example: A function only uses <code>client.Do</code> for HTTP requests. We can create a
-protocol, so we are able to use the default HTTP client from the standard
+or to establish a protocol of limited scope.</p>
+<p>Example: A function only uses <code>client.Do</code> for HTTP requests. We can create an ad-hoc interface, so we are able to use the default HTTP client from the standard
 library or some third-pary library as well (as long at it has a suitable <code>Do</code> method). We can define a Doer:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#000;font-weight:bold">type</span> Doer <span style="color:#000;font-weight:bold">interface</span> {
     <span style="color:#900;font-weight:bold">Do</span>(req <span style="color:#000;font-weight:bold">*</span>http.Request) (<span style="color:#000;font-weight:bold">*</span>http.Response, <span style="color:#458;font-weight:bold">error</span>)
 }
-</code></pre></div><p>and let our function work with <code>Doer</code> interface instead of a concrete type.
+</code></pre></div><p>and let our function work with this <code>Doer</code> interface instead of a concrete type.
 This interface should be defined where it is used (and not in the net/http
 package, for example). On the flipside, sometimes you need central interfaces,
 e.g. <a href="https://pkg.go.dev/io#Reader">io.Reader</a>, or a database abstraction
