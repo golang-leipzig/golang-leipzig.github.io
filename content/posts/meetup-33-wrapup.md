@@ -100,10 +100,9 @@ Via: [1605116543553019905](https://twitter.com/inancgumus/status/160511654355301
 
 Our take: It's a - slightly subtle - consequence of structural
 typing: An interface can be *added later*, in an ad-hoc style, e.g. to facilitate testing
-or establishing a protocol of limited scope.
+or to establish a protocol of limited scope.
 
-Example: A function only uses `client.Do` for HTTP requests. We can create a
-protocol, so we are able to use the default HTTP client from the standard
+Example: A function only uses `client.Do` for HTTP requests. We can create an ad-hoc interface, so we are able to use the default HTTP client from the standard
 library or some third-pary library as well (as long at it has a suitable `Do` method). We can define a Doer:
 
 ```go
@@ -112,7 +111,7 @@ type Doer interface {
 }
 ```
 
-and let our function work with `Doer` interface instead of a concrete type.
+and let our function work with this `Doer` interface instead of a concrete type.
 This interface should be defined where it is used (and not in the net/http
 package, for example). On the flipside, sometimes you need central interfaces,
 e.g. [io.Reader](https://pkg.go.dev/io#Reader), or a database abstraction
