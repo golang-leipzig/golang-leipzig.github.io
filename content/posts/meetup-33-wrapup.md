@@ -167,18 +167,18 @@ Go](https://github.com/awsdocs/aws-doc-sdk-examples/blob/5458e2b9fd71abb916bca4e
 started in 2004); at some places, [infra works differently](https://archive.org/details/jonah-edwards-presentation) [❤️](https://archive.org/donate/)
 
 
-## Culture
+## Misc
 
-* [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-
-## Writing and blogs
-
+* Culture: [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * How to improve as an software engineer? We got some ideas, like keeping a
   (public) technical journal, but are curious about what you think - so [join
 our meetup](https://www.meetup.com/Leipzig-Golang) to connect and to get
 notified of upcoming events!
-
-## Misc
-
 * Airtags and Parcel: [DHL "Lost" My AirTag Parcel (but I knew where it was)](https://www.youtube.com/watch?v=W8SER24F0U8)
+
+----
+
+Happy holidays!
+
+![](/images/sierpinski.jpg)
 
