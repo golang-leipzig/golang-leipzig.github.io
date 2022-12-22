@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Happy Holidays!
+## Drinkup Notes
 
 ![](/images/cantona_pixel.png)
 
