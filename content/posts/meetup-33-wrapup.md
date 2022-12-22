@@ -175,8 +175,6 @@ our meetup](https://www.meetup.com/Leipzig-Golang) to connect and to get
 notified of upcoming events!
 * Airtags and Parcel: [DHL "Lost" My AirTag Parcel (but I knew where it was)](https://www.youtube.com/watch?v=W8SER24F0U8)
 
-----
-
 ## Happy holidays!
 
 ![](/images/sierpinski50.jpg)
