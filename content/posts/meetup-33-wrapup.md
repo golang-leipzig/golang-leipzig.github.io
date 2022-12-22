@@ -178,7 +178,7 @@ notified of upcoming events!
 
 ----
 
-Happy holidays!
+## Happy holidays!
 
-![](/images/sierpinski.jpg)
+![](/images/sierpinski30.jpg)
 
