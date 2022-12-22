@@ -180,5 +180,5 @@ notified of upcoming events!
 
 ## Happy holidays!
 
-![](/images/sierpinski30.jpg)
+![](/images/sierpinski50.jpg)
 
