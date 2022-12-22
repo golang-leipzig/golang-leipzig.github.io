@@ -157,7 +157,7 @@ Garage, famously said that *if cloud native has to be a synonym for anything, it
 > Running Kubernetes with rootless podman is documented on both kind and
 > minikube but to get it up and running on [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) requires some additional tweaks
 > as by default WSL2 uses init daemon, instead of systemd and you have to
-> enable cgroupv2 explicitly.
+> enable cgroupv2 explicitly. [...](https://www.salilmishra.ml/posts/k8s-podman-wsl2/)
 
 * The perennial question: how can you beat *cloud* infrastructure from a
   developer experience (and economical) standpoint? For example, how can we create a robust, scalabale
