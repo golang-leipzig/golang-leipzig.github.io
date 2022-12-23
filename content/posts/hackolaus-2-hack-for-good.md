@@ -20,10 +20,10 @@ please follow updates at the event site.
 ----
 
 We would like to invite you to a special hackathon event this year: [Hackolaus
-#2](https://hackolaus.de/) - running from Nov 19 to Nov 21, 2021 at
+#2](https://web.archive.org/web/20221003104656/https://hackolaus.de/) - running from Nov 19 to Nov 21, 2021 at
 [Basislager](https://www.basislager.co/) Leipzig.
 
-[![](/images/hackolaus-grafik.png)](https://hackolaus.de)
+[![](/images/hackolaus-grafik.png)](https://web.archive.org/web/20221003104656/https://hackolaus.de/)
 
 > When the nights get longer and the weather outside is frightful, we need
 some warmth in our hearts. Many people sacrifice their time and energy to
