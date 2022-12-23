@@ -1,0 +1,19 @@
+name: broken links
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  broken-links:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          submodules: false
+      - name: Check for broken links
+        uses: lycheeverse/lychee-action@master
+        with:
+          args: content/
