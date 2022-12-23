@@ -43,7 +43,7 @@ Interested and want to hear more? Join the Meetup!
 ----
 
 PSA: We are hosting our a videochat instance of [jitsi](https://jitsi.org/)
-until 2020-05-31 at [jitsi.cc](https://jitsi.cc/). Stay save and connected!
+until 2020-05-31 at [jitsi.cc](https://meet.jit.si/). Stay save and connected!
 
 <!--
 

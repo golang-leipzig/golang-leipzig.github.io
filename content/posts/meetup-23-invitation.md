@@ -30,7 +30,7 @@ event at their site.~~
 
 * Date and Time: [Tuesday, November 23, 2021, 19:00 CET](https://www.meetup.com/Leipzig-Golang/events/280096219/)
 * ~~Location: [Sciendis GmbH](https://www.sciendis.de/), [Riemannstraße 32, 04107 Leipzig](https://www.openstreetmap.org/way/48244220#map=17/51.33113/12.37591)~~
-* ~~Pandemic-Policy: **2G** ("vaccinated | recovered", checked on-site, [mdr.de](https://www.mdr.de/nachrichten/sachsen/corona-verordnung-zwei-g-strengere-regeln-kabinett-100.html))~~
+* ~~Pandemic-Policy: **2G** ("vaccinated | recovered", checked on-site, [mdr.de](https://web.archive.org/web/20220813054447/https://www.mdr.de/nachrichten/sachsen/corona-verordnung-zwei-g-strengere-regeln-kabinett-100.html))~~
 
 We'll have two input presentations, one by Sciendis on their tech stack and a
 short talk on Writing a Data Web Service in Go.
@@ -48,7 +48,7 @@ Schedule:
 
 > A short run down of options and choices when it comes to building a
 > data-intensive API service in Go; with code snippets from a recent real world
-> [open source](https://github.com/miku/labe/tree/main/tools/spindel) project.
+> open source project (Update: Link is broken: `https://github.com/miku/labe/tree/main/tools/spindel`).
 
 * 20:00 Discussion (BYOP - bring your own Pizza + Drinks)
 

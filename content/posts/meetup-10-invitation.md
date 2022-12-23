@@ -23,7 +23,7 @@ For [Meetup #10 on Friday, April 17,
 2020](https://www.meetup.com/Leipzig-Golang/events/268785531/), we still would
 like to bring people together, in form of a shorter, virtual meetup.
 
-We may use [Zoom](https://zoom.us/) or [Jitsi](https://jitsi.org/) for
+We may use [Zoom](https://zoom.us/) or [Jitsi](https://meet.jit.si/) for
 videoconferencing. If you have other useful tools, just [drop us a
 line](mailto:martin.czygan@gmail.com).
 
@@ -43,4 +43,4 @@ follows a few days before the meetup, see you then!
 ----
 
 PS. Up until at least 2020-05-31, we host an own videoconference server under
-[jitsi.cc](https://jitsi.cc/).
+[jitsi.cc](https://meet.jit.si).
