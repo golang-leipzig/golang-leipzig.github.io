@@ -27,7 +27,7 @@ If you haven't played the nerdiest game in town yet, maybe now is the time:
 
 * [https://contained.af/](https://contained.af/)
 
-Want to improve your Go code? You are just a few steps away with [golangci-lint](github.com/golangci/golangci-lint):
+Want to improve your Go code? You are just a few steps away with [golangci-lint](https://github.com/golangci/golangci-lint):
 
 ```
 $ go get github.com/golangci/golangci-lint/...

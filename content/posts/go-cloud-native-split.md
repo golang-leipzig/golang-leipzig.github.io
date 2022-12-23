@@ -39,7 +39,7 @@ developer meetups in Leipzig, with
 [Go](https://www.meetup.com/Leipzig-Golang/),
 [Linux](https://www.meetup.com/Linux-Meetup-Leipzig/) (Cloud Native),
 [Softwerkskammer Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/) or
-[Google Developer Group](https://www.meetup.com/GDG-Leipzig/) being just a few
+Google Developer Group (Update: `https://www.meetup.com/GDG-Leipzig/` has been deleted) being just a few
 of them.
 
 {{< h2 >}}Timeline{{< /h2 >}}

@@ -1,0 +1,28 @@
+name: broken links
+
+on:
+  push:
+    branches:
+      - source
+      # # TODO(2022-12-23): Just added for testing, remove before merge.
+      - check-for-broken-links
+
+jobs:
+  broken-links:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          submodules: false
+      - name: Check for broken links
+        uses: lycheeverse/lychee-action@master
+        with:
+          args: --user-agent "golangleipzig.space" --accept 200,429 content/
+      - name: Create Issue From File
+        if: github.repository_owner == 'golang-leipzig'
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Broken Links Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue

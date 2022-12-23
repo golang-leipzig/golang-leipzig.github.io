@@ -32,7 +32,7 @@ Depending on time and interest, we have two other lightning talk registrations:
 This meetup will be hybrid:
 
 1. You can join us online via [Google Meet](https://meet.google.com/vxs-hhus-aoe)
-2. You can join us in person at [Basislager Leipzig](https://www.basislager.co/) &mdash; [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558), [Google Maps](https://g.page/basislager-leipzig?share)
+2. You can join us in person at [Basislager Leipzig](https://www.basislager.co/) &mdash; [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558), [Google Maps](https://goo.gl/maps/RZ7DRiqZSnWTTBwJA)
 
 Perks of attending our in-person meetup at Basislager Leipzig:
 

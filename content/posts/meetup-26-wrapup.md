@@ -66,7 +66,7 @@ jobs for "golang" vs "java" (are you looking for a "golang" job? check out: [abo
 * tricky things: [Go interfaces, the tricky parts](https://www.timr.co/go-interfaces-the-tricky-parts/), [Go Gotchas](https://github.com/golang-leipzig/gotchas)
 * new things: [Go 1.18 with some fuzzing and a focus on generics](https://www.klingt.net/articles/go-1-18-with-some-fuzzing-and-a-focus-on-generics.html)
 * large changes in Go 1.18 like generics and fuzzying are seemingly not used by all projects immediately (example: [mockery](https://github.com/vektra/mockery))
-* postgres go driver: [lib/pq](https://github.com/lib/pq), [jackc/pgx/v4](https://github.com/jackc/pgx/v4); a new kind of ORM for Go: [bun](https://bun.uptrace.dev)
+* postgres go driver: [lib/pq](https://github.com/lib/pq), [jackc/pgx/v4](https://github.com/jackc/pgx/tree/v4); a new kind of ORM for Go: [bun](https://bun.uptrace.dev)
 * for quick online tools: [CyberChef](https://gchq.github.io/CyberChef/)
 * more interactive online things: [https://messwithdns.net](https://messwithdns.net)
 * sad, but true as ever: [https://xkcd.com/2347](https://xkcd.com/2347) (discussing [jq](https://stedolan.github.io/jq/))

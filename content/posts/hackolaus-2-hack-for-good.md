@@ -11,7 +11,7 @@ Hello, 世界!
 
 ----
 
-* **Update 2021-11-04**: Cancelled: See [hackolaus.de](https://hackolaus.de/) for new
+* **Update 2021-11-04**: Cancelled: See [hackolaus.de](https://web.archive.org/web/20221003104656/https://hackolaus.de/) for new
 dates.
 
 * **Update 2021-11-03**: Hackolaus #2 may be cancelled due to local pandemic regulation;
@@ -20,10 +20,10 @@ please follow updates at the event site.
 ----
 
 We would like to invite you to a special hackathon event this year: [Hackolaus
-#2](https://hackolaus.de/) - running from Nov 19 to Nov 21, 2021 at
-[Basislager](https://en.basislager.co/) Leipzig.
+#2](https://web.archive.org/web/20221003104656/https://hackolaus.de/) - running from Nov 19 to Nov 21, 2021 at
+[Basislager](https://www.basislager.co/) Leipzig.
 
-[![](/images/hackolaus-grafik.png)](https://hackolaus.de)
+[![](/images/hackolaus-grafik.png)](https://web.archive.org/web/20221003104656/https://hackolaus.de/)
 
 > When the nights get longer and the weather outside is frightful, we need
 some warmth in our hearts. Many people sacrifice their time and energy to
@@ -42,8 +42,8 @@ the sweetest gift, if it solves a small problem and saves someone some time.
 
 You can find more information about the event here:
 
-* [https://hackolaus.de/](https://hackolaus.de/)
-* [https://www.meetup.com/OpenTechSchool-Leipzig/events/279362276/](https://www.meetup.com/OpenTechSchool-Leipzig/events/279362276/)
+* [hackolaus.de](https://web.archive.org/web/20221003104656/https://hackolaus.de/)
+* [www.meetup.com/OpenTechSchool-Leipzig/events/279362276/](https://web.archive.org/web/20220629140525/https://www.meetup.com/OpenTechSchool-Leipzig/events/279362276/)
 
 The event is organized by [Open Tech School](https://www.meetup.com/OpenTechSchool-Leipzig),
 

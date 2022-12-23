@@ -54,7 +54,7 @@ Sometimes people write custom code for specific algorithms, e.g. for [pagerank](
 * The [GOLAB conference](https://golab.io) hosts free (and paid) webinars over
   the coming months: [https://golab.io/agenda/](https://golab.io/agenda/), e.g.
 [Go and
-Tensorflow](https://golab.io/agenda/addestrare-e-distribuire-modelli-tensorflow-in-go/)
+Tensorflow](https://www.youtube.com/watch?v=Al_T3O27DO8)
 * Go garbage collector notes: [https://blog.golang.org/ismmkeynote](https://blog.golang.org/ismmkeynote)
 
 Data stores and analytics engines (outside Go):
