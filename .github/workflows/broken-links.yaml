@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - source
+      # # TODO(2022-12-23): Just added for testing, remove before merge.
+      - check-for-broken-links
 
 jobs:
   broken-links:
