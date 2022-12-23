@@ -18,7 +18,7 @@ jobs:
       - name: Check for broken links
         uses: lycheeverse/lychee-action@master
         with:
-          args: --user-agent "golangleipzig.github.io" --accept 200,429 content/
+          args: --user-agent "golangleipzig.space" --accept 200,429 content/
       - name: Create Issue From File
         if: github.repository_owner == 'golang-leipzig'
         uses: peter-evans/create-issue-from-file@v4
