@@ -14,11 +14,12 @@ jobs:
         with:
           submodules: false
       - name: Check for broken links
+        id: brokenLinks
         uses: lycheeverse/lychee-action@master
         with:
           args: --user-agent "golangleipzig.space" --accept 200,429 content/
       - name: Create Issue From File
-        if: github.repository_owner == 'golang-leipzig'
+        if: github.repository_owner == 'golang-leipzig' && failure() && steps.brokenLinks.outcome == 'failure'
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Broken Links Report
