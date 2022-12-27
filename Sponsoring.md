@@ -7,6 +7,10 @@ transparency.
 
 Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2022-12-23
+
+>
+
 ## 2022-09-12
 
 * mention [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592) and

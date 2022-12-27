@@ -27,7 +27,7 @@ post, so here's just a fraction of the topics we passed (slightly categorized):
 
 * [ISO 28500:2017](http://bibnum.bnf.fr/WARC/), aka [WARC](https://web.archive.org/web/20120619151338/http://www.iwaw.net/05/kunze.pdf) is how you can capture the web - and there are many libraries and tools around this format, just to name a few: [Heritrix](https://en.wikipedia.org/wiki/Heritrix), [brozzler](https://github.com/internetarchive/brozzler), [webrecorder](https://github.com/webrecorder), [warcprox](https://github.com/internetarchive/warcprox), [replayweb.page](https://replayweb.page/), [and more](https://github.com/iipc/awesome-web-archiving)
 
-If you have [wget](https://www.gnu.org/software/wget/) installed, you can already create WARC files yourself:
+If you have [wget](https://www.gnu.org/software/wget/) ([1.14 or later](https://wiki.archiveteam.org/index.php/Wget_with_WARC_output)) installed, you can already create WARC files yourself:
 
 ```shell
 $ wget -rkc --warc-file golangleipzig.space --warc-cdx https://golangleipzig.space
@@ -160,7 +160,7 @@ Garage, famously said that *if cloud native has to be a synonym for anything, it
 
 * The perennial question: how can you beat *cloud* infrastructure from a
   developer experience (and economical) standpoint? For example, how can we create a robust, scalabale
-queue with less effort that writing e.g. [15 lines in
+queue with less effort than writing e.g. [15 lines in
 Go](https://github.com/awsdocs/aws-doc-sdk-examples/blob/5458e2b9fd71abb916bca4ed53d8c1a894e4fe87/go/example_code/sqs/sqs_createqueues.go#L42-L59) (including error handling);
 (btw, [SQS](https://aws.amazon.com/blogs/aws/aws-blog-the-first-five-years/)
 started in 2004); at some places, [infra works differently](https://archive.org/details/jonah-edwards-presentation) [❤️](https://archive.org/donate/)
