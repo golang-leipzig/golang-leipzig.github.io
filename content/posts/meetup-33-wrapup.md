@@ -66,7 +66,7 @@ is recorded - which can be analyzed later. The [HTTP Archive](https://httparchiv
 
 * Parquet is a great columnar storage format, with a [few libraries](https://pkg.go.dev/search?q=parquet) in Go, too, e.g. from the [Apache Arrow](https://github.com/apache/arrow/tree/master/go) project
 
-There's a new wave of big data and analytics tools written in [rust](https://www.rust-lang.org/), e.g. the [distributed SQL query engine ballista](https://github.com/apache/arrow-ballista) [NY statprog meetup recording](https://www.youtube.com/watch?v=ZZHQaOap9pQ&t=397s), and others
+There's a new wave of big data and analytics tools written in [rust](https://www.rust-lang.org/), e.g. the [distributed SQL query engine ballista](https://github.com/apache/arrow-ballista) ([NY statprog meetup recording](https://www.youtube.com/watch?v=ZZHQaOap9pQ&t=397s)), and others
 
 * Did you know? Google BigQuery does not have `MEDIAN` - [workaround](https://www.pascallandau.com/bigquery-snippets/calculate-median/)
 
