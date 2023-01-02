@@ -5,11 +5,10 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/Leipzig-Golang/) and have organized over 30
-events so far. Looking forward to 2023, happy holidays!
+events so far (nine in [2022](https://golangleipzig.space/posts/2022/)).
 
-<!-- Visit
-[our meetup page](https://www.meetup.com/Leipzig-Golang/) for information about
-upcoming events. -->
+Please visit [our meetup page](https://www.meetup.com/Leipzig-Golang/) for
+information about upcoming events.
 
 ----
 
