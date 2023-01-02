@@ -13,7 +13,7 @@
       <pubDate>Sat, 31 Dec 2022 16:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/2022/</guid>
-      <description>An email exchange from November 2009 (a few weeks after the first presentation on Go):
+      <description>From an email exchange in November 2009 (a few weeks after the first presentation on Go):
  It seems to me that these functions [append, copy] are not useful if we figure out a way to implement generics. Not necessarily a strong argument against them, I suppose, but do we want to introduce new builtin functions if we may not need them?
  About 4500 days and many proposals later, Go 1.</description>
     </item>
