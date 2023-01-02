@@ -25,7 +25,7 @@ and much more.
 We are very flexible concerning formats, here are some examples:
 
 * lightning talk (5 min)
-* short talks (up to 15 min)
+* short talk (up to 15 min)
 * presentation (up to 45 min)
 * interactive format (e.g. mob programming, workshop, ... - up to 90 min)
 
