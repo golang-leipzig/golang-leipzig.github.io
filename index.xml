@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Talk Proposals</title>
+      <link>https://golangleipzig.space/proposals/</link>
+      <pubDate>Sat, 31 Dec 2022 16:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/proposals/</guid>
+      <description>Talk Proposals Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.
+As for topics, we are interested in anything related to the Go programming language, including its uses, e.g. in the cloud and infrastructure domain, best practices, experiences from real world projects, and other topics. In the past, we had presentations on a wide range of topics, from langauge features, concurrency, networking, container technology, machine learning, tools, testing, security, databases, and much more.</description>
+    </item>
+    
+    <item>
       <title>Winter Drinkup #33 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-33-wrapup/</link>
       <pubDate>Wed, 21 Dec 2022 20:00:31 +0200</pubDate>

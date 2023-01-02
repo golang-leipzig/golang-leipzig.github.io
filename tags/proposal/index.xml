@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proposal on Leipzig Gophers</title>
+    <link>https://golangleipzig.space/tags/proposal/</link>
+    <description>Recent content in proposal on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2022 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/proposal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk Proposals</title>
+      <link>https://golangleipzig.space/proposals/</link>
+      <pubDate>Sat, 31 Dec 2022 16:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/proposals/</guid>
+      <description>Talk Proposals Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.
+As for topics, we are interested in anything related to the Go programming language, including its uses, e.g. in the cloud and infrastructure domain, best practices, experiences from real world projects, and other topics. In the past, we had presentations on a wide range of topics, from langauge features, concurrency, networking, container technology, machine learning, tools, testing, security, databases, and much more.</description>
+    </item>
+    
+  </channel>
+</rss>
