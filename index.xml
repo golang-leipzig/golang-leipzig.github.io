@@ -6,7 +6,17 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk Proposals</title>
+      <link>https://golangleipzig.space/proposals/</link>
+      <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/proposals/</guid>
+      <description>Talk Proposals Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.
+As for topics, we are interested in anything related to the Go programming language, including its uses, e.g. in the cloud and infrastructure domain, best practices, experiences from real world projects, and other topics. In the past, we had presentations on a wide range of topics, from langauge features, concurrency, networking, container technology, machine learning, tools, testing, security, databases, and much more.</description>
+    </item>
+    
     <item>
       <title>2022</title>
       <link>https://golangleipzig.space/posts/2022/</link>
@@ -239,16 +249,6 @@ Join us for meetup #25 Feb 22, 2022 19:00 CET via Google Meet: https://meet.goog
 We&amp;rsquo;ll take a closer look at the upcoming Go 1.18 release, especially generics.
 Thanks to the generous support from JetBrains and Manning Publications, we can share a JetBrains personal subscription and an ebook - 100 Go Mistakes and How to Avoid Them - with our participants.
 Join us to discuss all things Go.</description>
-    </item>
-    
-    <item>
-      <title>Talk Proposals</title>
-      <link>https://golangleipzig.space/proposals/</link>
-      <pubDate>Sun, 02 Jan 2022 10:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/proposals/</guid>
-      <description>Talk Proposals Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.
-As for topics, we are interested in anything related to the Go programming language, including its uses, e.g. in the cloud and infrastructure domain, best practices, experiences from real world projects, and other topics. In the past, we had presentations on a wide range of topics, from langauge features, concurrency, networking, container technology, machine learning, tools, testing, security, databases, and much more.</description>
     </item>
     
     <item>

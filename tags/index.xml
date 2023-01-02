@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>admin</title>
+      <link>https://golangleipzig.space/tags/admin/</link>
+      <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proposal</title>
+      <link>https://golangleipzig.space/tags/proposal/</link>
+      <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/proposal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://golangleipzig.space/tags/talk/</link>
+      <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/talk/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2022</title>
       <link>https://golangleipzig.space/tags/2022/</link>
@@ -40,33 +67,6 @@
       <pubDate>Fri, 02 Dec 2022 19:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/announcement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://golangleipzig.space/tags/talk/</link>
-      <pubDate>Fri, 10 Jun 2022 00:12:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>https://golangleipzig.space/tags/admin/</link>
-      <pubDate>Sun, 02 Jan 2022 10:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>proposal</title>
-      <link>https://golangleipzig.space/tags/proposal/</link>
-      <pubDate>Sun, 02 Jan 2022 10:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/proposal/</guid>
       <description></description>
     </item>
     
