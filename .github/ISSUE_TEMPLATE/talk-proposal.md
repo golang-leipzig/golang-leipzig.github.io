@@ -1,20 +1,22 @@
 ---
 name: Talk Proposal
 about: Information about talk content, length and format
-title: "[Talk Proposal]"
+title: "[Talk Title]"
 labels: ''
 assignees: ''
 
 ---
 
-<!-- Title of the talk, presentation or workshop -->
+## [Talk Title] <!-- Title of the talk, presentation or workshop -->
 
 
-<!-- Format -->
+## Format 
 
 * [ ] lightning talk (5 min)
 * [ ] short talk (up to 15 min)
 * [ ] presentation (up to 45 min)
 * [ ] interactive format (e.g. mob programming, workshop, … - up to 90 min)
 
-<!-- Abstract (can be just one sentence)  -->
+## Abstract
+
+<!-- Briefly describe what this will be about. We'll post this to our blog and meetup. -->
