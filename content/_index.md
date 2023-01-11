@@ -102,8 +102,8 @@ Media](https://www.oreilly.com/pub/cpc/323592),
 [![manning logo](/images/Manninglogo_outline-10.png)](https://manning.com)
 [![codenotary logo](/downloads/codenotary-logo-brand-blue-50.png)](https://codenotary.com)
 
-If you are interested in supporting our event, please [reach
-out](mailto:martin.czygan@gmail.com); for activities around sponsoring,
-see: [Sponsoring.md](https://git.io/JDIwz).
+If you are interested in supporting us, please [reach
+out](mailto:martin.czygan@gmail.com); for activities around sponsoring, see:
+[Sponsoring.md](https://git.io/JDIwz).
 
 <!-- [![](https://www.oreilly.com/partner_file/oreilly.jpg)](https://www.oreilly.com/pub/cpc/323592) -->
