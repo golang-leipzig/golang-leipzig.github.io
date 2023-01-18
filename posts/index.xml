@@ -8,18 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jan 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meetup #34 invitation</title>
+      <title>Hybrid Meetup #34 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-34-invitation/</link>
       <pubDate>Wed, 18 Jan 2023 16:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-34-invitation/</guid>
       <description>Hello, 世界!
 For meetup #34 on Tuesday Feb 21, 2023 19:00 CET we&amp;rsquo;ll have a few lightning talks and experience reports about some upcoming, exciting Go 1.20 features, e.g. related to coverage, error handling and more.
-We&amp;rsquo;ll meet at Basislager, Peterssteinweg 14, 04107 Leipzig.
+We&amp;rsquo;ll meet at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers34.
 Join us to discuss all things Go 1.20 and beyond.
 See you!
-  Concurrency is not parallelism as mural painting &amp;ndash; Stable Diffusion
- </description>
+  Concurrency is not parallelism as mural painting &amp;ndash; Stable Diffusion</description>
     </item>
     
     <item>
