@@ -1,5 +1,5 @@
 ---
-title: "Meetup #34 invitation"
+title: "Hybrid Meetup #34 invitation"
 date: 2023-01-18T16:00:00+02:00
 draft: false
 tags:
@@ -15,7 +15,9 @@ few lightning talks and experience reports about some upcoming, exciting [Go
 1.20](https://tip.golang.org/doc/go1.20) features, e.g. related to
 [coverage](https://tip.golang.org/doc/go1.20#cover), [error handling](https://tip.golang.org/doc/go1.20#errors) and more.
 
-We'll meet at [Basislager](https://www.basislager.co/), [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558).
+We'll meet at [Basislager](https://www.basislager.co/), [Peterssteinweg 14,
+04107 Leipzig](https://www.openstreetmap.org/node/3504864558) and online via
+[meet.jit.si/LeipzigGophers34](https://meet.jit.si/LeipzigGophers34).
 
 Join us to discuss all things Go 1.20 and beyond.
 
