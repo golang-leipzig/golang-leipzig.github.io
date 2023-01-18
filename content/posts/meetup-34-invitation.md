@@ -25,7 +25,7 @@ See you!
 
 ----
 
-![](/images/meetup-34-prompt-quiz.jpg)
+![](/images/meetup-34-prompt-quiz.png)
 
 > Concurrency is not parallelism as mural painting -- [Stable Diffusion](https://stablediffusionweb.com/)
 
