@@ -1,8 +1,10 @@
 ---
 title: "CLT23"
-date: 2023-03-11T14:00:00+02:00
+date: 2023-01-11T14:00:00+02:00
 draft: false
 ---
+
+<!-- Note to self: change date to 2023-01-11 to 2023-03-11 before talk -->
 
 ## Hello CLT23!
 
