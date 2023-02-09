@@ -22,6 +22,16 @@ See you!
     </item>
     
     <item>
+      <title>CLT23</title>
+      <link>https://golangleipzig.space/clt23/</link>
+      <pubDate>Wed, 11 Jan 2023 14:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/clt23/</guid>
+      <description>Hello CLT23! This is a hop between the go tool requesting golangleipzig.space/clt23 the actual source code repository hosting the code.
+$ go install golangleipzig.space/clt23@latest $ clt23 # if you dare  </description>
+    </item>
+    
+    <item>
       <title>Talk Proposals</title>
       <link>https://golangleipzig.space/proposals/</link>
       <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
