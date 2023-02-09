@@ -8,10 +8,14 @@ draft: false
 
 ## Hello CLT23!
 
-This is a hop between the go tool requesting *golangleipzig.space/clt23*
+This is a hop between the go tool requesting *golangleipzig.space/clt23* and
 the actual source code repository hosting the code.
 
 
     $ go install golangleipzig.space/clt23@latest
-    $ clt23 # if you dare
+    $ clt23
+
+If you want to bypass the default module proxy, you can use:
+
+    $ GOPRIVATE="*" go install golangleipzig.space/clt23@latest
 
