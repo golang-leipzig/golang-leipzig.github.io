@@ -9,6 +9,6 @@ This is a hop between the go tool requesting *golangleipzig.space/clt23*
 the actual source code repository hosting the code.
 
 
-    $ go install golangleipzig.space/clt23
+    $ go install golangleipzig.space/clt23@latest
     $ clt23 # if you dare
 
