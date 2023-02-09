@@ -45,10 +45,13 @@
 <article>
     <!-- raw HTML omitted -->
 <h2 id="hello-clt23">Hello CLT23!</h2>
-<p>This is a hop between the go tool requesting <em>golangleipzig.space/clt23</em>
+<p>This is a hop between the go tool requesting <em>golangleipzig.space/clt23</em> and
 the actual source code repository hosting the code.</p>
 <pre><code>$ go install golangleipzig.space/clt23@latest
-$ clt23 # if you dare
+$ clt23
+</code></pre>
+<p>If you want to bypass the default module proxy, you can use:</p>
+<pre><code>$ GOPRIVATE=&quot;*&quot; go install golangleipzig.space/clt23@latest
 </code></pre>
 
 </article>
