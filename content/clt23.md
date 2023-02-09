@@ -19,3 +19,6 @@ If you want to bypass the default module proxy, you can use:
 
     $ GOPRIVATE="*" go install golangleipzig.space/clt23@latest
 
+If you take a look a the [source of this
+page](view-source:https://golangleipzig.space/clt23/), you'll discover the
+*go-import* meta tag.
