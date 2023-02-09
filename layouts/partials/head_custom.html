@@ -2,3 +2,22 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
+
+{{ if eq .Page.Title "CLT23" }}
+<!--
+    For CLT2023: https://chemnitzer.linux-tage.de/2023/en/programm/beitrag/234
+
+    > Sustainability and Security in the Go ecosystem
+
+    When the go command downloads a module in direct mode, it first looks up
+    the module server’s URL with an HTTP GET request based on the module path.
+    It looks for a <meta> tag with the name go-import in the HTML response. The
+    tag’s content must contain the repository root path, the version control
+    system, and the URL, separated by spaces. See Finding a repository for a
+    module path for details.
+
+    -- https://go.dev/ref/mod#serving-from-proxy
+-->
+
+<meta name="go-import" content="golangleipzig.space/clt23 git https://github.com/golang-leipzig/clt23">
+{{ end }}
