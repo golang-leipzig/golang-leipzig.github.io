@@ -16,7 +16,7 @@ code.
     $ go install golangleipzig.space/clt23@latest
     $ clt23
 
-If you want to bypass the default module proxy, you can use:
+If you want to bypass the default module proxy (e.g. to circumvent caching in the proxy), you can use:
 
     $ GOPRIVATE="*" go install golangleipzig.space/clt23@latest
 
