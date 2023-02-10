@@ -8,8 +8,8 @@ draft: false
 
 ## Hello CLT23!
 
-This is a hop between the go tool requesting *golangleipzig.space/clt23* and
-the actual source code repository hosting the code.
+This is a hop between the go tool requesting **golangleipzig.space/clt23** and
+the repository hosting the actual code.
 
 
     $ go install golangleipzig.space/clt23@latest
@@ -22,3 +22,7 @@ If you want to bypass the default module proxy, you can use:
 If you take a look a the [source of this
 page](view-source:https://golangleipzig.space/clt23/), you'll discover the
 *go-import* meta tag.
+
+The go install flow, visualized:
+
+![](/images/go-install-flow.png)
