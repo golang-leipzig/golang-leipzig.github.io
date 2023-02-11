@@ -38,5 +38,4 @@ See you!
 TODO: outreach.
 
 * [x] https://www.linkedin.com/feed/update/urn:li:activity:7029457796731428864/
-
--->
+* [x] https://gophers.slack.com/archives/C152YB9UZ/p1676152189258909 (remotemeetup, 5834 members)
