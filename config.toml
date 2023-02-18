@@ -32,3 +32,7 @@ paginate = 256 # we do not have a db
     url = "https://golangleipzig.space/qr.png"
     name = "QR"
     weight = 5
+  [[menu.footer]]
+    url = "https://1mb.club/"
+    name = "1MB"
+    weight = 6
