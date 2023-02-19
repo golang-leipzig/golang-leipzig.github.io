@@ -26,7 +26,7 @@ paginate = 256 # we do not have a db
     weight = 3
   [[menu.footer]]
     url = "https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt"
-    name = "Impressum"
+    name = "Imprint"
     weight = 4
   [[menu.footer]]
     url = "https://golangleipzig.space/qr.png"
