@@ -27,7 +27,7 @@ See you!
       <pubDate>Wed, 11 Jan 2023 14:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/clt23/</guid>
-      <description>Hello CLT23! This is a hop between the go tool requesting the latest version of golangleipzig.space/clt23 and the repository hosting the actual code (demo for CLT2023/234).
+      <description>Hello CLT23! This is a hop between the go tool requesting the latest version of golangleipzig.space/clt23 and the repository hosting the actual code (234).
 $ go install golangleipzig.space/clt23@latest $ clt23  If you want to bypass the default module proxy (e.g. to circumvent caching in the proxy), you can use:
 $ GOPRIVATE=&amp;quot;*&amp;quot; go install golangleipzig.space/clt23@latest  If you take a look a the source of this page, you&amp;rsquo;ll discover the go-import meta tag.</description>
     </item>
