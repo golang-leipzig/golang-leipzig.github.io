@@ -10,7 +10,7 @@ draft: false
 
 This is a hop between the go tool requesting the latest version of
 **golangleipzig.space/clt23** and the
-[repository](https://github.com/golang-leipzig/clt23/) hosting the actual code (demo for [CLT2023/234](https://chemnitzer.linux-tage.de/2023/de/programm/beitrag/234)).
+[repository](https://github.com/golang-leipzig/clt23/) hosting the actual code ([234](https://chemnitzer.linux-tage.de/2023/de/programm/beitrag/234)).
 
 
     $ go install golangleipzig.space/clt23@latest
