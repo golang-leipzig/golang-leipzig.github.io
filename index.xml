@@ -6,7 +6,18 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #34 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-34-wrapup/</link>
+      <pubDate>Wed, 22 Feb 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-34-wrapup/</guid>
+      <description>Go 1.20 Hybrid meetup #34 took place 2023-02-21 19:00 at Basislager Leipzig and was all about Go 1.20.
+We had two great presentations:
+ A rundown of most novelties in Go 1.20: Go 1.20 updates, including many examples &amp;ndash; thanks, Andreas! &amp;hellip; and Go 1.20 Coverage Profiling Support for Kubernetes Apps, a walkthrough on how to use Go 1.20 binary profiling with containerized workloads (with inception style isolation layer qualities) &amp;ndash; thanks, Michael!</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #34 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-34-invitation/</link>

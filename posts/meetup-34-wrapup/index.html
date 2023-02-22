@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hybrid Meetup #34 wrap-up | Leipzig Gophers</title>
+
+    <style>body{margin:1em auto;padding:1em;color:#2f2d2e;max-width:45em;line-height:1.6;font-family:Georgia,serif;font-size:1.2em}h1{border-bottom:2pt solid #2f2d2e}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 .4em;display:inline-block}div.footer{border-top:1pt solid;text-align:center;padding:1em}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}@media(min-width:45em){div.tags{float:right}}img[src*="#half"]{width:50%}a{text-decoration:none;color:#35a7ff;border-bottom:2pt solid #fff}a:visited{color:#ff5964}a:hover{border-bottom:2pt solid #ff5964;transition:all 333ms ease-in}a.tag{padding:.1em .4em;background:#2f2d2e;color:#fff;text-decoration:none;border-radius:5pt}a.anchor{padding-right:.3em}blockquote{color:#838383}</style>
+
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+
+</head>
+
+
+<body>
+<div class="header">
+    <a href="/">Leipzig Gophers</a>
+    <div class="header-menu">
+        <a href="/posts/">blog</a>
+    </div>
+</div>
+<div id="content">
+
+<header>
+    <h1 id="#hybrid-meetup-34-wrap-up">
+        <a class="anchor" href="#hybrid-meetup-34-wrap-up">🔗</a>Hybrid Meetup #34 wrap-up</h1>
+    
+
+<div class="post-meta"><time datetime="2023-02-22">Feb 22, 2023</time><div class="tags">
+        Tags
+        <a class="tag" href="https://golangleipzig.space/tags/summary/">summary</a>
+        <a class="tag" href="https://golangleipzig.space/tags/meetup/">meetup</a>
+    </div>
+</div>
+</header>
+<article>
+    <h2 id="go-120">Go 1.20</h2>
+<p>Hybrid meetup #34 took place <a href="https://www.meetup.com/leipzig-golang/events/290666161/">2023-02-21
+19:00</a> at <a href="https://www.basislager.co/">Basislager
+Leipzig</a> and was all about <a href="https://tip.golang.org/doc/go1.20">Go
+1.20</a>.</p>
+<p>We had two great presentations:</p>
+<ul>
+<li>A rundown of most novelties in Go 1.20: <a href="https://gist.github.com/klingtnet/0b5fd6cd742fe030115d3cc10776531f">Go 1.20
+updates</a>, including many examples &ndash; thanks, <a href="https://www.klingt.net/">Andreas</a>! &hellip; and</li>
+<li><a href="https://www.mgasch.com/2023/02/go-e2e/">Go 1.20 Coverage Profiling Support for Kubernetes Apps</a>, a walkthrough on how to use Go 1.20 binary profiling with containerized workloads (with inception style isolation layer qualities) &ndash; thanks, <a href="https://twitter.com/embano1">Michael</a>!</li>
+</ul>
+<p>Some highlights from the release notes:</p>
+<ul>
+<li><a href="https://pkg.go.dev/context@master#WithCancelCause">context.WithCancelCause</a> allows to pass a custom error along the cancellation line</li>
+<li>package http gained a wrapper around the <code>http.ResponseWriter</code>, called <a href="https://pkg.go.dev/net/http#ResponseController"><code>http.ResponseController</code></a> allowing for per request timeout controls</li>
+</ul>
+<p>Go started to <a href="https://go.dev/doc/pgo">add support</a> for <a href="https://en.wikipedia.org/wiki/Profile-guided_optimization">Profile-guided optimization</a>, a technique already in place in various technologies.</p>
+<blockquote>
+<p>As of Go 1.20, benchmarks for a representative set of Go programs show that
+<strong>building with PGO improves performance by around 2-4%</strong>. We expect performance
+gains to generally increase over time as additional optimizations take
+advantage of PGO in future versions of Go. &ndash; <a href="https://go.dev/doc/pgo">https://go.dev/doc/pgo</a></p>
+</blockquote>
+<p>A challenge in containerized environments (e.g. <a href="https://kubernetes.io/">k8s</a>)
+is that profiling information may be written to emphemeral storage, hence lost,
+once the container is torn down.</p>
+<p>At the same time, end-to-end (e2e) tests are an important technique to test
+software, especially when running in complex enviroments with many interactions
+(e.g. with other services, backends, &hellip;). You do not want to mock everything (too tedious), and
+<a href="https://cloud.google.com/learn/what-are-containers">containers</a> are a popular way to isolate components, anyway.</p>
+<p>The example project we looked at was a <a href="https://github.com/embano1/vsphere">vSphere</a> client
+library, that uses <a href="https://github.com/embano1/vsphere/blob/main/.github/workflows/e2e.yaml">e2e
+tests</a>
+running in a local cluster using <a href="https://kind.sigs.k8s.io/">kind</a>, and
+<a href="https://github.com/ko-build/ko">ko</a> to turn Go programs into images,
+<a href="https://ko.build/">automagically</a> (excellent developer tools, btw).</p>
+<p>If you <a href="https://github.com/embano1/vsphere/blob/545c3a4658b945fcaa1fef4b815cf7e92079fb9f/.github/workflows/e2e.yaml#L57-L68">mount a local
+path</a>
+into kind, and mount that again <a href="https://github.com/embano1/vsphere/blob/545c3a4658b945fcaa1fef4b815cf7e92079fb9f/test/client_test.go#L221-L231">into the
+pod</a>
+running the tests and let the Go binary know, <a href="https://github.com/embano1/vsphere/blob/545c3a4658b945fcaa1fef4b815cf7e92079fb9f/test/client_test.go#L195">where to write the cover
+information</a>
+(via <a href="https://go.dev/testing/coverage/#running">GOCOVERDIR</a>) - you can cover
+any environment that has a local filesystem exposed (e.g. your laptop, or CI,
+&hellip;).</p>
+<p>It&rsquo;s not easy, but it works - and impressive as for the <a href="https://abseil.io/resources/swe-book/html/ch14.html">fidelity</a> of the test
+environment.</p>
+<p>Quick Github Actions tip: To not exhausting CI limits on GH actions, cancel previous runs on a
+PR branch, if you push new commits - see <a href="https://github.com/embano1/vsphere/blob/545c3a4658b945fcaa1fef4b815cf7e92079fb9f/.github/workflows/e2e.yaml#L9-L12">this
+example</a>.</p>
+<p>Thanks to <a href="https://klingt.net">Andreas</a> and
+<a href="https://twitter.com/embano1">Michael</a> for the insights.</p>
+<p>Go 1.20 continues to add small improvements to the language and ecosystem and
+more interesting things are in the pipeline, like the experimental structured
+logging <a href="https://pkg.go.dev/golang.org/x/exp/slog">slog</a>.</p>
+<p>What&rsquo;s your favorite feature?</p>
+<p><a href="https://www.meetup.com/Leipzig-Golang/">Join our meetup</a> and let us know!</p>
+
+</article>
+
+
+    </div>
+<div class="footer">
+    
+    
+    <div class="footer-links">
+        <a href="https://www.meetup.com/Leipzig-Golang/">Meetup</a><span> / <span><a href="https://github.com/golang-leipzig">GitHub</a><span> / <span><a href="https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt">Imprint</a><span> / <span><a href="/qr.png">QR</a><span> / <span><a href="https://1mb.club/">1MB</a></div>
+    
+
+    
+    
+</div>
+</body>
+
+</html>
