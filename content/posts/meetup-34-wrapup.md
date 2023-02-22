@@ -15,6 +15,8 @@ Leipzig](https://www.basislager.co/) and was all about [Go
 1.20](https://tip.golang.org/doc/go1.20) (similar to previous years, where we
 looked at Go 1.14, 1.16, 1.18 - [#9](https://golangleipzig.space/posts/meetup-9-wrapup/), [#16](https://golangleipzig.space/posts/meetup-16-wrapup/), [#25](https://golangleipzig.space/posts/meetup-25-wrapup/)).
 
+![](/images/go1.20latest.png)
+
 We had two great presentations:
 
 * A rundown of most novelties in Go 1.20: [Go 1.20
