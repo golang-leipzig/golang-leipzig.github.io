@@ -13,9 +13,7 @@ Hybrid meetup #34 took place [2023-02-21
 19:00](https://www.meetup.com/leipzig-golang/events/290666161/) at [Basislager
 Leipzig](https://www.basislager.co/) and was all about [Go
 1.20](https://tip.golang.org/doc/go1.20) (similar to previous years, where we
-looked at Go 1.14 ([#9](https://golangleipzig.space/posts/meetup-9-wrapup/), Go
-1.16 [#16](https://golangleipzig.space/posts/meetup-16-wrapup/) and Go 1.18
-[#25](https://golangleipzig.space/posts/meetup-25-wrapup/)).
+looked at Go 1.14, 1.16, 1.18 - [#9](https://golangleipzig.space/posts/meetup-9-wrapup/), [#16](https://golangleipzig.space/posts/meetup-16-wrapup/), [#25](https://golangleipzig.space/posts/meetup-25-wrapup/)).
 
 We had two great presentations:
 
