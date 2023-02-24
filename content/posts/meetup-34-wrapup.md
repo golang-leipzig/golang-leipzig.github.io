@@ -20,7 +20,7 @@ looked at Go 1.14, 1.16, 1.18 - [#9](https://golangleipzig.space/posts/meetup-9-
 We had two great presentations:
 
 * A rundown of most novelties in Go 1.20: [Go 1.20
-  updates](https://gist.github.com/klingtnet/0b5fd6cd742fe030115d3cc10776531f), including many examples -- thanks, [Andreas](https://www.klingt.net/)! ... and
+  updates](https://www.klingt.net/articles/go-1-20-what-s-new.html), including many examples -- thanks, [Andreas](https://www.klingt.net/)! ... and
 * [Go 1.20 Coverage Profiling Support for Kubernetes Apps](https://www.mgasch.com/2023/02/go-e2e/), a walkthrough on how to use Go 1.20 binary profiling with containerized workloads (with inception style isolation layer qualities) -- thanks, [Michael](https://twitter.com/embano1)!
 
 Some highlights from the release notes:
