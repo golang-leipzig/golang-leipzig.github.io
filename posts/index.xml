@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemnitzer Linux Tage 2023</title>
+      <link>https://golangleipzig.space/posts/clt23/</link>
+      <pubDate>Mon, 13 Mar 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/clt23/</guid>
+      <description>CLT23 We did a small presentation at the annual CLT conference on 2023-03-11. The topics was Sustainability and Security in the Go ecosystem, collecting a few thoughts starting from the ACM Queue article Surviving Software Dependencies (2019).
+Keywords: security, data breach, dependency management, distributed package management, OSV, vulnerability scanning
+We prepared a demo for the vanity URL import supported by Go package system - check out: clt23 or try:
+$ go install golangleipzig.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #34 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-34-wrapup/</link>
