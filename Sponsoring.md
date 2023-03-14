@@ -3,13 +3,9 @@
 We are grateful for the support we received and would log our outreach for
 transparency.
 
-## Ongoing
+## Long-Term
 
-Since 09/2021, participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
-
-## 2022-12-23
-
->
+From 09/2021 to Fall 2022: participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
 ## 2022-09-12
 
