@@ -13,7 +13,7 @@
       <pubDate>Mon, 13 Mar 2023 12:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/clt23/</guid>
-      <description>CLT23 We briefly presented at the annual Chemnitz Linux Days conference on 2023-03-11. The topics was Sustainability and Security in the Go ecosystem, collecting a few thoughts starting from the ACM Queue article Surviving Software Dependencies (2019).
+      <description>CLT23 We briefly presented at the annual Chemnitz Linux Days conference on 2023-03-11. The topic was Sustainability and Security in the Go ecosystem, collecting a few thoughts starting from the ACM Queue article Surviving Software Dependencies (2019).
 Keywords: security, data breach, dependency management, distributed package management, OSV, vulnerability scanning
 We prepared a demo for the vanity URL import supported by Go package system - check out: clt23 or try:
 $ go install golangleipzig.</description>
