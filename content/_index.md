@@ -98,8 +98,8 @@ Media](https://www.oreilly.com/pub/cpc/323592),
 [Jetbrains](https://www.jetbrains.com/) and [CodeNotary](https://codenotary.com/) for their support.
 
 [![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
-[![manning logo](/images/Manninglogo_outline-10.png)](https://manning.com)
 [![codenotary logo](/downloads/codenotary-logo-brand-blue-50.png)](https://codenotary.com)
+[![manning logo](/images/Manninglogo_outline-10.png)](https://manning.com)
 
 If you are interested in supporting us, please [reach
 out](mailto:martin.czygan@gmail.com); for activities around sponsoring, see:
