@@ -95,11 +95,9 @@ We try to sum up every meetup in a short blog post:
 We'd like to thank [edgeless systems](https://www.edgeless.systems), [sciendis](https://www.sciendis.de/), [Deta Cloud](https://www.deta.sh/) and [Gridfuse](https://gridfuse.com/) for their contributions and [Manning
 Publications](https://www.manning.com/), [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592),
-[Jetbrains](https://www.jetbrains.com/),
-[AboutYou](https://www.aboutyou.com) and [CodeNotary](https://codenotary.com/) for their support.
+[Jetbrains](https://www.jetbrains.com/) and [CodeNotary](https://codenotary.com/) for their support.
 
 [![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
-[![aboutyou logo](/images/aboutyou-small.png)](https://www.aboutyou.com)
 [![manning logo](/images/Manninglogo_outline-10.png)](https://manning.com)
 [![codenotary logo](/downloads/codenotary-logo-brand-blue-50.png)](https://codenotary.com)
 
