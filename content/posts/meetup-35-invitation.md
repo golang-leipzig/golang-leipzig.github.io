@@ -26,7 +26,7 @@ See you!
 
 ![](/images/cgoisnotgo.png)
 
-> "[cgo is not go](https://dave.cheney.net/2016/01/18/cgo-is-not-go)" as mural painting -- [Stable Diffusion](https://stablediffusionweb.com/)
+> "[cgo is not go](https://go-proverbs.github.io/)" as mural painting -- [Stable Diffusion](https://stablediffusionweb.com/)
 
 
 
@@ -35,8 +35,7 @@ See you!
 
 TODO: outreach.
 
-* [x] https://www.linkedin.com/feed/update/urn:li:activity:7029457796731428864/
-* [x] https://gophers.slack.com/archives/C152YB9UZ/p1676152189258909 (remotemeetup, 5834 members)
-* [x] linkedin, reminder: https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-gophers-go-activity-7033787127288983553-5w6z
+* [ ] slack
+* [ ] linkedin
 
 -->
