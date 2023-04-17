@@ -16,10 +16,9 @@
       <description>Hello, 世界!
 For meetup #35 on Tuesday Apr 18, 2023 19:00 CET we&amp;rsquo;ll have a lightning talk about CGO, which allows to call C code from Go.
 We&amp;rsquo;ll meet
- in person at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers35.  Join us to discuss all things Go and CGO.
+ in person at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers35.  Join us to discuss all things Go and CGO. Presenters&#39; laptop [NumCPU](https://pkg.go.dev/runtime#NumCPU) free drinks!
 See you!
-  &amp;ldquo;cgo is not go&amp;rdquo; as mural painting &amp;ndash; Stable Diffusion
- </description>
+  &amp;ldquo;cgo is not go&amp;rdquo; as mural painting &amp;ndash; Stable Diffusion</description>
     </item>
     
     <item>
