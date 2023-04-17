@@ -18,7 +18,7 @@ We'll meet
 * in person at [Basislager](https://www.basislager.co/), [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558)
 * and online via [meet.jit.si/LeipzigGophers35](https://meet.jit.si/LeipzigGophers35).
 
-Join us to discuss all things Go and CGO. Presenters' laptop `[NumCPU](https://pkg.go.dev/runtime#NumCPU)` free drinks!
+Join us to discuss all things Go and CGO. Onsite: presenters' laptop [NumCPU](https://pkg.go.dev/runtime#NumCPU) free drinks!
 
 See you!
 
