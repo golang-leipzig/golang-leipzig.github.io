@@ -48,6 +48,11 @@ project with C dependencies, such as sqlite3. Example repo:
 
 ## Misc
 
+* Cgo is a not Go, many guarantees are given up, maintenance of mixed C and Go
+  code is much more difficult - rather than use CGO, maybe a grpc or other
+interface may keep C and Go world better separated
+* To wrap C++, we need to create a C [façade](https://en.wikipedia.org/wiki/Facade_pattern)
+* Go has a nice [ast](https://pkg.go.dev/go/ast)
 * Go's type system can be limiting, when working with Web APIs or SDKs
 * [Simple Markup Language](https://www.simpleml.com/)
 * [Parsec](https://hackage.haskell.org/package/parsec)
@@ -59,6 +64,8 @@ ggml-alpaca-7b-q4.bin](https://news.ycombinator.com/item?id=35191137) in the
 background, which wrote some simple SQL and thought of a haiku about the Go programming language:
 
 ![](/images/haiku.png)
+
+Did you find a nice haiku?
 
 [Join our meetup](https://www.meetup.com/Leipzig-Golang/) and let us know!
 
