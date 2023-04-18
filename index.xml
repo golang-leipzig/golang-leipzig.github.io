@@ -6,7 +6,18 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2023 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #35 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-35-wrapup/</link>
+      <pubDate>Wed, 19 Apr 2023 01:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-35-wrapup/</guid>
+      <description>Cgo experiments Hybrid meetup #35 took place 2023-04-18 19:00 at Basislager Leipzig and was all about Cgo.
+Cgo allows to bridge C and Go. From C, we can connect to other languages, like C++, too. Use cases are legacy code or performance. Implementing a pseudo-random walk in both Go and C shows that C can be up to 4x faster for this particular task.
+C 1 -1 29.553µs GO 1 -1 84.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #35 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-35-invitation/</link>
