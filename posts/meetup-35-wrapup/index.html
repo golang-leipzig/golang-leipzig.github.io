@@ -72,6 +72,11 @@ project with C dependencies, such as sqlite3. Example repo:
 <a href="https://github.com/klingtnet/cross-compile-with-zigcc">https://github.com/klingtnet/cross-compile-with-zigcc</a>.</p>
 <h2 id="misc">Misc</h2>
 <ul>
+<li>Cgo is a not Go, many guarantees are given up, maintenance of mixed C and Go
+code is much more difficult - rather than use CGO, maybe a grpc or other
+interface may keep C and Go world better separated</li>
+<li>To wrap C++, we need to create a C <a href="https://en.wikipedia.org/wiki/Facade_pattern">façade</a></li>
+<li>Go has a nice <a href="https://pkg.go.dev/go/ast">ast</a></li>
 <li>Go&rsquo;s type system can be limiting, when working with Web APIs or SDKs</li>
 <li><a href="https://www.simpleml.com/">Simple Markup Language</a></li>
 <li><a href="https://hackage.haskell.org/package/parsec">Parsec</a></li>
@@ -82,6 +87,7 @@ project with C dependencies, such as sqlite3. Example repo:
 ggml-alpaca-7b-q4.bin</a> in the
 background, which wrote some simple SQL and thought of a haiku about the Go programming language:</p>
 <p><img src="/images/haiku.png" alt=""></p>
+<p>Did you find a nice haiku?</p>
 <p><a href="https://www.meetup.com/Leipzig-Golang/">Join our meetup</a> and let us know!</p>
 
 </article>
