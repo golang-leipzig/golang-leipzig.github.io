@@ -68,7 +68,7 @@ We also briefly discussed
 ggml-alpaca-7b-q4.bin](https://news.ycombinator.com/item?id=35191137) in the
 background, which wrote some simple SQL and thought of a haiku about the Go programming language:
 
-![](/images/haiku.png)
+![](/images/578569.gif)
 
 Did you find a nice haiku?
 
