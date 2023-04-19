@@ -61,7 +61,7 @@ interface may keep C and Go world better separated
 * [Simple Markup Language](https://www.simpleml.com/)
 * [Parsec](https://hackage.haskell.org/package/parsec), [Participle](https://github.com/alecthomas/participle)
 * [YAML/HELL](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
-* Using symbols straight from a shared object via [dlopen](https://stackoverflow.com/a/27510758/89391)
+* Using symbols straight from a dynamic library via [dlopen](https://stackoverflow.com/a/27510758/89391)
 * A rundown of a benchmark across Python, C, and BLAS, for a HPC and competetive programming blog: [https://en.algorithmica.org/hpc/complexity/languages/](https://en.algorithmica.org/hpc/complexity/languages/)
 
 We also briefly discussed
