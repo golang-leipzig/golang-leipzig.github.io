@@ -67,7 +67,7 @@ interface may keep C and Go world better separated
 We also briefly discussed
 [LLMs](https://en.wikipedia.org/wiki/Large_language_model), as we ran
 [alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) [model
-ggml-alpaca-7b-q4.bin](https://news.ycombinator.com/item?id=35191137) in the
+ggml-alpaca-7b-q4.bin](https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml/blob/main/ggml-alpaca-7b-q4.bin) in the
 background, which wrote some simple SQL and thought of a haiku about the Go programming language:
 
 ![](/images/578575.gif)
