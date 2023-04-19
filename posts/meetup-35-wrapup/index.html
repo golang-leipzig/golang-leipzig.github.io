@@ -50,7 +50,9 @@ Leipzig</a> and was all about <a href="https://pkg.go.dev/cmd/cgo">Cgo</a>.</p>
 C++, too. Use cases are legacy code or performance. Implementing a
 <a href="https://github.com/miku/cgosamples/blob/06f9ab34f0aef71f865872bfcfd391a01a626a0d/x/xcgoloop/main.go#L1-L95">pseudo-random
 walk</a>
-in both Go and C shows that C can be up to 4x faster for this particular task.</p>
+(using an <a href="https://en.wikipedia.org/wiki/Linear_congruential_generator">LCG</a>
+<a href="https://en.wikipedia.org/wiki/Lehmer_random_number_generator">generator</a>) in
+both Go and C shows that C can be up to 4x faster for this particular task.</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback"> C               1              -1 29.553µs
 GO               1              -1 84.303µs
  C            1000             -12 41.799µs
