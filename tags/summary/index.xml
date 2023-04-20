@@ -14,7 +14,7 @@
       
       <guid>https://golangleipzig.space/posts/meetup-35-wrapup/</guid>
       <description>Cgo experiments Hybrid meetup #35 took place 2023-04-18 19:00 at Basislager Leipzig and was all about Cgo.
-Cgo allows to bridge C and Go. From C, we can connect to other languages, like C++, too. Use cases are legacy code or performance. Implementing a pseudo-random walk (using an LCG generator) in both Go and C shows that C can be up to 4x faster for this particular task.
+Cgo allows to bridge C and Go. From C, we can connect to other languages, like C++, too. Use cases are legacy code or performance. Implementing a pseudo-random walk (using an LCG) in both Go and C shows that C can be up to 4x faster for this particular task.
 C 1 -1 29.</description>
     </item>
     
