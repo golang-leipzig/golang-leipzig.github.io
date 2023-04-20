@@ -17,19 +17,18 @@ Cgo allows to bridge C and Go. From C, we can connect to other languages, like
 C++, too. Use cases are legacy code or performance. Implementing a
 [pseudo-random
 walk](https://github.com/miku/cgosamples/blob/06f9ab34f0aef71f865872bfcfd391a01a626a0d/x/xcgoloop/main.go#L1-L95)
-(using an [LCG](https://en.wikipedia.org/wiki/Linear_congruential_generator)
-[generator](https://en.wikipedia.org/wiki/Lehmer_random_number_generator)) in
+(using an [LCG](https://en.wikipedia.org/wiki/Linear_congruential_generator)) in
 both Go and C shows that C can be up to 4x faster for this particular task.
 
 ```
- C               1              -1 29.553µs
-GO               1              -1 84.303µs
- C            1000             -12 41.799µs
-GO            1000              26 107.295µs
- C         1000000           -1810 22.837387ms
-GO         1000000              -2 83.182797ms
- C      1000000000           15894 6.25975724s
-GO      1000000000          -44632 25.620427056s
+ C               1         -1 29.553µs
+GO               1         -1 84.303µs
+ C            1000        -12 41.799µs
+GO            1000         26 107.295µs
+ C         1000000      -1810 22.837387ms
+GO         1000000         -2 83.182797ms
+ C      1000000000      15894 6.25975724s
+GO      1000000000     -44632 25.620427056s
 ```
 
 One example was concerned with wrapping
