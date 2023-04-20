@@ -17,7 +17,7 @@ snippet or draft (e.g. in [Docs](https://docs.google.com/). Key facts:
 
 * Review item: a technical book or [paper](https://scholar.archive.org/search?q=%22go+programming+language%22+OR+%22golang%22&sort_order=time_desc)
 * Length: between ~250 and ~1500 words
-* Language: english
+* Language: English
 
 
 
