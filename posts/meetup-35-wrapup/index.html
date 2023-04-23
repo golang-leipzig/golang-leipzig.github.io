@@ -78,7 +78,7 @@ code is much more difficult - rather than use CGO, maybe a grpc or other
 interface may keep C and Go world better separated</li>
 <li>To wrap C++, we need to create a C <a href="https://en.wikipedia.org/wiki/Facade_pattern">façade</a></li>
 <li>Go has a nice <a href="https://pkg.go.dev/go/ast">ast</a></li>
-<li>GRCP performance in Go may suffer, if interfaces are used (due to overhead of reflection)</li>
+<li>GRPC performance in Go may suffer, if interfaces are used (due to overhead of reflection)</li>
 <li><a href="https://github.com/deepmap/oapi-codegen">oapi-codegen</a> is an openapi code generator for Go (and an alternative to the <a href="https://github.com/OpenAPITools/openapi-generator">swagger tool</a>)</li>
 <li>Go&rsquo;s type system can be limiting, when working with Web APIs or SDKs</li>
 <li><a href="https://www.simpleml.com/">Simple Markup Language</a></li>
@@ -86,6 +86,7 @@ interface may keep C and Go world better separated</li>
 <li><a href="https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell">YAML/HELL</a></li>
 <li>Using symbols straight from a dynamic library via <a href="https://stackoverflow.com/a/27510758/89391">dlopen</a></li>
 <li>A rundown of a benchmark across Python, C, and BLAS, for a HPC and competetive programming blog: <a href="https://en.algorithmica.org/hpc/complexity/languages/">https://en.algorithmica.org/hpc/complexity/languages/</a></li>
+<li>Unbuffered terminal output in Go is slow.  Try to wrap <code>os.Stdout</code> in a <code>bufio.Writer</code> if you need to print a lot of text.</li>
 </ul>
 <p>We also briefly discussed
 <a href="https://en.wikipedia.org/wiki/Large_language_model">LLMs</a>, as we ran
