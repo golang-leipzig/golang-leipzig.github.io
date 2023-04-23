@@ -62,6 +62,7 @@ interface may keep C and Go world better separated
 * [YAML/HELL](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * Using symbols straight from a dynamic library via [dlopen](https://stackoverflow.com/a/27510758/89391)
 * A rundown of a benchmark across Python, C, and BLAS, for a HPC and competetive programming blog: [https://en.algorithmica.org/hpc/complexity/languages/](https://en.algorithmica.org/hpc/complexity/languages/)
+* Unbuffered terminal output in Go is slow.  Try to wrap `os.Stdout` in a `bufio.Writer` if you need to print a lot of text.
 
 We also briefly discussed
 [LLMs](https://en.wikipedia.org/wiki/Large_language_model), as we ran
