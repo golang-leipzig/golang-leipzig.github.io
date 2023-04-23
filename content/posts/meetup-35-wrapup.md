@@ -54,7 +54,7 @@ project with C dependencies, such as sqlite3. Example repo:
 interface may keep C and Go world better separated
 * To wrap C++, we need to create a C [façade](https://en.wikipedia.org/wiki/Facade_pattern)
 * Go has a nice [ast](https://pkg.go.dev/go/ast)
-* GRCP performance in Go may suffer, if interfaces are used (due to overhead of reflection)
+* GRPC performance in Go may suffer, if interfaces are used (due to overhead of reflection)
 * [oapi-codegen](https://github.com/deepmap/oapi-codegen) is an openapi code generator for Go (and an alternative to the [swagger tool](https://github.com/OpenAPITools/openapi-generator))
 * Go's type system can be limiting, when working with Web APIs or SDKs
 * [Simple Markup Language](https://www.simpleml.com/)
