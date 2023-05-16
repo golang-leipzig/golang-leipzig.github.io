@@ -1,5 +1,5 @@
 ---
-title: "In the stack"
+title: "In The Stack"
 date: 2023-05-16T10:00:00+02:00
 draft: false
 tags:
@@ -8,7 +8,7 @@ tags:
 - llm
 ---
 
-## In the Stack
+## In The Stack
 
 The AI space develops fast, with one cornerstone being open datasets available
 for training. Code from [golang-leipzig](https://github.com/golang-leipzig) is
@@ -23,8 +23,7 @@ Five of our repositories are included in the [25.74 GB of source code](https://a
 ![](/images/sidewalk.png)
 
 Transparency is a key factor in the development of datasets and derived models.
-To check, whether your code is included, visit:
-[https://huggingface.co/spaces/bigcode/in-the-stack](https://huggingface.co/spaces/bigcode/in-the-stack)
+To check, whether your code is included, visit: [Am I in The Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
 
 [May the source be with you](https://arxiv.org/abs/2305.06161)!
 
