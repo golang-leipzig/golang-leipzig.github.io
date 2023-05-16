@@ -26,4 +26,4 @@ To check, whether your code is included, visit:
 
 [May the source be with you](https://arxiv.org/abs/2305.06161)!
 
-![](static/images/sidewalk.png)
+![](/images/sidewalk.png)
