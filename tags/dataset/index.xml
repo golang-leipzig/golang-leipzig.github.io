@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>In the stack</title>
+      <title>In The Stack</title>
       <link>https://golangleipzig.space/posts/bigcode-in-the-stack/</link>
       <pubDate>Tue, 16 May 2023 10:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/bigcode-in-the-stack/</guid>
-      <description>In the Stack The AI space develops fast, with one cornerstone being open datasets available for training. Code from golang-leipzig is part of The Stack (20 Nov 2022):
+      <description>In The Stack The AI space develops fast, with one cornerstone being open datasets available for training. Code from golang-leipzig is part of The Stack (20 Nov 2022):
  a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
  Five of our repositories are included in the 25.74 GB of source code (in 4,730,461 files) written in Go included in this dataset.
 Transparency is a key factor in the development of datasets and derived models.</description>
