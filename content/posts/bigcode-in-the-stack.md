@@ -20,10 +20,11 @@ part of [The Stack](https://www.bigcode-project.org/docs/about/the-stack/) ([20 
 Five of our repositories are included in the [25.74 GB of source code](https://arxiv.org/pdf/2305.06161.pdf#page=7) (in
 4,730,461 files) written in Go included in this dataset.
 
+![](/images/sidewalk.png)
+
 Transparency is a key factor in the development of datasets and derived models.
 To check, whether your code is included, visit:
 [https://huggingface.co/spaces/bigcode/in-the-stack](https://huggingface.co/spaces/bigcode/in-the-stack)
 
 [May the source be with you](https://arxiv.org/abs/2305.06161)!
 
-![](/images/sidewalk.png)
