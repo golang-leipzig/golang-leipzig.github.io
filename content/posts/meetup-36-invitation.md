@@ -33,7 +33,7 @@ Find out more at:
 * [encore.dev](https://encore.dev/) ([demo video](https://www.youtube.com/watch?v=IwplIbwJtD0))
 * [github.com/encoredev/encore](https://github.com/encoredev/encore) ([example projects](https://github.com/encoredev/examples))
 
-André shared his thoughts on software development, cloud and distriuted systems
+André shared his thoughts on software development, cloud and distributed systems
 in an inspiring talk at [Gophercon UK 2021: Software development reimagined](https://www.youtube.com/watch?v=OrncUmqSJKU).
 
 We'll meet
