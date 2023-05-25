@@ -47,7 +47,7 @@ Onsite: free drinks!
 
 Extra:
 
-We'll be giving away a paper copy of [Distributed Services with
+We'll be giving away a paperback copy of [Distributed Services with
 Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/) (2021, [4.6 ⭐](https://www.amazon.de/-/en/Travis-Jeffery/dp/1680507605))
 among the on-site participants.
 
