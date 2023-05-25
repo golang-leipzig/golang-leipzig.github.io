@@ -36,14 +36,20 @@ Find out more at:
 André shared his thoughts on software development, cloud and distributed systems
 in an inspiring talk at [Gophercon UK 2021: Software development reimagined](https://www.youtube.com/watch?v=OrncUmqSJKU).
 
-We'll meet
+We'll meet:
 
 * in person at [Basislager](https://www.basislager.co/), [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558)
-* and online via [meet.jit.si/LeipzigGophers36](https://meet.jit.si/LeipzigGophers36) (please note that we'll plan to record the talk and publish it on youtube)
+* and online via [Google Meet](https://meet.google.com/zht-yuxt-zfo) (please note that we'll plan to record the talk and publish it on youtube)
 
 Join us for a unique opportunity to discuss all things distributed systems,
 developer experience, microservices and cloud infrastructure complexities.
 Onsite: free drinks!
+
+Extra:
+
+We'll be giving away a paper copy of [Distributed Services with
+Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/) (2021, [4.6 ⭐](https://www.amazon.de/-/en/Travis-Jeffery/dp/1680507605))
+among the on-site participants.
 
 See you!
 
