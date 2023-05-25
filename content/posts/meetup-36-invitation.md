@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #36 invitation"
 date: 2023-05-24T10:00:00+02:00
-draft: true
+draft: false
 tags:
 - announcement
 - meetup
@@ -33,10 +33,13 @@ Find out more at:
 * [encore.dev](https://encore.dev/) ([demo video](https://www.youtube.com/watch?v=IwplIbwJtD0))
 * [github.com/encoredev/encore](https://github.com/encoredev/encore) ([example projects](https://github.com/encoredev/examples))
 
+André shared his thoughts on software development, cloud and distriuted systems
+in an inspiring talk at [Gophercon UK 2021: Software development reimagined](https://www.youtube.com/watch?v=OrncUmqSJKU).
+
 We'll meet
 
 * in person at [Basislager](https://www.basislager.co/), [Peterssteinweg 14, 04107 Leipzig](https://www.openstreetmap.org/node/3504864558)
-* and online via [meet.jit.si/LeipzigGophers36](https://meet.jit.si/LeipzigGophers36) (please note that we'll plan to record the talk)
+* and online via [meet.jit.si/LeipzigGophers36](https://meet.jit.si/LeipzigGophers36) (please note that we'll plan to record the talk and publish it on youtube)
 
 Join us for a unique opportunity to discuss all things distributed systems,
 developer experience, microservices and cloud infrastructure complexities.
