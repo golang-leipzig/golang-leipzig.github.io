@@ -6,7 +6,19 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #36 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-36-invitation/</link>
+      <pubDate>Wed, 24 May 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-36-invitation/</guid>
+      <description>Hello, 世界!
+For meetup #36 on Tuesday Jun 20, 2023 19:00 CET we&amp;rsquo;re thrilled to welcome André Eriksson, founder of Encore, a startup building the next generation platform for rapid backend development.
+ Building cloud-native backends and distributed systems can involve large amounts of complexity and repetitive boilerplate.
+ Encore is a backend development platform and infrastructure SDK designed to simplify building such backend. Encore provides a declarative approach to managing cloud infrastructure directly in application code, based on static analysis.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #35 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-35-invitation/</link>
