@@ -11,7 +11,7 @@ Hello, 世界!
 
 For meetup #36 on Tuesday [Jun 20, 2023 19:00
 CET](https://www.meetup.com/leipzig-golang/events/290666177/) we're thrilled to
-welcome [André Eriksson](https://www.linkedin.com/in/erikssonandre/), founder
+welcome [André Eriksson](https://www.linkedin.com/in/erikssonandre/), software engineer and founder
 of [Encore](https://encore.dev), a startup building the next generation
 platform for rapid backend development.
 
