@@ -49,7 +49,7 @@ Extra:
 
 We'll be giving away a paperback copy of [Distributed Services with
 Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/) (2021, [4.6 ⭐](https://www.amazon.de/-/en/Travis-Jeffery/dp/1680507605))
-among the on-site participants.
+among the on-site participants, courtesy of [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592).
 
 See you!
 
