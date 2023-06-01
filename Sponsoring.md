@@ -5,7 +5,12 @@ transparency.
 
 ## Long-Term
 
-From 09/2021 to Fall 2022: participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
+From 09/2021 to 09/2022: participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
+
+## 2023-06-01
+
+* announce [#36](https://www.meetup.com/leipzig-golang/events/290666177/) to
+  520 members, mention O'Reilly as sponsor of "Distributed Services with Go" book giveaway.
 
 ## 2022-09-12
 
