@@ -66,6 +66,7 @@ TODO: outreach.
 
 * [x] slack: https://gophers.slack.com/archives/C152YB9UZ/p1686821921439959
 * [x] linkedin: https://www.linkedin.com/posts/martin-czygan-58348842_cloud-native-microservices-activity-7074867014661484544-KJzC
+* [x] developer group leipzig: https://www.meetup.com/developer-group-leipzig/discussions/6755397672170916/chat/
 
 
 Are you interested in cloud-native development, #microservices and #distributed
