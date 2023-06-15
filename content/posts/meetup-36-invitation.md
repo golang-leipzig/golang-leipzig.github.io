@@ -64,7 +64,24 @@ See you!
 
 TODO: outreach.
 
-* [ ] slack
-* [ ] linkedin
+* [x] slack: https://gophers.slack.com/archives/C152YB9UZ/p1686821921439959
+* [x] linkedin: https://www.linkedin.com/posts/martin-czygan-58348842_cloud-native-microservices-activity-7074867014661484544-KJzC
+
+
+Are you interested in cloud-native development, #microservices and #distributed
+system? Do you aim to ship secure and cost-effective cloud-native backends? Do you care about developer experience?
+
+Then please join us at Leipzig #Gophers Meetup #36 on Tue, June 20, 2023 19:00
+CEST where we're thrilled to have @AndreErikson from @Encore talking about
+simplifying cloud-native backend development and deployment.
+
+Encore provides a declarative approach to managing cloud infrastructure, is built in Go (and for Go) and is open-source.
+
+This is a hybrid (in-person and online) meetup, so you can join us directly via
+Google Meet: https://meet.google.com/zht-yuxt-zfo or at @Basislager Leipzig.
+
+We provide free drinks at the event and will be giving away a copy of Distributed Services in Go (https://pragprog.com/titles/tjgo/distributed-services-with-go/), courtesy of @OReillyMedia!
+
+
 
 -->
