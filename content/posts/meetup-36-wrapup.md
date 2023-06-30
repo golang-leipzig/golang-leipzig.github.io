@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Cloud, Complexity and Encore
+## Cut Cloud Complexity with Encore
 
 Hybrid meetup #36 took place [2023-06-20
 19:00](https://www.meetup.com/leipzig-golang/events/290666177/) at [Basislager
@@ -20,10 +20,10 @@ radically simplifying cloud-native backend development.
 
 Beside motivation and overview, André live-coded an [uptime monitoring
 service](https://github.com/encoredev/examples/tree/main/uptime), ran it
-locally and deployed it onto Google Cloud within a few minutes. A recording of
-the talk is available on YouTube:
+locally and deployed it onto Google Cloud within a few minutes. A [recording of
+the talk](https://youtu.be/yYEXDmy3zUA) is available on YouTube!
 
-![...](#)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYEXDmy3zUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A few more takeaways from the talk and discussion:
 
@@ -38,9 +38,11 @@ Some more insights from the Q&A:
 * a large number of projects need only core cloud primitives
 * Encore app can be deployed side by side existing infrastructure, and can share access to resources, e.g. message brokers
 
-The space of tools to reduce cloud complexity for developers is large, with other projects in this spaces being [ampt](https://getampt.com/), [Terraform, Pulumi](https://encore.dev/docs/other/vs-terraform) and others.
+The space of tools to reduce cloud complexity for developers is large, with
+other projects in this spaces being [ampt](https://getampt.com/), [Terraform,
+Pulumi](https://encore.dev/docs/other/vs-terraform) and others.
 
-Thanks again to André for taking the time to demo an amazing project.
+Thanks again to [André](https://www.linkedin.com/in/erikssonandre/) for taking the time to demo an amazing project.
 
 ----
 
