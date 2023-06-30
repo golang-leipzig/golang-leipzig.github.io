@@ -24,7 +24,7 @@ service](https://github.com/encoredev/examples/tree/main/uptime), ran it
 locally and deployed it onto Google Cloud within a few minutes. A [recording of
 the talk](https://youtu.be/yYEXDmy3zUA) is available on YouTube!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yYEXDmy3zUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![](/images/36-yt-thumb.png)](https://youtu.be/yYEXDmy3zUA)
 
 A few more takeaways from the talk and discussion:
 
