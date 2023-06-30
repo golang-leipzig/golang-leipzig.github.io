@@ -6,7 +6,18 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2023 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #36 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-36-wrapup/</link>
+      <pubDate>Thu, 22 Jun 2023 01:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-36-wrapup/</guid>
+      <description>Cut Cloud Complexity with Encore Hybrid meetup #36 took place 2023-06-20 19:00 at Basislager Leipzig.
+We had a great presentation from André Eriksson about Encore - a platform written in Go and for Go for radically simplifying cloud-native backend development.
+Beside motivation and overview, André live-coded an uptime monitoring service, ran it locally and deployed it onto Google Cloud within a few minutes. A recording of the talk is available on YouTube!</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #35 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-35-wrapup/</link>
