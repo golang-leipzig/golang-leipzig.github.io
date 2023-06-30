@@ -19,7 +19,7 @@ Eriksson](https://www.linkedin.com/in/erikssonandre/) about
 [Encore](https://encore.dev/) - a platform written in Go and for Go for
 radically simplifying cloud-native backend development.
 
-Beside motivation and overview, André live-coded an [uptime monitoring
+Beside motivation and overview, André [live-coded](https://youtu.be/yYEXDmy3zUA?t=1824) an [uptime monitoring
 service](https://github.com/encoredev/examples/tree/main/uptime), ran it
 locally and deployed it onto Google Cloud within a few minutes. A [recording of
 the talk](https://youtu.be/yYEXDmy3zUA) is available on YouTube!
