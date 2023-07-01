@@ -41,7 +41,10 @@ Some more insights from the Q&A:
 
 The space of tools to reduce cloud complexity for developers is large, with
 other projects in this spaces being [ampt](https://getampt.com/), [Terraform,
-Pulumi](https://encore.dev/docs/other/vs-terraform) and others.
+Pulumi](https://encore.dev/docs/other/vs-terraform) and others. One open source
+project in the cloud-agnostic space is the [Go Cloud Development
+Toolkit](https://gocloud.dev/), which also aimed at providing commonly used,
+vendor-neutral generic APIs that you can deploy across cloud providers.
 
 Thanks again to [André](https://www.linkedin.com/in/erikssonandre/) for taking the time to demo an amazing project.
 
