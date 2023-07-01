@@ -2,7 +2,6 @@
 title: "Hybrid Meetup #36 wrap-up"
 date: 2023-06-30T10:00:00+02:00
 draft: false
-unlisted: true
 tags:
 - summary
 - meetup
