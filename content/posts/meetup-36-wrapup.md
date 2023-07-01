@@ -32,6 +32,12 @@ A few more takeaways from the talk and discussion:
 * Encore can be cloud agnostic by focussing on the 80% cases, that most cloud applications need: see [primitives](https://encore.dev/docs/primitives) and [production infrastructure](https://encore.dev/docs/deploy/infra#production-infrastructure)
 * Encore does code to code transformations via static analysis and leverages Go's static typing to make working with services save and efficient
 * currently, the large cloud providers are supported but on-premise deployments will be possible soon (deployment target will be an on-premise kubernetes cluster)
+* Go is a language made for tools, with a [regular grammar](https://go.dev/talks/2009/go_talk-20091030.pdf#page=14), which makes it easier to write code that manipulates Go code
+
+Find out more:
+
+* quick video showing [Encore in action](https://www.youtube.com/watch?v=IwplIbwJtD0)
+* more [example projects](https://github.com/encoredev/examples)
 
 Some more insights from the Q&A:
 
@@ -39,12 +45,11 @@ Some more insights from the Q&A:
 * a large number of projects need only core cloud primitives
 * Encore app can be deployed side by side existing infrastructure, and can share access to resources, e.g. message brokers
 
-The space of tools to reduce cloud complexity for developers is large, with
-other projects in this spaces being [ampt](https://getampt.com/), [Terraform,
-Pulumi](https://encore.dev/docs/other/vs-terraform) and others. One open source
-project in the cloud-agnostic space is the [Go Cloud Development
-Toolkit](https://gocloud.dev/), which also aimed at providing commonly used,
-vendor-neutral generic APIs that you can deploy across cloud providers.
+The space of tools to reduce cloud complexity for developers is becoming larger, with
+projects in this space being [ampt](https://getampt.com/), [Terraform,
+Pulumi](https://encore.dev/docs/other/vs-terraform) and others. One open source kit in the cloud-agnostic realm is the [Go Cloud Development
+Toolkit](https://gocloud.dev/), which also aimed at *providing commonly used,
+vendor-neutral generic APIs that you can deploy across cloud providers*.
 
 Thanks again to [André](https://www.linkedin.com/in/erikssonandre/) for taking the time to demo an amazing project.
 
