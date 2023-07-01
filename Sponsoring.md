@@ -7,6 +7,10 @@ transparency.
 
 From 09/2021 to 09/2022: participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
+## 2023-06-20
+
+* gave away a copy of "Distributed Services with Go" by O'Reilly Media
+
 ## 2023-06-01
 
 * announce [#36](https://www.meetup.com/leipzig-golang/events/290666177/) to
