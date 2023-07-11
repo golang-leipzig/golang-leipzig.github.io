@@ -30,7 +30,7 @@ A few more takeaways from the talk and discussion:
 * most of Encore is open source: [github.com/encoredev](https://github.com/encoredev/)
 * Encore can be cloud agnostic by focussing on the 80% cases, that most cloud applications need: see [primitives](https://encore.dev/docs/primitives) and [production infrastructure](https://encore.dev/docs/deploy/infra#production-infrastructure)
 * Encore does code to code transformations via static analysis and leverages Go's static typing to make working with services save and efficient
-* currently, the large cloud providers are supported but on-premise deployments will be possible soon (deployment target will be an on-premise kubernetes cluster)
+* currently, the large cloud providers are supported but on-premise deployments [are possible](https://encore.dev/docs/how-to/import-kubernetes-cluster) <strike>will be possible soon (deployment target will be an on-premise kubernetes cluster) </strike>
 * Go is a language made for tools, with a [regular grammar](https://go.dev/talks/2009/go_talk-20091030.pdf#page=14), which makes it easier to write code that manipulates Go code
 
 Find out more:
