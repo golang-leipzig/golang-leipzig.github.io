@@ -6,7 +6,17 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup #37 notice</title>
+      <link>https://golangleipzig.space/posts/meetup-37-notice/</link>
+      <pubDate>Thu, 28 Sep 2023 01:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-37-notice/</guid>
+      <description>Free Form Meetup #37 Since starting Leipzig Gophers almost four years ago we always aimed at connecting people and to learn about interesting Go projects and we had a lot of fun organizing that. Meetup #37 on 2023-09-26 aimed to be a free-form event, that is an event without a defined agenda with an opportunity to meet and discuss.
+We&amp;rsquo;ll try to sharpen the free-form event format in the future.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #36 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-36-wrapup/</link>
