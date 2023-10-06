@@ -8,7 +8,7 @@ tags:
 - go
 ---
 
-[devopenspace](https://devopenspace.de/) is a regular
+[devopenspace](https://devopenspace.de/) is a regular, [classic](http://web.archive.org/web/20120801000000*/https://devopenspace.de/)
 [unconference](https://en.wikipedia.org/wiki/Unconference) on software
 engineering and related topics - this year, there are a few Go and cloud
 workshops as well! See the [agenda for more details](https://devopenspace.de/).
