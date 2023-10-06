@@ -6,7 +6,16 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 00:20:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go at devopenspace 2023</title>
+      <link>https://golangleipzig.space/posts/go-devopenspace-2023/</link>
+      <pubDate>Fri, 06 Oct 2023 00:20:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/go-devopenspace-2023/</guid>
+      <description>devopenspace is a regular unconference on software engineering and related topics - this year, there are a few Go and cloud workshops as well! See the agenda for more details.</description>
+    </item>
+    
     <item>
       <title>Meetup #37 notice</title>
       <link>https://golangleipzig.space/posts/meetup-37-notice/</link>

@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://golangleipzig.space/tags/conference/</loc>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/go/</loc>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/go-devopenspace-2023/</loc>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://golangleipzig.space/</loc>
-    <lastmod>2023-09-28T01:00:00+02:00</lastmod>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/</loc>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/</loc>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/unconference/</loc>
+    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +48,7 @@
   </url>
   
   <url>
-    <loc>https://golangleipzig.space/posts/</loc>
-    <lastmod>2023-09-28T01:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golangleipzig.space/tags/summary/</loc>
-    <lastmod>2023-09-28T01:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/</loc>
     <lastmod>2023-09-28T01:00:00+02:00</lastmod>
   </url>
   
@@ -79,11 +99,6 @@
   
   <url>
     <loc>https://golangleipzig.space/posts/clt23/</loc>
-    <lastmod>2023-03-13T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/conference/</loc>
     <lastmod>2023-03-13T12:00:00+02:00</lastmod>
   </url>
   
@@ -525,11 +540,6 @@
   <url>
     <loc>https://golangleipzig.space/posts/second-meetup-invitation/</loc>
     <lastmod>2019-03-15T15:20:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/go/</loc>
-    <lastmod>2019-02-27T15:45:00+01:00</lastmod>
   </url>
   
   <url>
