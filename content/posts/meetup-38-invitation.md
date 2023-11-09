@@ -30,6 +30,8 @@ Join us for a unique opportunity to discuss Go in production at scale!
 
 See you!
 
+PS: Free drinks and 🍕!
+
 
 <!--
 
