@@ -6,7 +6,19 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #38 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-38-invitation/</link>
+      <pubDate>Thu, 09 Nov 2023 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-38-invitation/</guid>
+      <description>Hello, 世界!
+For meetup #38 on Tuesday Nov 21, 2023 19:00 CET we&amp;rsquo;re excited to collaborate with CHECK24, which will host this meetup at their Leipzig office, located at Tröndlinring 3, 04105 Leipzig. CHECK24 uses Go in production at scale.
+We&amp;rsquo;re having two presentations:
+ Fabian will present about a Go project developed at CHECK24 Martin (Leipzig Gophers) will present about running and using large-language models (LLM) locally with the help of Go tools (following up on some topics discussed in #35)  We&amp;rsquo;ll meet:</description>
+    </item>
+    
     <item>
       <title>Meetup #37 notice</title>
       <link>https://golangleipzig.space/posts/meetup-37-notice/</link>
