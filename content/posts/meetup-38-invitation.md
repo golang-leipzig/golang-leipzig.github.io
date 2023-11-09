@@ -23,7 +23,7 @@ We're having two presentations:
 
 We'll meet:
 
-* in person at [CHECK24 Leipzig Office](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6), [Tröndlinring 3, 04105 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6)
+* in person at [CHECK24 Leipzig Office](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6), [Tröndlinring 3, 04105 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6) -- directions provided at the entrance
 * and online via [Jitsi](https://meet.jit.si/LeipzigGophers38)
 
 Join us for a unique opportunity to discuss Go in production at scale!
