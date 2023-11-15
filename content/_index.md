@@ -6,8 +6,10 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over 30
 events so far (nine in [2022](https://golangleipzig.space/posts/2022/)).
-Please visit [our meetup page](https://www.meetup.com/de-DE/leipzig-golang/) for
-information about upcoming events.
+<!-- Please visit [our meetup page](https://www.meetup.com/de-DE/leipzig-golang/) for
+information about upcoming events. -->
+Next meetup [#38](https://golangleipzig.space/posts/meetup-38-invitation/) at 2023-11-21 19:00 CET at [CHECK24](https://check24.de) offices located at [Tröndlinring 3, 04105 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6).
+
 If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/).
 
 <!-- Please visit [our meetup page](https://www.meetup.com/Leipzig-Golang/) for
@@ -57,6 +59,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+#37,
 [#36](https://golangleipzig.space/posts/meetup-36-wrapup/),
 [#35](https://golangleipzig.space/posts/meetup-35-wrapup/),
 [#34](https://golangleipzig.space/posts/meetup-34-wrapup/),
