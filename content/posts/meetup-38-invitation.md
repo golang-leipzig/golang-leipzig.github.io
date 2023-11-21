@@ -34,7 +34,7 @@ See you!
 
 PS: Free drinks and 🍕!
 
-![](/images/gopher10th-pin-small.jpg)
+![](/images/622323.gif)
 
 
 <!--
