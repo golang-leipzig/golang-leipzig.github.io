@@ -28,6 +28,8 @@ We'll meet:
 
 Join us for a unique opportunity to discuss Go in production at scale!
 
+Note: By attending this event you agree to be photographed.
+
 See you!
 
 PS: Free drinks and 🍕!
