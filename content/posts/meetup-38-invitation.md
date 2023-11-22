@@ -19,7 +19,7 @@ production at scale.
 We're having two presentations:
 
 * Fabian will present about a Go project developed at CHECK24
-* Martin (Leipzig Gophers) will present about running and using large-language models ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) locally with the help of Go tools (following up on some topics discussed in [#35](https://golangleipzig.space/posts/meetup-35-wrapup/))
+* Martin (Leipzig Gophers) will give a lightning talk about running and using large-language models ([LLM](https://en.wikipedia.org/wiki/Large_language_model)) locally with the help of Go tools (following up on some topics discussed in [#35](https://golangleipzig.space/posts/meetup-35-wrapup/))
 
 We'll meet:
 
@@ -28,9 +28,15 @@ We'll meet:
 
 Join us for a unique opportunity to discuss Go in production at scale!
 
+Note: By attending this event you agree to be photographed.
+
 See you!
 
 PS: Free drinks and 🍕!
+
+----
+
+![](/images/622323.gif)
 
 
 <!--
