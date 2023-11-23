@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Cache Rules Everything Around Me
+## Fast Database Cache Design
 
 Hybrid meetup #38 took place [2023-11-20
 19:00](https://www.meetup.com/leipzig-golang/events/290666185/) at
@@ -64,17 +64,19 @@ type Offer struct {
 
 This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
-significantly, when dealing with millions of objects. Simple, effective -- are
-these topics of [interest to
-you](https://jobs.check24.de/de/jobs/?locations=leipzig&categories=it-web-development)?
+significantly, when dealing with millions of objects. Simple, effective.
 
 ## Testdriving [OLLAMA](https://ollama.ai)
 
-Another, lightning talk was concerned with [Testdriving
-OLLAMA](https://github.com/miku/localmodels). A human selection of three Go
-programming related haiku generated on a 15W TDP [2017
+A lightning talk was concerned with [Testdriving
+OLLAMA](https://github.com/miku/localmodels) - a packaging tool for large
+language model files. Ollama is inspired by docker and allows to wrap LLM
+customizations (parameters, context) into a easy to distribute format.
+
+Thanks to projects like [LLAMA](https://ai.meta.com/llama/) and
+[llama.cpp](https://github.com/ggerganov/llama.cpp) it is possible to
+experiment with LLMs on everyday hardware, e.g. a 15W TDP [2017
 CPU](https://www.intel.com/content/www/us/en/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html).
-Note: A typical haiku follows the [5-7-5](https://en.wikipedia.org/wiki/Haiku) scheme.
 
 ![](/images/three-genai-haiku.png)
 
