@@ -1,0 +1,44 @@
+\documentclass{article}
+\pagestyle{empty}
+\usepackage[utf8]{inputenc} % Eingabe von Umlauten
+\usepackage[T1]{fontenc} % Ausgabe von Umlauten
+% \usepackage{manuscript,lipsum}
+\usepackage{typewriter}
+
+\usepackage{verse}
+
+    \newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
+
+\begin{document}
+
+The following pieces were generated in the afternoon of November 21, 2023 at
+Leipzig University Library with a 2017 Kaby Lake CPU. The SHA1 of the models
+used are fe938a131f40 (llama2), 4280f7257e73 (falcon) and 1629f2a8a495 (zephyr). A human reviewed about 1000 snippets from six different models and choose the
+following three for purely subjective reasons.
+
+\vspace{1.2cm}
+
+
+\begin{verse}
+    In your code \\
+    A single line can make you think \\
+    About all of the errors you might see. \\
+\end{verse}
+\attrib{falcon}
+
+\begin{verse}
+    Go, the language of grace \\
+    Compact, efficient, and fast \\
+    Code flows like water \\
+\end{verse}
+\attrib{llama2}
+
+\begin{verse}
+    compilation speed, \\
+    golang's strength in production, \\
+    developer's delight. \\
+\end{verse}
+\attrib{zephyr}
+
+
+\end{document}
