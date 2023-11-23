@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 22:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎄 Drinkup #39 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
+      <pubDate>Thu, 23 Nov 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-39-invitation/</guid>
+      <description>Hello, 世界!
+For meetup #39 on Tuesday Dec 19, 2023 19:00 CET we will meet at Cantona Leipzig (on OpenStreetMap) for drinks.
+
+Join us to discuss all things Go, past, future and beyond. See you!</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #38 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-38-wrapup/</link>
@@ -16,18 +28,6 @@
       <description>A cache is worth a thousand searches Hybrid meetup #38 took place 2023-11-20 19:00 at CHECK24 Leipzig Office.
 We had a great presentation from Fabian about building a mission critical query caching database (MemoryDB) in Go and the challenges involved.
 One challenge is the variety of query parameters and nearly overlapping values and ranges. A key for performance is to express various parameter values (e.g. date boundaries) with the help of BitMaps, e.</description>
-    </item>
-    
-    <item>
-      <title>🎄 Drinkup #39 invitation</title>
-      <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
-      <pubDate>Wed, 22 Nov 2023 15:00:00 +0100</pubDate>
-      
-      <guid>https://golangleipzig.space/posts/meetup-39-invitation/</guid>
-      <description>Hello, 世界!
-For meetup #39 on Tuesday Dec 19, 2023 19:00 CET we will meet at Cantona Leipzig (on OpenStreetMap) for drinks.
-
-Join us to discuss all things Go, past, future and beyond. See you!</description>
     </item>
     
     <item>
