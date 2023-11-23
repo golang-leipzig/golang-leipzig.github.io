@@ -51,7 +51,9 @@ type Offer struct {
 }
 ```
 
-One way to go about it would be to reduce any heap allocated value with stack allocated value, if possible, e.g.
+If possible, one can try to use stack allocated values (note: Go
+[ref/spec](https://go.dev/ref/spec) never mentions to stack or heap, as these
+concepts are abstracted by the language):
 
 ```go
 // Offer, reduced, abridged.
