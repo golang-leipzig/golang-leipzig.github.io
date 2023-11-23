@@ -50,7 +50,7 @@
 <a href="https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/">Fabian</a> about
 building a mission critical query caching database (MemoryDB) in Go and the
 challenges involved.</p>
-<p>A challenge is the sheer variety of query parameters and near overlapping
+<p>A challenge is the variety of query parameters and near overlapping
 values. A key for performance is to express various parameters values (e.g.
 dates) with the help of <a href="https://en.wikipedia.org/wiki/Bit_array">BitMaps</a>,
 especially <a href="https://r-libre.teluq.ca/1402/1/1709.07821.pdf">Roaring Bitmaps</a>.</p>
@@ -88,13 +88,15 @@ could be improved?</p>
 }
 </code></pre></div><p>This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
-significantly, when dealing with millions of objects. Simple, effective.</p>
+significantly, when dealing with millions of objects. Simple, effective. (are
+these topics of <a href="https://jobs.check24.de/de/jobs/?locations=leipzig&amp;categories=it-web-development">interest to
+you</a>?)</p>
 <h2 id="testdriving-ollama">Testdriving OLLAMA</h2>
 <p>Another, lightning talk was concerned with <a href="https://github.com/miku/localmodels">Testdriving
 OLLAMA</a>. A human selection of three Go
 programming related haiku generated on a 15W TDP <a href="https://www.intel.com/content/www/us/en/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html">2017
 CPU</a>.
-Note: A typical haiku follows the 5-7-5 scheme.</p>
+Note: A typical haiku follows the <a href="https://en.wikipedia.org/wiki/Haiku">5-7-5</a> scheme.</p>
 <p><img src="/images/three-genai-haiku.png" alt=""></p>
 <h2 id="thanks">Thanks!</h2>
 <p>Thanks <a href="https://check24.de">CHECK24</a> for hosting Leipzig Gophers November 2023
