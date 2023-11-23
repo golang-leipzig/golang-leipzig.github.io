@@ -68,7 +68,7 @@ significantly, when dealing with millions of objects. Simple, effective. (are
 these topics of [interest to
 you](https://jobs.check24.de/de/jobs/?locations=leipzig&categories=it-web-development)?)
 
-## Testdriving OLLAMA
+## Testdriving [OLLAMA](https://ollama.ai)
 
 Another, lightning talk was concerned with [Testdriving
 OLLAMA](https://github.com/miku/localmodels). A human selection of three Go
