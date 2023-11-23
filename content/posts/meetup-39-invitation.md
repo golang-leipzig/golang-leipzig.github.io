@@ -1,6 +1,6 @@
 ---
 title: "🎄 Drinkup #39 invitation"
-date: 2023-11-22T15:00:00+01:00
+date: 2023-11-23T15:00:00+01:00
 draft: false
 tags:
 - announcement
