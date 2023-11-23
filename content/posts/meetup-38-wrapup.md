@@ -18,10 +18,10 @@ We had a great presentation from
 building a mission critical query caching database (MemoryDB) in Go and the
 challenges involved.
 
-A challenge is the variety of query parameters and near overlapping
-values. A key for performance is to express various parameters values (e.g.
-dates) with the help of [BitMaps](https://en.wikipedia.org/wiki/Bit_array),
-especially [Roaring Bitmaps](https://r-libre.teluq.ca/1402/1/1709.07821.pdf).
+One challenge is the variety of query parameters and nearly overlapping
+values and ranges. A key for performance is to express various parameter values (e.g.
+date boundaries) with the help of [BitMaps](https://en.wikipedia.org/wiki/Bit_array),
+e.g. [Roaring Bitmaps](https://r-libre.teluq.ca/1402/1/1709.07821.pdf).
 
 > Bitmap indexes are commonly used in databases and search engines. By
 > exploiting bit-level parallelism, they can significantly accelerate queries. -- [RoaringBitmap.pdf](https://r-libre.teluq.ca/602/1/RoaringBitmap.pdf)
@@ -31,10 +31,14 @@ Among other things, the project also uses [tableflip](https://github.com/cloudfl
 > update the running code and / or configuration of a network service, without disrupting existing connections.
 
 A very practical concern has been the struct design for GC-friendlyness. Pop
-quiz: Is the following struct GC-friendly? When would it become a problem? What
-could be improved?
+quiz:
+
+* Is the following struct GC-friendly?
+* When would it become a problem?
+* What could be improved?
 
 ```go
+// Offer, abridged.
 type Offer struct {
     HomeAirport        *Airport
     DestinationAirport *Airport
@@ -50,6 +54,7 @@ type Offer struct {
 One way to go about it would be to reduce any heap allocated value with stack allocated value, if possible, e.g.
 
 ```go
+// Offer, reduced, abridged.
 type Offer struct {
     HomeAirportID        int
     DestinationAirportID int
