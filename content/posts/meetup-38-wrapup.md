@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## A cache is worth 1000 searches
+## A cache is worth a thousand searches
 
 Hybrid meetup #38 took place [2023-11-20
 19:00](https://www.meetup.com/leipzig-golang/events/290666185/) at
