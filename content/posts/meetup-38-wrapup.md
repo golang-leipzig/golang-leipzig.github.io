@@ -64,9 +64,9 @@ type Offer struct {
 
 This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
-significantly, when dealing with millions of objects. Simple, effective. (are
+significantly, when dealing with millions of objects. Simple, effective -- are
 these topics of [interest to
-you](https://jobs.check24.de/de/jobs/?locations=leipzig&categories=it-web-development)?)
+you](https://jobs.check24.de/de/jobs/?locations=leipzig&categories=it-web-development)?
 
 ## Testdriving [OLLAMA](https://ollama.ai)
 
