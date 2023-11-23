@@ -1,13 +1,18 @@
 \documentclass{article}
 \pagestyle{empty}
-\usepackage[utf8]{inputenc} % Eingabe von Umlauten
-\usepackage[T1]{fontenc} % Ausgabe von Umlauten
-% \usepackage{manuscript,lipsum}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{typewriter}
-
 \usepackage{verse}
+\newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
 
-    \newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
+\usepackage{hyperref}
+\hypersetup{
+    pdftitle={Three Haiku about the Go programming language},
+    pdfsubject={Software-generated poetry, prepared for Leipzig Gophers \#38},
+    pdfauthor={MiscModels},
+    pdfkeywords={haiku, llm}
+}
 
 \begin{document}
 
@@ -21,9 +26,7 @@ choose the following three for purely subjective reasons. System prompt used:
 \underline{Just write the poem and stop}, prompt was: \underline{write a haiku
     about the go programming language}.
 
-
 \vspace{1.2cm}
-
 
 \begin{verse}
     In your code \\
@@ -45,6 +48,5 @@ choose the following three for purely subjective reasons. System prompt used:
     developer's delight. \\
 \end{verse}
 \attrib{zephyr}
-
 
 \end{document}
