@@ -50,10 +50,10 @@
 <a href="https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/">Fabian</a> about
 building a mission critical query caching database (MemoryDB) in Go and the
 challenges involved.</p>
-<p>A challenge is the variety of query parameters and near overlapping
-values. A key for performance is to express various parameters values (e.g.
-dates) with the help of <a href="https://en.wikipedia.org/wiki/Bit_array">BitMaps</a>,
-especially <a href="https://r-libre.teluq.ca/1402/1/1709.07821.pdf">Roaring Bitmaps</a>.</p>
+<p>One challenge is the variety of query parameters and nearly overlapping
+values and ranges. A key for performance is to express various parameter values (e.g.
+date boundaries) with the help of <a href="https://en.wikipedia.org/wiki/Bit_array">BitMaps</a>,
+e.g. <a href="https://r-libre.teluq.ca/1402/1/1709.07821.pdf">Roaring Bitmaps</a>.</p>
 <blockquote>
 <p>Bitmap indexes are commonly used in databases and search engines. By
 exploiting bit-level parallelism, they can significantly accelerate queries. &ndash; <a href="https://r-libre.teluq.ca/602/1/RoaringBitmap.pdf">RoaringBitmap.pdf</a></p>
@@ -63,9 +63,14 @@ exploiting bit-level parallelism, they can significantly accelerate queries. &nd
 <p>update the running code and / or configuration of a network service, without disrupting existing connections.</p>
 </blockquote>
 <p>A very practical concern has been the struct design for GC-friendlyness. Pop
-quiz: Is the following struct GC-friendly? When would it become a problem? What
-could be improved?</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
+quiz:</p>
+<ul>
+<li>Is the following struct GC-friendly?</li>
+<li>When would it become a problem?</li>
+<li>What could be improved?</li>
+</ul>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// Offer, abridged.
+</span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
     HomeAirport        <span style="color:#000;font-weight:bold">*</span>Airport
     DestinationAirport <span style="color:#000;font-weight:bold">*</span>Airport
     Hotel              <span style="color:#000;font-weight:bold">*</span>Hotel
@@ -76,7 +81,8 @@ could be improved?</p>
     ReturnTime         time.Time
 }
 </code></pre></div><p>One way to go about it would be to reduce any heap allocated value with stack allocated value, if possible, e.g.</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// Offer, reduced, abridged.
+</span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
     HomeAirportID        <span style="color:#458;font-weight:bold">int</span>
     DestinationAirportID <span style="color:#458;font-weight:bold">int</span>
     HotelID              <span style="color:#458;font-weight:bold">int</span>
