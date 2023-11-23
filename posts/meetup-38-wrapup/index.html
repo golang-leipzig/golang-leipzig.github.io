@@ -80,7 +80,9 @@ quiz:</p>
     DepartureTime      time.Time
     ReturnTime         time.Time
 }
-</code></pre></div><p>One way to go about it would be to reduce any heap allocated value with stack allocated value, if possible, e.g.</p>
+</code></pre></div><p>If possible, one can try to use stack allocated values (note: Go
+<a href="https://go.dev/ref/spec">ref/spec</a> never mentions to stack or heap, as these
+concepts are abstracted by the language):</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// Offer, reduced, abridged.
 </span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
     HomeAirportID        <span style="color:#458;font-weight:bold">int</span>
