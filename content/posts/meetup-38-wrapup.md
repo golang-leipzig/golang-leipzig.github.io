@@ -18,7 +18,7 @@ We had a great presentation from
 building a mission critical query caching database (MemoryDB) in Go and the
 challenges involved.
 
-A challenge is the sheer variety of query parameters and near overlapping
+A challenge is the variety of query parameters and near overlapping
 values. A key for performance is to express various parameters values (e.g.
 dates) with the help of [BitMaps](https://en.wikipedia.org/wiki/Bit_array),
 especially [Roaring Bitmaps](https://r-libre.teluq.ca/1402/1/1709.07821.pdf).
@@ -64,7 +64,9 @@ type Offer struct {
 
 This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
-significantly, when dealing with millions of objects. Simple, effective.
+significantly, when dealing with millions of objects. Simple, effective. (are
+these topics of [interest to
+you](https://jobs.check24.de/de/jobs/?locations=leipzig&categories=it-web-development)?)
 
 ## Testdriving OLLAMA
 
@@ -72,7 +74,7 @@ Another, lightning talk was concerned with [Testdriving
 OLLAMA](https://github.com/miku/localmodels). A human selection of three Go
 programming related haiku generated on a 15W TDP [2017
 CPU](https://www.intel.com/content/www/us/en/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html).
-Note: A typical haiku follows the 5-7-5 scheme.
+Note: A typical haiku follows the [5-7-5](https://en.wikipedia.org/wiki/Haiku) scheme.
 
 ![](/images/three-genai-haiku.png)
 
