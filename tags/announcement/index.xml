@@ -6,7 +6,19 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎄 Drinkup #39 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
+      <pubDate>Wed, 22 Nov 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-39-invitation/</guid>
+      <description>Hello, 世界!
+For meetup #39 on Tuesday Dec 19, 2023 19:00 CET we will meet at Cantona Leipzig (on OpenStreetMap) for drinks.
+
+Join us to discuss all things Go, past, future and beyond. See you!</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #38 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-38-invitation/</link>
@@ -67,18 +79,6 @@ See you!
       <guid>https://golangleipzig.space/posts/meetup-33-invitation/</guid>
       <description>Hello, 世界!
 Meetup #33 on Tuesday Dec 20, 2022 19:00 CET will be an offline-only (AFK) meetup &amp;ndash; it&amp;rsquo;s getting cold, so we&amp;rsquo;re meeting for warm drinks at Cantona Leipzig (on OpenStreetMap).
-
-Join us to discuss all things Go, past, future and beyond. See you!</description>
-    </item>
-    
-    <item>
-      <title>🎄 Drinkup #39 invitation</title>
-      <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
-      <pubDate>Fri, 02 Dec 2022 19:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/posts/meetup-39-invitation/</guid>
-      <description>Hello, 世界!
-For meetup #39 on Tuesday Dec 19, 2023 19:00 CET we will meet at Cantona Leipzig (on OpenStreetMap) for drinks.
 
 Join us to discuss all things Go, past, future and beyond. See you!</description>
     </item>
