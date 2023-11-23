@@ -80,7 +80,7 @@ Thanks to projects like [LLAMA](https://ai.meta.com/llama/) and
 experiment with LLMs on everyday hardware, e.g. a 15W TDP [2017
 CPU](https://www.intel.com/content/www/us/en/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html).
 
-![](/images/three-genai-haiku.png)
+[![](/images/three-genai-haiku.png)](https://golangleipzig.space/meetup-38-llm-haiku/meetup-38-llm-haiku.pdf)
 
 ## Thanks!
 
