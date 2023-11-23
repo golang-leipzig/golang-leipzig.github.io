@@ -66,6 +66,8 @@ This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
 significantly, when dealing with millions of objects. Simple, effective.
 
+![](static/images/meetup-38-pic-sketch.jpg)
+
 ## Testdriving [OLLAMA](https://ollama.ai)
 
 A lightning talk was concerned with [Testdriving
