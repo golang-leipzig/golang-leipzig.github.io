@@ -92,7 +92,7 @@ CPU](https://www.intel.com/content/www/us/en/products/sku/122589/intel-core-i785
 ## Thanks!
 
 Thanks [CHECK24](https://check24.de) for hosting Leipzig Gophers November 2023
-Meetup, [Fabian](https://www.linkedin.com/in/florianbr%C3%A4utigam/) for the
+Meetup, [Fabian](https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/) for the
 great talk and [Florian](https://www.linkedin.com/in/florianbr%C3%A4utigam/)
 for the excellent event organisation.
 
