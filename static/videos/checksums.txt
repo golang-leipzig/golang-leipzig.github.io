@@ -1,0 +1,4 @@
+10158910ff4dc475f221cfe00af374571143ccb2  Leipzig Gophers #21： Concise Encoding, Specification and Go implementation [_dIHq4GJE14].mkv
+18f2e039888a09f6c1d24abef540c906586e5810  Leipzig Gophers #36： Cut Cloud Complexity with Encore - André Eriksson [yYEXDmy3zUA].mkv
+8b1ec58590054522a4e10dc312af43297d0df9ae  Leipzig Gophers #19： A Journey into the Kubernetes ListerWatcher Rabbit Hole [Z9fwIzy0C_8].webm
+7d85174a896eb8cc4a22c520ed06ba9e5369ffd3  Leipzig Gophers #22： Confidential Computing with Go [oycZLZdI8s8].webm
