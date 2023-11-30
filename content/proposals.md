@@ -13,10 +13,10 @@ tags:
 Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.
 
 As for topics, we are interested in anything related to the Go programming
-language, including its uses, e.g. in the cloud and infrastructure domain, best
-practices, experiences from real world projects, and other topics. In the
+language, including its uses, e.g. in the cloud and infrastructure domain, side
+projects, experiences from real world applications, and other topics. In the
 [past](https://golangleipzig.space/tags/summary/), we had presentations on a
-wide range of topics, from langauge features, concurrency, networking,
+wide range of topics, from language features, concurrency, networking,
 container technology, machine learning, tools, testing, security, databases,
 and much more.
 
