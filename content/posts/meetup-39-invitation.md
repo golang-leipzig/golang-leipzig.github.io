@@ -16,7 +16,7 @@ CET](https://www.meetup.com/leipzig-golang/events/290666187/) we will meet at
 [![](/images/crismas_tree_screensaver.gif)](https://gifcities.org/?q=christmas)
 
 [Join us](https://www.meetup.com/leipzig-golang/events/290666187/) to discuss
-all things Go, past, future and beyond. See you!
+all things Go, cloud, AI, past, future and beyond. See you!
 
 
 <!--
