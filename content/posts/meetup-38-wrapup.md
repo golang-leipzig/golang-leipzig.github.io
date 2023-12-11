@@ -73,7 +73,7 @@ This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
 significantly, when dealing with millions of objects. Simple, effective.
 
-![](/images/meetup-38-pic-sketch.jpg)
+[![](/images/meetup-38-pic-sketch.jpg)](https://www.linkedin.com/posts/florianbr%C3%A4utigam_golang-meetup-golangmeetup-activity-7138814464618860544--Xe2)
 
 ## Testdriving [OLLAMA](https://ollama.ai)
 
