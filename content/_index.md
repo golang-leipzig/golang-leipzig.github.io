@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over 30
-events so far (nine in [2022](https://golangleipzig.space/posts/2022/)). Please visit [our meetup page](https://www.meetup.com/de-DE/leipzig-golang/) for
+events so far (six in [2023](https://golangleipzig.space/posts/2023/)). Please visit [our meetup page](https://www.meetup.com/de-DE/leipzig-golang/) for
 information about upcoming events.
 
 If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/).
