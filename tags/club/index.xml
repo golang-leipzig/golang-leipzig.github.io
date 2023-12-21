@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/club/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reading Club</title>
+      <title>Leipzig Gophers Reading Club</title>
       <link>https://golangleipzig.space/rc/</link>
       <pubDate>Wed, 20 Dec 2023 10:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/rc/</guid>
-      <description>Leipzig Gophers Reading Club (WIP) Every WED 11:45—12:00 CET on MEET.JIT.SI: short, max 15 minutes weekly meetings for book, chapter, code discussions. Reading list and chapter plan on this page. What should we read next (in scope, e.g.: Go, cloud, theory, distributed systems, security, data, infrastructure, devops, &amp;hellip;)?
+      <description>Status: brainstorming
+ Every WED 11:45—12:00 CET on MEET.JIT.SI: short, max 15 minutes weekly meetings for book, chapter, code discussions. Reading list and chapter plan on this page. What should we read next (in scope, e.g.: Go, cloud, theory, distributed systems, security, data, infrastructure, devops, &amp;hellip;)?
 Currently reading: XXX TODO: table of dates and jitsi link</description>
     </item>
     
