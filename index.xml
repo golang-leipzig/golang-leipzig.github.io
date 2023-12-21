@@ -27,6 +27,16 @@
     </item>
     
     <item>
+      <title>Reading Club</title>
+      <link>https://golangleipzig.space/rc/</link>
+      <pubDate>Wed, 20 Dec 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/rc/</guid>
+      <description>Leipzig Gophers Reading Club (WIP) Every WED 11:45—12:00 CET on MEET.JIT.SI: short, max 15 minutes weekly meetings for book, chapter, code discussions. Reading list and chapter plan on this page. What should we read next (in scope, e.g.: Go, cloud, theory, distributed systems, security, data, infrastructure, devops, &amp;hellip;)?
+Currently reading: XXX TODO: table of dates and jitsi link</description>
+    </item>
+    
+    <item>
       <title>🎄 Drinkup #39 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
       <pubDate>Thu, 23 Nov 2023 15:00:00 +0100</pubDate>
@@ -184,16 +194,6 @@ See you!
       <description>Hello CLT23! This is a hop between the go tool requesting the latest version of golangleipzig.space/clt23 and the repository hosting the actual code (234).
 $ go install golangleipzig.space/clt23@latest $ clt23  If you want to bypass the default module proxy (e.g. to circumvent caching in the proxy), you can use:
 $ GOPRIVATE=&amp;quot;*&amp;quot; go install golangleipzig.space/clt23@latest  If you take a look a the source of this page, you&amp;rsquo;ll discover the go-import meta tag.</description>
-    </item>
-    
-    <item>
-      <title>Reading Club</title>
-      <link>https://golangleipzig.space/rc/</link>
-      <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/rc/</guid>
-      <description>Leipzig Gophers Reading Club (WIP) Every FRIDAY 4-4:20 PM CET on MEET.JIT.SI: short, max 20 minutes weekly meetings for book, chapter, code discussions. Reading list and chapter plan on this page. What should we read next (in scope, e.g.: Go, cloud, theory, distributed systems, security, data, infrastructure, devops, &amp;hellip;)?
-Currently reading: XXX TODO: table of dates and jitsi link</description>
     </item>
     
     <item>
