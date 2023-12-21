@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2023 20:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 02:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>https://golangleipzig.space/posts/2023/</link>
+      <pubDate>Thu, 21 Dec 2023 02:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/2023/</guid>
+      <description>In 2023 large language models and generative AI captured many minds - fewer know that the official Go repository included code to train a statistical language model (and to respond to prefixes) since Aug 17, 2011, which is based on chapter 3.1 from The Practice of Programming (1999), which in turn took inspiration from Dewdney, A. K. (1989), COMPUTER RECREATIONS. Scientific American, 260(6), 122–125 (the trace follows further to Shannon, 1951 and Markov, 1913)</description>
+    </item>
+    
     <item>
       <title>🎄 Drinkup #39 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-39-wrapup/</link>
