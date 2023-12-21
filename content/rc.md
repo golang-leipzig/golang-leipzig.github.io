@@ -1,6 +1,6 @@
 ---
-title: "Leipzig Gophers Late Night Reading Club"
-date: 2023-12-20T10:00:00+02:00
+title: "Late Night Reading Club"
+date: 2023-12-20T10:00:00+01:00
 draft: false
 tags:
 - reading
