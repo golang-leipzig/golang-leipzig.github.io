@@ -15,6 +15,12 @@ short, max 15 minutes weekly meetings for book, chapter, code discussions.
 Reading list and chapter plan on this page. What should we [read
 next](https://github.com/golang-leipzig/golang-leipzig.github.io/issues/new?template=reading-club-book-proposal.md)?
 
+Other options:
+
+* something more async, like a "done list"
+* something like "hackernews", but with chapters, people can comment, upvote, link to code snippets, etc. - plus game-mechanics for getting points for having read chapters :)
+* ...
+
 ### Currently reading: XXX
 
 TODO: table of dates and jitsi link
