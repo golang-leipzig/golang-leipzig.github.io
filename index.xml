@@ -187,6 +187,16 @@ $ GOPRIVATE=&amp;quot;*&amp;quot; go install golangleipzig.space/clt23@latest  I
     </item>
     
     <item>
+      <title>Reading Club</title>
+      <link>https://golangleipzig.space/rc/</link>
+      <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/rc/</guid>
+      <description>Leipzig Gophers Reading Club (WIP) Every FRIDAY 4-4:20 PM CET on MEET.JIT.SI: short, max 20 minutes weekly meetings for book, chapter, code discussions. Reading list and chapter plan on this page. What should we read next (in scope, e.g.: Go, cloud, theory, distributed systems, security, data, infrastructure, devops, &amp;hellip;)?
+Currently reading: XXX TODO: table of dates and jitsi link</description>
+    </item>
+    
+    <item>
       <title>Talk Proposals</title>
       <link>https://golangleipzig.space/proposals/</link>
       <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
