@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Nov 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 20:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎄 Drinkup #39 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-39-wrapup/</link>
+      <pubDate>Wed, 20 Dec 2023 20:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-39-wrapup/</guid>
+      <description>Drinkup notes Meetup #39 took place 2023-12-19 at Cantona Leipzig and these were just some of the talking points.
+ without extra libraries, schema validation in JSON is minimalistic (e.g. json schema); could cue help? malloy is an experimental data modeling language over relational stores direnv is a nice shell helper for 12-factor-style appu time is not just a line, it&amp;rsquo;s bound (cf. chrony) test your latencies: aws, gcp, or just the internet eventbridge/kubernetes at serverless office hours interesting, dedicated code assistant for ansible: Ansible Lightspeed  Next year will probably bring yet another wave of hyper-focussed LLM-based code comprehension tools (beside hyper-focussed niche, local, custom-trained LLMs for dedicated tasks, in general).</description>
+    </item>
+    
     <item>
       <title>🎄 Drinkup #39 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
