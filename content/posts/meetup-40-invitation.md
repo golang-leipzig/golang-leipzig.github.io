@@ -1,0 +1,35 @@
+---
+title: "Meetup #40 invitation"
+date: 2024-01-11T15:00:00+01:00
+draft: false
+tags:
+- announcement
+- meetup
+---
+
+Hello, 世界!
+
+Happy 2024! For meetup #40 on Tuesday [Jan 30, 2023 19:00
+CET](https://www.meetup.com/leipzig-golang/events/298481328/) we are thrilled
+to have [Bill Kennedy](https://www.ardanlabs.com/instructors/bill-kennedy/), Gopher Pioneer and Managing Partner of [Ardanlabs](https://www.ardanlabs.com/)
+joining us to talk about *Domain Driven, Data Oriented Design*.
+
+Domain driven design has been *tackling complexity in the heart of software*
+since Eric Evans' [classic 2003
+book](https://www.betterworldbooks.com/search/results?q=Domain-Driven%20Design%3A%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software%20evans),
+while [data-oriented
+programming](https://www.manning.com/books/data-oriented-programming) has
+become increasingly important with the advent of large scale, data-intensive
+applications.
+
+We are excited to dive into these topics!
+
+[Join us](https://www.meetup.com/leipzig-golang/events/298481328/) to discuss
+all things Go, domain driven design and data!
+
+
+<!--
+
+TODO: outreach.
+
+-->
