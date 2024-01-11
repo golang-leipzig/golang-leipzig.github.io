@@ -1,5 +1,5 @@
 ---
-title: "Meetup #40 invitation"
+title: "Hybrid Meetup #40 invitation"
 date: 2024-01-11T15:00:00+01:00
 draft: false
 tags:
@@ -23,6 +23,14 @@ become increasingly important with the advent of large scale, data-intensive
 applications.
 
 We are excited to dive into these topics!
+
+Join us in person at [Basislager Leipzig](https://www.basislager.co/) or online
+from anywhere with Google Meet:
+[https://meet.google.com/fet-deeo-gtx](https://meet.google.com/fet-deeo-gtx).
+
+See you!
+
+----
 
 [Join us](https://www.meetup.com/leipzig-golang/events/298481328/) to discuss
 all things Go, domain driven design and data!
