@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2023 02:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jan 2024 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023</title>
-      <link>https://golangleipzig.space/tags/2023/</link>
-      <pubDate>Thu, 21 Dec 2023 02:00:00 +0100</pubDate>
+      <title>announcement</title>
+      <link>https://golangleipzig.space/tags/announcement/</link>
+      <pubDate>Thu, 11 Jan 2024 15:00:00 +0100</pubDate>
       
-      <guid>https://golangleipzig.space/tags/2023/</guid>
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Wed, 20 Dec 2023 20:00:00 +0100</pubDate>
+      <pubDate>Thu, 11 Jan 2024 15:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023</title>
+      <link>https://golangleipzig.space/tags/2023/</link>
+      <pubDate>Thu, 21 Dec 2023 02:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/2023/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Wed, 20 Dec 2023 10:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>announcement</title>
-      <link>https://golangleipzig.space/tags/announcement/</link>
-      <pubDate>Thu, 23 Nov 2023 15:00:00 +0100</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     

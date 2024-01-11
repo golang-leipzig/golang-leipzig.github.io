@@ -6,7 +6,18 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Nov 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jan 2024 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup #40 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-40-invitation/</link>
+      <pubDate>Thu, 11 Jan 2024 15:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-40-invitation/</guid>
+      <description>Hello, 世界!
+Happy 2024! For meetup #40 on Tuesday Jan 30, 2023 19:00 CET we are thrilled to have Bill Kennedy, Gopher Pioneer and Managing Partner of Ardanlabs joining us to talk about Domain Driven, Data Oriented Design.
+Domain driven design has been tackling complexity in the heart of software since Eric Evans&#39; classic 2003 book, while data-oriented programming has become increasingly important with the advent of large scale, data-intensive applications.</description>
+    </item>
+    
     <item>
       <title>🎄 Drinkup #39 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-39-invitation/</link>
