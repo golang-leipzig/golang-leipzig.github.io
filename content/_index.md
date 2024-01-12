@@ -13,7 +13,7 @@ perspective on *Domain Driven, Data Oriented Design* at Leipzig Gophers [Hybrid 
 <!-- Please visit [our meetup page](https://www.meetup.com/de-DE/leipzig-golang/) for
 information about upcoming events. -->
 
-If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/).
+<!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
 
 <!-- Please visit [our meetup page](https://www.meetup.com/Leipzig-Golang/) for
 information about upcoming events.
@@ -26,6 +26,7 @@ information about upcoming events.
 Since Summer 2021, we have a [YouTube
 Channel](https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ) where we are
 publishing recordings of selected talks ([archive](https://archive.org/details/leipzig-gophers-recordings)).
+If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/).
 
 ----
 
