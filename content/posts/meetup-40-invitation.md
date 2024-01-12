@@ -17,7 +17,7 @@ joining us to talk about *Domain Driven, Data Oriented Design*.
 Domain driven design has been *tackling complexity in the heart of software*
 since Eric Evans' [classic 2003
 book](https://www.betterworldbooks.com/search/results?q=Domain-Driven%20Design%3A%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software%20evans),
-while ephasizing data in programming has many facets, from [caring about
+while emphasizing data in programming has many facets, from [caring about
 caches](https://en.wikipedia.org/wiki/Data-oriented_design), over treating data
 as first-class citizen (cf. [Data Oriented
 Programming](https://www.manning.com/books/data-oriented-programming)) to
