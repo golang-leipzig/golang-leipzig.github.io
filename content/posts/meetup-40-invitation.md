@@ -21,7 +21,7 @@ while emphasizing data in programming has many facets, from [caring about
 caches](https://en.wikipedia.org/wiki/Data-oriented_design), over treating data
 as first-class citizen (cf. [Data Oriented
 Programming](https://www.manning.com/books/data-oriented-programming)) to
-design challanges in data-intensive applications (cf.
+design challenges in data-intensive applications (cf.
 [DDIA](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)).
 
 We are excited to dive into these topics will Bill!
