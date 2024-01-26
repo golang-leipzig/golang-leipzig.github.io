@@ -42,4 +42,6 @@ all things Go, domain driven design and data!
 
 TODO: outreach.
 
+* [x] linkedin: https://www.linkedin.com/posts/martin-czygan-58348842_gophers-activity-7156623766259687424-1SZV
+
 -->
