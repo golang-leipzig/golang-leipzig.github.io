@@ -12,7 +12,7 @@ Hello, 世界!
 Happy 2024! For meetup #40 on Tuesday [Jan 30, 2024 19:00
 CET](https://www.meetup.com/leipzig-golang/events/298481328/) we are thrilled
 to have [Bill Kennedy](https://twitter.com/goinggodotnet), Gopher Pioneer and Managing Partner at [Ardan Labs](https://www.ardanlabs.com/)
-joining us to talk about *Domain Driven, Data Oriented Design*.
+joining us (*remotely*) to talk about *Domain Driven, Data Oriented Design*.
 
 Domain driven design has been *tackling complexity in the heart of software*
 since Eric Evans' [classic 2003
