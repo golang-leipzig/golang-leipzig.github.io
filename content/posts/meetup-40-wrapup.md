@@ -46,7 +46,7 @@ the Go AST to infer and validate a complete service topology
   validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 (Haskell ahead) - how to use data structures to make illegal state
 unrepresentatable and more
-* an [opaque time](https://en.wikipedia.org/wiki/Opaque_data_type) type for time in the
+* an [opaque time](https://en.wikipedia.org/wiki/Opaque_data_type) type for [time](https://github.com/golang/go/blob/ae457e811d44261801bda261731b5006d629930d/src/time/time.go#L135-L156) in the
   standard library helped with switching the underlying implementation with the 2017 proposal for [*Monotonic
 Elapsed Time Measurements in
 Go*](https://go.googlesource.com/proposal/+/master/design/12914-monotonic.md) - an issue that had grave effects: [Other reported software problems associated
