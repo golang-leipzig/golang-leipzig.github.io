@@ -22,8 +22,8 @@ All code showed in the talk is available at:
 
 Just a few notes from the talk
 
-* CRUD is boilerplate
-* domain-driven design comes with a cost but can help to keep larger projects structured and maintainable
+* [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) is boilerplate
+* [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design) comes with a cost but can help to keep larger projects structured and maintainable
 * one way to limit data exposure per domain is to create [a relational view](https://en.wikipedia.org/wiki/View_(SQL)) per domain
 * example of an opaque type from the repo is
   [`user.Role`](https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/business/core/user/role.go#L17-L20) - it could be a string, but we limit its usage by using a parse function to
