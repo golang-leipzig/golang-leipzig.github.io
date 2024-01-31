@@ -58,3 +58,6 @@ with the leap second](https://en.wikipedia.org/wiki/Leap_second#Other_reported_s
 > which then used only a real-time clock source. This could have been avoided
 > by using a monotonic clock source, which has since been added to Go [1.9](https://go.dev/doc/go1.9#monotonic-time).
 
+## [CGMR](https://en.wikipedia.org/wiki/Central_German_Metropolitan_Region)
+
+On 2024-02-26, there will the an *Intro to Go* (golang) talk at [webmontag Halle](https://webwirtschaft.net/webmontag/), at [Mitteldeutsches Multimediazentrum Halle](https://www.mmz-halle.de/)
