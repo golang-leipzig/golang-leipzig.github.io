@@ -63,5 +63,5 @@ with the leap second](https://en.wikipedia.org/wiki/Leap_second#Other_reported_s
 * on 2024-02-26, there will the an *Intro to Go* (golang) talk at [webmontag Halle](https://webwirtschaft.net/webmontag/), at [Mitteldeutsches Multimediazentrum Halle](https://www.mmz-halle.de/)
 * if you are in Hannover, Germany, check out [Hannover Gophers](https://www.meetup.com/de-DE/hannover-gophers/)
 
-[![](/images/clean_475668308_50.webp)](https://www.meetup.com/de-DE/hannover-gophers/)
+[![](/images/clean_475668308_30.webp)](https://www.meetup.com/de-DE/hannover-gophers/)
 
