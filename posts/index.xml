@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2024 15:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #40 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-40-wrapup/</link>
+      <pubDate>Wed, 31 Jan 2024 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-40-wrapup/</guid>
+      <description>Domain Driven Data Oriented Design Hybrid Meetup #40 took place 2024-01-30 at Basislager Leipzig and we had a great presentation by Bill Kennedy from Ardan Labs about Domain Driven Data Oriented Design. A recording of the talk is available at our YouTube Channel.
+
+All code showed in the talk is available at: https://github.com/ardanlabs/service.
+Just a few notes from the talk
+ CRUD is boilerplate domain-driven design comes with a cost but can help to keep larger projects structured and maintainable one way to limit data exposure per domain is to create a relational view per domain example of an opaque type from the repo is user.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #40 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-40-invitation/</link>
