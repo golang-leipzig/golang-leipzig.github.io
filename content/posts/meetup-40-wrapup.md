@@ -20,7 +20,7 @@ Oriented Design. A recording of the talk is available at our [YouTube Channel](h
 All code showed in the talk is available at:
 [https://github.com/ardanlabs/service](https://github.com/ardanlabs/service).
 
-Just a few notes from the talk
+Just a few notes from the talk:
 
 * [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) is boilerplate
 * [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design) comes with a cost but can help to keep larger projects structured and maintainable
@@ -60,7 +60,7 @@ with the leap second](https://en.wikipedia.org/wiki/Leap_second#Other_reported_s
 
 ## [CGMR](https://en.wikipedia.org/wiki/Central_German_Metropolitan_Region) and beyond
 
-* on 2024-02-26, there will the an *Intro to Go* (golang) talk at [webmontag Halle](https://webwirtschaft.net/webmontag/), at [Mitteldeutsches Multimediazentrum Halle](https://www.mmz-halle.de/)
+* on 2024-02-26, there will be an *Intro to Go* (golang) talk at [webmontag Halle](https://webwirtschaft.net/webmontag/), at [Mitteldeutsches Multimediazentrum Halle](https://www.mmz-halle.de/)
 * if you are in Hannover, Germany, check out [Hannover Gophers](https://www.meetup.com/de-DE/hannover-gophers/)
 
 [![](/images/clean_475668308_30.webp)](https://www.meetup.com/de-DE/hannover-gophers/)
