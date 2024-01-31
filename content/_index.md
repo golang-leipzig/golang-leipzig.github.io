@@ -61,6 +61,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#40](https://golangleipzig.space/posts/meetup-40-wrapup/),
 [#39](https://golangleipzig.space/posts/meetup-39-wrapup/),
 [#38](https://golangleipzig.space/posts/meetup-38-wrapup/),
 [#37](https://golangleipzig.space/posts/meetup-37-notice/),
@@ -108,8 +109,8 @@ We try to sum up every meetup in a short blog post:
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems),
 [sciendis](https://www.sciendis.de/), [Deta Cloud](https://deta.space/),
-[Gridfuse](https://gridfuse.com/), [Encore](https://encore.dev) and
-[CHECK24](https://www.check24.de/) for their contributions and [Manning
+[Gridfuse](https://gridfuse.com/), [Encore](https://encore.dev),
+[CHECK24](https://www.check24.de/) and [Ardan Labs](https://ardanlabs.com) for their contributions and [Manning
 Publications](https://www.manning.com/), [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592),
 [Jetbrains](https://www.jetbrains.com/) and [CodeNotary](https://codenotary.com/) for their support.
