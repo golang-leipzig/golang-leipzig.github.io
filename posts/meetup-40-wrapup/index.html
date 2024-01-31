@@ -49,8 +49,8 @@
 presentation by <a href="https://twitter.com/goinggodotnet">Bill Kennedy</a> from <a href="https://www.ardanlabs.com/">Ardan Labs</a> about Domain Driven Data
 Oriented Design. A recording of the talk is available at our <a href="https://www.youtube.com/@golangleipzig1131">YouTube Channel</a>.</p>
 <p><a href="https://youtu.be/zuLsdP3i8sQ"><img src="/images/meetup-40-youtube-thumb.png" alt=""></a></p>
-<p>All code showed in the talk is available at:
-<a href="https://github.com/ardanlabs/service">https://github.com/ardanlabs/service</a>.</p>
+<p>All code shown in the talk is available at:
+<a href="https://github.com/ardanlabs/service">ardanlabs/service</a>.</p>
 <p>Just a few notes from the talk:</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete">CRUD</a> is boilerplate</li>
@@ -59,7 +59,7 @@ Oriented Design. A recording of the talk is available at our <a href="https://ww
 <li>example of an opaque type from the repo is
 <a href="https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/business/core/user/role.go#L17-L20"><code>user.Role</code></a> - it could be a string, but we limit its usage by using a parse function to
 ensure validity</li>
-<li>code that reads code to generate docs: <a href="https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/app/tooling/docs/webapi/webapi.go">app/tooling/docs/webapi/webapi.go</a></li>
+<li>code that reads code to generate docs: <a href="https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/app/tooling/docs/webapi/webapi.go">webapi.go</a></li>
 </ul>
 <p>Thanks again to Bill for sharing his perspective on domain driven design and
 how it could be applied in Go.</p>
@@ -76,7 +76,7 @@ the Go AST to infer and validate a complete service topology</li>
 validate</a>
 (Haskell ahead) - how to use data structures to make illegal state
 unrepresentatable and more</li>
-<li>an <a href="https://en.wikipedia.org/wiki/Opaque_data_type">opaque time</a> type for <a href="https://github.com/golang/go/blob/ae457e811d44261801bda261731b5006d629930d/src/time/time.go#L135-L156">time</a> in the
+<li>an <a href="https://en.wikipedia.org/wiki/Opaque_data_type">opaque type</a> for <a href="https://github.com/golang/go/blob/ae457e811d44261801bda261731b5006d629930d/src/time/time.go#L135-L156">time</a> in the
 standard library helped with switching the underlying implementation with the 2017 proposal for <a href="https://go.googlesource.com/proposal/+/master/design/12914-monotonic.md"><em>Monotonic
 Elapsed Time Measurements in
 Go</em></a> - an issue that had grave effects: <a href="https://en.wikipedia.org/wiki/Leap_second#Other_reported_software_problems_associated_with_the_leap_second">Other reported software problems associated
