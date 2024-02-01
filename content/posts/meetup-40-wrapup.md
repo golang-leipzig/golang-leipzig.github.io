@@ -17,8 +17,8 @@ Oriented Design. A recording of the talk is available at our [YouTube Channel](h
 
 [![](/images/meetup-40-youtube-thumb.png)](https://youtu.be/zuLsdP3i8sQ)
 
-All code showed in the talk is available at:
-[https://github.com/ardanlabs/service](https://github.com/ardanlabs/service).
+All code shown in the talk is available at:
+[ardanlabs/service](https://github.com/ardanlabs/service).
 
 Just a few notes from the talk:
 
@@ -28,7 +28,7 @@ Just a few notes from the talk:
 * example of an opaque type from the repo is
   [`user.Role`](https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/business/core/user/role.go#L17-L20) - it could be a string, but we limit its usage by using a parse function to
 ensure validity
-* code that reads code to generate docs: [app/tooling/docs/webapi/webapi.go](https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/app/tooling/docs/webapi/webapi.go)
+* code that reads code to generate docs: [webapi.go](https://github.com/ardanlabs/service/blob/387cc15defe9c9e01ca130118c8e01ed1a164844/app/tooling/docs/webapi/webapi.go)
 
 Thanks again to Bill for sharing his perspective on domain driven design and
 how it could be applied in Go.
@@ -46,7 +46,7 @@ the Go AST to infer and validate a complete service topology
   validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 (Haskell ahead) - how to use data structures to make illegal state
 unrepresentatable and more
-* an [opaque time](https://en.wikipedia.org/wiki/Opaque_data_type) type for [time](https://github.com/golang/go/blob/ae457e811d44261801bda261731b5006d629930d/src/time/time.go#L135-L156) in the
+* an [opaque type](https://en.wikipedia.org/wiki/Opaque_data_type) for [time](https://github.com/golang/go/blob/ae457e811d44261801bda261731b5006d629930d/src/time/time.go#L135-L156) in the
   standard library helped with switching the underlying implementation with the 2017 proposal for [*Monotonic
 Elapsed Time Measurements in
 Go*](https://go.googlesource.com/proposal/+/master/design/12914-monotonic.md) - an issue that had grave effects: [Other reported software problems associated
