@@ -60,7 +60,7 @@ with the leap second](https://en.wikipedia.org/wiki/Leap_second#Other_reported_s
 
 ## [CGMR](https://en.wikipedia.org/wiki/Central_German_Metropolitan_Region) and beyond
 
-* on 2024-02-26, there will be an *Intro to Go* (golang) talk at [webmontag Halle](https://webwirtschaft.net/webmontag/), at [Mitteldeutsches Multimediazentrum Halle](https://www.mmz-halle.de/)
+* on [2024-02-26](https://www.meetup.com/webwirtschaft/events/298927799), there will be an *Intro to Go* (golang) talk by [Karl](https://karlbreuer.com/) at [webmontag Halle](https://webwirtschaft.net/webmontag/), at [Mitteldeutsches Multimediazentrum Halle](https://www.mmz-halle.de/)
 * if you are in Hannover, Germany, check out [Hannover Gophers](https://www.meetup.com/de-DE/hannover-gophers/)
 
 [![](/images/clean_475668308_30.webp)](https://www.meetup.com/de-DE/hannover-gophers/)
