@@ -36,9 +36,9 @@ share experiences, present, discuss and network.
 
 ![Depiction of a Leipzig Gopher](/leipzig-gopher.svg#half)
 
-Current organizers are [miku](https://github.com/miku/) and
-[klingtnet](https://github.com/klingtnet) and we are inviting everyone to
-participate.
+Current organizers are [miku](https://github.com/miku/),
+[klingtnet](https://github.com/klingtnet) and friends and we are inviting
+everyone to participate.
 
 {{< h2 >}}How to participate{{< /h2 >}}
 
