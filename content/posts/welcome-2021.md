@@ -20,5 +20,5 @@ all be on Tuesdays this year. We might add more dates as we go along.
 Finally, we have a new, charming, unique [Gopher-Lion](https://github.com/golang-leipzig/leipzig-gopher) mascot - thanks
 [Andreas](https://www.klingt.net/) for bringing it alive!
 
-![](/leipzig-gopher.svg#half)
+![](/leipzig-gopher.png)
 
