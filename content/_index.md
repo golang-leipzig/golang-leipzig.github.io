@@ -34,7 +34,7 @@ Our goal is to establish a place, where people from all backgrounds interested
 in the Go programming language (golang) and various cloud technologies can meet, learn,
 share experiences, present, discuss and network.
 
-![Depiction of a Leipzig Gopher](/leipzig-gopher.svg#half)
+[![Depiction of a Leipzig Gopher](/leipzig-gopher.png)](/leipzig-gopher.svg)
 
 Current organizers are [miku](https://github.com/miku/),
 [klingtnet](https://github.com/klingtnet) and friends and we are inviting
