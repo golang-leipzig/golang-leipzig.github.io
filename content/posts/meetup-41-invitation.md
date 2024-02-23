@@ -21,7 +21,7 @@ While continuous representations have been research since the
 [1980s](http://www.cs.toronto.edu/~hinton/absps/pdp3.pdf), the original
 [word2vec](https://arxiv.org/pdf/1301.3781.pdf)
 ([HN](https://news.ycombinator.com/item?id=6216044)) paper from 2013
-paved the way to contamporary industrial applications of word (and other)
+paved the way to contemporary industrial applications of word (and other)
 embeddings.
 
 This lightning talk continues to highlight tools written in Go in the "AI" domain (in
