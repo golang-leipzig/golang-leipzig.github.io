@@ -20,7 +20,7 @@ robust foundation many information retrieval systems.
 While continuous representations have been research since the
 [1980s](http://www.cs.toronto.edu/~hinton/absps/pdp3.pdf), the original
 [word2vec](https://arxiv.org/pdf/1301.3781.pdf)
-([HN6216004](https://news.ycombinator.com/item?id=6216044)) paper from 2013
+([HN](https://news.ycombinator.com/item?id=6216044)) paper from 2013
 paved the way to contamporary industrial applications of word (and other)
 embeddings.
 
@@ -29,8 +29,8 @@ This lightning talk continues to highlight tools written in Go in the "AI" domai
 
 Additionally, we'll discuss what's new in [Go 1.22](https://tip.golang.org/doc/go1.22).
 
-You can join us in person at [Basislager Leipzig](https://www.basislager.co/) (free drinks!)
-or remotely via [Google Meet](https://meet.google.com/dmu-zsyj-eqh) (BYOD)!
+You can join us in person at [Basislager Leipzig](https://www.basislager.co/) (free drinks)
+or remotely via [Google Meet](https://meet.google.com/dmu-zsyj-eqh) (BYOD).
 
 See you!
 
