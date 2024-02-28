@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-30 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
+40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
 Please visit [our meetup page](https://www.meetup.com/de-DE/leipzig-golang/)
 for information about upcoming events. Next hybrid Meetup #42 is scheduled for Tue
 2024-04-30 19:00 CET at CHECK24 Leipzig Office.

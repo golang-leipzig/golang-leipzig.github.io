@@ -11,15 +11,16 @@ tags:
 
 Hybrid Meetup #41 took place
 [2024-02-27](https://www.meetup.com/leipzig-golang/events/298066352) at
-[Basislager Leipzig](https://www.basislager.co/). We looked at some updates in
+[Basislager Leipzig](https://www.basislager.co/). We reviewed some updates in
 [Go 1.22](https://golang.org/doc/go1.22), especially the sharing bug fix in
 for [loops](https://go.dev/wiki/LoopvarExperiment) and the enhanced routing pattern.
 
-## Go tools for LLM
+## Go tools for [genai](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) models
 
 There is no shortage of tooling and applications for LLM and generative AI in
 general, and increasingly, these tools abstract the model access away to you
-can use remote or local models with the same code.
+can use remote or local models with the same code (and easily switch between
+different providers).
 
 We also briefly looked at [lingoose](https://lingoose.io/), a lightweight LLM
 framework, which offers some wrappers around common tasks for generative AI
