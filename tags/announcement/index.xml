@@ -6,7 +6,20 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 22:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #42 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-42-invitation/</link>
+      <pubDate>Thu, 14 Mar 2024 22:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-42-invitation/</guid>
+      <description>Hello, 世界!
+For meetup #42 on Tuesday Apr 30, 2024 19:00 CET we&amp;rsquo;re excited to again collaborate with CHECK24, which will host this meetup at their Leipzig office, located at Tröndlinring 3, 04105 Leipzig. CHECK24 has a diverse tech stack that includes a growing number of Go projects.
+We will have a presentation about SIMD and Go, by Patrick Vahl (CHECK24).
+We&amp;rsquo;ll meet:
+ in person at CHECK24 Leipzig Office, Tröndlinring 3, 04105 Leipzig &amp;ndash; directions provided at the entrance and online via Google Meet  Join us for an evening dive into high performance computing.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #41 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-41-invitation/</link>
