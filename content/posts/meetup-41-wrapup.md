@@ -61,4 +61,4 @@ COBOL? offer multiple alternatives*)
 ### Image Credit
 
 Stable Diffusion v1.5 pruned, emaonly; prompt: *a data center, many computers,
-located inside a jungle, where cables and branches interweave, style: polaroid*
+located inside a jungle, where cables and branches interweave, style: polaroid* (estimated generation cost: EUR 0.05).
