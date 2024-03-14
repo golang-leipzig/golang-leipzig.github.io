@@ -6,7 +6,17 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #41 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-41-wrapup/</link>
+      <pubDate>Fri, 01 Mar 2024 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-41-wrapup/</guid>
+      <description>Go 1.22 and more Hybrid Meetup #41 took place 2024-02-27 at Basislager Leipzig. We reviewed some updates in Go 1.22, especially the sharing bug fix in for loops and the enhanced routing pattern.
+Go tools for genai models There is no shortage of tooling and applications for LLM and generative AI in general, and increasingly, these tools abstract the model access away to you can use remote or local models with the same code (and easily switch between different providers).</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #40 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-40-wrapup/</link>
