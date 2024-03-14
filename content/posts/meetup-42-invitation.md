@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #42 invitation"
 date: 2024-03-14T22:00:00+01:00
-draft: true
+draft: false
 tags:
 - announcement
 - meetup
