@@ -49,7 +49,6 @@ years).
 
 ![](/images/41-comp-jungle.png)
 
-
 ## Joke
 
 COBOL is still used, and still may be in the future. Maybe someone can write a
@@ -58,3 +57,8 @@ suggested by
 [gemma](https://huggingface.co/docs/transformers/en/model_doc/gemma) 2B (91bff873f359), when
 prompted *how would you name a software project that translates Go (golang) to
 COBOL? offer multiple alternatives*)
+
+### Image Credit
+
+Stable Diffusion v1.5 pruned, emaonly; prompt: *a data center, many computers,
+located inside a jungle, where cables and branches interweave, style: polaroid*
