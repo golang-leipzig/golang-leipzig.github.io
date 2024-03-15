@@ -30,8 +30,6 @@ See you!
 
 PS: Free drinks and 🍕!
 
-----
-
 <!--
 
 TODO: outreach.
