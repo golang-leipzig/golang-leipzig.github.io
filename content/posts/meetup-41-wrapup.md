@@ -36,12 +36,12 @@ generated material will dwarf everything that existed up to that point.
 ## Misc
 
 * we wondered about some performance implications regarding ARM servers (which
-  are becoming available on various cloud providers(cf. EUR 0.0070/h CAX11 instance at
+  are becoming available on various cloud providers (e.g. EUR 0.0070/h CAX11 instance at
 [Hetzner](https://www.hetzner.com/cloud/)) - anecdata has it that you can run a
-complete web app stack and get 100-200 requests/s out of a 32-bit 2011 [ARM
+complete Go web app stack and get 100-200 requests/s out of a 32-bit 2011 [ARM
 Cortex A7](https://de.wikipedia.org/wiki/Arm_Cortex-A#Arm_Cortex-A7) (inside a
-[Cubietruck](https://en.wikipedia.org/wiki/Cubieboard#Cubietruck_(Cubieboard3))), consuming about 2W (cf. [The Progress of the Energy-Efficiency
-of Single-board Computers](https://www.netsys.ovgu.de/netsys_media/publications/NetSys_TR_2018_01.pdf)), total
+[Cubietruck](https://en.wikipedia.org/wiki/Cubieboard#Cubietruck_(Cubieboard3))), consuming about 2W total - cf. [The Progress of the Energy-Efficiency
+of Single-board Computers](https://www.netsys.ovgu.de/netsys_media/publications/NetSys_TR_2018_01.pdf)
 * there are also tools to [reclaim your
   cloud](https://www.zimaboard.com/blade/)! Specifically, the zimablade runs a
 low power 4-core [CPU](https://ark.intel.com/content/www/us/en/ark/products/95594/intel-celeron-processor-j3455-2m-cache-up-to-2-3-ghz.html) and can be equipped with 16GB RAM, plus two SATA drives
