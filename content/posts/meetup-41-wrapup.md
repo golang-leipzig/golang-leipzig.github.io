@@ -48,7 +48,7 @@ low power 4-core [CPU](https://ark.intel.com/content/www/us/en/ark/products/9559
 (back-of-the-envelope costs breakdown would be $128 (SBC), $15 for one 128GB
 SATA SSD, a total of $158 or EUR 145 or 20714h of the cheapest (and weaker)
 cloud instance; excluding positions like maintenance, bandwidth and energy, the
-amorization period of on-prem hardware is somewhere between six month and three
+amorization period of on-prem hardware is somewhere between six months and three
 years).
 
 ![](/images/41-comp-jungle.png)
