@@ -15,7 +15,7 @@ collaborate with [CHECK24](https://www.check24.de/), which will host this
 meetup at their Leipzig office, located at [Tröndlinring 3, 04105
 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6). CHECK24 has a diverse tech stack that includes a growing number of Go projects.
 
-We will have a presentation about SIMD and Go, by Patrick Vahl (CHECK24).
+We will have a presentation about [SIMD](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html) and [Go](https://github.com/alivanz/go-simd), by Patrick Vahl (CHECK24).
 
 We'll meet:
 
