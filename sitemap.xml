@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://golangleipzig.space/posts/faster-go-xml-processing/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/go/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/performance/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/xml/</loc>
+    <lastmod>2024-03-26T12:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://golangleipzig.space/tags/announcement/</loc>
     <lastmod>2024-03-14T22:00:00+01:00</lastmod>
   </url>
@@ -13,22 +48,7 @@
   </url>
   
   <url>
-    <loc>https://golangleipzig.space/</loc>
-    <lastmod>2024-03-14T22:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golangleipzig.space/tags/meetup/</loc>
-    <lastmod>2024-03-14T22:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/posts/</loc>
-    <lastmod>2024-03-14T22:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/</loc>
     <lastmod>2024-03-14T22:00:00+01:00</lastmod>
   </url>
   
@@ -104,11 +124,6 @@
   
   <url>
     <loc>https://golangleipzig.space/tags/conference/</loc>
-    <lastmod>2023-10-06T00:20:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/go/</loc>
     <lastmod>2023-10-06T00:20:00+01:00</lastmod>
   </url>
   

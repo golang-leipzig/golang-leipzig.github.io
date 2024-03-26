@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2024 22:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 12:00:01 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faster XML processing with Go</title>
+      <link>https://golangleipzig.space/posts/faster-go-xml-processing/</link>
+      <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/faster-go-xml-processing/</guid>
+      <description>Prelude Go supports XML processing in the standard library package xml. The Marshal and Unmarshal function will use a Encoder and Decoder under the hood, as these are more general.
+With a Decoder it is possible to iterate over a large number of XML elements and to deserialize data in a way that will limit memory consumption. Here is a playground example for using a decoder to repeatedly parse elements from a Reader: efY60PYLFm8.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #42 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-42-invitation/</link>
