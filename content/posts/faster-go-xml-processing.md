@@ -99,8 +99,7 @@ showing further, potential performance improvements).
 ## Anecdata, millions of XML documents
 
 Here is a rough summary of a test run of this approach (using a
-contemporary
-[i9-13900T](https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html))
+contemporary [CPU](https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html))
 on a dataset consisting of 327GB XML in about 36M documents (36557510) &mdash; that
 is the set of publicly available metadata from
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/) (the target [struct](https://github.com/miku/parallel/blob/27272f36538b21baa3256ec2e9487cca73d20628/examples/xmlstream/main.go#L75-L318) requires a few hundred lines). The test ran in 03/2024. The
