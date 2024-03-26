@@ -96,7 +96,7 @@ showing further, potential performance improvements).
 
 ## Anecdata, millions of XML documents
 
-As a first approximation, let's summarize a test run of this approach (using a
+Here is a rough summary of a test run of this approach (using a
 contemporary
 [i9-13900T](https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html))
 on a dataset consisting of 327GB XML in about 36M documents (36557510) &mdash; that
