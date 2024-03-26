@@ -1,6 +1,6 @@
 ---
 title: "Faster XML processing with Go"
-date: 2024-03-22T22:00:01+01:00
+date: 2024-03-26T12:00:01+01:00
 draft: true
 tags:
 - go
