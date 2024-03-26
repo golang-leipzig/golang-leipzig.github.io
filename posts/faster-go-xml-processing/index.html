@@ -75,7 +75,7 @@ the features of <a href="https://datatracker.ietf.org/doc/html/rfc8259">RFC 8259
 <p>A format like jsonlines then makes it easy to parallelize JSON transformation
 tasks with a <a href="https://go.dev/blog/pipelines#fan-out-fan-in">fan-out, fan-in</a>
 pattern: Read N lines, pass batch to goroutine, collect results and write them
-out. A tool like <a href="">miku/parallel</a> allows to abstract away some of the parallel
+out. A tool like <a href="https://github.com/miku/parallel">miku/parallel</a> (<a href="https://gist.github.com/miku/738f361c8156264626c74f9b717927ff#fast-parallel-filters-in-go">&ldquo;fast filter&rdquo;</a>) allows to abstract away some of the parallel
 processing boilerplate (example of <a href="https://github.com/miku/parallel/blob/27272f36538b21baa3256ec2e9487cca73d20628/examples/extract/extract.go#L1-L59">extracting a value from
 jsonlines</a>,
 twice as fast as jq).</p>
@@ -115,7 +115,7 @@ including a cpu <a href="https://raw.githubusercontent.com/miku/parallel/master/
 viz</a>
 showing further, potential performance improvements).</p>
 <h2 id="anecdata-millions-of-xml-documents">Anecdata, millions of XML documents</h2>
-<p>Here is a rough summary of a test run of this approach (using a
+<p>Here is a rough summarize a test run of this approach (using a
 contemporary
 <a href="https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html">i9-13900T</a>)
 on a dataset consisting of 327GB XML in about 36M documents (36557510) — that
