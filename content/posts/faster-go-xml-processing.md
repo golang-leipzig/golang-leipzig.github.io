@@ -61,9 +61,9 @@ have to isolate the elements we are interested in, and batch hand
 them over to a processing thread. There is already a suitable type in the
 standard library to split streams into tokens.
 
-## A scanner quickly
+## A Scanner quickly
 
-The [bufio.Scanner](https://pkg.go.dev/bufio#Scanner) is a great example of
+The [bufio.Scanner](https://pkg.go.dev/bufio#Scanner) is a great example of a
 type using a first class function to allow focussed customizations (another
 example would be [customization of http.Transport
 Proxy](https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md#customizing-httptransport-proxy)).
