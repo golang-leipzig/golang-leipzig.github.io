@@ -104,7 +104,7 @@ contemporary
 on a dataset consisting of 327GB XML in about 36M documents (36557510) &mdash; that
 is the set of publicly available metadata from
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/) (the target [struct](https://github.com/miku/parallel/blob/27272f36538b21baa3256ec2e9487cca73d20628/examples/xmlstream/main.go#L75-L318) requires a few hundred lines). The test ran in 03/2024. The
-sequential approach took **177 minutes**, the parallel approach brings this down to
+sequential approach takes **177 minutes**, the parallel approach brings this down to
 about **20 minutes**, an about 9x improvement ⚡ in throughput.
 
 To put this into perspective, you can take a [metadata
