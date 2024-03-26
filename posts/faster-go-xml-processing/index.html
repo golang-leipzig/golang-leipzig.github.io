@@ -86,8 +86,8 @@ parallelize it, but instead of relying on a newline for delimiting records, we
 have to isolate the elements we are interested in, and batch hand
 them over to a processing thread. There is already a suitable type in the
 standard library to split streams into tokens.</p>
-<h2 id="a-scanner-quickly">A scanner quickly</h2>
-<p>The <a href="https://pkg.go.dev/bufio#Scanner">bufio.Scanner</a> is a great example of
+<h2 id="a-scanner-quickly">A Scanner quickly</h2>
+<p>The <a href="https://pkg.go.dev/bufio#Scanner">bufio.Scanner</a> is a great example of a
 type using a first class function to allow focussed customizations (another
 example would be <a href="https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md#customizing-httptransport-proxy">customization of http.Transport
 Proxy</a>).
