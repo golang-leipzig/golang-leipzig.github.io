@@ -122,9 +122,9 @@ contemporary
 <a href="https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html">i9-13900T</a>)
 on a dataset consisting of 327GB XML in about 36M documents (36557510) — that
 is the set of publicly available metadata from
-<a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>. The test ran in 03/2024. The
-sequential approach took 177 minutes, the parallel approach brings this down to
-about 20 minutes, an about 9x improvement ⚡ in throughput.</p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a> (the target <a href="https://github.com/miku/parallel/blob/27272f36538b21baa3256ec2e9487cca73d20628/examples/xmlstream/main.go#L75-L318">struct</a> requires a few hundred lines). The test ran in 03/2024. The
+sequential approach took <strong>177 minutes</strong>, the parallel approach brings this down to
+about <strong>20 minutes</strong>, an about 9x improvement ⚡ in throughput.</p>
 <p>To put this into perspective, you can take a <a href="https://academia.stackexchange.com/questions/38969/getting-a-dump-of-arxiv-metadata">metadata
 dump</a>
 of the <a href="https://info.arxiv.org/help/stats/2021_by_area/index.html">popular</a> <a href="https://arxiv.org/">Arxiv</a> preprint server site (hosting about 2.4
