@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Faster XML processing with Go | Leipzig Gophers</title>
+    <title>Faster XML processing in Go | Leipzig Gophers</title>
 
     <style>body{margin:1em auto;padding:1em;color:#2f2d2e;max-width:45em;line-height:1.6;font-family:Georgia,serif;font-size:1.2em}h1{border-bottom:2pt solid #2f2d2e}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 .4em;display:inline-block}div.footer{border-top:1pt solid;text-align:center;padding:1em}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}@media(min-width:45em){div.tags{float:right}}img[src*="#half"]{width:50%}a{text-decoration:none;color:#35a7ff;border-bottom:2pt solid #fff}a:visited{color:#ff5964}a:hover{border-bottom:2pt solid #ff5964;transition:all 333ms ease-in}a.tag{padding:.1em .4em;background:#2f2d2e;color:#fff;text-decoration:none;border-radius:5pt}a.anchor{padding-right:.3em}blockquote{color:#838383}</style>
 
@@ -30,8 +30,8 @@
 <div id="content">
 
 <header>
-    <h1 id="#faster-xml-processing-with-go">
-        <a class="anchor" href="#faster-xml-processing-with-go">🔗</a>Faster XML processing with Go</h1>
+    <h1 id="#faster-xml-processing-in-go">
+        <a class="anchor" href="#faster-xml-processing-in-go">🔗</a>Faster XML processing in Go</h1>
     
 
 <div class="post-meta"><time datetime="2024-03-26">Mar 26, 2024</time><div class="tags">
@@ -51,8 +51,8 @@ function will use a <a href="https://pkg.go.dev/encoding/xml#Encoder">Encoder</a
 elements and to deserialize data in a way that will limit memory consumption.
 Here is a playground example for using a decoder to repeatedly parse elements
 from a <a href="https://pkg.go.dev/io#Reader">Reader</a>: <a href="https://go.dev/play/p/efY60PYLFm8">efY60PYLFm8</a>.</p>
-<p>One limitation of this approach is that you are restricted to parsing top-level
-elements. This limitation is circumvented by utilities like
+<p>One limitation of this approach is that you can only parse top-level elements.
+This restriction is circumvented by utilities like
 <a href="https://github.com/miku/xmlstream">xmlstream</a>, which allow to parse a number
 of different elements from any level in the XML document in a streaming
 fashion.</p>
@@ -61,18 +61,18 @@ fashion.</p>
 parsing XML can be slow (you can also try to use <a href="https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/">libxml with
 CGO</a> to
 make it faster). After all, XML is a markup language, it can do things JSON
-cannot do (cf. <a href="https://tei-c.org/">TEI</a>). Interestingly, many use cases of XML
-in the wild can be covered by JSON just as well — and as a result, we
-<a href="https://trends.google.com/trends/explore?date=all&amp;q=xml,json&amp;hl=en-GB">can observe</a>
+cannot do (like <a href="https://tei-c.org/">TEI</a>). Surprisingly, many read world uses
+of XML can be covered by JSON just as well. As a result, we <a href="https://trends.google.com/trends/explore?date=all&amp;q=xml,json&amp;hl=en-GB">can
+observe</a>
 a decline in XML usage and a de-facto standard choice of JSON for lots of data
 exchange tasks and implementations (according to google trends, the term <em>JSON</em>
 surpassed <em>XML</em> in January 2016).</p>
 <p>As data work often involves an ad-hoc data scouting step (with tools like
-<a href="https://stedolan.github.io/jq/">jq</a>), some variants of JSON gained popularity,
-like <a href="https://jsonlines.org/">jsonlines</a> (also called <a href="https://en.wikipedia.org/wiki/JSON_streaming">JSON
-streaming</a> or newline-delimited
-JSON). You can continue to use many UNIX text
-<a href="https://developer.ibm.com/articles/au-unixtext/">utils</a>, while enjoying all
+<a href="https://stedolan.github.io/jq/">jq</a>, or
+<a href="https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/">duckdb</a>), some variants
+of JSON gained popularity, like <a href="https://jsonlines.org/">jsonlines</a> (also
+called <a href="https://en.wikipedia.org/wiki/JSON_streaming">JSON streaming</a> or
+newline-delimited JSON). You can continue to use many UNIX text utils, while enjoying all
 the features of <a href="https://datatracker.ietf.org/doc/html/rfc8259">RFC 8259</a>.</p>
 <p>A format like jsonlines then makes it easy to parallelize JSON transformation
 tasks with a <a href="https://go.dev/blog/pipelines#fan-out-fan-in">fan-out, fan-in</a>
@@ -82,26 +82,23 @@ processing boilerplate (example of <a href="https://github.com/miku/parallel/blo
 jsonlines</a>,
 twice as fast as jq).</p>
 <h2 id="no-lines-for-xml">No lines for XML</h2>
-<p>With XML, no line oriented representation could establish itself. How can we
+<p>XML does not have a common, line oriented representation. How can we
 still process XML faster than iterating through it sequentially? We have to
 parallelize it, but instead of relying on a newline for delimiting records, we
 have to isolate the elements we are interested in, and batch hand
-them over to a processing thread. There is already a suitable type in the
-standard library to split streams into tokens.</p>
+them over to processing threads. There is already a suitable type in the
+standard library to split a stream into tokens.</p>
 <h2 id="a-scanner-quickly">A Scanner quickly</h2>
-<p>The <a href="https://pkg.go.dev/bufio#Scanner">bufio.Scanner</a> is a great example of a
-type using a first class function to allow focussed customizations (another
-example would be <a href="https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md#customizing-httptransport-proxy">customization of http.Transport
-Proxy</a>).
-We can implement a custom <a href="https://pkg.go.dev/bufio#SplitFunc">SplitFunc</a> that
-would split a stream on XML tags.</p>
+<p>The <a href="https://pkg.go.dev/bufio#Scanner">bufio.Scanner</a> shows the utility of first class functions for customizing type behaviour (another
+example is <a href="https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md#customizing-httptransport-proxy">Proxy in http.Transport</a>).
+We can implement a custom <a href="https://pkg.go.dev/bufio#SplitFunc">SplitFunc</a> that would split a stream on XML tags.</p>
 <p>Since we only want the element boundaries, parsing the input stream is much
 faster, as all we need to do is to find the
 <a href="https://pkg.go.dev/bytes#Index">Index</a> of the start and end tags in the
 stream. Following the optimization by batching, we can collect N elements or
 put a (soft) limit on the number of bytes in a batch and then pass a chunk of
-valid XML to a processing function, that then can run in parallel and can do
-the heavy lifting of actually parsing the XML.</p>
+valid XML to a processing function, which then can run in parallel and do the
+heavy lifting of proper XML parsing.</p>
 <h2 id="splitting-on-tags">Splitting on tags</h2>
 <p>We implemented
 <a href="https://github.com/miku/parallel/blob/27272f36538b21baa3256ec2e9487cca73d20628/record/split.go#L29-L56">TagSplitter</a>
@@ -123,12 +120,13 @@ on a dataset consisting of 327GB XML in about 36M documents (36557510) — that
 is the set of publicly available metadata from
 <a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a> (the target <a href="https://github.com/miku/parallel/blob/27272f36538b21baa3256ec2e9487cca73d20628/examples/xmlstream/main.go#L75-L318">struct</a> requires a few hundred lines). The test ran in 03/2024. The
 sequential approach takes <strong>177 minutes</strong>, the parallel approach brings this down to
-about <strong>20 minutes</strong>, an about 9x improvement ⚡ in throughput.</p>
+about <strong>20 minutes</strong>, a 9x improvement ⚡ in throughput.</p>
 <p>To put this into perspective, you can take a <a href="https://academia.stackexchange.com/questions/38969/getting-a-dump-of-arxiv-metadata">metadata
 dump</a>
-of the <a href="https://info.arxiv.org/help/stats/2021_by_area/index.html">popular</a> <a href="https://arxiv.org/">Arxiv</a> preprint server site (hosting about 2.4
-million scholarly articles) and parse all of its XML, which amounts to about
-5GB, in about 8s. This makes XML processing more convenient - and fun, again.</p>
+of the <a href="https://info.arxiv.org/help/stats/2021_by_area/index.html">popular</a>
+<a href="https://arxiv.org/">Arxiv</a> preprint server site (hosting about 2.4 million
+scholarly articles) and parse all of its XML, which amounts to more than 5GB,
+in about 8s. This makes XML processing more convenient - and fun, again.</p>
 
 </article>
 
