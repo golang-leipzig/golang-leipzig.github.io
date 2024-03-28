@@ -28,14 +28,13 @@ fashion.
 ## Performance
 
 XML decoding is slow, less because Go is slow (it usually is not), but because
-parsing XML can be slow (you can also try to use [libxml with
+parsing it can be slow (you can also try to use [libxml with
 CGO](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/) to
 make it faster). After all, XML is a markup language, it can do things JSON
 cannot do (like [TEI](https://tei-c.org/)). Surprisingly, many read world uses
-of XML can be covered by JSON just as well. As a result, we [can
-observe](https://trends.google.com/trends/explore?date=all&q=xml,json&hl=en-GB)
+of XML can be covered by JSON just as well. As a result, w can observe
 a decline in XML usage and a de-facto standard choice of JSON for lots of data
-exchange tasks and implementations (according to google trends, the term *JSON*
+exchange tasks and implementations (according to [google trends](https://trends.google.com/trends/explore?date=all&q=xml,json&hl=en-GB), the term *JSON*
 surpassed *XML* in January 2016).
 
 As data work often involves an ad-hoc data scouting step (with tools like
