@@ -13,7 +13,7 @@
       <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/faster-go-xml-processing/</guid>
-      <description>Prelude Go supports XML processing in the standard library package xml. The Marshal and Unmarshal function will use a Encoder and Decoder under the hood, as these are more general.
+      <description>Prelude Go supports XML processing in the standard library package encoding/xml. The Marshal and Unmarshal function will use a Encoder and Decoder under the hood, as these are more general.
 With a Decoder it is possible to iterate over a large number of XML elements and to deserialize data in a way that will limit memory consumption. Here is a playground example for using a decoder to repeatedly parse elements from a Reader: efY60PYLFm8.</description>
     </item>
     

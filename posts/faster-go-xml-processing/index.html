@@ -45,7 +45,7 @@
 <article>
     <h2 id="prelude">Prelude</h2>
 <p>Go supports XML processing in the standard library package
-<a href="https://pkg.go.dev/encoding/xml">xml</a>. The <a href="https://pkg.go.dev/encoding/xml#Marshal">Marshal</a> and <a href="https://pkg.go.dev/encoding/xml#Unmarshal">Unmarshal</a>
+<a href="https://pkg.go.dev/encoding/xml">encoding/xml</a>. The <a href="https://pkg.go.dev/encoding/xml#Marshal">Marshal</a> and <a href="https://pkg.go.dev/encoding/xml#Unmarshal">Unmarshal</a>
 function will use a <a href="https://pkg.go.dev/encoding/xml#Encoder">Encoder</a> and <a href="https://pkg.go.dev/encoding/xml#Decoder">Decoder</a> under the hood, as these are more general.</p>
 <p>With a <a href="https://pkg.go.dev/encoding/xml#Decoder">Decoder</a> it is possible to iterate over a large number of XML
 elements and to deserialize data in a way that will limit memory consumption.
@@ -53,7 +53,7 @@ Here is a playground example for using a decoder to repeatedly parse elements
 from a <a href="https://pkg.go.dev/io#Reader">Reader</a>: <a href="https://go.dev/play/p/efY60PYLFm8">efY60PYLFm8</a>.</p>
 <p>One limitation of this approach is that you can only parse top-level elements.
 This restriction is circumvented by utilities like
-<a href="https://github.com/miku/xmlstream">xmlstream</a>, which allow to parse a number
+<a href="https://github.com/tamerh/xml-stream-parser">xml-stream-parser</a> or <a href="https://github.com/miku/xmlstream">xmlstream</a>, which allow to parse a number
 of different elements from any level in the XML document in a streaming
 fashion.</p>
 <h2 id="performance">Performance</h2>
@@ -62,7 +62,7 @@ parsing it can be slow (you can also try to use <a href="https://eli.thegreenpla
 CGO</a> to
 make it faster). After all, XML is a markup language, it can do things JSON
 cannot do (like <a href="https://tei-c.org/">TEI</a>). Surprisingly, many real world uses
-of XML can be covered by JSON just as well. As a result, w can observe
+of XML can be covered by JSON just as well. As a result, we can observe
 a decline in XML usage and a de-facto standard choice of JSON for lots of data
 exchange tasks and implementations (according to <a href="https://trends.google.com/trends/explore?date=all&amp;q=xml,json&amp;hl=en-GB">google trends</a>, the term <em>JSON</em>
 surpassed <em>XML</em> in January 2016).</p>
@@ -126,6 +126,12 @@ of the <a href="https://info.arxiv.org/help/stats/2021_by_area/index.html">popul
 <a href="https://arxiv.org/">Arxiv</a> preprint server site (hosting about 2.4 million
 scholarly articles) and parse all of its XML, which amounts to more than 5GB,
 in about 8s. This makes XML processing more convenient - and fun, again.</p>
+<h2 id="ps">PS</h2>
+<p>The <a href="https://pkg.go.dev/encoding/xml">encoding/xml</a> is not without issue, regarding performance:</p>
+<ul>
+<li><a href="https://github.com/golang/go/issues/21823">encoding/xml: very low performance in xml parser · #21823</a></li>
+<li><a href="https://github.com/Goodwine/go-xml?tab=readme-ov-file#notes-on-encodingxml">Go XML parsing library alternative</a></li>
+</ul>
 
 </article>
 
