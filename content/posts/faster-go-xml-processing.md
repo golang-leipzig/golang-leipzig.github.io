@@ -111,7 +111,7 @@ in about 8s. This makes XML processing more convenient - and fun, again.
 
 ## PS
 
-The [encoding/xml](https://pkg.go.dev/encoding/xml) is not without issue, regarding performance:
+Package [encoding/xml](https://pkg.go.dev/encoding/xml) is not without issues, regarding performance:
 
 * [encoding/xml: very low performance in xml parser · #21823](https://github.com/golang/go/issues/21823)
 * [Go XML parsing library alternative](https://github.com/Goodwine/go-xml?tab=readme-ov-file#notes-on-encodingxml)
