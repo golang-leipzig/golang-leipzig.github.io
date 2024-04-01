@@ -11,7 +11,7 @@ tags:
 ## Prelude
 
 Go supports XML processing in the standard library package
-[xml](https://pkg.go.dev/encoding/xml). The [Marshal](https://pkg.go.dev/encoding/xml#Marshal) and [Unmarshal](https://pkg.go.dev/encoding/xml#Unmarshal)
+[encoding/xml](https://pkg.go.dev/encoding/xml). The [Marshal](https://pkg.go.dev/encoding/xml#Marshal) and [Unmarshal](https://pkg.go.dev/encoding/xml#Unmarshal)
 function will use a [Encoder](https://pkg.go.dev/encoding/xml#Encoder) and [Decoder](https://pkg.go.dev/encoding/xml#Decoder) under the hood, as these are more general.
 
 With a [Decoder](https://pkg.go.dev/encoding/xml#Decoder) it is possible to iterate over a large number of XML
@@ -21,7 +21,7 @@ from a [Reader](https://pkg.go.dev/io#Reader): [efY60PYLFm8](https://go.dev/play
 
 One limitation of this approach is that you can only parse top-level elements.
 This restriction is circumvented by utilities like
-[xmlstream](https://github.com/miku/xmlstream), which allow to parse a number
+[xml-stream-parser](https://github.com/tamerh/xml-stream-parser) or [xmlstream](https://github.com/miku/xmlstream), which allow to parse a number
 of different elements from any level in the XML document in a streaming
 fashion.
 
@@ -32,7 +32,7 @@ parsing it can be slow (you can also try to use [libxml with
 CGO](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/) to
 make it faster). After all, XML is a markup language, it can do things JSON
 cannot do (like [TEI](https://tei-c.org/)). Surprisingly, many real world uses
-of XML can be covered by JSON just as well. As a result, w can observe
+of XML can be covered by JSON just as well. As a result, we can observe
 a decline in XML usage and a de-facto standard choice of JSON for lots of data
 exchange tasks and implementations (according to [google trends](https://trends.google.com/trends/explore?date=all&q=xml,json&hl=en-GB), the term *JSON*
 surpassed *XML* in January 2016).
@@ -108,4 +108,11 @@ of the [popular](https://info.arxiv.org/help/stats/2021_by_area/index.html)
 [Arxiv](https://arxiv.org/) preprint server site (hosting about 2.4 million
 scholarly articles) and parse all of its XML, which amounts to more than 5GB,
 in about 8s. This makes XML processing more convenient - and fun, again.
+
+## PS
+
+The [encoding/xml](https://pkg.go.dev/encoding/xml) is not without issue, regarding performance:
+
+* [encoding/xml: very low performance in xml parser · #21823](https://github.com/golang/go/issues/21823)
+* [Go XML parsing library alternative](https://github.com/Goodwine/go-xml?tab=readme-ov-file#notes-on-encodingxml)
 
