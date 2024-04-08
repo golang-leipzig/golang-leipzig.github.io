@@ -28,7 +28,7 @@ fashion.
 ## Performance
 
 XML decoding is slow, less because Go is slow (it usually is not), but because
-parsing it can be slow (you can also try to use [libxml with
+parsing it can be expensive (you can also try to use [libxml with
 CGO](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/) to
 make it faster). After all, XML is a markup language, it can do things JSON
 cannot do (like [TEI](https://tei-c.org/)). Surprisingly, many real world uses
