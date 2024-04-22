@@ -15,9 +15,10 @@ collaborate with [CHECK24](https://www.check24.de/), which will host this
 meetup at their Leipzig office, located at [Tröndlinring 3, 04105
 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6). CHECK24 has a diverse tech stack that includes a growing number of Go projects.
 
-We will have a presentation about
+We will have two presentations: one about
 [SIMD](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
-and [Go](https://github.com/alivanz/go-simd), by Patrick Vahl.
+and [Go](https://github.com/alivanz/go-simd), by Patrick Vahl and one about the
+1BRC ([1 Billion Row Challange](https://1brc.dev/)) and Go performance tips by [Martin Czygan](https://www.linkedin.com/in/martin-czygan-58348842/).
 
 We'll meet:
 
