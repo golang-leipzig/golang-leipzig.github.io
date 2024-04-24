@@ -55,12 +55,14 @@ twice as fast as jq).
 
 ## No lines for XML
 
-XML does not have a common, line oriented representation. How can we
-still process XML faster than iterating through it sequentially? We have to
-parallelize it, but instead of relying on a newline for delimiting records, we
-have to isolate the elements we are interested in, and batch hand
-them over to processing threads. There is already a suitable type in the
-standard library to split a stream into tokens.
+XML does not have a widely used, line oriented representation (there is
+[PYX](https://gnosis.cx/publish/programming/xml_matters_17.html), an [early
+attempt](https://www.oreilly.com/library/view/learning-xml-2nd/0596004206/ch10s07.html)
+at XML streaming). How can we still process XML faster than iterating through
+it sequentially? We have to parallelize it, but instead of relying on a newline
+for delimiting records, we have to isolate the elements we are interested in,
+and batch hand them over to processing threads. There is already a suitable
+type in the standard library to split a stream into tokens.
 
 ## A Scanner quickly
 
