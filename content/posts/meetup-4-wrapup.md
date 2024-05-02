@@ -94,5 +94,5 @@ One initiative for Go is [gof.rs](http://web.archive.org/web/20230610074335/http
 * Key-value store abstraction layer: [gokv](https://github.com/philippgille/gokv)
 * [HTTP 402](https://httpstatuses.com/402)
 * [The zero value](https://golang.org/ref/spec#The_zero_value)
-* [The Gofrs](https://gof.rs)
+* [The Gofrs](http://web.archive.org/web/20230610074335/https://gof.rs/)
 
