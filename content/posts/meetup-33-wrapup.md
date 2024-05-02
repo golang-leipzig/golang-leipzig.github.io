@@ -134,12 +134,12 @@ languages](https://en.wikipedia.org/wiki/Types_and_Programming_Languages)
 
 * [pip-tools](https://github.com/jazzband/pip-tools) is a small tool for pinning dependencies and predictable builds
 * Python in 2022 with [gradual typing](https://en.wikipedia.org/wiki/Gradual_typing) feels like a static language now - a long way since [Static Typing Where Possible, Dynamic Typing When Needed:
-The End of the Cold War Between Programming Languages](http://web.archive.org/web/20060111181527/http://pico.vub.ac.be/~wdmeuter/RDL04/papers/Meijer.pdf) (discussed at the time by [LtU](http://lambda-the-ultimate.org/node/834))
+The End of the Cold War Between Programming Languages](http://web.archive.org/web/20060111181527/http://pico.vub.ac.be/~wdmeuter/RDL04/papers/Meijer.pdf) (discussed at the time by [LtU](http://web.archive.org/web/20240112074349/lambda-the-ultimate.org/node/834))
 
 ## API Design
 
 * [Expanding objects](https://stripe.com/docs/api/expanding_objects) - another example in the wild: [fatcat API](https://api.fatcat.wiki/v0/release/qaa7ysrn5rfbnkjec7rtrkcao4?expand=files) (*List of sub-entities to expand in response. For releases, 'files', 'filesets, 'webcaptures', 'container', and 'creators' are valid.*)
-* [Idempotency tool for AWS lambda](https://awslabs.github.io/aws-lambda-powertools-python/2.4.0/utilities/idempotency/)
+* [Idempotency tool for AWS lambda](https://docs.powertools.aws.dev/lambda/python/2.4.0/utilities/idempotency/)
 
 Related, from [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) (a book we gave away in [#30](https://golangleipzig.space/posts/meetup-30-wrapup/), courtesy of [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592)), page 168:
 
@@ -151,7 +151,7 @@ Garage, famously said that *if cloud native has to be a synonym for anything, it
 
 ## Cloud
 
-* [Running kubernetes with rootless podman on WSL2](https://www.salilmishra.ml/posts/k8s-podman-wsl2/)
+* [Running kubernetes with rootless podman on WSL2](http://web.archive.org/web/20230207204652/https://www.salilmishra.ml/posts/k8s-podman-wsl2/)
 
 > Running Kubernetes with rootless podman is documented on both kind and
 > minikube but to get it up and running on [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) requires some additional tweaks
