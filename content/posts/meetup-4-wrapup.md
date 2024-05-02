@@ -27,7 +27,7 @@ Middleware
 [implementations](https://github.com/philippgille/ln-paywall/tree/master/examples/ping)
 are available for [echo](https://echo.labstack.com/),
 [gin](https://github.com/gin-gonic/gin) and other frameworks.  You can
-experiment on testnet and with a [test wallet](https://htlc.me/) or build you own
+experiment on testnet and with a [test wallet](http://web.archive.org/web/20240311221624/https://htlc.me/) or build you own
 private chain, although this a bit more involved.
 
 [Philipp](https://github.com/philippgille) also wrote
@@ -74,7 +74,7 @@ great open source tools (e.g.
 [Fatih Arslan](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)) take sabbaticals,
 others projects may go unmaintained.
 
-One initiative for Go is [gof.rs](https://gof.rs/):
+One initiative for Go is [gof.rs](http://web.archive.org/web/20230610074335/https://gof.rs/):
 
 > The Gofrs (pronounced Gophers) is a community-formed group working together
 > to better the entire Go ecosystem. Some of these efforts include picking up
