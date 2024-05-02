@@ -62,7 +62,7 @@ Thanks for dropping by!
 ### Code generation
 
 * JSON, [JSONGen](https://github.com/bemasher/JSONGen), [online version, json-to-go](https://mholt.github.io/json-to-go/)
-* XML, [zek](https://github.com/miku/zek), [online version, xmltogo](https://www.onlinetool.io/xmltogo/)
+* XML, [zek](https://github.com/miku/zek), [online version, xmltogo](https://blog.kowalczyk.info/xmltogo/)
 
 ### Concurrency bugs
 
