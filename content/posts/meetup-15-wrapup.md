@@ -69,7 +69,7 @@ you run go on k8s, you will need this.
 
 Can you tame complexity with BDD style development? A VMware *Office of the CTO* tech deep dive addresses this question in a blog post:
 
-* [Taming Complexity in Software Development with Behavior Driven Development (BDD)](https://octo.vmware.com/taming-complexity-software-testing-behavior-driven-development/)
+* Taming Complexity in Software Development with Behavior Driven Development (BDD) (vanished as of 05/2024)
 
 As for stream processing, there is a classic blog post, as well as a few interesting projects:
 
