@@ -25,7 +25,7 @@ then, enjoy a few references.
 
 If you haven't played the nerdiest game in town yet, maybe now is the time:
 
-* [https://contained.af/](http://web.archive.org/web/20230609122747/https://contained.af/)
+* [contained.af](http://web.archive.org/web/20230609122747/https://contained.af/)
 
 Want to improve your Go code? You are just a few steps away with [golangci-lint](https://github.com/golangci/golangci-lint):
 
