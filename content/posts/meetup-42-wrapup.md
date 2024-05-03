@@ -21,7 +21,7 @@ can be found here:
 * try to isolate SIMD as much as possible
 
 > The difficulty with a general purpose approach to SIMD [...] is that the performance can be dramatically different on
-> different processors. -- [go/issues/53171#issuecomment-1142953120](https://github.com/golang/go/issues/53171#issuecomment-1142953120)
+> different processors. -- [go/issues/53171](https://github.com/golang/go/issues/53171#issuecomment-1142953120)
 
 * Go uses its own assembly syntax as an intermediate representation, more on that in [The Design of the Go Assembler](https://go.dev/talks/2016/asm.slide#1) (2016)
 * there are various approaches to SIMD and Go including [avo](https://github.com/mmcloughlin/avo), [gocc](https://github.com/kelindar/gocc), and more - see: [Examples of methods to use SIMD in Go](https://github.com/Crash129/go-simd-example?tab=readme-ov-file#examples-of-methods-to-use-simd-in-go)
