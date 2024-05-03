@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 12:00:01 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #42 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-42-wrapup/</link>
+      <pubDate>Fri, 03 May 2024 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-42-wrapup/</guid>
+      <description>Fast Things First Hybrid Meetup #42 took place 2024-04-30 at CHECK24 Leipzig Office at Altes Landratsamt. We had two talks that revolved around Go and performance: Patrick Vahl gave a great overview about SIMD in Go and what is possible (and not possible), today. Examples from the talk can be found here: Crash129/go-simd-example. A few points from the talk:
+ performance gains can be significant try to isolate SIMD as much as possible   The difficulty with a general purpose approach to SIMD [&amp;hellip;] is that the performance can be dramatically different on different processors.</description>
+    </item>
+    
     <item>
       <title>Faster XML processing in Go</title>
       <link>https://golangleipzig.space/posts/faster-go-xml-processing/</link>
