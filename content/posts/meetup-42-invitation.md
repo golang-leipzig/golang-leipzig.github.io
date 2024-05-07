@@ -37,8 +37,7 @@ PS: Free drinks and 🍕!
 
 TODO: outreach.
 
-* [ ] slack: XXX
-* [ ] linkedin: XXX
-* [ ] linkedin: XXX
+* [x] slack:
+* [x] linkedin: https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-tech-meetup-activity-7188135308905914368-KYlb
 
 -->

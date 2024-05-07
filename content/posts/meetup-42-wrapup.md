@@ -11,7 +11,7 @@ tags:
 
 Hybrid Meetup #42 took place
 [2024-04-30](https://www.meetup.com/leipzig-golang/events/298066357) at
-[CHECK24](https://check24.de) Leipzig Office at Altes Landratsamt. We had two
+[CHECK24](https://check24.de) [Leipzig Office](https://www.linkedin.com/feed/update/urn:li:activity:7193158068761706496/) at Altes Landratsamt. We had two
 talks that revolved around Go and performance: [Patrick Vahl](https://github.com/Crash129) gave a great
 overview about SIMD in Go and what is possible (and not possible), today. Examples from the talk
 can be found here:
@@ -39,6 +39,8 @@ Thanks a lot to [CHECK24](https://check24.de) for hosting the event in their
 nice office (with a view). Looking forward to our next event together which is
 planned for October 2024.
 
+
+
 ## Misc
 
 * A good use case for [mmap](https://man7.org/linux/man-pages/man2/mmap.2.html) is a parallel processing of read only data (that can be bigger than the physical RAM);
@@ -47,3 +49,7 @@ planned for October 2024.
 memory goes back to one of the first super computer
 [Atlas](https://en.wikipedia.org/wiki/Atlas_(computer)).
 * The [simdjson](https://github.com/simdjson/simdjson) project explores the use of SIMD for record breaking, high performance JSON processing
+
+<!--
+https://www.linkedin.com/feed/update/urn:li:activity:7193158068761706496?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7193158068761706496%29
+-->
