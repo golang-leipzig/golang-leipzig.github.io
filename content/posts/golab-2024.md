@@ -23,9 +23,10 @@ We partnered with GOLAB and are excited to share discount codes for tickets 🎟
 &mdash; just drop by our [next
 event](https://www.meetup.com/leipzig-golang/events/298066360/)!
 
-See you!
 
 [![](/images/golab-2024-30.png)](https://golab.io)
+
+See you!
 
 ----
 
