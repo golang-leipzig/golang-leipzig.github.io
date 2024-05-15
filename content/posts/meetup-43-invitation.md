@@ -42,6 +42,12 @@ Join us for an evening dive into Go, computation and energy.
 
 Note: By attending this event you agree to be photographed.
 
+### Schedule
+
+* 18:45 Doors Open
+* 19:05 Talk: Ekstatic – a minimal state machine library
+* 19:45 Q&A and discussion
+
 See you!
 
 PS: Free drinks and 🍕! Additionally, we are sharing discount codes for a Go
