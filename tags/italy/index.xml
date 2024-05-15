@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>italy on Leipzig Gophers</title>
+    <link>https://golangleipzig.space/tags/italy/</link>
+    <description>Recent content in italy on Leipzig Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2024 11:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GOLAB 2024</title>
+      <link>https://golangleipzig.space/posts/golab-2024/</link>
+      <pubDate>Wed, 15 May 2024 11:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/golab-2024/</guid>
+      <description>GOLAB 2024 GOLAB, The International Conference on Go is a wonderful event that brings together developers from Europe and beyond in Florence, Italy since 2015 and which will take place 2024-11-11 to 2024-11-13 this year, featuring a discovery and deep dive track as well as workshops on introductory and advanced topics. Find out more:
+ Conference homepage: golab.io GOLAB on Twitter GOLAB YouTube Channel, recordings from previous years  We partnered with GOLAB and are excited to share discount codes for tickets 🎟️ — just drop by our next event!</description>
+    </item>
+    
+  </channel>
+</rss>
