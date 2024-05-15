@@ -31,6 +31,8 @@ presentation will introduce a minimalistic go library for defining
 idiomatic. The following discussion gives room for questions and to explore
 benefits, drawbacks, and potential alternatives.
 
+[![](/images/Machine_bret.gif)](https://gifcities.org/)
+
 We'll meet:
 
 * in person at [Gridfuse Office](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6), located at Design Offices Leipzig, [Augustusplatz 1-4, 04109 Leipzig](https://www.openstreetmap.org/node/7230218702) ([Google Maps](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6)) -- directions provided at the entrance
@@ -39,8 +41,6 @@ We'll meet:
 Join us for an evening dive into Go, computation and energy.
 
 Note: By attending this event you agree to be photographed.
-
-[![](/images/Machine_bret.gif)](https://gifcities.org/)
 
 See you!
 
