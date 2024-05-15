@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Meetup #43 invitation"
-date: 2024-05-15T14:00:00+01:00
+date: 2024-05-15T14:00:00+02:00
 draft: false
 tags:
 - announcement
