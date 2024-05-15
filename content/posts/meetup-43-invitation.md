@@ -40,8 +40,6 @@ We'll meet:
 
 Join us for an evening dive into Go, computation and energy.
 
-Note: By attending this event you agree to be photographed.
-
 ### Schedule
 
 * 18:45 Doors Open
