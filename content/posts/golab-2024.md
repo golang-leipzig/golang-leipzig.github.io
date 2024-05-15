@@ -3,8 +3,8 @@ title: "GOLAB 2024"
 date: 2024-05-15T11:30:00+02:00
 draft: false
 tags:
-- summary
 - conference
+- italy
 ---
 
 ## GOLAB 2024
