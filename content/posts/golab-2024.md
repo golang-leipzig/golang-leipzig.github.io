@@ -10,7 +10,7 @@ tags:
 ## GOLAB 2024
 
 [GOLAB](https://golab.io/), *The International Conference on Go* is a wonderful
-event that brings together developers from Europe and beyond in Florence, Italy
+event that brings together developers from Europe and beyond in [Florence](https://en.wikipedia.org/wiki/Florence), Italy
 since 2015 and which will take place 2024-11-11 to 2024-11-13 this year,
 featuring a discovery and deep dive track as well as workshops on introductory
 and advanced topics. Find out more:
