@@ -19,7 +19,7 @@ renewable energy sources become the main source of power on the global grid*.
 > intelligent algorithms, we unite them into a force that can transform our
 > global energy system. -- [Gridfuse](https://gridfuse.com/)
 
-We will have a presentation about a core computational topic with broad applications - [finite state machines]().
+We will have a presentation about a core computational topic with broad applications - finite state machines.
 
 **Ekstatic – a minimal state machine library**
 
