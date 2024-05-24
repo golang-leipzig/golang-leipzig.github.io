@@ -58,7 +58,8 @@ PPS: We met at Gridfuse before for [Leipzig Gophers #32](https://golangleipzig.s
 
 TODO: outreach.
 
-* [x] slack:
-* [x] linkedin: https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-tech-meetup-activity-7188135308905914368-KYlb
+https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-golang-renewable-activity-7199745418547609601-Whx0 (800+ followers)
+https://gophers.slack.com/archives/C152YB9UZ/p1716553563543059 (#remotemeetup, 6139 members)
+https://gophers.slack.com/archives/C1RCF5554/p1716553296930349 (#meetup organizers, 443 members)
 
 -->
