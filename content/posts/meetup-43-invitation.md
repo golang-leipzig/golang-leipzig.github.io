@@ -35,7 +35,7 @@ benefits, drawbacks, and potential alternatives.
 
 We'll meet:
 
-* in person at [Gridfuse Office](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6), located at Design Offices Leipzig, [Augustusplatz 1-4, 04109 Leipzig](https://www.openstreetmap.org/node/7230218702) ([Google Maps](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6)) -- directions provided at the entrance
+* in person at [Gridfuse Office](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6), located at Design Offices Leipzig, [Augustusplatz 1-4, 04109 Leipzig](https://www.openstreetmap.org/node/7230218702) ([Google Maps](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6)) -- [directions](/downloads/Directions_Meetup_Gridfuse.pdf) (PDF), also provided at the building entrance
 * and online via [Google Meet](https://meet.google.com/rxp-dbzd-dex)
 
 Join us for an evening dive into Go, computation and energy.
