@@ -43,7 +43,7 @@ Cortex A7](https://de.wikipedia.org/wiki/Arm_Cortex-A#Arm_Cortex-A7) (inside a
 [Cubietruck](https://en.wikipedia.org/wiki/Cubieboard#Cubietruck_(Cubieboard3))), consuming about 2W total - cf. [The Progress of the Energy-Efficiency
 of Single-board Computers](https://www.netsys.ovgu.de/netsys_media/publications/NetSys_TR_2018_01.pdf)
 * there are also tools to [reclaim your
-  cloud](https://www.zimaboard.com/blade/) or [run on 6W N100](https://www.servethehome.com/cwwk-crazy-a-small-6w-tdp-cpu-homelab-super-system/5/)! Specifically, the zimablade runs a
+  cloud](https://www.zimaboard.com/blade/) or [run on a 6W N100](https://www.servethehome.com/cwwk-crazy-a-small-6w-tdp-cpu-homelab-super-system/5/)! Specifically, the zimablade runs a
 low power 4-core [CPU](https://ark.intel.com/content/www/us/en/ark/products/codename/80644/products-formerly-apollo-lake.html) and can be equipped with 16GB RAM, plus two SATA drives
 (back-of-the-envelope costs breakdown would be $128 (SBC), $15 for one 128GB
 SATA SSD, a total of $158 or EUR 145 or 20714h of the cheapest (and weaker)
