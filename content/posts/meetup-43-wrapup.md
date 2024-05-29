@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Meetup #43 wrap-up"
-date: 2024-05-25T13:00:00+01:00
+date: 2024-05-29T13:00:00+01:00
 draft: false
 tags:
 - summary
