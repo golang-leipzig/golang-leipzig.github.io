@@ -6,7 +6,8 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
-Next hybrid [meetup #43](https://golangleipzig.space/posts/meetup-43-invitation/) is scheduled for [Tue, 2024-05-28 19:00 CET](https://www.meetup.com/leipzig-golang/events/298066360/) at [Gridfuse](https://gridfuse.com).
+Enjoy the ☀️  - we will be back for meetup #44 on [Tue, 2024-09-24
+19:00](https://www.meetup.com/leipzig-golang/events/298066362/), where we are planning an interactive code review format.
 
 <!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
 
@@ -58,6 +59,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#43](https://golangleipzig.space/posts/meetup-43-wrapup/),
 [#42](https://golangleipzig.space/posts/meetup-42-wrapup/),
 [#41](https://golangleipzig.space/posts/meetup-41-wrapup/),
 [#40](https://golangleipzig.space/posts/meetup-40-wrapup/),
