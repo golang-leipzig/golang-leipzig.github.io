@@ -35,6 +35,7 @@ and [Gridfuse](https://gridfuse.com/) for hosting another Leipzig Gophers event.
 
 ## Misc
 
+* code generation may be a way to improve type safety of a generic FSM Go implementation, similar to [sqlc](https://sqlc.dev/) and other libraries
 * [railway oriented control flow](https://vimeo.com/113707214), reminding one of [The happy path is left-aligned](https://maelvls.dev/go-happy-line-of-sight/)
 * Rust [std::result](https://doc.rust-lang.org/std/result/) in combination with
   the [? operator](https://doc.rust-lang.org/std/result/#the-question-mark-operator-)
@@ -50,8 +51,7 @@ try emulate that; or even [proposals](https://github.com/golang/go/issues/19991)
 
 A finite state machine consists of states and state *transistions*;
 implementationwise, a state may be *any* type, but at the same type we would
-benefit from marking a type as a state, hence unifying different actions under
-a single type. A [variant type](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html) could be a solution, but [Go does not support
+benefit from marking a type as a state, hence unifying different actions. A [variant type](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html) could be a solution, but [Go does not support
 variant types](https://go.dev/doc/faq#variant_types) (but interfaces and type
 switches allow for some unification).
 
