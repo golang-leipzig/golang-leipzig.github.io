@@ -69,7 +69,7 @@ which *has no parts and is therefore indivisible*. They also were windowless, or
 
 > The Monads have no windows, through which anything could come in or go out.
 
-A few years before, in 1703, Leibniz saw the something other essential, namely the binary number system,
+A few years before, in 1703, Leibniz saw the something other essential, namely the binary number system.
 
 [![](/images/Leibniz_binary_system_1703-s.png)](https://www.leibniz-translations.com/pdf/binary.pdf)
 
