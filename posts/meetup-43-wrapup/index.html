@@ -66,23 +66,23 @@ interface. [<a href="https://go.dev/ref/spec#Go_1.18">Go 1.18</a>]</p>
 and <a href="https://gridfuse.com/">Gridfuse</a> for hosting another Leipzig Gophers event.</p>
 <h2 id="misc">Misc</h2>
 <ul>
-<li>code generation may be a way to improve type safety of a generic FSM Go implementation, similar to <a href="https://sqlc.dev/">sqlc</a> and other libraries</li>
+<li>code generation may improve type safety of a generic FSM Go implementation, similar to <a href="https://sqlc.dev/">sqlc</a> and other libraries</li>
 <li><a href="https://vimeo.com/113707214">railway oriented control flow</a>, reminding one of <a href="https://maelvls.dev/go-happy-line-of-sight/">The happy path is left-aligned</a></li>
 <li>Rust <a href="https://doc.rust-lang.org/std/result/">std::result</a> in combination with
 the <a href="https://doc.rust-lang.org/std/result/#the-question-mark-operator-">? operator</a>
 makes working with errors easier; there are libraries in Go, like
 <a href="https://pkg.go.dev/github.com/alecthomas/types/result">alexthomas/types</a>, that
-try emulate that; or even <a href="https://github.com/golang/go/issues/19991">proposals</a> (declined at the time)</li>
+try emulate that; or even language <a href="https://github.com/golang/go/issues/19991">proposals</a> (declined at the time)</li>
 <li>another, albeit much bigger library for workflows (or durable execution) is <a href="https://temporal.io/">temporal</a>, which has a <a href="https://learn.temporal.io/getting_started/go/">go</a> client as well</li>
 <li>contracts has been tried in various places in software systems, e.g. <a href="https://en.wikipedia.org/wiki/Design_by_contract">design by contract</a>, or <a href="https://docs.pact.io/">PACT</a> for REST testing</li>
 <li>GraphQL is a nice alternative to representional state transfer (REST); libraries: <a href="https://gqlgen.com/getting-started/">gqlgen</a> for servers, <a href="https://github.com/Yamashou/gqlgenc">gqlgenc</a> for clients</li>
 <li>Rob Pike on state machines, 12 years ago: <a href="https://youtu.be/HxaD_trXwRE">Lexical Scanning in Go - Rob Pike</a>, <a href="https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&amp;t=825">What is a state?</a></li>
 </ul>
 <h2 id="monads">Monads</h2>
-<p>A finite state machine consists of states and state <em>transistions</em>;
-implementationwise, a state may be <em>any</em> type, but at the same type we would
+<p>A finite state machine consists of states and state <em>transitions</em>;
+implementationwise, a state may be <em>any</em> type, but at the same time we would
 benefit from marking a type as a state, hence unifying different actions. A <a href="https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html">variant type</a> could be a solution, but <a href="https://go.dev/doc/faq#variant_types">Go does not support
-variant types</a> (but interfaces and type
+variant types</a> (albeit interfaces and type
 switches allow for some unification).</p>
 <p>In <a href="https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/wadler-essence-fp.pdf">essence</a>,
 we would like chainable computation, or workflow composition, which is reminding of monads.</p>
@@ -97,7 +97,8 @@ which <em>has no parts and is therefore indivisible</em>. They also were windowl
 <blockquote>
 <p>The Monads have no windows, through which anything could come in or go out.</p>
 </blockquote>
-<p>A few years before, in 1703, Leibniz saw the something other essential, namely the binary number system.</p>
+<p>A few years earlier, in 1703, Leibniz recognized something else essential: the
+binary number system.</p>
 <p><a href="https://www.leibniz-translations.com/pdf/binary.pdf"><img src="/images/Leibniz_binary_system_1703-s.png" alt=""></a></p>
 <blockquote>
 <p>But reckoning by twos, that is, by 0 and 1, as
@@ -107,8 +108,6 @@ for the practice of numbers and especially for geometry. The reason for this is
 that, as numbers are reduced to the simplest principles, like 0 and 1, a
 wonderful order is apparent throughout.</p>
 </blockquote>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 
 </article>
 
