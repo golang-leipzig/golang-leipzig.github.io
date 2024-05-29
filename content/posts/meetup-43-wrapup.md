@@ -35,13 +35,13 @@ and [Gridfuse](https://gridfuse.com/) for hosting another Leipzig Gophers event.
 
 ## Misc
 
-* code generation may be a way to improve type safety of a generic FSM Go implementation, similar to [sqlc](https://sqlc.dev/) and other libraries
+* code generation may improve type safety of a generic FSM Go implementation, similar to [sqlc](https://sqlc.dev/) and other libraries
 * [railway oriented control flow](https://vimeo.com/113707214), reminding one of [The happy path is left-aligned](https://maelvls.dev/go-happy-line-of-sight/)
 * Rust [std::result](https://doc.rust-lang.org/std/result/) in combination with
   the [? operator](https://doc.rust-lang.org/std/result/#the-question-mark-operator-)
 makes working with errors easier; there are libraries in Go, like
 [alexthomas/types](https://pkg.go.dev/github.com/alecthomas/types/result), that
-try emulate that; or even [proposals](https://github.com/golang/go/issues/19991) (declined at the time)
+try emulate that; or even language [proposals](https://github.com/golang/go/issues/19991) (declined at the time)
 * another, albeit much bigger library for workflows (or durable execution) is [temporal](https://temporal.io/), which has a [go](https://learn.temporal.io/getting_started/go/) client as well
 * contracts has been tried in various places in software systems, e.g. [design by contract](https://en.wikipedia.org/wiki/Design_by_contract), or [PACT](https://docs.pact.io/) for REST testing
 * GraphQL is a nice alternative to representional state transfer (REST); libraries: [gqlgen](https://gqlgen.com/getting-started/) for servers, [gqlgenc](https://github.com/Yamashou/gqlgenc) for clients
@@ -49,10 +49,10 @@ try emulate that; or even [proposals](https://github.com/golang/go/issues/19991)
 
 ## Monads
 
-A finite state machine consists of states and state *transistions*;
-implementationwise, a state may be *any* type, but at the same type we would
+A finite state machine consists of states and state *transitions*;
+implementationwise, a state may be *any* type, but at the same time we would
 benefit from marking a type as a state, hence unifying different actions. A [variant type](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html) could be a solution, but [Go does not support
-variant types](https://go.dev/doc/faq#variant_types) (but interfaces and type
+variant types](https://go.dev/doc/faq#variant_types) (albeit interfaces and type
 switches allow for some unification).
 
 In [essence](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/wadler-essence-fp.pdf),
@@ -68,11 +68,12 @@ which *has no parts and is therefore indivisible*. They also were windowless, or
 
 > The Monads have no windows, through which anything could come in or go out.
 
-A few years before, in 1703, Leibniz saw the something other essential, namely the binary number system.
+A few years earlier, in 1703, Leibniz recognized something else essential: the
+binary number system.
 
 [![](/images/Leibniz_binary_system_1703-s.png)](https://www.leibniz-translations.com/pdf/binary.pdf)
 
->  But reckoning by twos, that is, by 0 and 1, as
+> But reckoning by twos, that is, by 0 and 1, as
 compensation for its length, is the most fundamental way of reckoning for
 science, and offers up new discoveries, which are then found to be useful, even
 for the practice of numbers and especially for geometry. The reason for this is
@@ -80,7 +81,3 @@ that, as numbers are reduced to the simplest principles, like 0 and 1, a
 wonderful order is apparent throughout.
 
 
-
-<!--
-https://www.linkedin.com/feed/update/urn:li:activity:7193158068761706496?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7193158068761706496%29
--->
