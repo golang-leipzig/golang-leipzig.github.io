@@ -6,11 +6,11 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 13:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 13:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hybrid Meetup #43 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-43-wrapup/</link>
-      <pubDate>Sat, 25 May 2024 13:00:00 +0100</pubDate>
+      <pubDate>Wed, 29 May 2024 13:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-43-wrapup/</guid>
       <description>Finite state machines Hybrid Meetup #43 took place 2024-05-28 at Gridfuse located in Alte Hauptpost Leipzig. We had a great presentation about a lightweight (~200 LOC), open source state machine library written in Go: ekstatic.
