@@ -66,6 +66,7 @@ interface. [<a href="https://go.dev/ref/spec#Go_1.18">Go 1.18</a>]</p>
 and <a href="https://gridfuse.com/">Gridfuse</a> for hosting another Leipzig Gophers event.</p>
 <h2 id="misc">Misc</h2>
 <ul>
+<li>code generation may be a way to improve type safety of a generic FSM Go implementation, similar to <a href="https://sqlc.dev/">sqlc</a> and other libraries</li>
 <li><a href="https://vimeo.com/113707214">railway oriented control flow</a>, reminding one of <a href="https://maelvls.dev/go-happy-line-of-sight/">The happy path is left-aligned</a></li>
 <li>Rust <a href="https://doc.rust-lang.org/std/result/">std::result</a> in combination with
 the <a href="https://doc.rust-lang.org/std/result/#the-question-mark-operator-">? operator</a>
@@ -80,8 +81,7 @@ try emulate that; or even <a href="https://github.com/golang/go/issues/19991">pr
 <h2 id="monads">Monads</h2>
 <p>A finite state machine consists of states and state <em>transistions</em>;
 implementationwise, a state may be <em>any</em> type, but at the same type we would
-benefit from marking a type as a state, hence unifying different actions under
-a single type. A <a href="https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html">variant type</a> could be a solution, but <a href="https://go.dev/doc/faq#variant_types">Go does not support
+benefit from marking a type as a state, hence unifying different actions. A <a href="https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html">variant type</a> could be a solution, but <a href="https://go.dev/doc/faq#variant_types">Go does not support
 variant types</a> (but interfaces and type
 switches allow for some unification).</p>
 <p>In <a href="https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/wadler-essence-fp.pdf">essence</a>,
