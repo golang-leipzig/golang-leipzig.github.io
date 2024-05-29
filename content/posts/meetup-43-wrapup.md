@@ -35,7 +35,6 @@ and [Gridfuse](https://gridfuse.com/) for hosting another Leipzig Gophers event.
 
 ## Misc
 
-* beside features, managing the failure modes in software can play a significant role (even, the most significant, at times)
 * [railway oriented control flow](https://vimeo.com/113707214), reminding one of [The happy path is left-aligned](https://maelvls.dev/go-happy-line-of-sight/)
 * Rust [std::result](https://doc.rust-lang.org/std/result/) in combination with
   the [? operator](https://doc.rust-lang.org/std/result/#the-question-mark-operator-)
@@ -45,14 +44,14 @@ try emulate that; or even [proposals](https://github.com/golang/go/issues/19991)
 * another, albeit much bigger library is [temporal](https://temporal.io/), which has a [go](https://learn.temporal.io/getting_started/go/) client as well
 * contracts has been tried in various places in software systems, e.g. [design by contract](https://en.wikipedia.org/wiki/Design_by_contract), or [PACT](https://docs.pact.io/) for REST testing
 * GraphQL is a nice alternative to representional state transfer (REST); libraries: [gqlgen](https://gqlgen.com/getting-started/) for servers, [gqlgenc](https://github.com/Yamashou/gqlgenc) for clients
-* Rob Pike on state machines, 12 years ago: [Lexical Scanning in Go - Rob Pike](https://youtu.be/HxaD_trXwRE?si=XglTXQVx7VpK8cVO&t=754), [What is a state?](https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&t=825)
+* Rob Pike on state machines, 12 years ago: [Lexical Scanning in Go - Rob Pike](https://youtu.be/HxaD_trXwRE), [What is a state?](https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&t=825)
 
 ## Monads
 
 A finite state machine consists of states and state *transistions*;
 implementationwise, a state may be *any* type, but at the same type we would
 benefit from marking a type as a state, hence unifying different actions under
-a single type. An variant type could be a solution, but [Go does not support
+a single type. A [variant type](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html) could be a solution, but [Go does not support
 variant types](https://go.dev/doc/faq#variant_types) (but interfaces and type
 switches allow for some unification).
 
