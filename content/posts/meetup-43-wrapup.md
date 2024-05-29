@@ -56,8 +56,7 @@ variant types](https://go.dev/doc/faq#variant_types) (but interfaces and type
 switches allow for some unification).
 
 In [essence](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/wadler-essence-fp.pdf),
-we would like chainable computation, or workflow composition, which is in part
-what monads are for.
+we would like chainable computation, or workflow composition, which is reminding of monads.
 
 * [the morning paper: Monads for functional programming](https://blog.acolyer.org/2014/11/10/monads-for-functional-programming/)
 * [A monad is just a monoid in the category of endofunctors, what's the problem?](https://stackoverflow.com/q/3870088/89391)
