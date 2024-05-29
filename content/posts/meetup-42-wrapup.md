@@ -31,9 +31,12 @@ While SIMD support is still a topic of discussion, e.g. in [#53171](https://gith
 
 [Martin Czygan](https://de.linkedin.com/in/martin-czygan-58348842) took a Go
 implementation of the [1BRC](https://1brc.dev) from 4 minutes to 4s, using
-fewer allocations, parallel processing and mmap. Notes:
-[1brc-in-go](https://github.com/golang-leipzig/1brc-in-go). Please submit a PR
-with a variant you found!
+fewer allocations, parallel processing and mmap.
+
+![](/images/657582.gif)
+
+Notes: [1brc-in-go](https://github.com/golang-leipzig/1brc-in-go). Please
+submit a PR with a variant you found!
 
 Thanks a lot to [CHECK24](https://check24.de) for hosting the event in their
 nice office (with a view). Looking forward to our next event together which is
