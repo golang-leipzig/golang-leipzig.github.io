@@ -42,7 +42,7 @@ and [Gridfuse](https://gridfuse.com/) for hosting another Leipzig Gophers event.
 makes working with errors easier; there are libraries in Go, like
 [alexthomas/types](https://pkg.go.dev/github.com/alecthomas/types/result), that
 try emulate that; or even language [proposals](https://github.com/golang/go/issues/19991) (declined at the time)
-* another, albeit much bigger library for workflows (or durable execution) is [temporal](https://temporal.io/), which has a [go](https://learn.temporal.io/getting_started/go/) client as well
+* another, albeit much more extensive library for workflows (or durable execution) is [temporal](https://temporal.io/), which has a [go](https://learn.temporal.io/getting_started/go/) client as well
 * contracts has been tried in various places in software systems, e.g. [design by contract](https://en.wikipedia.org/wiki/Design_by_contract), or [PACT](https://docs.pact.io/) for REST testing
 * GraphQL is a nice alternative to representional state transfer (REST); libraries: [gqlgen](https://gqlgen.com/getting-started/) for servers, [gqlgenc](https://github.com/Yamashou/gqlgenc) for clients
 * Rob Pike on state machines, 12 years ago: [Lexical Scanning in Go - Rob Pike](https://youtu.be/HxaD_trXwRE), [What is a state?](https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&t=825)
