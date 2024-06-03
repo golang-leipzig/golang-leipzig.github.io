@@ -101,7 +101,7 @@ We try to sum up every meetup in a short blog post:
 [#4](https://golangleipzig.space/posts/meetup-4-wrapup/),
 [#3](https://golangleipzig.space/posts/meetup-3-wrapup/),
 [#2](https://golangleipzig.space/posts/second-meetup-wrapup/),
-[#1](https://golangleipzig.space/posts/meetup-launched/) / [2023](https://golangleipzig.space/posts/2023/),
+[#1](https://golangleipzig.space/posts/meetup-launched/) · [2023](https://golangleipzig.space/posts/2023/),
 [2022](https://golangleipzig.space/posts/2022),
 [2021](https://golangleipzig.space/posts/2021/),
 [2020](https://golangleipzig.space/posts/welcome-2021/), [2019](https://golangleipzig.space/posts/bye-2019/).
