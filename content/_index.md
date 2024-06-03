@@ -114,7 +114,7 @@ We'd like to thank [edgeless systems](https://www.edgeless.systems) ([#22](https
 [CHECK24](https://www.check24.de/) ([#38](https://golangleipzig.space/posts/meetup-38-wrapup/), [#42](https://golangleipzig.space/posts/meetup-42-wrapup/)), [Ardan Labs](https://ardanlabs.com) ([#40](https://golangleipzig.space/posts/meetup-40-wrapup/)) and [GOLAB](https://golab.io) for their contributions and [Manning
 Publications](https://www.manning.com/), [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592),
-[Jetbrains](https://www.jetbrains.com/) and [CodeNotary](https://codenotary.com/) ([#30](https://golangleipzig.space/posts/meetup-30-wrapup/))for their support.
+[Jetbrains](https://www.jetbrains.com/) and [CodeNotary](https://codenotary.com/) ([#30](https://golangleipzig.space/posts/meetup-30-wrapup/)) for their support.
 
 <!--
 [![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
