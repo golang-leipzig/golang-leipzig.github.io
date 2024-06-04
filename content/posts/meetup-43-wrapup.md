@@ -45,7 +45,7 @@ try emulate that; or even language [proposals](https://github.com/golang/go/issu
 * another, albeit much more extensive library for workflows (or durable execution) is [temporal](https://temporal.io/), which has a [go](https://learn.temporal.io/getting_started/go/) client as well
 * contracts has been tried in various places in software systems, e.g. [design by contract](https://en.wikipedia.org/wiki/Design_by_contract), or [PACT](https://docs.pact.io/) for REST testing
 * GraphQL is a nice alternative to representional state transfer (REST); libraries: [gqlgen](https://gqlgen.com/getting-started/) for servers, [gqlgenc](https://github.com/Yamashou/gqlgenc) for clients
-* Rob Pike on state machines, 12 years ago: [Lexical Scanning in Go - Rob Pike](https://youtu.be/HxaD_trXwRE), [What is a state?](https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&t=825)
+* Rob Pike on state machines, 12 years ago: [Lexical Scanning in Go - Rob Pike](https://youtu.be/HxaD_trXwRE), [What is a state? [13:45]](https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&t=825)
 
 ## Monads
 
