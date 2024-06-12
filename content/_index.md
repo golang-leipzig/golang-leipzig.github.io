@@ -37,8 +37,8 @@ share experiences, present, discuss and network.
 
 [![Depiction of a Leipzig Gopher](/leipzig-gopher.png)](/leipzig-gopher.svg)
 
-Current organizers are [miku](https://github.com/miku/),
-[klingtnet](https://github.com/klingtnet), [Simon](https://github.com/simonbaeumer) and friends and we are inviting
+Current organizers are [Martin](https://github.com/miku/),
+[Andreas](https://github.com/klingtnet), [Simon](https://github.com/simonbaeumer) and friends and we are inviting
 everyone to participate.
 
 {{< h2 >}}How to participate{{< /h2 >}}
