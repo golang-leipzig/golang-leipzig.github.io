@@ -6,10 +6,10 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
-Enjoy the ☀️  &mdash; and don't miss our [Go Tech Lunch](https://www.meetup.com/leipzig-golang/events/301502640/) on Wed, June
-26, 2024 12:15 PM at [Pholosophy](https://pholosophy.de/) ([OSM](https://www.openstreetmap.org/node/2459099851)). We'll be back for meetup #44 on [Tue, 2024-09-24
-19:00](https://www.meetup.com/leipzig-golang/events/298066362/) at [Basislager](https://basislager.co), where we are
-planning an interactive code review format.
+Enjoy the ☀️  &mdash; we'll be back for meetup #44 on [Tue, 2024-09-24
+19:00](https://www.meetup.com/leipzig-golang/events/298066362/) at
+[Basislager](https://basislager.co), where we are planning an interactive code
+review format.
 
 
 <!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
