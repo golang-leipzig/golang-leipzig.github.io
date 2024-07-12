@@ -71,7 +71,7 @@ which *has no parts and is therefore indivisible*. They also were windowless, or
 A few years earlier, in 1703, Leibniz recognized something else essential: the
 binary number system.
 
-[![](/images/Leibniz_binary_system_1703-s.png)](https://www.leibniz-translations.com/pdf/binary.pdf)
+[![](/images/Leibniz_binary_system_1703-s.png)](https://www.leibniz-translations.com/static/media/binary.2e9089b038d26b586697.pdf)
 
 > But reckoning by twos, that is, by 0 and 1, as
 compensation for its length, is the most fundamental way of reckoning for
