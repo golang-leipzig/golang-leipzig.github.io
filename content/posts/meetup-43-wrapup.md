@@ -11,7 +11,7 @@ tags:
 
 Hybrid Meetup #43 took place
 [2024-05-28](https://www.meetup.com/leipzig-golang/events/298066360/) at
-[Gridfuse](https://gridfuse.com) located in [Alte Hauptpost](https://de.wikipedia.org/wiki/Hauptpost_(Leipzig)) Leipzig. We had a
+[Gridfuse](https://gridfuse.com), [Hauptpost](https://de.wikipedia.org/wiki/Hauptpost_(Leipzig)) Leipzig. We had a
 great presentation about a lightweight (~200 LOC), open source state machine
 library written in Go: [ekstatic](https://github.com/Metamogul/ekstatic) &mdash; presentation [slides (PDF)](https://golangleipzig.space/downloads/ekstatic.pdf)
 
