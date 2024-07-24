@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://golangleipzig.space/posts/meetup-43-wrapup/</loc>
-    <lastmod>2024-05-29T13:00:00+01:00</lastmod>
+    <loc>https://golangleipzig.space/posts/go-tech-lunch-dates-2024/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/invitation/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golangleipzig.space/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/lunch/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/tech/</loc>
+    <lastmod>2024-07-24T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/posts/meetup-43-wrapup/</loc>
     <lastmod>2024-05-29T13:00:00+01:00</lastmod>
   </url>
   
@@ -18,17 +48,7 @@
   </url>
   
   <url>
-    <loc>https://golangleipzig.space/posts/</loc>
-    <lastmod>2024-05-29T13:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golangleipzig.space/tags/summary/</loc>
-    <lastmod>2024-05-29T13:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/</loc>
     <lastmod>2024-05-29T13:00:00+01:00</lastmod>
   </url>
   
@@ -604,11 +624,6 @@
   
   <url>
     <loc>https://golangleipzig.space/posts/go-at-spartakiade-2019-berlin/</loc>
-    <lastmod>2019-04-22T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/invitation/</loc>
     <lastmod>2019-04-22T09:00:00+02:00</lastmod>
   </url>
   

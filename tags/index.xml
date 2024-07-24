@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 13:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 00:20:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>invitation</title>
+      <link>https://golangleipzig.space/tags/invitation/</link>
+      <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/invitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lunch</title>
+      <link>https://golangleipzig.space/tags/lunch/</link>
+      <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://golangleipzig.space/tags/tech/</link>
+      <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
@@ -202,15 +229,6 @@
       <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/tags/storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>invitation</title>
-      <link>https://golangleipzig.space/tags/invitation/</link>
-      <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/invitation/</guid>
       <description></description>
     </item>
     
