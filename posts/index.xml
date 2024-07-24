@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2024 13:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 00:20:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Tech Lunch 2024</title>
+      <link>https://golangleipzig.space/posts/go-tech-lunch-2024/</link>
+      <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/go-tech-lunch-2024/</guid>
+      <description>Go Tech Lunch In addition to our regular meetups, we are trying something else and lightweight: meeting over lunch once a month. The next dates in 2024 are:
+ August 14, 2024 September 11, 2024 October 9, 2024 November 13, 2024 December 11, 2024  We always meet 12:15 CET at Pholosophy, (map, google maps). RSVP welcome, but you can also just drop by.
+ Interested in technical conversations with other liked-minded engineers who want to learn more about tech, discussing interview processes, papers or the latest rumors?</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #43 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-43-wrapup/</link>
