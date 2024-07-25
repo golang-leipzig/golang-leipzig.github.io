@@ -11,13 +11,18 @@ tags:
 ## Go Tech Lunch
 
 In addition to our regular meetups, we are trying something else and
-lightweight: meeting over lunch once a month. The next dates in 2024 are:
+lightweight: meeting over lunch twice a month. The next dates in 2024 are:
 
 * [August 14, 2024](https://www.meetup.com/leipzig-golang/events/302422578/)
-* [September 11, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcmbpb/)
+* [August 28, 2024](https://www.meetup.com/leipzig-golang/events/302422578)
+* [September 11, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcmbpb/)
+* [September 25, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcmbhc/)
 * [October 9, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcnbmb/)
-* [November 13, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcpbrb/)
-* [December 11, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcqbpb/)
+* [October 23, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcnbfc/)
+* [November 6, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcpbrb/)
+* [November 20, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcpbbc/)
+* [December 4, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcqbxb/)
+* [December 18, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcqbxb/)
 
 We always meet 12:15 CET at [Pholosophy](https://pholosophy.de/),
 ([map](https://www.openstreetmap.org/node/2459099851), [google
