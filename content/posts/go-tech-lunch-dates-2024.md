@@ -8,13 +8,13 @@ tags:
 - lunch
 ---
 
-## Go Tech Lunch
+## Go Tech Lunch 🍜
 
 In addition to our regular meetups, we are trying something else and
 lightweight: meeting over lunch twice a month. The next dates in 2024 are:
 
 * [August 14, 2024](https://www.meetup.com/leipzig-golang/events/302422578/)
-* [August 28, 2024](https://www.meetup.com/leipzig-golang/events/302422578)
+* {{< rawhtml >}}<span style="background:yellow"> {{< /rawhtml >}}[August 28, 2024](https://www.meetup.com/leipzig-golang/events/302422578) {{< rawhtml >}}</span>{{< /rawhtml >}}
 * [September 11, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcmbpb/)
 * [September 25, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcmbhc/)
 * [October 9, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcnbmb/)
