@@ -1,10 +1,10 @@
 ---
 title: "Meetup 44 Invitation"
 date: 2024-08-19T13:28:29+02:00
-draft: true
+draft: false
 tags:
-  - announcement
-  - meetup
+- announcement
+- meetup
 ---
 
 Hello, 世界!
