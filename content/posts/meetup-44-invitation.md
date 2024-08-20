@@ -23,6 +23,6 @@ In this format we'll exchange our favorite tools to do our development tasks, in
 This is intended to be casual and everyone is welcomed to share their tool, no matter how small or big it is.
 
 You can join us in person at [Basislager Leipzig](https://www.basislager.co/)
-or remotely via [Google Meet](https://meet.google.com/dmu-zsyj-eqh) (BYOD).
+or remotely via [Jitsi](https://meet.jit.si/LeipzigGophers44) (BYOD).
 
 See you!
