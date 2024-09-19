@@ -34,7 +34,7 @@ also just drop by.
 > latest rumors? Then join us for our tech lunch, a light-hearted way to
 > explore tech.
 
-Everyone is programming language is welcome.
+Everyone and every programming language is welcome.
 
 See you!
 
