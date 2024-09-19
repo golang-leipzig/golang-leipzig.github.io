@@ -11,7 +11,7 @@ Hello, 世界!
 
 For meetup #44 on Tuesday [Sep 24, 2024 19:00
 CET](https://www.meetup.com/leipzig-golang/events/298066362/) we'll
-showcase your daily development tools.
+showcase daily development tools.
 
 In this format we'll exchange our favorite tools to do our development tasks, including
 
