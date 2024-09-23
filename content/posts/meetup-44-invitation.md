@@ -26,3 +26,5 @@ You can join us in person at [Basislager Leipzig](https://www.basislager.co/)
 or remotely via [Jitsi](https://meet.jit.si/LeipzigGophers44) (BYOD).
 
 See you!
+
+<!-- https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-gophers-meetup-44-taking-place-this-activity-7243955424402505728-p_He?utm_source=share&utm_medium=member_desktop -->
