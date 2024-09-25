@@ -25,7 +25,7 @@ Here's a list of tools presented, mentioned, praised:
 * [just](https://just.systems), [task](https://taskfile.dev/) (cli): task runner, similar to [make](https://www.gnu.org/software/make/)
 * [tmux](https://github.com/tmux/tmux/wiki) (sh): terminal multiplexing
 * [btop](https://github.com/aristocratos/btop), [zenith](https://github.com/bvaisvil/zenith): system monitors
-* [git-cal](https://github.com/k4rthik/git-cal)
+* [git-cal](https://github.com/k4rthik/git-cal) (git): repo stats
 * [cobra](https://github.com/spf13/cobra) (go): cli tool scaffold
 * [charm](https://charm.sh/libs/) (go): TUI
 * [direnv](https://direnv.net/) (sh): project management
