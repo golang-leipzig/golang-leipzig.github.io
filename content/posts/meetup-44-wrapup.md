@@ -16,12 +16,13 @@ libraries, with demos from a few people.
 
 Here's a list of tools presented, mentioned, praised:
 
-* smart-branches (git): stacked commits
+* [smart-branches (git)](https://github.com/stackrox/workflow/blob/master/scripts/dev/smart-branch.sh): stacked commits
 * git [fixup](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt) (git): cleaner history
 * awk and xargs, GNU parallel (cli): data wrangling
 * [roxvet](https://github.com/stackrox/stackrox/tree/master/tools/roxvet) (go): example custom code vetting
 * [strace](https://strace.io/) (linux): syscalls and more
 * [tilt](https://tilt.dev/) (k8s): local k8s env
+* [fzf](https://github.com/junegunn/fzf): fuzzy finder in command line
 * [just](https://just.systems), [task](https://taskfile.dev/) (cli): task runner, similar to [make](https://www.gnu.org/software/make/)
 * [tmux](https://github.com/tmux/tmux/wiki) (sh): terminal multiplexing
 * [btop](https://github.com/aristocratos/btop), [zenith](https://github.com/bvaisvil/zenith): system monitors
@@ -33,4 +34,6 @@ Here's a list of tools presented, mentioned, praised:
 * [devspace](https://www.devspace.sh/), [devpod](https://devpod.sh/), [gitpod](https://www.gitpod.io/), and more (ops): dev env
 * [asciinema](https://asciinema.org/) (linux): [script(1)](https://en.wikipedia.org/wiki/Script_(Unix)) heir, [agg](https://github.com/asciinema/agg)
 * ai tools: good for learning or to sketch out a problem space; less usable code just yet
+* [obisidian](https://obsidian.md/) (editor/wiki): a tool to manage your knowledge
+* [timefilp](https://timeflip.io/) (tool): tool to efficiently manage time tracking
 
