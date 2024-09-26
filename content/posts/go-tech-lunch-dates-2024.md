@@ -17,7 +17,7 @@ lightweight: meeting over lunch twice a month. The next dates in 2024 are:
 * [August 28, 2024](https://www.meetup.com/leipzig-golang/events/302422578)
 * [September 11, 2024](https://www.meetup.com/leipzig-golang/events/302977588/)
 * [September 25, 2024](https://www.meetup.com/leipzig-golang/events/knxtmtygcmbhc/)
-* {{< rawhtml >}}<span style="background:yellow"> {{< /rawhtml >}}[[October 9, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcnbmb/){{< rawhtml >}}</span>{{< /rawhtml >}}
+* {{< rawhtml >}}<span style="background:yellow"> {{< /rawhtml >}}[October 9, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcnbmb/){{< rawhtml >}}</span>{{< /rawhtml >}}
 * [October 23, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcnbfc/)
 * [November 6, 2024](https://www.meetup.com/leipzig-golang/events/vrnqmtygcpbrb/)
 * [November 20, 2024](https://www.meetup.com/leipzig-golang/events/jstqmtygcpbbc/)
