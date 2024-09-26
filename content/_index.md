@@ -6,10 +6,9 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
-Enjoy the ☀️  &mdash; and join us for our fortnightly 🍜 [tech lunch](https://golangleipzig.space/posts/go-tech-lunch-dates-2024/).
-We'll be back for [meetup #44](https://golangleipzig.space/posts/meetup-44-invitation/) on [Tue, 2024-09-24
-19:00](https://www.meetup.com/leipzig-golang/events/298066362/) at
-[Basislager](https://basislager.co), where we are planning an interactive format showcasing common (Go) tools, libraries, helpers, and general coding niceties we love and use.
+Open lunch 🍜 meetings [every second Wednesday](https://golangleipzig.space/posts/go-tech-lunch-dates-2024/).
+Next meetup #45 on [Tue, 2024-10-29 19:00](https://www.meetup.com/leipzig-golang/events/298481354) at
+[CHECK24](https://check24.de) Leipzig Office.
 
 
 <!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
