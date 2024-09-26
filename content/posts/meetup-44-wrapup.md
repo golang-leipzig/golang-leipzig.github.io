@@ -28,7 +28,7 @@ Here's a list of tools presented, mentioned, praised:
 * [btop](https://github.com/aristocratos/btop), [zenith](https://github.com/bvaisvil/zenith): system monitors
 * [git-cal](https://github.com/k4rthik/git-cal) (git): repo stats
 * [cobra](https://github.com/spf13/cobra) (go): cli tool scaffold
-* [charm](https://charm.sh/libs/) (go): TUI
+* [charm](https://charm.sh/libs/) (go): TUI (we also had a [lightning talk](https://github.com/miku/glamline) on charm at [#28](https://golangleipzig.space/posts/meetup-28-wrapup/))
 * [direnv](https://direnv.net/) (sh): project management
 * [lazyvim](http://www.lazyvim.org/) (vim): editor
 * [devspace](https://www.devspace.sh/), [devpod](https://devpod.sh/), [gitpod](https://www.gitpod.io/), and more (ops): dev env
