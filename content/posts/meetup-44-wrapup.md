@@ -18,7 +18,7 @@ Here's a list of tools presented, mentioned, praised:
 
 * [smart-branches (git)](https://github.com/stackrox/workflow/blob/master/scripts/dev/smart-branch.sh): stacked commits
 * git [fixup](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt) (git): cleaner history
-* awk and xargs, GNU parallel (cli): data wrangling
+* [awk](https://www.awk.dev/) and [xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html), [GNU parallel](https://www.gnu.org/software/parallel/) (cli): data wrangling
 * [roxvet](https://github.com/stackrox/stackrox/tree/master/tools/roxvet) (go): example custom code vetting
 * [strace](https://strace.io/) (linux): syscalls and more
 * [tilt](https://tilt.dev/) (k8s): local k8s env
