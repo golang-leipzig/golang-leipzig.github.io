@@ -6,7 +6,18 @@
     <description>Recent content in meetup on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 20:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #45 Invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-45-invitation/</link>
+      <pubDate>Sun, 06 Oct 2024 16:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-45-invitation/</guid>
+      <description>Hello, 世界!
+For meetup #45 on Tuesday Oct 29, 2024 19:00 CET at CHECK24 Leipzig Office we are lucky to have two great input presentations and the overarching topic will be Testing in Go.
+ Fabian will take a closer look at Test Coverage in Go Jan will present an open source project Timestone – deterministic concurrency in go tests   The missing ability in Go&amp;rsquo;s standard lib to mock time and concurrency poses a significant problem when testing concurrent code.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #44 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-44-wrapup/</link>
