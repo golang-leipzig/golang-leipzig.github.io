@@ -7,7 +7,7 @@ We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
 Open lunch 🍜 meetings [every second Wednesday](https://golangleipzig.space/posts/go-tech-lunch-dates-2024/).
-Next meetup #45 on [Tue, 2024-10-29 19:00](https://www.meetup.com/leipzig-golang/events/298481354) at
+Next [meetup #45](https://golangleipzig.space/posts/meetup-45-invitation/) on [Tue, 2024-10-29 19:00](https://www.meetup.com/leipzig-golang/events/298481354) at
 [CHECK24](https://check24.de) Leipzig Office.
 
 
