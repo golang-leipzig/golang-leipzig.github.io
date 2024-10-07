@@ -23,7 +23,7 @@ presentations and the overarching topic will be **Testing in Go**.
 > significant problem when testing concurrent code. Timestone presents a
 > simple, yet versatile solution.
 
-Join us for an insightful eventing on one of the pillars of software reliabilty
+Join us for an insightful evening on one of the pillars of software reliability
 and learn about how you can improve your Go projects.
 
 ### Schedule
