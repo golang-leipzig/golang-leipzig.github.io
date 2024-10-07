@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Meetup #45 Invitation"
+title: "Hybrid Meetup #45 invitation"
 date: 2024-10-06T16:00:00+02:00
 draft: false
 tags:
