@@ -17,7 +17,7 @@ CET](https://www.meetup.com/leipzig-golang/events/298481354) at
 presentations and the overarching topic will be **Testing in Go**.
 
 * [Fabian](https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/) will take a closer look at **Test Coverage in Go**
-* [Jan](https://www.linkedin.com/in/jan-z-255b28225/) will present an open source project **[Timestone](https://github.com/Metamogul/timestone) – deterministic concurrency in go tests**
+* [Jan](https://www.linkedin.com/in/jan-z-255b28225/) will present an open source project: **[timestone](https://github.com/Metamogul/timestone) – deterministic concurrency in go tests**
 
 > The missing ability in Go's standard lib to mock time and concurrency poses a
 > significant problem when testing concurrent code. Timestone presents a
@@ -30,12 +30,12 @@ and learn about how you can improve your Go projects.
 
 * 18:45 Doors open
 * 19:00 Welcome
-* 19:10 Talk: Deterministic concurrency in Go tests
 * 19:45 Talk: Test coverage in Go
+* 19:10 Talk: Deterministic concurrency in Go tests
 
 We'll meet:
 
-* in person at [CHECK24 Leipzig Office](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6), [Tröndlinring 3, 04105 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6) -- directions provided at the entrance
+* in person at [CHECK24 Leipzig Office](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6), [Tröndlinring 3, 04105 Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6) ([osm](https://www.openstreetmap.org/relation/1385675)) -- directions provided at the entrance
 * and online via [Jitsi](https://meet.jit.si/LeipzigGophers45)
 
 Note: By attending this event you agree to be photographed.
