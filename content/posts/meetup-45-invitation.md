@@ -30,8 +30,8 @@ and learn about how you can improve your Go projects.
 
 * 18:45 Doors open
 * 19:00 Welcome
-* 19:45 Talk: Test coverage in Go
-* 19:10 Talk: Deterministic concurrency in Go tests
+* 19:10 Talk: Test coverage in Go
+* 19:45 Talk: Deterministic concurrency in Go tests
 
 We'll meet:
 
