@@ -49,8 +49,7 @@ PS: Free drinks and 🍕, courtesy of [CHECK24](https://www.check24.de/)!
 
 <!--
 
-https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-gophers-meetup-44-taking-place-this-activity-7243955424402505728-p_He?utm_source=share&utm_medium=member_desktop
-https://gophers.slack.com/archives/C152YB9UZ/p1727102663437109
-https://gophers.slack.com/archives/C1RCF5554/p1727102622666649
+https://www.linkedin.com/posts/martin-czygan-58348842_are-you-interested-in-reliable-and-robust-activity-7256965732721213442-qMtW?utm_source=share&utm_medium=member_desktop
+https://gophers.slack.com/archives/C152YB9UZ/p1730196197788929
 
 -->
