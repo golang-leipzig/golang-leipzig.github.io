@@ -44,7 +44,7 @@ See you!
 
 PS: Free drinks and 🍕, courtesy of [CHECK24](https://www.check24.de/)!
 
-![](/images/XHCZX6ECHM2M7WTO4PF3ICJINZXXHMC5.gif)
+[![](/images/XHCZX6ECHM2M7WTO4PF3ICJINZXXHMC5.gif)](https://golangleipzig.space/images/meetup-45/anim.webm)
 
 
 <!--
