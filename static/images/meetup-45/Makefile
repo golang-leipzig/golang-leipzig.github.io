@@ -12,5 +12,6 @@ venv:
 
 .PHONY: clean
 clean:
-	rm -f anim.gif
-	rm -f anim.webm
+	# manually run:
+	# rm -f anim.gif
+	# rm -f anim.webm
