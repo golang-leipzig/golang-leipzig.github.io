@@ -10,14 +10,15 @@ import skimage
 import numpy as np
 import random
 
-Dim = collections.namedtuple('Dim', 'w h')
+Dim = collections.namedtuple("Dim", "w h")
 
 files = [
-    'tv.png',
-    'lg.png',
-    '24.png',
-    'tr3.png',
+    "tv.png",
+    "lg.png",
+    "24.png",
+    "tr3.png",
 ]
+
 
 def autopad(img, dim=Dim(800, 600)):
     """
@@ -28,18 +29,20 @@ def autopad(img, dim=Dim(800, 600)):
     if c == 3:
         img = np.dstack([img, np.zeros((h, w, 1))])
     if w > dim.w or h > dim.h:
-        raise ValueError(f'downsizing not yet supported: w={w} h={h}')
-    norm_img = np.zeros([dim.h, dim.w, 4],dtype=np.uint8)
+        raise ValueError(f"downsizing not yet supported: w={w} h={h}")
+    norm_img = np.zeros([dim.h, dim.w, 4], dtype=np.uint8)
     norm_img[:, :, 3] = 255
     r = (dim.h - h) // 2
     c = (dim.w - w) // 2
-    norm_img[r:r+h, c:c+w, :] = img
+    norm_img[r : r + h, c : c + w, :] = img
     return norm_img
 
+
 def make_empty_image(dim=Dim(800, 600)):
-    img = np.zeros([dim.h, dim.w, 4],dtype=np.uint8)
+    img = np.zeros([dim.h, dim.w, 4], dtype=np.uint8)
     img[:, :, 3] = 255
     return img
+
 
 def noisy(img):
     alpha = img[:, :, 3]
@@ -65,9 +68,8 @@ def main():
             images.extend([noisy(img) for _ in range(7)])
             images.extend([empty_image for _ in range(1)])
 
-
     imageio.mimsave("anim.gif", images, fps=7, loop=0)
 
-if __name__ == '__main__':
-    main()
 
+if __name__ == "__main__":
+    main()
