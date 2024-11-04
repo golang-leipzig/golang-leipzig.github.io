@@ -750,7 +750,7 @@ $ curl -sL git.io/JkIVG | base64 -d We will have an input presentation on file e
       
       <guid>https://golangleipzig.space/posts/meetup-13-wrapup/</guid>
       <description>Today we had two input presentations:
- Haystack and seaweedfs: https://github.com/miku/haystack Functional Options Pattern: https://github.com/embano1/funcy-ops  Haystack The haystack talk gave an overview about an early Facebook photo storage system and a Go project inspired by it, called seaweedfs. The seaweedfs project is great, as it is developer friendly, scales up and down and is easy to use out of the box. It offers an S3 compatible API and a FUSE filesystem option.</description>
+ Haystack and seaweedfs: miku/haystack Functional Options Pattern: embano1/funcy-ops  Haystack The haystack talk gave an overview about an early Facebook photo storage system and a Go project inspired by it, called seaweedfs. The seaweedfs project is great, as it is developer friendly, scales up and down and is easy to use out of the box. It offers an S3 compatible API and a FUSE filesystem option.</description>
     </item>
     
     <item>
