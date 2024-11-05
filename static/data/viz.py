@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-data = pd.read_csv("2024_09_28_Leipzig_Golang_Meetup_Total_and_Active_Members.csv", sep=",")
+data = pd.read_csv("2024_11_05_Leipzig_Golang_Meetup_Total_and_Active_Members.csv", sep=",")
 data.columns = ["date", "total", "active"]
 data["date"] = pd.to_datetime(data.date)
 
