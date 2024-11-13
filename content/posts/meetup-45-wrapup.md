@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Meetup #45 wrap-up"
-date: 2024-11-01T10:00:00+01:00
+date: 2024-11-12T10:00:00+01:00
 draft: true
 tags:
 - summary
@@ -27,8 +27,11 @@ metrics: [gocoverplus](https://github.com/Fabianexe/gocoverageplus).
 
 XXX: example of three OSS projects and the coverage difference
 
+```shell
+$ go install github.com/Fabianexe/gocoverageplus@latest
+```
+
 
 
 ### Go scheduler overlay
-
 
