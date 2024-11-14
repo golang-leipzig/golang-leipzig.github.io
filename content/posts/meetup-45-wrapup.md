@@ -75,5 +75,26 @@ coverage reports is: [gocovsh](https://github.com/orlangure/gocovsh).
 
 ### Go scheduler overlay
 
+We took another view on testing, through the lens of [timestone](https://github.com/Metamogul/timestone),
 
+>  a library to create deterministic and easy-to-understand unit tests for time-dependent, concurrent go code.
+
+It requires modification of existing code (replace go routine invocations with
+timestone), but after that, tests can be run in either with the system
+scheduler, i.e. [using
+goroutines](https://github.com/Metamogul/timestone/blob/7411decd9b3e1e28ef539e2bbb0ebb67b9e059d7/system/scheduler.go#L20-L29)
+or a [simulation
+scheduler](https://github.com/Metamogul/timestone/blob/7411decd9b3e1e28ef539e2bbb0ebb67b9e059d7/simulation/scheduler.go#L149-L155),
+that gives the caller control over the process execution.
+
+By default, Go programs can exhibit non-determinism in a few places, among others in:
+
+* randomized work stealing in the [scheduler](https://github.com/golang/go/blob/8e714281e441f93d2865adb3c5a507fd161314e9/src/runtime/proc.go#L7198)
+* randomized map [iteration](https://github.com/golang/go/blob/8b0ac33da8574b74ba50ad727b59fa8679d93e4b/src/internal/runtime/maps/map.go#L141-L142)
+* randomized[select clause](https://github.com/golang/go/blob/8e714281e441f93d2865adb3c5a507fd161314e9/src/runtime/select.go#L181)
+
+With [timestone](https://github.com/Metamogul/timestone), it is possible to get
+around the scheduling randomness, when this interferes with test results. Check
+out some of the examples included in the library, here:
+[timestone/examples](https://github.com/Metamogul/timestone/tree/main/examples)
 
