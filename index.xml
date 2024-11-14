@@ -6,7 +6,17 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2024 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Nov 2024 17:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #45 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-45-wrapup/</link>
+      <pubDate>Thu, 14 Nov 2024 17:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-45-wrapup/</guid>
+      <description>Testing in Go Hybrid Meetup #45 took place 2024-10-29 19:00 at CHECK24 Leipzig Office at Altes Landratsamt and we were thrilled to see people joining from Leipzig and beyond, both on site and online. We had two great input presentations about open source projects in the testing domain.
+Coverage metrics Fabian analyzed the Go coverage tool cmd/cover, listed some of its shortcomings and demonstrated a tool to address them and to improve some metrics: gocoverageplus.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #45 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-45-invitation/</link>
