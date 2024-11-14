@@ -71,7 +71,7 @@ single statements with multiple function literals. &ndash; <a href="https://pkg.
 <a href="https://github.com/golang/go/issues/51430">#51430</a>,
 <a href="https://github.com/golang/go/issues/58770">#58770</a>,
 <a href="https://github.com/golang/go/issues/65570">#65570</a>,
-<a href="https://github.com/golang/go/issues/65653">#65653</a></p>
+<a href="https://github.com/golang/go/issues/65653">#65653</a>, &hellip;</p>
 <p>Also, there is a currently open proposal:</p>
 <ul>
 <li><a href="https://github.com/golang/go/issues/70306">proposal: cmd/cover: support branch coverage</a></li>
@@ -83,7 +83,7 @@ executed during tests, rather than just which lines.</p>
 </blockquote>
 <p>The <a href="https://github.com/Fabianexe/gocoverageplus">gocoverageplus</a> addresses
 some of these shortcomings and also supports
-<a href="https://gcovr.com/en/stable/output/cobertura.html">cobertura</a> output format.</p>
+<a href="https://gcovr.com/en/stable/output/cobertura.html">cobertura</a> output format, as well as complexity metrics.</p>
 <p>A short usage demo:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">$ go install github.com/Fabianexe/gocoverageplus@latest
 $ go <span style="color:#0086b3">test</span> -cover -coverprofile<span style="color:#000;font-weight:bold">=</span>c.out
@@ -93,7 +93,7 @@ into your projects folder, then:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ gocoverageplus -i c.out -o p.out
 </code></pre></div><p>The render the report, e.g. as HTML or to stdout. A nice little TUI for
 coverage reports is: <a href="https://github.com/orlangure/gocovsh">gocovsh</a>.</p>
-<p><img src="/images/gocovsh.png" alt=""></p>
+<p><a href="https://github.com/orlangure/gocovsh"><img src="/images/gocovsh.png" alt=""></a></p>
 <h3 id="go-scheduler-overlay">Go scheduler overlay</h3>
 <p>We took another view on testing, through the lens of <a href="https://github.com/Metamogul/timestone">timestone</a>,</p>
 <blockquote>
