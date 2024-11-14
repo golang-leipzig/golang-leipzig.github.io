@@ -96,7 +96,7 @@ By default, Go programs can exhibit non-determinism in a few places, among other
 With [timestone](https://github.com/Metamogul/timestone), it is possible to get
 around the scheduling randomness, when this interferes with test results. Check
 out some of the examples included in the library, here:
-[timestone/examples](https://github.com/Metamogul/timestone/tree/main/examples)
+[timestone/examples](https://github.com/Metamogul/timestone/tree/main/examples).
 
 
 ### Misc
@@ -104,4 +104,5 @@ out some of the examples included in the library, here:
 * for integration testing, [testcontainers](https://golang.testcontainers.org/)
   can come in handy; you can simulate the actual services your code interfaces
   with, like key-value stores, object stores, search engines, databases, etc. -- a handy, albeit slightly slower, alternative to mock objects
+* for a more unusual test setup, see bradfitz' lightning talk about running go tests in a VM w/ qemu
 
