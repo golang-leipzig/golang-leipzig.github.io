@@ -91,7 +91,7 @@ By default, Go programs can exhibit non-determinism in a few places, among other
 
 * randomized work stealing in the [scheduler](https://github.com/golang/go/blob/8e714281e441f93d2865adb3c5a507fd161314e9/src/runtime/proc.go#L7198)
 * randomized map [iteration](https://github.com/golang/go/blob/8b0ac33da8574b74ba50ad727b59fa8679d93e4b/src/internal/runtime/maps/map.go#L141-L142)
-* randomized[select clause](https://github.com/golang/go/blob/8e714281e441f93d2865adb3c5a507fd161314e9/src/runtime/select.go#L181)
+* randomized [select clause](https://github.com/golang/go/blob/8e714281e441f93d2865adb3c5a507fd161314e9/src/runtime/select.go#L181)
 
 With [timestone](https://github.com/Metamogul/timestone), it is possible to get
 around the scheduling randomness, when this interferes with test results. Check
