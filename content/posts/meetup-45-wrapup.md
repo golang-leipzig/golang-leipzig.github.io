@@ -39,7 +39,7 @@ In the past, go cover had a couple of issues, among them:
 [#51430](https://github.com/golang/go/issues/51430),
 [#58770](https://github.com/golang/go/issues/58770),
 [#65570](https://github.com/golang/go/issues/65570),
-[#65653](https://github.com/golang/go/issues/65653)
+[#65653](https://github.com/golang/go/issues/65653), ...
 
 Also, there is a currently open proposal:
 
@@ -51,7 +51,7 @@ Also, there is a currently open proposal:
 
 The [gocoverageplus](https://github.com/Fabianexe/gocoverageplus) addresses
 some of these shortcomings and also supports
-[cobertura](https://gcovr.com/en/stable/output/cobertura.html) output format.
+[cobertura](https://gcovr.com/en/stable/output/cobertura.html) output format, as well as complexity metrics.
 
 A short usage demo:
 
@@ -71,7 +71,7 @@ $ gocoverageplus -i c.out -o p.out
 The render the report, e.g. as HTML or to stdout. A nice little TUI for
 coverage reports is: [gocovsh](https://github.com/orlangure/gocovsh).
 
-![](/images/gocovsh.png)
+[![](/images/gocovsh.png)](https://github.com/orlangure/gocovsh)
 
 ### Go scheduler overlay
 
