@@ -104,5 +104,5 @@ out some of the examples included in the library, here:
 * for integration testing, [testcontainers](https://golang.testcontainers.org/)
   can come in handy; you can simulate the actual services your code interfaces
   with, like key-value stores, object stores, search engines, databases, etc. -- a handy, albeit slightly slower, alternative to mock objects
-* for a more unusual test setup, see bradfitz' lightning talk about running go tests in a VM w/ qemu
+* for a more unusual test setup, see bradfitz' lightning talk about [running go tests in a VM w/ qemu](https://www.youtube.com/watch?v=69Zy77O-BUM)
 
