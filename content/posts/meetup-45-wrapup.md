@@ -57,7 +57,7 @@ A short usage demo:
 
 ```shell
 $ go install github.com/Fabianexe/gocoverageplus@latest
-$ go test -cover -coverprofile=cover.out
+$ go test -cover -coverprofile=c.out
 ```
 
 Put a [config
@@ -65,8 +65,15 @@ file](https://github.com/Fabianexe/gocoverageplus/?tab=readme-ov-file#config)
 into your projects folder, then:
 
 ```
-$ gocoverageplus -i cover.out -o plus.out
+$ gocoverageplus -i c.out -o p.out
 ```
 
+The render the report, e.g. as HTML or to stdout. A nice little TUI for
+coverage reports is: [gocovsh](https://github.com/orlangure/gocovsh).
+
+![](/images/gocovsh.png)
+
 ### Go scheduler overlay
+
+
 
