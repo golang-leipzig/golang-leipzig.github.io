@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #45 wrap-up"
-date: 2024-11-12T10:00:00+01:00
-draft: true
+date: 2024-11-14T17:00:00+01:00
+draft: false
 tags:
 - summary
 - meetup
@@ -97,4 +97,11 @@ With [timestone](https://github.com/Metamogul/timestone), it is possible to get
 around the scheduling randomness, when this interferes with test results. Check
 out some of the examples included in the library, here:
 [timestone/examples](https://github.com/Metamogul/timestone/tree/main/examples)
+
+
+### Misc
+
+* for integration testing, [testcontainers](https://golang.testcontainers.org/)
+  can come in handy; you can simulate the actual services your code interfaces
+  with, like key-value stores, object stores, search engines, databases, etc. -- a handy, albeit slightly slower, alternative to mock objects
 
