@@ -8,7 +8,7 @@ Requirements:
 * FFMPEG
 * make
 
-![](anim.webm)
+![](https://github.com/golang-leipzig/golang-leipzig.github.io/raw/refs/heads/source/static/images/meetup-45/anim.webm)
 
 ## Build
 
