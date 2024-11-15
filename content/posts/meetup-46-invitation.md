@@ -7,7 +7,9 @@ tags:
 - meetup
 ---
 
-## Better software insights: metrics with Go and systemd + improved continuous integration
+## Better software insights
+
+> Metrics with Go and systemd + improved continuous integration
 
 Hello, 世界!
 
