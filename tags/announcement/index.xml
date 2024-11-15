@@ -6,7 +6,19 @@
     <description>Recent content in announcement on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2024 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Nov 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #46 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-46-invitation/</link>
+      <pubDate>Fri, 15 Nov 2024 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-46-invitation/</guid>
+      <description>Better software insights: metrics with Go and systemd + improved continuous integration Hello, 世界!
+For meetup #46 on Tuesday Nov 26, 2024 19:00 CET at Basislager Leipzig we will have two great input presentations related to metrics and continuous integration:
+Leandro will tell us how he is Getting metrics out of Systemd Journal with Go from a current C++ project, he is working on.
+Fedor will take us on a tour on how to Getting more out of your Continuous Integration (CI), especially:</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #45 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-45-invitation/</link>
