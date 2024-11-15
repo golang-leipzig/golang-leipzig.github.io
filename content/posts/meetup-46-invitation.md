@@ -29,10 +29,12 @@ how to **Getting more out of your Continuous Integration (CI)**, especially:
 Demos will include code from
 [neondatabase/gh-workflow-stats-action](https://github.com/neondatabase/gh-workflow-stats-action/)
 and
-[neondatabase/create-branch-action](https://github.com/neondatabase/create-branch-action)
+[neondatabase/create-branch-action](https://github.com/neondatabase/create-branch-action),
+which come from the [neon.tech](https://neon.tech/) project, a serverless
+postgres database.
 
 Join us for discussions and insights on how to better understand your software
-and systems.
+and systems!
 
 ### Schedule
 
