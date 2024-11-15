@@ -1,6 +1,6 @@
 # Create a static webm
 
-See: [https://www.linkedin.com/posts/martin-czygan-58348842_are-you-interested-in-reliable-and-robust-activity-7256965732721213442-qMtW?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/martin-czygan-58348842_are-you-interested-in-reliable-and-robust-activity-7256965732721213442-qMtW?utm_source=share&utm_medium=member_desktop)
+See: [LinkedIn Post 7256965732721213442](https://www.linkedin.com/posts/martin-czygan-58348842_are-you-interested-in-reliable-and-robust-activity-7256965732721213442-qMtW)
 
 Requirements:
 
@@ -8,7 +8,7 @@ Requirements:
 * FFMPEG
 * make
 
-![](https://github.com/golang-leipzig/golang-leipzig.github.io/raw/refs/heads/source/static/images/meetup-45/anim.webm)
+![](anim-20.gif)
 
 ## Build
 
