@@ -13,7 +13,8 @@
       <pubDate>Fri, 15 Nov 2024 10:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-46-invitation/</guid>
-      <description>Better software insights: metrics with Go and systemd + improved continuous integration Hello, 世界!
+      <description>Better software insights  Metrics with Go and systemd + improved continuous integration
+ Hello, 世界!
 For meetup #46 on Tuesday Nov 26, 2024 19:00 CET at Basislager Leipzig we will have two great input presentations related to metrics and continuous integration:
 Leandro will tell us how he is Getting metrics out of Systemd Journal with Go from a current C++ project, he is working on.
 Fedor will take us on a tour on how to Getting more out of your Continuous Integration (CI), especially:</description>
