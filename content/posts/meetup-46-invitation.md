@@ -19,8 +19,8 @@ CET](https://www.meetup.com/leipzig-golang/events/298066372/) at
 input presentations related to metrics and continuous integration:
 
 [Leandro](https://www.linkedin.com/in/leandrosansilva/) will tell us how he is
-**Getting metrics out of Systemd Journal with Go** from a current C++ project,
-he is working on.
+**Getting metrics out of systemd journal with Go** from a current C++ project,
+he is working on. Arch wiki has a nice page on [systemd/Journal](https://wiki.archlinux.org/title/Systemd/Journal).
 
 [Fedor](https://www.linkedin.com/in/fedor-dikarev/) will take us on a tour on
 how to **Getting more out of your Continuous Integration (CI)**, especially:
