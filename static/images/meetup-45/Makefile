@@ -6,6 +6,9 @@ anim.webm: anim.gif
 anim.gif: main.py
 	source .venv/bin/activate && python main.py && deactivate
 
+anim-20.gif: anim.gif
+	convert -resize 20%% anim.gif anim-20.gif
+
 .PHONY: venv
 venv:
 	python -m venv .venv && source .venv/bin/activate && pip install -U uv && uv pip install -r requirements.txt
