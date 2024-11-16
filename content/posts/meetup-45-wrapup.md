@@ -68,14 +68,14 @@ into your projects folder, then:
 $ gocoverageplus -i c.out -o p.out
 ```
 
-The render the report, e.g. as HTML or to stdout. A nice little TUI for
+Then render the report, e.g. as HTML or to stdout. A nice little TUI for
 coverage reports is: [gocovsh](https://github.com/orlangure/gocovsh).
 
 [![](/images/gocovsh.png)](https://github.com/orlangure/gocovsh)
 
 ### Go scheduler overlay
 
-We took another view on testing, through the lens of [timestone](https://github.com/Metamogul/timestone),
+We took another look on testing, through the lens of [timestone](https://github.com/Metamogul/timestone),
 
 >  a library to create deterministic and easy-to-understand unit tests for time-dependent, concurrent go code.
 
