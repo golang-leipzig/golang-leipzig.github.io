@@ -7,7 +7,7 @@ We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
 Open lunch 🍜 meetings [every second Wednesday](https://golangleipzig.space/posts/go-tech-lunch-dates-2024/).
-Next hybrid [meetup #46](https://golangleipzig.space/posts/meetup-46-invitation/) is scheduled for [Tue, 2024-11-26 19:00](https://www.meetup.com/leipzig-golang/events/298066372/) at [Basislager](https://www.basislager.co/de) and online via [Jitsi](https://meet.jit.si/LeipzigGophers46).
+X-Mas ⛄ Drinkup #47 scheduled for [Thu, 2024-12-19 19:00](https://www.meetup.com/leipzig-golang/events/298066373), offline only.
 
 
 <!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
@@ -60,6 +60,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#46](https://golangleipzig.space/posts/meetup-46-wrapup/),
 [#45](https://golangleipzig.space/posts/meetup-45-wrapup/),
 [#44](https://golangleipzig.space/posts/meetup-44-wrapup/),
 [#43](https://golangleipzig.space/posts/meetup-43-wrapup/),
