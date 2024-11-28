@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Extract, Transform, Go: Logs, CI and serverless databases
+## Log, Transform, Go: Logs, CI and serverless databases
 
 Hybrid Meetup #46 took place
 [2024-11-26](https://www.meetup.com/leipzig-golang/events/298481354/) 19:00 at
