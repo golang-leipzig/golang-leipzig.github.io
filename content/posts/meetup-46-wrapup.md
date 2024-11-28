@@ -38,6 +38,8 @@ environments, where go is viable and a performant option, too.
 
 > More details [in the slides](/downloads/leipzig-gophers-46-2024-11-26-go-journald-exporter.html).
 
+[![](/images/meetup-46-go-journald-exporter-slides-screenie.png)](/downloads/leipzig-gophers-46-2024-11-26-go-journald-exporter.html)
+
 ### From GitHub workflow JSON to postgres to grafana
 
 [Fedor](https://www.linkedin.com/in/fedor-dikarev/) turned GitHub CI run
