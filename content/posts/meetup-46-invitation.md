@@ -55,6 +55,7 @@ See you!
 
 <!--
 
-XXX: LI, SLACK
+https://www.linkedin.com/posts/fedor-dikarev_hybrid-meetup-46-invitation-activity-7263194440679243776-uT7S
+https://www.linkedin.com/posts/martin-czygan-58348842_tonight-join-us-for-leipzig-gophers-hybrid-activity-7267147455928922113-Wo5y
 
 -->
