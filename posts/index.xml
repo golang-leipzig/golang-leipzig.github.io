@@ -13,7 +13,7 @@
       <pubDate>Wed, 27 Nov 2024 13:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-46-wrapup/</guid>
-      <description>Log, Transform, Go: Logs, CI and serverless databases Hybrid Meetup #46 took place 2024-11-26 19:00 at Basislager and we had a nice mix of people, both online and offline, with different backgrounds in addition to two great presentations.
+      <description>Log, Transform, Monitor: Journals, CI and serverless databases Hybrid Meetup #46 took place 2024-11-26 19:00 at Basislager and we had a nice mix of people, both online and offline, with different backgrounds in addition to two great presentations.
 Go journald exporter Leandro motivated the need for a tool that joins a legacy C++ application with modern event monitoring tool like Prometheus, through systemd, specifically journald: go-journald-exporter.
 journald has a native protocol that allows processes to write directly to the log; go-journald-exporter will use go-systemd bindings to seek to the end of the journal, listen for specific messages and transform them to prometheus metrics, which the tool exposes through an HTTP endpoint (because Prometheus is pull-based).</description>
     </item>
