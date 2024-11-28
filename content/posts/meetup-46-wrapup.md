@@ -47,7 +47,7 @@ results (taken from the API, JSON format) into much more comprehensible visual
 aggregations with a small tool:
 [gh-workflow-stats-action](https://github.com/neondatabase/gh-workflow-stats-action/).
 
-[![](/images/meetup-46-screenie.png)](https://github.com/neondatabase)
+[![](/images/meetup-46-screenie.png)](https://github.com/neondatabase/neon/actions)
 
 It reads data off the GitHub API, populates a postgres database and uses
 [grafana
