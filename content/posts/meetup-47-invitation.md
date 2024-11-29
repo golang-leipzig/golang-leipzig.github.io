@@ -16,7 +16,7 @@ CET](https://www.meetup.com/leipzig-golang/events/298066373) we will meet at
 
 [![](/images/snow.gif)](https://gifcities.org/?q=snow)
 
-[Join us](https://www.meetup.com/leipzig-golang/events/290666187/) to discuss
+[Join us](https://www.meetup.com/leipzig-golang/events/298066373) to discuss
 all things Go and beyond.
 
 
