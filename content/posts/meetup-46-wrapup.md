@@ -72,9 +72,9 @@ On the side: neon.tech is [hiring](https://neon.tech/careers)!
 
 ### Thanks for the tools!
 
-[SLOC](https://github.com/XAMPPRocky/tokei) of the tools presented: 484 (go-journald-exporter) and 622 SLOC
-(gh-workflow-stats-action), both help to turn streams of diagnostics into
-suitable formats for modern monitoring tools and are adaptable in own projects.
+[SLOC](https://github.com/XAMPPRocky/tokei) of the tools presented: 484 (go-journald-exporter) and 622
+(gh-workflow-stats-action) &mdash; both help to turn streams of diagnostics into
+suitable formats for modern monitoring tools and are adaptable in other projects as well.
 
 Thanks again to [Leandro](https://www.linkedin.com/in/leandrosansilva/) and
 [Fedor](https://www.linkedin.com/in/fedor-dikarev/) for the inspiring talks and
