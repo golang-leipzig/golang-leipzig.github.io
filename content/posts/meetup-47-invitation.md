@@ -1,5 +1,5 @@
 ---
-title: "❄️  Drinkup #47 invitation"
+title: "Winter ❄️  Drinkup #47 invitation"
 date: 2024-11-29T22:00:00+01:00
 draft: false
 tags:
