@@ -5,10 +5,8 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)). Winter
-❄️  [Drinkup #47](https://golangleipzig.space/posts/meetup-47-invitation/) on
-[Thu, 2024-12-19 19:00](https://www.meetup.com/leipzig-golang/events/298066373)
-at [Cantona Leipzig](https://www.google.com/search?q=cantona+leipzig).
+40 events so far (six in [2023](https://golangleipzig.space/posts/2023/)).
+Happy holiday season, and see you next year!
 
 
 <!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
