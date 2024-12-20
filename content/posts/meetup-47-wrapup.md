@@ -14,7 +14,7 @@ Drinkup #47 took place [2024-12-19](https://www.meetup.com/leipzig-golang/events
 
 * LLM coding assistants became so mainstream this year that people are starting to turn them off
   (even if they are given away for free); but new interaction modes like *canvas*
-or deeper integration with your *code project* or *IDE* feels a bit like having swimming
+or deeper integration with your *code project* or *IDE* feel a bit like having swimming
 fins 🧜
 * do you know about software that is usable, used and finished? haha! [tell us about it!](https://github.com/golang-leipzig/software-that-is-finished) -- the [DoD would also listen!](https://media.defense.gov/2019/May/01/2002126690/-1/-1/0/SWAP%20EXECUTIVE%20SUMMARY.PDF) cf. [HN](https://news.ycombinator.com/item?id=34558707)
 * well, [are we really engineers](https://www.hillelwayne.com/post/are-we-really-engineers/), then [why can't we make simple software](https://www.youtube.com/watch?v=czzAVuVz7u4)? Does a [time travelling debugger](https://www.youtube.com/watch?v=NiGzdv84iDE) help? If you think the old times were better, or less strange, please check out [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing/)
@@ -23,8 +23,7 @@ fins 🧜
 and you end with mostly focussing on integration tests
 * [Greg Wilson](https://third-bit.com/) nicely summarizes a lots of empirical research on code and
   sofware development into a few slides, like this one:
-[greatest-hits/#20](https://third-bit.com/talks/greatest-hits/#20): SLOC is
-king, more on that complex topic: [From Code Complexity Metrics to Program
+[greatest-hits/#20](https://third-bit.com/talks/greatest-hits/#20): [SLOC](https://en.wikipedia.org/wiki/Source_lines_of_code) is still OK, more on that complex topic: [From Code Complexity Metrics to Program
 Comprehension](https://dl.acm.org/doi/pdf/10.1145/3546576)
 * speaking of SLOC, *did you know* that [wireguard](https://www.wireguard.com/), the VPN tunnel protocol,
   shines on this metric: [3904 vs
