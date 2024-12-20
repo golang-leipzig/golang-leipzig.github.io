@@ -27,7 +27,7 @@ and you end with mostly focussing on integration tests
 Comprehension](https://dl.acm.org/doi/pdf/10.1145/3546576)
 * speaking of SLOC, *did you know* that [wireguard](https://www.wireguard.com/), the VPN tunnel protocol,
   shines on this metric: [3904 vs
-116730](https://www.wireguard.com/talks/fosdem2017-slides.pdf#4) lines of code, compared to OpenVPN (2017,
+116730](https://www.wireguard.com/talks/fosdem2017-slides.pdf#page=4) lines of code, compared to OpenVPN (2017,
 wireguard has been added Linux
 [5.6](https://kernelnewbies.org/Linux_5.6#WireGuard.2C_a_faster.2C_simpler.2C_secure_VPN))
 * speaking of wireguard, *did you know* that you can run a [tailscale control server](https://tailscale.com/opensource) yourself, e.g. with
