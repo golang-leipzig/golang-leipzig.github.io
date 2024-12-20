@@ -12,7 +12,7 @@ tags:
 Drinkup #47 took place [2024-12-19](https://www.meetup.com/leipzig-golang/events/298481354/) 19:00 at
 [Cantona Leipzig](https://www.google.com/search?q=cantona+leipzig).
 
-* LLM coding assistants became so mainstream this year that people started to stop using
+* LLM coding assistants became so mainstream this year that people are starting to stop using
   them (even if they are given away for free); but new interaction modes like *canvas*
 or deeper integration with your *code project* or *IDE* feels a bit like having swimming
 fins 🧜
