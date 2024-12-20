@@ -6,7 +6,17 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 13:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drinkup #47 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-47-wrapup/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-47-wrapup/</guid>
+      <description>Misc Drinkup #47 took place 2024-12-19 19:00 at Cantona Leipzig.
+ LLM coding assistants became so mainstream this year that people started to stop using them (even if they are given away for free); but new interaction modes like canvas or deeper integration with your code project or IDE feels a bit like having swimming fins 🧜 do you know about software that is usable, used and finished? haha! tell us about it!</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #46 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-46-wrapup/</link>
