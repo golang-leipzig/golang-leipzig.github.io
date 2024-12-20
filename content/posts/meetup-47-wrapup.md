@@ -38,18 +38,18 @@ in Go, so we may explore this topic further in an upcoming event (the name tails
 > hyperscaler] &mdash; almost everybody building almost everything doesn't have
 > any of those problems. -- [Avery Pennarun](https://apenwarr.ca/log/) at [45:56...](https://www.buzzsprout.com/1822302/episodes/9890092-tailscale-with-avery-pennarun-brad-fitzpatrick)
 
-[...] Which *may* mean that we will see more people regaining ownership over their personal
-data (or even more [cloud exits](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KRITIS/UPK/upk-exit-strategie-cloud-dienstleistungen.pdf?__blob=publicationFile&v=8) (de)), because it gets constantly cheaper to store, host and run stuff on own
-*infra* -- I may be overly optimistic, but then
-[208K](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ also may
-mean something, after all. The aspect of privacy can also be put at the key of
-products, like [ente.io](https://github.com/ente-io/ente), a *fully open
-source, End to End Encrypted alternative to Google Photos and Apple Photos*.
-
-Note:
+[...] Which *may* mean that we will see more people regaining ownership over
+their personal data &ndash; or even more *cloud exits* &ndash; because it gets
+constantly *cheaper* to store, host and run stuff on own *infra*.
 
 > The people predicting the end of Moore's law is doubling every 18 months. --
 > [[Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_(engineer)), maybe]
+
+The aspect of privacy can also be put at the key of
+products, like [ente.io](https://github.com/ente-io/ente), a *fully open
+source, End to End Encrypted alternative to Google Photos and Apple Photos*.
+
+----
 
 Anyone up for a challenge to implement an [array programming
 language](https://en.wikipedia.org/wiki/Array_programming) in Go? Or
