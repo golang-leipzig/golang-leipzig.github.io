@@ -9,7 +9,7 @@ tags:
 
 ## Misc
 
-Drinkup #47 took place [2024-12-19](https://www.meetup.com/leipzig-golang/events/298481354/) 19:00 at
+Drinkup #47 took place [2024-12-19](https://www.meetup.com/leipzig-golang/events/298066373) 19:00 at
 [Cantona Leipzig](https://www.google.com/search?q=cantona+leipzig).
 
 * LLM coding assistants became so mainstream this year that people are starting to stop using
