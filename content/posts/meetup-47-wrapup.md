@@ -40,7 +40,7 @@ in Go, so we may explore this topic further in an upcoming event (the name tails
 
 [...] Which *may* mean that we will see more people regaining ownership over
 their personal data &ndash; or even more *cloud exits* &ndash; because it gets
-constantly *cheaper* to store, host and run stuff on own *infra*.
+constantly *cheaper* to store, host and run stuff on your own *infra*.
 
 > The people predicting the end of Moore's law is doubling every 18 months. --
 > [[Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_(engineer)), maybe]
