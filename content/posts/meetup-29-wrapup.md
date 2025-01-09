@@ -20,7 +20,7 @@ presentation from [immudb](https://github.com/codenotary/immudb):
 > protected by the clients, without the need to trust the server.
 
 In case you did not know: [Immutability changes
-everything](https://fatcat.wiki/release/7t5f6gtalvfcxecl7q6zw2mrzi) ☯️
+everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf) ☯️
 
 Have a pleasant summer and see you in fall!
 
