@@ -3,9 +3,17 @@
 We are grateful for the support we received and would log our outreach for
 transparency.
 
+## Ongoing
+
+Outreach for companies that host an event on social media platforms, including
+meetup.com where Leipzig Gophers have over 700 members (as of 01/2025);
+documentation of event in out [blog](https://golangleipzig.space/posts/).
+
 ## Long-Term
 
-From 09/2021 to 09/2022: participation in Jetbrains' user group outreach program: [https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
+From 09/2021 to 09/2022: participation in Jetbrains' user group outreach
+program:
+[https://www.jetbrains.com/community/user-groups/](https://www.jetbrains.com/community/user-groups/)
 
 ## 2023-06-20
 
