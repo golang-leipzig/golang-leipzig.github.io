@@ -16,7 +16,7 @@ CET](https://www.meetup.com/leipzig-golang/events/305626240/) at
 [Basislager](https://www.basislager.co) Leipzig we are lucky to have
 [Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/) (Red Hat,
 [RHACS](https://www.redhat.com/en/resources/advanced-cluster-security-for-kubernetes-datasheet)) to dive into kubernetes container security topics,
-including, architecture questions and concrete techniques like forensic container checkpointing (a related [CCC
+including architecture questions and concrete techniques like forensic container checkpointing (a related [CCC
 talk](https://media.ccc.de/v/all-systems-go-2023-177-forensic-container-checkpointing-and-analysis)
 on the matter).
 
