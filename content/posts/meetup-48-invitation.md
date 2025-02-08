@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #48 invitation"
-date: 2025-02-07T10:00:00+01:00
-draft: true
+date: 2025-02-08T12:00:00+01:00
+draft: false
 tags:
 - announcement
 - meetup
@@ -25,7 +25,7 @@ on the matter).
 * 18:45 Doors open
 * 19:00 Welcome
 * 19:10 Kubernetes Security Bits (talk and discussion)
-* 20:15 Local Bar excursion
+* 20:15 [Local bar](https://soltmann.club/) excursion
 
 We'll meet:
 
