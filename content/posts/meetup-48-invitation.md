@@ -38,5 +38,7 @@ See you!
 <!--
 
 https://www.meetup.com/de-DE/kubernetes-user-group-leipzig/discussions/
+https://www.linkedin.com/posts/martin-czygan-58348842_kubernetes-security-activity-7300139316674994176-o8Eb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+https://www.linkedin.com/posts/activity-7299800058810564609-dGEg
 
 -->
