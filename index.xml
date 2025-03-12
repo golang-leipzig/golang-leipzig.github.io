@@ -19,6 +19,17 @@ StackRox/RHACS StackRox (founded in 2014) focussed on container/cluster security
     </item>
     
     <item>
+      <title>Hybrid Meetup #49 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-49-invitation/</link>
+      <pubDate>Tue, 11 Mar 2025 14:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-49-invitation/</guid>
+      <description>Memory Management in Go Hello, 世界!
+For meetup #49 on Tuesday Mar 25, 2025 19:00 CET at CHECK24 Leipzig Office we will dive into the Go memory model and we are glad to have to some great input on this matter:
+ Fabian will dive into Memory Management in Go   Go approaches its memory model in much the same way as the rest of the language, aiming to keep the semantics simple, understandable, and useful.</description>
+    </item>
+    
+    <item>
       <title>Hybrid Meetup #48 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-48-invitation/</link>
       <pubDate>Sat, 08 Feb 2025 12:00:00 +0100</pubDate>
