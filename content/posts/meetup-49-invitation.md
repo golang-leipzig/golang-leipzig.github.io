@@ -12,7 +12,7 @@ tags:
 Hello, 世界!
 
 For meetup #49 on Tuesday [Mar 25, 2025 19:00
-CET](https://www.meetup.com/leipzig-golang/events/298481354) at
+CET](https://www.meetup.com/leipzig-golang/events/305626247) at
 [CHECK24](https://www.check24.de/) Leipzig Office we will dive into the Go
 [memory model](https://go.dev/ref/mem) and we are glad to have to some great input on this matter:
 
