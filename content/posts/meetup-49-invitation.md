@@ -31,7 +31,7 @@ Join us for a fun evening while diving into a core Go language topic!
 
 * 18:45 Doors open
 * 19:00 Welcome
-* 19:10 Talk: Go Memory Model
+* 19:10 Talk: Memory Management in Go
 * 19:50 Lightning Talk: Running your own VPN with headscale
 
 We'll meet:
