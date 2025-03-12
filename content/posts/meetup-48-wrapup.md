@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #48 wrap-up"
-date: 2025-02-25T13:00:00+01:00
-draft: true
+date: 2025-03-12T08:00:00+01:00
+draft: false
 tags:
 - summary
 - meetup
@@ -29,19 +29,19 @@ focussed on container/cluster security and was acquired by Red Hat in
 There are three security layers on the cluster:
 
 * build time (CVE handling, image checks, ...); supported by [roxctl](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_security_for_kubernetes/4.0/html-single/roxctl_cli/index#check-policy-compliance_cli-getting-started)
-* deploy time (admission controllor)
+* deploy time ([admission controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/))
 * runtime (agent collecting telemetry from nodes)
 
 Interestingly, the core application can run on a single node, using a single
 Postgres instance (up to 300GB); vertically scaled to (in the order of) 32
-cores, 64GB RAM.  While this can be a bottleneck, clusters up to 3000 nodes and
-40,000 cores are well supported by the application.
+cores and 64GB RAM.  While this can be a bottleneck, clusters up to 3000 nodes and
+40,000 cores are currently well supported by the application.
 
 Some compute intensive parts of the application include the database, spikes
 from user queries, long running queries or analytics.
 
 StackRox will use other tools, such as [falco](https://falco.org/)
-([source](https://github.com/falcosecurity/falco)).
+([source](https://github.com/falcosecurity/falco)) for event [monitoring](https://falco.org/docs/#what-does-falco-check-for).
 
 > At its core, Falco is a kernel monitoring and detection agent that observes
 > events, such as syscalls, based on custom rules. Falco can enhance these
@@ -63,10 +63,11 @@ We briefly looked at [criu](https://criu.org/Main_Page):
 > this functionality, application or container live migration, snapshots,
 > remote debugging, and many other things are now possible.
 
-...
-
 More on that topic:
 
 * [Forensic Analysis of Container Checkpoints - DevConf.CZ 2023](https://www.youtube.com/watch?v=pySOkAqlGtY)
 * [Forensic container checkpointing and analysis](https://www.youtube.com/watch?v=hpoWOc8QAzU) (ASG23)
 
+Thanks again to
+[Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/) for the great
+high-level archtectural overview.
