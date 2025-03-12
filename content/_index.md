@@ -6,7 +6,7 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (eight in [2024](https://golangleipzig.space/posts/2024/)).
-Meetup #49 is scheduled for
+[Meetup #49](https://golangleipzig.space/posts/meetup-49-invitation/) is scheduled for
 [2025-03-25](https://www.meetup.com/leipzig-golang/events/305626247/) 19:00 CET
 at [CHECK24](https://www.check24.de) [Leipzig
 Office](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6).
