@@ -6,7 +6,18 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2025 12:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 08:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #48 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-48-wrapup/</link>
+      <pubDate>Wed, 12 Mar 2025 08:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-48-wrapup/</guid>
+      <description>Kubernetes Security and checkpoint/restore in userspace Hybrid Meetup #48 took place 2025-02-25 19:00 at Basislager and we had a great presentation about Kubernetes security.
+StackRox/RHACS StackRox (founded in 2014) focussed on container/cluster security and was acquired by Red Hat in 2021.
+ Today, Red Hat is excited to announce that Red Hat Advanced Cluster Security for Kubernetes (RHACS) is now open sourced as StackRox. The Kubernetes and container security community can now use and contribute to the codebase of StackRox on Github.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #48 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-48-invitation/</link>
