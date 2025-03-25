@@ -48,6 +48,7 @@ PS: Free drinks and 🍕, courtesy of [CHECK24](https://www.check24.de/)!
 
 <!--
 
-todo: outreach
+https://www.linkedin.com/posts/florianbr%C3%A4utigam_leipzig-gophers-49-di-25-m%C3%A4rz-2025-activity-7307675881349525505-NOZ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+https://www.linkedin.com/posts/martin-czygan-58348842_golang-go-vpn-activity-7310223721309368320-RRP3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
 
 -->
