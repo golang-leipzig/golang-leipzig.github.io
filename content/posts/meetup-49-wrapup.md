@@ -54,7 +54,7 @@ Some more memory related types:
 * [sync.Pool](https://pkg.go.dev/sync#Pool)
 * [memory arenas](https://github.com/golang/go/issues/51317) (experimental, but likely be declined)
 
-Thanks again [Fabian](https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/) for the great introduction.
+Thanks again [Fabian](https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/) for the great presentation.
 
 ## VPN and *any of those problems*
 
