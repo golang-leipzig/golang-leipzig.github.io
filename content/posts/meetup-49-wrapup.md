@@ -74,6 +74,10 @@ at scale](https://dl.acm.org/doi/pdf/10.1145/2408776.2408794).
 > hyperscaler] &mdash; almost everybody building almost everything doesn't have
 > any of those problems. -- [Avery Pennarun](https://apenwarr.ca/log/) at [45:56...](https://www.buzzsprout.com/1822302/episodes/9890092-tailscale-with-avery-pennarun-brad-fitzpatrick)
 
+PS. Find great gifs for your next presentation at [gifcities.org](https://gifcities.org).
+
+[![](/images/KWO2MF6TRNCGAYOSZWWDVHKBVELCZQV5.gif)](https://gifcities.org)
+
 
 ## Misc
 
