@@ -32,12 +32,11 @@ There is a great GC guide at: [doc/gc-guide](https://go.dev/doc/gc-guide), and
 a few SO questions [tagged with Go and
 GC](https://stackoverflow.com/questions/tagged/go%2bgarbage-collection?tab=Votes)
 
-A tool for visualizing is [structlayout](https://pkg.go.dev/honnef.co/go/tools/cmd/structlayout).
+A tool for visualizing is [structlayout](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout).
 
 ```
 $ go install honnef.co/go/tools/cmd/structlayout@latest
-$ go install honnef.co/go/tools/cmd/structlayout-pretty@latest
-$ go get github.com/ajstarks/svgo/structlayout-svg
+$ go install github.com/ajstarks/svgo/structlayout-svg@latest
 ```
 
 You can then generate struct layout diagrams.
@@ -48,18 +47,19 @@ $ structlayout -json bufio Reader | structlayout-svg -t "bufio.Reader" > /tmp/st
 $ structlayout -json net/http Response | structlayout-svg -t "net/http.Response" > /tmp/struct.svg
 ```
 
-![](/images/meetup-49-structlayout-combined.png)
+[![](/images/meetup-49-structlayout-combined.png)](/images/meetup-49-structlayout-combined.png)
 
-Some more memory related areas are:
+Some more memory related types:
 
 * [sync.Pool](https://pkg.go.dev/sync#Pool)
 * [memory arenas](https://github.com/golang/go/issues/51317) (experimental, but likely be declined)
 
+Thanks again [Fabian](https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/) for the great introduction.
 
 ## VPN and *any of those problems*
 
-Run your own VPN mesh with [headscale](https://headscale.net) or
-[ionscale](https://github.com/jsiebens/ionscale) as the tailscale control
+Run your own VPN mesh with [headscale](https://headscale.net) (or
+[ionscale](https://github.com/jsiebens/ionscale)) as the tailscale control
 server.
 
 Slides: [LGO49-RYOVPN.pdf](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf).
@@ -75,3 +75,20 @@ at scale](https://dl.acm.org/doi/pdf/10.1145/2408776.2408794).
 > any of those problems. -- [Avery Pennarun](https://apenwarr.ca/log/) at [45:56...](https://www.buzzsprout.com/1822302/episodes/9890092-tailscale-with-avery-pennarun-brad-fitzpatrick)
 
 
+## Misc
+
+* LLM use case snapshot: documentation navigation (using an LLM feels like
+  using SO in the 2010s), writing 5-10 lines functions, writing narrow types,
+e.g. a helper to fill a type with random values; build tool scripts
+adjustments; emacs has [gptel](https://github.com/karthink/gptel), a workflow
+that takes a URL and summarizes the content directly in emacs is easy; also
+great tool use in elisp or beyond; LLM as brainstorming/research tool
+* [Waterfall style systems building](https://www.umsl.edu/~hugheyd/is6840/waterfall.html) seems to be hard to follow these days (a grand
+  plan seldom survives contact with reality), [preferring throwaway code over
+design
+docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs)
+may be a better way, as designs can be discovered with code while throwing away
+code is part of [building a theory](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+around the requirements and forces surrounding software
+
+[Join our meetup](https://www.meetup.com/de-DE/leipzig-golang/) to get notified of upcoming events.
