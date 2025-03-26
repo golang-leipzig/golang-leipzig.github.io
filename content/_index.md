@@ -6,10 +6,9 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (eight in [2024](https://golangleipzig.space/posts/2024/)).
-[Meetup #49](https://golangleipzig.space/posts/meetup-49-invitation/) is scheduled for
-[2025-03-25](https://www.meetup.com/leipzig-golang/events/305626247/) 19:00 CET
-at [CHECK24](https://www.check24.de) [Leipzig
-Office](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6).
+Meetup #50 is scheduled for
+[2025-04-29](https://www.meetup.com/leipzig-golang/events/306803728) 19:00 CET
+at [Basislager Coworking Leipzig](https://basislager.co).
 
 
 <!-- If you have an idea for a presentation, please [let us know](https://golangleipzig.space/proposals/). -->
@@ -62,6 +61,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#49](https://golangleipzig.space/posts/meetup-49-wrapup/),
 [#48](https://golangleipzig.space/posts/meetup-48-wrapup/),
 [#47](https://golangleipzig.space/posts/meetup-47-wrapup/),
 [#46](https://golangleipzig.space/posts/meetup-46-wrapup/),
