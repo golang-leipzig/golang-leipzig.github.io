@@ -17,7 +17,7 @@ Coworking](https://basislager.co) we are thrilled to have two input
 presentations:
 
 * [Leandro](https://www.linkedin.com/in/leandrosansilva/) will reflect on a
-  recent software project of his, written in Go, that provides [smart postfix
+  recent [software project](https://gitlab.com/leandrosansilva/controlcenter) of his, written in Go, that provides [smart postfix
 monitoring](https://controlcenter.app/). The project was part of the [YC-W22
 batch](https://www.ycombinator.com/companies/lightmeter) ([blog](https://www.ycombinator.com/blog/meet-the-yc-winter-2022-batch)). The title of his
 talk will be:
