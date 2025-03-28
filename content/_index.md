@@ -6,7 +6,7 @@ draft: false
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 40 events so far (eight in [2024](https://golangleipzig.space/posts/2024/)).
-Meetup #50 is scheduled for
+[Meetup #50](/posts/meetup-50-invitation/) is scheduled for
 [2025-04-29](https://www.meetup.com/leipzig-golang/events/306803728) 19:00 CET
 at [Basislager Coworking Leipzig](https://basislager.co).
 
@@ -117,10 +117,30 @@ We try to sum up every meetup in a short blog post:
 
 {{< h2 >}} Contributions and Sponsors {{< /h2 >}}
 
-We'd like to thank [edgeless systems](https://www.edgeless.systems) ([#22](https://golangleipzig.space/posts/meetup-22-wrapup/)),
-[sciendis](https://www.sciendis.de/) ([#23](https://golangleipzig.space/posts/meetup-23-wrapup/)), [CodeNotary](https://codenotary.com/) ([#30](https://golangleipzig.space/posts/meetup-30-wrapup/)), [Deta Cloud](https://deta.space/) ([#31](https://golangleipzig.space/posts/meetup-31-wrapup/)),
-[Gridfuse](https://gridfuse.com/) ([#32](https://golangleipzig.space/posts/meetup-32-wrapup/), [#43](https://golangleipzig.space/posts/meetup-43-wrapup/)), [Encore](https://encore.dev) ([#36](https://golangleipzig.space/posts/meetup-36-wrapup/)),
-[CHECK24](https://www.check24.de/) ([#38](https://golangleipzig.space/posts/meetup-38-wrapup/), [#42](https://golangleipzig.space/posts/meetup-42-wrapup/), [#45](https://golangleipzig.space/posts/meetup-45-wrapup/), [#49](https://golangleipzig.space/posts/meetup-49-wrapup/)), [Ardan Labs](https://ardanlabs.com) ([#40](https://golangleipzig.space/posts/meetup-40-wrapup/)) and [GOLAB](https://golab.io) for their contributions and [Manning Publications](https://www.manning.com/), [O'Reilly Media](https://www.oreilly.com/pub/cpc/323592) and [Jetbrains](https://www.jetbrains.com/) for their support.
+We'd like to thank [edgeless systems](https://www.edgeless.systems)
+([#22](https://golangleipzig.space/posts/meetup-22-wrapup/)),
+[sciendis](https://www.sciendis.de/)
+([#23](https://golangleipzig.space/posts/meetup-23-wrapup/)),
+[CodeNotary](https://codenotary.com/)
+([#30](https://golangleipzig.space/posts/meetup-30-wrapup/)), [Deta
+Cloud](https://deta.space/)
+([#31](https://golangleipzig.space/posts/meetup-31-wrapup/)),
+[Gridfuse](https://gridfuse.com/)
+([#32](https://golangleipzig.space/posts/meetup-32-wrapup/),
+[#43](https://golangleipzig.space/posts/meetup-43-wrapup/)),
+[Encore](https://encore.dev)
+([#36](https://golangleipzig.space/posts/meetup-36-wrapup/)),
+[CHECK24](https://www.check24.de/)
+([#38](https://golangleipzig.space/posts/meetup-38-wrapup/),
+[#42](https://golangleipzig.space/posts/meetup-42-wrapup/),
+[#45](https://golangleipzig.space/posts/meetup-45-wrapup/),
+[#49](https://golangleipzig.space/posts/meetup-49-wrapup/)), [Ardan
+Labs](https://ardanlabs.com)
+([#40](https://golangleipzig.space/posts/meetup-40-wrapup/)) and
+[GOLAB](https://golab.io) for their contributions and [Basislager Leipzig](https://basislager.co), [Manning
+Publications](https://www.manning.com/), [O'Reilly
+Media](https://www.oreilly.com/pub/cpc/323592) and
+[Jetbrains](https://www.jetbrains.com/) for their support.
 
 <!--
 [![oreilly logo](/images/oreilly-50.jpg)](https://www.oreilly.com/pub/cpc/323592)
