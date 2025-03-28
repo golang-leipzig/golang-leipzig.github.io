@@ -20,9 +20,12 @@ presentations:
   recent software project of his, written in Go, that provides [smart postfix
 monitoring](https://controlcenter.app/). The project was part of the [YC-W22
 batch](https://www.ycombinator.com/companies/lightmeter) ([blog](https://www.ycombinator.com/blog/meet-the-yc-winter-2022-batch)). The title of his
-talk will be: *How a Go project dies; lessons learned, challenges to revive
-it and the scars I got on the way* - this will be a great mix of technical and
-non-technical aspects of building software projects.
+talk will be:
+
+> How a Go project dies; lessons learned, challenges to revive it and the scars I got on the way
+
+This will be a great mix of technical and non-technical aspects of building
+software projects.
 * [Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/) (ex-RedHat)
   will take another closer look at
 [StackRox](https://github.com/stackrox/stackrox), the Kubernetes Security
