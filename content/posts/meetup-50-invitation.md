@@ -26,7 +26,7 @@ talk will be:
 
 This will be a great mix of technical and non-technical aspects of building
 software projects.
-* [Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/) (ex-RedHat)
+* [Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/)
   will take another closer look at
 [StackRox](https://github.com/stackrox/stackrox), the Kubernetes Security
 platform. He'll be talking about the client-server protocol between the
