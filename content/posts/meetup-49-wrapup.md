@@ -84,9 +84,10 @@ PS. Find great gifs for your next presentation at [gifcities.org](https://gifcit
 * LLM use case snapshot: documentation navigation (using an LLM feels like
   using SO in the 2010s), writing 5-10 lines functions, writing narrow types,
 e.g. a helper to fill a type with random values; build tool scripts
-adjustments; emacs has [gptel](https://github.com/karthink/gptel), a workflow
-that takes a URL and summarizes the content directly in emacs is easy; also
-great tool use in elisp or beyond; LLM as brainstorming/research tool
+adjustments; emacs has [gptel](https://github.com/karthink/gptel) (example
+[RAGmacs](https://www.youtube.com/watch?v=JHXG225oP8E)), a workflow that takes
+a URL and summarizes the content directly in emacs is easy; also great tool use
+in elisp or beyond; LLM as brainstorming/research tool
 * [Waterfall style systems building](https://www.umsl.edu/~hugheyd/is6840/waterfall.html) seems to be hard to follow these days (a grand
   plan seldom survives contact with reality), [preferring throwaway code over
 design
