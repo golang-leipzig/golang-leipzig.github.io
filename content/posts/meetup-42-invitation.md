@@ -18,7 +18,7 @@ Leipzig](https://maps.app.goo.gl/hWKDzUNSYuHcRCew6). CHECK24 has a diverse tech 
 We will have two presentations: one about
 [SIMD](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
 and [Go](https://github.com/alivanz/go-simd), by Patrick Vahl and one about the
-1BRC ([1 Billion Row Challange](https://web.archive.org/web/20241116164008/https://1brc.dev//)) and Go performance tips by [Martin Czygan](https://www.linkedin.com/in/martin-czygan-58348842/).
+1BRC ([1 Billion Row Challange](https://web.archive.org/web/20241116164008/https://1brc.dev/)) and Go performance tips by [Martin Czygan](https://www.linkedin.com/in/martin-czygan-58348842/).
 
 We'll meet:
 
