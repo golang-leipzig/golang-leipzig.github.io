@@ -30,7 +30,7 @@ can be found here:
 While SIMD support is still a topic of discussion, e.g. in [#53171](https://github.com/golang/go/issues/53171), there exist usable approaches today.
 
 [Martin Czygan](https://de.linkedin.com/in/martin-czygan-58348842) took a Go
-implementation of the [1BRC](https://1brc.dev) from 4 minutes to 4s, using
+implementation of the [1BRC](https://web.archive.org/web/20241116164008/https://1brc.dev/) from 4 minutes to 4s, using
 fewer allocations, parallel processing and mmap.
 
 ![](/images/657582.gif)
