@@ -33,8 +33,8 @@ prometheus metrics, which the tool exposes through an HTTP endpoint (because Pro
 [pull-based](https://prometheus.io/docs/introduction/faq/#why-do-you-pull-rather-than-push)).
 
 This way, a lightweight [tool of a few hundred lines of code](https://gitlab.com/leandrosansilva/go-journald-exporter/), can offer better
-visibility into a fleet of legacy applications running low resource
-environments, where go is viable and a performant option, too.
+visibility into a fleet of legacy applications running in a low resource
+environment, where Go is viable and a performant option, too.
 
 > More details [in the slides](/downloads/leipzig-gophers-46-2024-11-26-go-journald-exporter.html).
 
