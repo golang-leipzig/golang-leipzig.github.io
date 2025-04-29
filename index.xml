@@ -1055,7 +1055,7 @@ See you!</description>
       <pubDate>Fri, 29 May 2020 20:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-11-wrapup/</guid>
-      <description>🔗 Kubeflow  The data science process is not free of friction, especially when acquiring, preparing and cleaning data. But even when data is readily available, one might want to use it to train a number of ML models to perform model selection.
+      <description>Kubeflow 🔗  The data science process is not free of friction, especially when acquiring, preparing and cleaning data. But even when data is readily available, one might want to use it to train a number of ML models to perform model selection.
 And what happens, if an update is available and the whole process needs to be run again? Optimally with a tested model that is put into production in a canary deployment workflow?</description>
     </item>
     
@@ -1077,7 +1077,7 @@ Kubeflow - A follow up Leveraging Kubernetes for Data Science purposes is still 
       <pubDate>Tue, 21 Apr 2020 10:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-10-wrapup/</guid>
-      <description>🔗 The sync package  Virtual Meetup #10 took place on Friday, April 17, 2020, 19:00 CEST via Zoom (thanks to saschagrunert and CNCF).
+      <description>The sync package 🔗  Virtual Meetup #10 took place on Friday, April 17, 2020, 19:00 CEST via Zoom (thanks to saschagrunert and CNCF).
 Michael prepared a great overview of the sync and x/sync packages, which implement concurrency related facilities (concurrency is hard with either classical approaches or CSP, as we learned from a presentation last year at meetup #2).
 The overview included among other things a bug hunt in a counter example and a benchmark of the builtin map and sync.</description>
     </item>
@@ -1100,7 +1100,7 @@ For Meetup #10 on Friday, April 17, 2020, we still would like to bring people to
       <pubDate>Sat, 22 Feb 2020 01:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-9-wrapup/</guid>
-      <description>🔗 Go 1.14  Meetup #9 took place on Friday, February 21, 2020, 19:00 CEST at Basislager.
+      <description>Go 1.14 🔗  Meetup #9 took place on Friday, February 21, 2020, 19:00 CEST at Basislager.
 We looked at changes coming in the upcoming Go 1.14 release, which is is expected to be released in February 2020.
 The slides can be found here:
  Slides, Repo  
@@ -1138,7 +1138,7 @@ Let&amp;rsquo;s explore this future together in 2020!</description>
       <pubDate>Tue, 19 Nov 2019 21:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-8-wrapup/</guid>
-      <description>🔗 Anatomy of a Go module proxy  The Go packaging story started many years ago with GO15VENDOREXPERIMENT and a myriad of tools for managing dependencies. And, annoyingly GOPATH was one of the main obstactles for people getting started with Go. Since Go 1.11, we have experimental support for Go modules.
+      <description>Anatomy of a Go module proxy 🔗  The Go packaging story started many years ago with GO15VENDOREXPERIMENT and a myriad of tools for managing dependencies. And, annoyingly GOPATH was one of the main obstactles for people getting started with Go. Since Go 1.11, we have experimental support for Go modules.
 A new component related to modules is the module proxy. A bit of history, internals and pitfalls has been compiled by klingtnet into a great talk.</description>
     </item>
     
@@ -1162,7 +1162,7 @@ Unser nächstes Meetup findet am 15. November 19:00 im Basislager statt.</descri
       <pubDate>Sat, 28 Sep 2019 14:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-7-wrapup/</guid>
-      <description>🔗 Concurrency in Go  Concurrency is hard, but the primitive building blocks of CSP in Go - goroutines and channels - can make things simpler.
+      <description>Concurrency in Go 🔗  Concurrency is hard, but the primitive building blocks of CSP in Go - goroutines and channels - can make things simpler.
 We glanced at the six chapters of Concurrency in Go, and learned a bit about the problem setting, goroutine sizes, context switch times and patterns.
 The notes can be found here:
  Notes on Concurrency in Go  In the book, the perf tool is used to benchmark context switch times of the kernel - and to compare it with context switch times in the Go scheduler.</description>
@@ -1174,7 +1174,7 @@ The notes can be found here:
       <pubDate>Mon, 16 Sep 2019 21:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/go-cloud-native-split/</guid>
-      <description>🔗 TL;DR  We will reshuffle meetups a bit: The current Go and Cloud Native meetup will be split up, into a Go focussed meetup (we will keep the Meetup group, just rename it) and a dedicated Cloud Native Meetup - which might be merged with the growing Linux Meetup Leipzig.
+      <description>TL;DR 🔗  We will reshuffle meetups a bit: The current Go and Cloud Native meetup will be split up, into a Go focussed meetup (we will keep the Meetup group, just rename it) and a dedicated Cloud Native Meetup - which might be merged with the growing Linux Meetup Leipzig.
 If you have not attended Linux Meetup Leipzig yet and you are interested in Enterprise Linux and Cloud Native topics, please join.</description>
     </item>
     
@@ -1212,7 +1212,7 @@ Here&amp;rsquo;s a link to a discount code to get in for free:
       <pubDate>Fri, 12 Jul 2019 22:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-6-wrapup/</guid>
-      <description>🔗 Where to Go?  The Berlin Go User Group celebrates its eighth birthday next week. Our meetup just completed its first ½ year - so far, we touched upon quite a few of the initial topic ideas.
+      <description>Where to Go? 🔗  The Berlin Go User Group celebrates its eighth birthday next week. Our meetup just completed its first ½ year - so far, we touched upon quite a few of the initial topic ideas.
 As for Go conferences, Golab is an annual international Go conference, which will have its 4th edition this October. We have two free tickets for you - if you are interested, just drop me a line.</description>
     </item>
     
@@ -1235,10 +1235,10 @@ Offenes Treffen, eigene Projekte, Themen, Tools, Fragen sind willkommen, ebenso 
       <pubDate>Sat, 15 Jun 2019 01:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-5-wrapup/</guid>
-      <description>🔗 Bits from the IO package  The IO package is a central package in the standard library, as it provides (among other things) two main interfaces:
+      <description>Bits from the IO package 🔗  The IO package is a central package in the standard library, as it provides (among other things) two main interfaces:
  io.Reader io.Writer  In a lightning talk we dug a bit into the package:
  Slides (PDF) Repo  The IO model is simple and powerful (and reminds one of UNIX pipes).
-🔗 Automate the Web with chromedp  In a code walkthrough we explored chromedp, a pure Go library talking the Chrome devtools protocol.</description>
+Automate the Web with chromedp 🔗  In a code walkthrough we explored chromedp, a pure Go library talking the Chrome devtools protocol.</description>
     </item>
     
     <item>
@@ -1259,7 +1259,7 @@ As always are also looking for lightning talks, presentations or other kinds of 
       <pubDate>Fri, 17 May 2019 22:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-4-wrapup/</guid>
-      <description>🔗 Lightning Network Micropayments  Go is popular in the crypocurrency space. The well-rounded standard library and great support for networking applications might be one reason. In Meetup #4 Philipp presented an introduction to Bitcoin, Lighting Network and a Go project, that makes micropayments for API usage really simple: ln-paywall.
+      <description>Lightning Network Micropayments 🔗  Go is popular in the crypocurrency space. The well-rounded standard library and great support for networking applications might be one reason. In Meetup #4 Philipp presented an introduction to Bitcoin, Lighting Network and a Go project, that makes micropayments for API usage really simple: ln-paywall.
 The presentation is available as PDF.
 An http middleware takes care of creating invoices per request, a complete example can be implemented in a few lines.</description>
     </item>
