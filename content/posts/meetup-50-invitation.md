@@ -26,7 +26,7 @@ talk will be:
 
 This will be a great mix of technical and non-technical aspects of building
 software projects.
-* [**cancelled**] [Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/)
+* **cancelled** [Simon](https://www.linkedin.com/in/simon-b%C3%A4umer-a61042177/)
   will take another closer look at
 [StackRox](https://github.com/stackrox/stackrox), the Kubernetes Security
 platform. He'll be talking about the client-server protocol between the
@@ -41,7 +41,7 @@ Join us for retrospectives and real-world software project insights!
 * 18:45 Doors open
 * 19:00 Welcome
 * 19:10 Talk: *How a Go project dies; lessons learned, challenges to revive it and the scars I got on the way*
-* 19:50 Talk: *StackRox Internals* [**cancelled**]
+* 19:50 Talk: *StackRox Internals* **cancelled**
 * 20:30 [Local bar](https://soltmann.club/) excursion
 
 We'll meet:
