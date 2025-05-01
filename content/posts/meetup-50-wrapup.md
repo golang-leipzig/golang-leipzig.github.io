@@ -72,6 +72,10 @@ Weaver](https://serviceweaver.dev/):
 > Under the covers, Service Weaver will dissect your binary along component
 > boundaries, allowing different components to run on different machines. -- [docs](https://serviceweaver.dev/docs.html)
 
+Reflected upon also in [Modular Monolith: Is This the Trend in Software
+Architecture?](https://arxiv.org/pdf/2401.11867); cf. [Back to the Future: From
+Microservices to Monolith](https://arxiv.org/pdf/2308.15281).
+
 * Go has an a bit unusual set of ORM libraries: classical ones like
   [GORM](https://gorm.io/index.html), more code-generation oriented ones like
 [sqlc](https://sqlc.dev/) or [ent](https://github.com/ent/ent); fluent query
