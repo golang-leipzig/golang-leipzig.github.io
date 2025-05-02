@@ -22,7 +22,7 @@ Go, how it started and factors that contributed to its stalling. The company
 around it, [Lightmeter](https://lightmeter.io/), was part of the [YC-W22
 batch](https://www.ycombinator.com/companies/lightmeter), and covered by
 [heise.de](https://www.heise.de/news/Lightmeter-Neues-Monitoring-Werkzeug-fuer-den-E-Mail-Server-4647424.html),
-[Forbes](https://www.forbes.com/sites/davidjeans/2021/03/01/elastic-war-on-amazon-web-services/)
+[Forbes](https://www.forbes.com/sites/davidjeans/2021/03/01/elastic-war-on-amazon-web-services/), [NGI](https://ngi.eu/blog/2022/01/12/whos-ngi-sam-tuke-with-lightmeter/)
 and others.
 
 The slides can be found [here](/downloads/leipzig-gophers-50-2025-04-29-controlcenter-mta-monitoring-how-a-go-project-lives-and-dies.html):
@@ -92,6 +92,8 @@ Telemetry](https://research.swtch.com/telemetry) as well
 * If you run your own email server, you may receive less spam
 * [Is email dead](https://www.emailisnotdead.com/)? Hint: while you read this
   blog post, the world moved 115,403,640 (legitimate) emails forward.
+* [NGI](https://ngi.eu) (Next Generation Internet) is a European
+  Commission initiative to support European digital sovereignty. They have [open calls](https://ngi.eu/opencalls/) to support projects in different areas. There's a similar, smaller scoped fund in Germany, [Prototype Fund](https://prototypefund.de/).
 
 Thanks again to [Leandro](https://www.linkedin.com/in/leandrosansilva/) for the
 talk and insights!
