@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #50 wrap-up"
 date: 2025-05-01T08:00:00+01:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
@@ -25,11 +25,11 @@ batch](https://www.ycombinator.com/companies/lightmeter), and covered by
 [Forbes](https://www.forbes.com/sites/davidjeans/2021/03/01/elastic-war-on-amazon-web-services/)
 and others.
 
-The slides can be found here:
+The slides can be found [here](/downloads/leipzig-gophers-50-2025-04-29-controlcenter-mta-monitoring-how-a-go-project-lives-and-dies.html):
 
-> XXX
+[![](/images/leipzig-gophers-50-how-a-go-project-lives-and-dies.png)](/downloads/leipzig-gophers-50-2025-04-29-controlcenter-mta-monitoring-how-a-go-project-lives-and-dies.html)
 
-Some more takeaways:
+### Some more takeaways
 
 * Monoliths are still ok!
 * A monolith can look like a set of microservices too; with one database
@@ -59,7 +59,7 @@ package (since Go does not have
 * Unfortunately, great software with users does not automatically translate to a product with customers
 
 The open source project is looking for contributors. If you are into mailops, then please take
-a look at [controlcenter repository](https://gitlab.com/leandrosansilva/controlcenter)
+a look at [controlcenter repository](https://gitlab.com/leandrosansilva/controlcenter).
 
 
 ## Misc
