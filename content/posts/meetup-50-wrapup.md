@@ -29,7 +29,7 @@ The slides can be found [here](/downloads/leipzig-gophers-50-2025-04-29-controlc
 
 [![](/images/leipzig-gophers-50-how-a-go-project-lives-and-dies.png)](/downloads/leipzig-gophers-50-2025-04-29-controlcenter-mta-monitoring-how-a-go-project-lives-and-dies.html)
 
-### Some more takeaways
+### Selected takeaways
 
 * Monoliths are still ok!
 * A monolith can look like a set of microservices too; with one database
@@ -53,7 +53,7 @@ to blend Go and SQL
   anticipate the layout of all log lines the application would ever encounter;
 use a crash-first approach to iterate; implemented with a custom assertion
 package (since Go does not have
-[assertions](https://en.wikipedia.org/wiki/Assertion_(software_development)))
+[assertions](https://en.wikipedia.org/wiki/Assertion_(software_development))); telemetry would help to learn about usage in the wild, but users may not support it
 * Early returns, or guard clauses, or the [left-hand rule](https://scribe.rip/@matryer/line-of-sight-in-code-186dd7cdea88) can lead to *else-less code* -- also also avoid the [arrow anti-pattern](http://wiki.c2.com/?ArrowAntiPattern)
 * Controlcenter decided against ORM: tighter coupling, but less complexity and more transparency
 * Unfortunately, great software with users does not automatically translate to a product with customers
@@ -83,6 +83,10 @@ builder, like [bob](https://github.com/stephenafamo/bob), or thin wrappers,
 like [sqlx](https://github.com/jmoiron/sqlx); generic
 [goe](https://github.com/go-goe/goe) and more
 * Object-relational mapping works best until it does not
+* The Go project added telemetry and made the case that open source projects
+  can benefit from telemetry, and that telemetry can be implemented sensible,
+too; Russ Cox has written about [Transparent
+Telemetry](https://research.swtch.com/telemetry) as well
 * Hosting an email server yourself is not too complicated (cf. [mail-in-a-box](https://github.com/mail-in-a-box/mailinabox)), but there is a risk
   being blacklisted and then miss out of important messages
 * If you run your own email server, you may receive less spam
