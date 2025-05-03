@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-## Live and Let Die: The Mail is Not Enough
+## Live and Let Die
 
 Hybrid Meetup #50 took place
 [2025-04-29](https://www.meetup.com/leipzig-golang/events/306803728) 19:00 at
