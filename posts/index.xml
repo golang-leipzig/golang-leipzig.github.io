@@ -13,8 +13,8 @@
       <pubDate>Thu, 01 May 2025 08:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-50-wrapup/</guid>
-      <description>Live and Let Die: The Mail is Not Enough Hybrid Meetup #50 took place 2025-04-29 19:00 at Basislager Leipzig and we had an insightful presentation on How a Go project dies; lessons learned, challenges to revive it and the scars I got on the way.
-Leandro tooks us on a journey into the postfix mail transport agent (MTA) monitoring project controlcenter, written in Go, how it started and factors that contributed to its stalling.</description>
+      <description>Live and Let Die Hybrid Meetup #50 took place 2025-04-29 19:00 at Basislager Leipzig and we had an insightful presentation on How a Go project dies; lessons learned, challenges to revive it and the scars I got on the way.
+Leandro tooks us on a journey into the postfix mail transport agent (MTA) monitoring project controlcenter, written in Go, how it started and factors that contributed to its stalling. The company around it, Lightmeter, was part of the YC-W22 batch, and covered by heise.</description>
     </item>
     
     <item>
