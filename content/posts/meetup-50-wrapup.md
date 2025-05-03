@@ -92,7 +92,7 @@ Telemetry](https://research.swtch.com/telemetry) as well
 * If you run your own email server, you may receive less spam
 * [NGI](https://ngi.eu) (Next Generation Internet) is a European
   Commission initiative to support European digital sovereignty. They have [open calls](https://ngi.eu/opencalls/) to support projects in different areas. There's a similar, smaller scoped fund in Germany, [Prototype Fund](https://prototypefund.de/).
-* [Is email dead](https://www.emailisnotdead.com/)? Hint: while you read this
+* [Is email dead?](https://www.emailisnotdead.com/) Hint: while you read this
   blog post, the world moved 115,403,640 (legitimate) emails forward.
 
 [![](/images/lotsmail.gif)](https://gitcities.org)
