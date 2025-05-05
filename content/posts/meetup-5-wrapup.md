@@ -17,7 +17,7 @@ standard library, as it provides (among other things) two main interfaces:
 
 In a lightning talk we dug a bit into the package:
 
-* [Slides](https://github.com/miku/io15min/blob/master/Slides.md) ([PDF](https://github.com/miku/io15min/blob/master/Slides.pdf))
+* [Slides](https://github.com/miku/io15min/blob/master/Slides.md) ([PDF](/downloads/leipzig-gophers-5-beautiful-strange-io.pdf))
 * [Repo](https://github.com/miku/io15min)
 
 The IO model is simple and powerful (and reminds one of UNIX pipes).
