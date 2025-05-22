@@ -50,4 +50,6 @@ See you!
 
 todo: outreach
 
+https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-llm-activity-7331246910868975616-WHZM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+
 -->
