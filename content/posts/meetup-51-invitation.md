@@ -30,7 +30,7 @@ We may have time for other lightning talks as well.
 
 * 18:45 Doors open
 * 19:00 Welcome
-* 19:10 Experience report: Human x AI for Go and other code (intermediate report)
+* 19:10 Experience report: Human x LLM for Go and other code (intermediate report)
 * 19:45 Open Discussion
 
 We'll meet:
