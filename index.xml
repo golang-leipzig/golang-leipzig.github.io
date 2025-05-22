@@ -14,7 +14,7 @@
       
       <guid>https://golangleipzig.space/posts/meetup-51-invitation/</guid>
       <description>Summer vibes Hello, 世界!
-For meetup #51 on Tuesday May 27, 2025 19:00 CET at Gridfuse we have a short talk/experience report by Martin Czygan on using large language models for writing and editing Go (and other) code.
+For meetup #51 on Tuesday May 27, 2025 19:00 CET at Gridfuse we have two talks! One short talk/experience report by Martin Czygan on using large language models for writing and editing Go (and other) code:
  Beyond Benchmarks: Human x LLM for Go and other code (intermediate report)
   Writing a prompt is like researching a model. Since 01/2025 I have been conducting a self-experiment trying to integrate various LLMs into Go software development (and also other languages), with mixed results.</description>
     </item>
