@@ -38,7 +38,7 @@ We'll meet:
 * in person at [Gridfuse Office](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6), located at Design Offices Leipzig, [Augustusplatz 1-4, 04109 Leipzig](https://www.openstreetmap.org/node/7230218702) ([Google Maps](https://maps.app.goo.gl/Jtcr78iQafZxUtWs6)) -- [directions](/downloads/Directions_Meetup_Gridfuse.pdf) (PDF), also provided at the building entrance
 * and online via [Jitsi](https://meet.jit.si/LeipzigGophers51)
 
-Free drinks and snacks on site, courtesy of [Girdfuse](https://gridfuse.com).
+Free drinks and snacks on site, courtesy of [Gridfuse](https://gridfuse.com).
 
 Join us for discussions on coding tools - new and old - that can augment the
 software development process.
