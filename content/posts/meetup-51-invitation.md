@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #51 invitation"
 date: 2025-05-21T12:00:00+02:00
-draft: true
+draft: false
 tags:
 - announcement
 - meetup
@@ -13,8 +13,9 @@ Hello, 世界!
 
 For meetup #51 on Tuesday [May 27, 2025 19:00
 CET](https://www.meetup.com/leipzig-golang/events/305626253) at
-[Gridfuse](https://gridfuse.com) we have a short talk/experience report on
-using large language models for writing and editing Go (and other) code.
+[Gridfuse](https://gridfuse.com) we have a short talk/experience report by
+[Martin Czygan](https://www.linkedin.com/in/martin-czygan-58348842/) on using
+large language models for writing and editing Go (and other) code.
 
 > Beyond Benchmarks: Human x LLM for Go and other code (intermediate report)
 
@@ -22,6 +23,8 @@ using large language models for writing and editing Go (and other) code.
 > conducting a self-experiment trying to integrate various LLMs into Go
 > software development (and also other languages), with mixed results. This short
 > talk gives a summary with examples, findings, hits and misses.
+
+We may have time for other lightning talks as well.
 
 ### Schedule
 
