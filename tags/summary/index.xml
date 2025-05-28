@@ -6,7 +6,17 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 08:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #51 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-51-wrapup/</link>
+      <pubDate>Wed, 28 May 2025 10:00:00 +0100</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-51-wrapup/</guid>
+      <description>Flaky LLMs and secure containers Hybrid Meetup #51 took place 2025-05-27 19:00 at renewable energy startup Gridfuse and we had two shorter presentations:
+ Beyond Benchmarks: Human x LLM for Go and other code (intermediate report) StackRox architecture and repository setup  LLM for coding related tasks LLM use for coding remains constrained to well scoped problems with some human domain knowledge and oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.</description>
+    </item>
+    
     <item>
       <title>Hybrid Meetup #50 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-50-wrapup/</link>

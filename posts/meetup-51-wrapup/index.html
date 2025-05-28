@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hybrid Meetup #51 wrap-up | Leipzig Gophers</title>
+
+    <style>body{margin:1em auto;padding:1em;color:#2f2d2e;max-width:45em;line-height:1.6;font-family:Georgia,serif;font-size:1.2em}h1{border-bottom:2pt solid #2f2d2e}.header-menu{float:right}ul.pagination{list-style-type:none;text-align:center;padding:0}ul.pagination>li{padding:0 .4em;display:inline-block}div.footer{border-top:1pt solid;text-align:center;padding:1em}img{max-width:100%;max-height:100%;display:block;margin-left:auto;margin-right:auto}@media(min-width:45em){div.tags{float:right}}img[src*="#half"]{width:50%}a{text-decoration:none;color:#35a7ff;border-bottom:2pt solid #fff}a:visited{color:#ff5964}a:hover{border-bottom:2pt solid #ff5964;transition:all 333ms ease-in}a.tag{padding:.1em .4em;background:#2f2d2e;color:#fff;text-decoration:none;border-radius:5pt}a.anchor{padding-right:.3em;color:#d3d3d3}blockquote{color:#838383}</style>
+
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name='impact-site-verification' value='54840aba-1503-416b-b5d7-dafee41af763'> 
+
+
+
+</head>
+
+
+<body>
+<div class="header">
+    <a href="/">Leipzig Gophers</a>
+    <div class="header-menu">
+        <a href="/posts/">blog</a>
+    </div>
+</div>
+<div id="content">
+
+<header>
+    <h1 id="#hybrid-meetup-51-wrap-up">
+        <a class="anchor" href="#hybrid-meetup-51-wrap-up">🔗</a>Hybrid Meetup #51 wrap-up</h1>
+    
+
+<div class="post-meta"><time datetime="2025-05-28">May 28, 2025</time><div class="tags">
+        Tags
+        <a class="tag" href="https://golangleipzig.space/tags/summary/">summary</a>
+        <a class="tag" href="https://golangleipzig.space/tags/meetup/">meetup</a>
+    </div>
+</div>
+</header>
+<article>
+    <h2 id="flaky-llms-and-secure-containers">Flaky LLMs and secure containers</h2>
+<p>Hybrid Meetup #51 took place
+<a href="https://www.meetup.com/leipzig-golang/events/306803728">2025-05-27</a> 19:00 at
+renewable energy startup <a href="https://gridfuse.com">Gridfuse</a> and we had two
+shorter presentations:</p>
+<ul>
+<li>Beyond Benchmarks: <a href="https://github.com/miku/nightjet/blob/main/notes/2025-05-27-lgo-51-short-talk.md">Human x LLM for Go and other code</a> (intermediate report)</li>
+<li>StackRox architecture and repository setup</li>
+</ul>
+<p><img src="/images/meetup-51-pics/PXL_20250527_161842799-s.png" alt=""></p>
+<h3 id="llm-for-coding-related-tasks">LLM for coding related tasks</h3>
+<p>LLM use for coding remains constrained to well scoped problems with some human domain knowledge and
+oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.</p>
+<p>Using an LLM can teleport you into a codebase and let you explore or ask
+specific questions. For code generation, a disciplined approach would be to
+review every line of output.</p>
+<p><a href="https://github.com/miku/nightjet/blob/main/notes/2025-05-27-lgo-51-short-talk.md"><img src="/images/lgo-51-llm-palm-montage.png" alt=""></a></p>
+<p>This was an intermediate report and we hope, we can have a more comprehensive
+assessment of the effects on (Go) software development in the future.</p>
+<h3 id="container-security-and-stackrox-architecture-bits">Container security and StackRox architecture bits</h3>
+<p>We did some architecture and code review along <a href="https://github.com/stackrox/stackrox/blob/92e5d0badaf6a86f0691ad39b739fe233ed193bc/central/platform/reprocessor/singleton.go#L11-L25">diagrams</a> and <a href="https://github.com/stackrox/stackrox">code</a>:</p>
+<p><a href="https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_security_for_kubernetes/4.6/html/architecture/acs-architecture"><img src="/images/lgo-51-acs-architecture-scannerv4.png" alt=""></a></p>
+<p>Some notes:</p>
+<ul>
+<li><a href="https://www.openpolicyagent.org/">Open Policy Agent</a> could have been a component, but for the StackRox use case it was deemed to slow at the time</li>
+<li>StackRox is an example of a vertically scaled project (albeit at some point in the past they had a microservices architecture)</li>
+<li>data structures are modeled in with <a href="https://protobuf.dev/">protobuf</a>, e.g. for <a href="https://github.com/stackrox/stackrox/tree/master/proto/storage">storage</a>, other code is then generated from these definitions</li>
+<li>we looked at a singleton service pattern, e.g. used here: <a href="https://github.com/stackrox/stackrox/blob/92e5d0badaf6a86f0691ad39b739fe233ed193bc/central/platform/reprocessor/singleton.go#L11-L25">singleton.go</a></li>
+</ul>
+<p>Meetup <a href="/posts/meetup-48-wrapup/">#48</a> also gave a high level overview of StackRox.</p>
+<h3 id="misc">Misc</h3>
+<ul>
+<li><a href="https://openlibrary.org/books/OL47286904M/What_Is_ChatGPT_Doing_..._and_Why_Does_It_Work">What Is ChatGPT Doing &hellip; and Why Does It Work?</a></li>
+<li><a href="https://paperswithcode.com/search?q_meta=&amp;q_type=&amp;q=swe-bench">SWE-Bench</a></li>
+</ul>
+<h3 id="thanks-gridfuse">Thanks, Gridfuse!</h3>
+<p>Thanks a lot to <a href="https://gridfuse.com">Gridfuse</a> for providing a great venue
+and atmosphere for our meetup (and
+<a href="https://www.meetup.com/leipzig-devops/">others</a>)!</p>
+<p><img src="/images/meetup-51-pics/PXL_20250527_161842799-s.png" alt=""></p>
+<hr>
+<p><a href="https://www.meetup.com/de-DE/leipzig-golang/">Join our meetup</a> to get notified of upcoming events.</p>
+
+</article>
+
+
+    </div>
+<div class="footer">
+    
+    
+    <div class="footer-links">
+        <a href="https://www.meetup.com/Leipzig-Golang/">Meetup</a><span> / <span><a href="https://github.com/golang-leipzig">GitHub</a><span> / <span><a href="https://raw.githubusercontent.com/golang-leipzig/golang-leipzig.github.io/source/Impressum.txt">Imprint</a><span> / <span><a href="/qr.png">QR</a><span> / <span><a href="https://1mb.club/">1MB</a></div>
+    
+
+    
+    
+</div>
+</body>
+
+</html>
