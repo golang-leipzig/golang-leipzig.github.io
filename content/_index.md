@@ -128,7 +128,7 @@ Cloud](https://deta.space/)
 ([#31](/posts/meetup-31-wrapup/)),
 [Gridfuse](https://gridfuse.com/)
 ([#32](/posts/meetup-32-wrapup/),
-[#43](/posts/meetup-43-wrapup/)),
+[#43](/posts/meetup-43-wrapup/), [#51](/posts/meetup-51-wrapup)),
 [Encore](https://encore.dev)
 ([#36](/posts/meetup-36-wrapup/)),
 [CHECK24](https://www.check24.de/)
