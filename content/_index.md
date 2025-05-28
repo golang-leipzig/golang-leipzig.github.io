@@ -5,13 +5,12 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far (eight in [2024](/posts/2024/)).
-[Meetup #51](/posts/meetup-51-invitation/) is scheduled for
-[2025-05-27](https://www.meetup.com/leipzig-golang/events/305626253) 19:00 CET
-at [Gridfuse](https://gridfuse.com) [Leipzig Office](https://www.openstreetmap.org/node/7230218702).
+50 events so far (eight in [2024](/posts/2024/)).  Over the summer, we'll
+likely meet for drinks, outside. Next scheduled meetup
+[#52](https://www.meetup.com/leipzig-golang/events/305626262) on 2025-09-30.
 
 
-<!-- If you have an idea for a presentation, please [let us know](/proposals/). -->
+If you have an idea for a presentation, please [let us know](/proposals/).
 
 <!-- Please visit [our meetup page](https://www.meetup.com/Leipzig-Golang/) for
 information about upcoming events.
