@@ -14,7 +14,7 @@
       
       <guid>https://golangleipzig.space/posts/meetup-51-wrapup/</guid>
       <description>Flaky LLMs and secure containers Hybrid Meetup #51 took place 2025-05-27 19:00 at renewable energy startup Gridfuse and we had two shorter presentations:
- Beyond Benchmarks: Human x LLM for Go and other code (intermediate report) StackRox architecture and repository setup  LLM for coding related tasks LLM use for coding remains constrained to well scoped problems with some human domain knowledge and oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.</description>
+ Beyond Benchmarks: Human x LLM for Go and other code (intermediate report) StackRox architecture and repository setup  LLM for coding related tasks LLM use for coding remains constrained to well scoped problems with some human domain knowledge, oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.</description>
     </item>
     
     <item>
