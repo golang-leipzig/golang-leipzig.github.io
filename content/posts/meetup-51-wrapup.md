@@ -17,6 +17,8 @@ shorter presentations:
 * Beyond Benchmarks: [Human x LLM for Go and other code](https://github.com/miku/nightjet/blob/main/notes/2025-05-27-lgo-51-short-talk.md) (intermediate report)
 * StackRox architecture and repository setup
 
+![](/images/meetup-51-pics/PXL_20250527_161842799-s.png)
+
 ### LLM for coding related tasks
 
 LLM use for coding remains constrained to well scoped problems with some human domain knowledge and
@@ -58,6 +60,9 @@ Meetup [#48](/posts/meetup-48-wrapup/) also gave a high level overview of StackR
 Thanks a lot to [Gridfuse](https://gridfuse.com) for providing a great venue
 and atmosphere for our meetup (and
 [others](https://www.meetup.com/leipzig-devops/))!
+
+![](/images/meetup-51-pics/PXL_20250527_161842799-s.png)
+
 
 ----
 
