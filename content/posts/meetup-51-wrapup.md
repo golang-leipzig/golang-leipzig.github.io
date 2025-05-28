@@ -57,9 +57,9 @@ Meetup [#48](/posts/meetup-48-wrapup/) also gave a high level overview of StackR
 
 ### Thanks, Gridfuse!
 
-Thanks a lot to [Gridfuse](https://gridfuse.com) for providing a great venue
-and atmosphere for our meetup (and
-[others](https://www.meetup.com/leipzig-devops/))!
+Thanks a lot to [Gridfuse](https://gridfuse.com) for providing a excellent venue in
+the center of Leipzig and great space for our meetup - and
+[others](https://www.meetup.com/leipzig-devops/)!
 
 ![](/images/meetup-51-pics/PXL_20250527_161842799-s.png)
 
