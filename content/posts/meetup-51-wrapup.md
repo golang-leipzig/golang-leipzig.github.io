@@ -17,7 +17,7 @@ shorter presentations:
 * Beyond Benchmarks: [Human x LLM for Go and other code](https://github.com/miku/nightjet/blob/main/notes/2025-05-27-lgo-51-short-talk.md) (intermediate report)
 * StackRox architecture and repository setup
 
-![](/images/meetup-51-pics/PXL_20250527_161842799-s.png)
+![](/images/meetup-51-imgs/PXL_20250527_161842799-s.png)
 
 ### LLM for coding related tasks
 
@@ -61,8 +61,7 @@ Thanks a lot to [Gridfuse](https://gridfuse.com) for providing a excellent venue
 the center of Leipzig and great space for our meetup - and
 [others](https://www.meetup.com/leipzig-devops/)!
 
-![](/images/meetup-51-pics/PXL_20250527_161842799-s.png)
-
+![](/images/meetup-51-imgs/PXL_20250527_161842799-s.png)
 
 ----
 
