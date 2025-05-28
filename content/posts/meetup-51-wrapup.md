@@ -21,8 +21,9 @@ shorter presentations:
 
 ### LLM for coding related tasks
 
-LLM use for coding remains constrained to well scoped problems with some human domain knowledge and
-oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.
+LLM use for coding remains constrained to well scoped problems with some human
+domain knowledge, oversight and review. It is still possible to spot generated
+code, it lacks a kind of *handwriting*.
 
 Using an LLM can teleport you into a codebase and let you explore or ask
 specific questions. For code generation, a disciplined approach would be to
