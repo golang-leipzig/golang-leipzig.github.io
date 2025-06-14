@@ -8,7 +8,7 @@ Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 50 events so far (eight in [2024](/posts/2024/)). Over the summer, we'll likely
 meet for drinks, outside, e.g. on [2025-06-17
 19:00](https://www.meetup.com/leipzig-golang/events/308500693/) at
-[#52](/posts/meetup-52-invititation/). Next scheduled meetup
+[#52](/posts/meetup-52-invitation/). Next scheduled meetup
 [#53](https://www.meetup.com/leipzig-golang/events/305626262) in September, on
 [2025-09-30](https://www.meetup.com/leipzig-golang/events/305626262).
 
