@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 10:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>announcement</title>
+      <link>https://golangleipzig.space/tags/announcement/</link>
+      <pubDate>Sat, 14 Jun 2025 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Wed, 28 May 2025 10:00:00 +0100</pubDate>
+      <pubDate>Sat, 14 Jun 2025 10:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/meetup/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Wed, 28 May 2025 10:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/tags/summary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>announcement</title>
-      <link>https://golangleipzig.space/tags/announcement/</link>
-      <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     
