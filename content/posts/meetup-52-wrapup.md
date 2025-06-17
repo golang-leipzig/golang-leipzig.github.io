@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-[](/images/FW3THGYK53HJD5QYPVF6KL55JUGE3ZY6.gif)
+![](/images/FW3THGYK53HJD5QYPVF6KL55JUGE3ZY6.gif)
 
 ## Misc
 
