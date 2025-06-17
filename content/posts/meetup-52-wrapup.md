@@ -9,8 +9,6 @@ tags:
 
 ![](/images/FW3THGYK53HJD5QYPVF6KL55JUGE3ZY6.gif)
 
-## Misc
-
 * [AI 2027](https://ai-2027.com/)
 * [strudel.cc](https://strudel.cc/)
 
