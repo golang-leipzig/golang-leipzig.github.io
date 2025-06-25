@@ -1,5 +1,5 @@
 ---
-title: "Drinkup #52 wrap-up"
+title: "Summer Drinkup #52 wrap-up"
 date: 2025-06-17T22:30:00+02:00
 draft: false
 tags:
