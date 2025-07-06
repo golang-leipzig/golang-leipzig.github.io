@@ -9,7 +9,7 @@ Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 for drinks, outside. Next [Drinkup
 #53](https://golangleipzig.space/posts/meetup-53-invitation/) on [Tue,
 2025-07-15 19:00](https://www.meetup.com/leipzig-golang/events/308938518). Next
-scheduled meetup [#53](https://www.meetup.com/leipzig-golang/events/305626262)
+scheduled meetup [#54](https://www.meetup.com/leipzig-golang/events/305626262)
 in September, on
 [2025-09-30](https://www.meetup.com/leipzig-golang/events/305626262).
 
