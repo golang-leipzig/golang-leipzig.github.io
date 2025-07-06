@@ -9,9 +9,10 @@ tags:
 
 Hello, 世界!
 
-We'll meet for drinks at [Zum Wilden Heinz](https://g.co/kgs/4d11dEH) on [Tue,
-2025-07-15 19:00](https://www.meetup.com/leipzig-golang/events/308938518).
-Join us to discuss all topics Go, cloud and beyond.
+We'll meet for drinks at [Zum Wilden Heinz](https://g.co/kgs/4d11dEH)
+([OSM](https://www.openstreetmap.org/node/2703852565)) on [Tue, 2025-07-15
+19:00](https://www.meetup.com/leipzig-golang/events/308938518).  Join us to
+discuss all topics Go, cloud and beyond.
 
 [![](/images/mflare_eit304.gif)](https://gifcities.org)
 
