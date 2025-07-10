@@ -19,14 +19,14 @@ short wrap-up:
 save you time.
 
 2. [Michael](https://www.meetup.com/Leipzig-Golang/members/201296430)
-   [presented](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch) the paper [Understanding Real-World Concurrency Bugs in
+   [presented](/downloads/Concurrency_Bugs_in_Go_-_Go_Meetup_Leipzig_03-15-2019_GASCH.pdf) the paper [Understanding Real-World Concurrency Bugs in
 Go](https://songlh.github.io/paper/go-study.pdf), which compares bug classes by
 analyzing popular open source projects like
 [BoltDB](https://github.com/etcd-io/bbolt),
 [etcd](https://github.com/etcd-io/etcd), [Docker](https://github.com/docker)
 and [Kubernetes](https://kubernetes.io/). Did you know that some concurrency
 bugs stay undetected for months, [even
-years](https://speakerdeck.com/embano1/concurrency-bugs-in-go-go-meetup-leipzig-03-15-2019-gasch?slide=10)?
+years](/downloads/Concurrency_Bugs_in_Go_-_Go_Meetup_Leipzig_03-15-2019_GASCH.pdf#page=10)?
 While message passing does not make multithreaded programs less-error prone, it
 can still offer a clean form of inter-thread communication.
 
