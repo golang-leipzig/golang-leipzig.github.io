@@ -25,7 +25,7 @@ Leipzig Gophers is a Go programming language meetup group based in Leipzig, Germ
 - **Website**: https://golangleipzig.space
 - **Meetup Group**: https://www.meetup.com/Leipzig-Golang/
 - **GitHub**: https://github.com/golang-leipzig
-- **YouTube**: Leipzig Gophers channel with recorded talks
+- **YouTube**: Leipzig Gophers channel with recorded talks, https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ
 - **RSS Feed**: Available for updates, https://golangleipzig.space/posts/index.xml
 
 ## Contact & Participation
