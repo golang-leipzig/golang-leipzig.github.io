@@ -36,3 +36,7 @@ paginate = 256 # we do not have a db
     url = "https://1mb.club/"
     name = "1MB"
     weight = 6
+  [[menu.footer]]
+    url = https://golangleipzig.space/llms.txt
+    name = "LLM"
+    weight = 7
