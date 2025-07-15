@@ -17,6 +17,8 @@ tags:
 * 42 school
 * running CI locally
 * LLM architecture challanges
+* fabrice bellard
+* terrence tao; https://tiu-edu.uz/media/books/2024/05/28/1664976801.pdf
 
 ----
 
