@@ -10,6 +10,13 @@ tags:
 * [Long(er)-Form Mathematics](https://longformmath.com/)
 * [Mathematics: Its Contents, Methods and Meaning](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3)
 * [Guitar Practice](https://www.captrice.io/)
+* CLRS
+* regular languages, chomsky hierarchy
+* haystack, langchain
+* reindexing a vector database
+* 42 school
+* running CI locally
+* LLM architecture challanges
 
 ----
 
