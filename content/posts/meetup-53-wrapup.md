@@ -1,7 +1,7 @@
 ---
 title: "Summer Drinkup #53 wrap-up"
 date: 2025-07-16T12:30:00+02:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
