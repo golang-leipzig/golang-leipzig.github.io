@@ -23,3 +23,5 @@ testModels = []string{
     "snowflake-arctic-embed:latest",
 }
 ```
+
+![](vembedtest.gif)
