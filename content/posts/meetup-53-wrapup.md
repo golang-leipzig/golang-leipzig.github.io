@@ -10,6 +10,7 @@ tags:
 ## Misc
 
 * [Long(er)-Form Mathematics](https://longformmath.com/)
+* [Terrence Tao, Analysis I](https://www.google.com/search?q=terrence+tao+analysis)
 * [Mathematics: Its Contents, Methods and Meaning](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3)
 * [Guitar Practice](https://www.captrice.io/)
 * [CLRS](https://www.betterworldbooks.com/search/results?q=%22Introduction%20to%20Algorithms%22%20cormen)
@@ -33,8 +34,6 @@ plus: [jslinux](https://bellard.org/jslinux/), [NNCP](https://bellard.org/nncp/)
 > If there’s a secret to this superhero-level productivity, it appears to have
 > less to do with comic-book mutation and radioactivity, and far more with
 > discipline, confidence, rigor, and many years of practice.
-
-* [Terrence Tao, Analysis I](https://www.google.com/search?q=terrence+tao+analysis)
 
 ----
 
