@@ -57,6 +57,13 @@ plus: [jslinux](https://bellard.org/jslinux/), [NNCP](https://bellard.org/nncp/)
 > less to do with comic-book mutation and radioactivity, and far more with
 > discipline, confidence, rigor, and many years of practice.
 
+* another helpful thing: accountability
+
+> The positive effect of accountability was supported: those who sent weekly
+> progress reports to their friend accomplished significantly more than those
+> who had unwritten goals, wrote their goals, formulated action commitments or
+> sent those action commitments to a friend. -- [The Impact of Commitment, Accountability, and Written Goals on Goal AchievementGoal Achievement](https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1002&context=psychology-faculty-conference-presentations)
+
 ----
 
 [Join our meetup](https://www.meetup.com/de-DE/leipzig-golang/) to get notified of upcoming events.
