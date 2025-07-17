@@ -52,9 +52,15 @@ var (
 	// Test models - update these to match your available models
 	// Run "ollama list" to see your available models
 	testModels = []string{
-		"mxbai-embed-large",
-		"nomic-embed-text",
-		"all-minilm",
+		"all-minilm:latest",
+		"bge-large:latest",
+		"bge-m3:latest",
+		"granite-embedding:latest",
+		"mxbai-embed-large:latest",
+		"nomic-embed-text:latest",
+		"paraphrase-multilingual:latest",
+		"snowflake-arctic-embed2:latest",
+		"snowflake-arctic-embed:latest",
 		// Add your models here, e.g.:
 		// "all-minilm:latest",
 		// "bge-large:latest",
@@ -238,53 +244,83 @@ func displayResultsTable(results []TestResult) {
 	fmt.Println("📊 SUMMARY RESULTS")
 	fmt.Println(strings.Repeat("=", 80))
 
-	// Calculate column widths
+	// Calculate actual maximum widths needed
 	maxModelLen := len("MODEL")
 	maxInputLen := len("INPUT TEXT")
+
 	for _, result := range results {
 		if len(result.Model) > maxModelLen {
 			maxModelLen = len(result.Model)
 		}
-		if len(result.Input) > maxInputLen && len(result.Input) <= 40 {
-			maxInputLen = len(result.Input)
+		// Truncate input text for display and measure actual display length
+		inputDisplay := result.Input
+		if len(inputDisplay) > 35 {
+			inputDisplay = inputDisplay[:32] + "..."
+		}
+		if len(inputDisplay) > maxInputLen {
+			maxInputLen = len(inputDisplay)
 		}
 	}
-	if maxInputLen > 40 {
-		maxInputLen = 40
+
+	// Ensure minimum column widths and add padding
+	if maxModelLen < 10 {
+		maxModelLen = 10
 	}
+	if maxInputLen < 15 {
+		maxInputLen = 15
+	}
+
+	// Fixed widths for remaining columns
+	const deterministicWidth = 13
+	const embedSizeWidth = 10
+	const iterationsWidth = 10
+
+	// Create format strings
+	headerFormat := fmt.Sprintf("| %%-%ds | %%-%ds | %%-%ds | %%%ds | %%%ds |\n",
+		maxModelLen, maxInputLen, deterministicWidth, embedSizeWidth, iterationsWidth)
+	rowFormat := fmt.Sprintf("| %%-%ds | %%-%ds | %%-%ds | %%%dd | %%%dd |\n",
+		maxModelLen, maxInputLen, deterministicWidth, embedSizeWidth, iterationsWidth)
+
+	// Calculate total width for borders
+	totalWidth := maxModelLen + maxInputLen + deterministicWidth + embedSizeWidth + iterationsWidth + 16 // +16 for separators and padding
+
+	// Top border
+	fmt.Println("+" + strings.Repeat("-", totalWidth-2) + "+")
 
 	// Header
-	fmt.Printf("%-*s | %-*s | %-13s | %-10s | %s\n",
-		maxModelLen, "MODEL",
-		maxInputLen, "INPUT TEXT",
-		"DETERMINISTIC",
-		"EMBED SIZE",
-		"ITERATIONS")
-	fmt.Println(strings.Repeat("-", maxModelLen) + "-+-" +
-		strings.Repeat("-", maxInputLen) + "-+-" +
-		"-------------+-" +
-		"----------+-" +
-		"----------")
+	fmt.Printf(headerFormat, "MODEL", "INPUT TEXT", "DETERMINISTIC", "EMBED SIZE", "ITERATIONS")
 
-	// Results
+	// Header separator
+	fmt.Printf("|%s+%s+%s+%s+%s|\n",
+		strings.Repeat("-", maxModelLen+2),
+		strings.Repeat("-", maxInputLen+2),
+		strings.Repeat("-", deterministicWidth+2),
+		strings.Repeat("-", embedSizeWidth+2),
+		strings.Repeat("-", iterationsWidth+2))
+
+	// Data rows
 	for _, result := range results {
 		inputDisplay := result.Input
-		if len(inputDisplay) > 40 {
-			inputDisplay = inputDisplay[:37] + "..."
+		if len(inputDisplay) > 35 {
+			inputDisplay = inputDisplay[:32] + "..."
 		}
 
-		deterministic := "❌ NO"
+		deterministic := "NO"
 		if result.IsDeterministic {
-			deterministic = "✅ YES"
+			deterministic = "YES"
 		}
 
-		fmt.Printf("%-*s | %-*s | %-13s | %-10d | %d\n",
-			maxModelLen, result.Model,
-			maxInputLen, inputDisplay,
+		fmt.Printf(rowFormat,
+			result.Model,
+			inputDisplay,
 			deterministic,
 			result.EmbeddingSize,
 			result.Iterations)
 	}
+
+	// Bottom border
+	fmt.Println("+" + strings.Repeat("-", totalWidth-2) + "+")
+	fmt.Println()
 
 	fmt.Println()
 
