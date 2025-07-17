@@ -22,7 +22,7 @@ tags:
 * one does not simply reindexing a whole [vector database](https://en.wikipedia.org/wiki/Vector_database)
 * [HNSW](https://en.wikipedia.org/wiki/Hierarchical_navigable_small_world), [approximate nearest neighbor search](https://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximation_methods) (classic [kNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 is simple, robust and an algorithm that does not require any training)
-* [42 school](https://www.42network.org/) -- "42 is the largest free IT school network in the world, with a global presence of 50+ campuses across 30+ countries."
+* [42 school](https://www.42network.org/) -- "42 is the largest free IT school network in the world, with a [global presence](https://www.42network.org/42-schools/) of 50+ campuses across 30+ countries."
 * running CI locally, e.g. with [GL runner](https://docs.gitlab.com/runner/install/), or [act](https://github.com/nektos/act)
 * challenges of system designs that include language models or related technologies: levels or randomness (LLM parameters, temperature, ...)
 
