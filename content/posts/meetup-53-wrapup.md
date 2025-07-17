@@ -33,13 +33,21 @@ is simple, robust and an algorithm that does not require any training)
 > suggest that the LLM generates slightly more novel outputs as temperatures
 > get higher. -- [Is Temperature the Creativity Parameter of Large Language Models?](https://arxiv.org/pdf/2405.00492)
 
-Randomness in embeddings: Do you get different embedding vectors from the same model on the same input? Quick test using ollama running on a Intel [N3450](https://www.intel.com/content/www/us/en/products/sku/95596/intel-celeron-processor-n3450-2m-cache-up-to-2-20-ghz/specifications.html) 2016 6W TDP CPU:
-
+Randomness in embeddings: Do you get different embedding vectors from the same
+model on the same input? [Quick
+test](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/vembedtest)
+using [ollama](https://ollama.com) running on a Intel
+[N3450](https://www.intel.com/content/www/us/en/products/sku/95596/intel-celeron-processor-n3450-2m-cache-up-to-2-20-ghz/specifications.html)
+2016 6W TDP CPU (and [1.6W idle power
+consumption](/images/zima-idle-1.6w.png)):
 
 ![](/images/vembedtest.gif)
 
-Estimated cost of running this test (90 embeddings, total): ~9W for ~6 minutes at [0.30 EUR/kWh](/images/l-strom-dyn-2025-07.png): EUR 0.00027.
-
+Estimated cost of running this test (90 embeddings, total): ~9W for ~6 minutes
+at [0.30 EUR/kWh](/images/l-strom-dyn-2025-07.png): EUR 0.00027 (or framed
+differently: you can calculate about 640000 embeddings for the price of one
+scoop of ice cream - albeit it would take about a month to calculate them on a
+this device) 🍦
 
 * [Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard),
   [superproductivity](http://web.archive.org/web/20121006002711/http://blog.smartbear.com/software-quality/bid/167059/Fabrice-Bellard-Portrait-of-a-Superproductive-Programmer),
