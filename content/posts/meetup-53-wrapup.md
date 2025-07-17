@@ -43,11 +43,11 @@ consumption](/images/zima-idle-1.6w.png)):
 
 ![](/images/vembedtest.gif)
 
-Estimated cost of running this test (90 embeddings, total): ~9W for ~6 minutes
-at [0.30 EUR/kWh](/images/l-strom-dyn-2025-07.png): EUR 0.00027 (or framed
-differently: you can calculate about 640000 embeddings for the price of one
-scoop of ice cream - albeit it would take about a month to calculate them on a
-this device) 🍦
+Estimated cost of running this test (90 embeddings, total): at most 9W for
+about 6 minutes at [0.30 EUR/kWh](/images/l-strom-dyn-2025-07.png): EUR 0.00027
+(or framed differently: you can calculate about 640000 embeddings for the price
+of one scoop of ice cream - albeit it would take about a month to calculate
+them on a this device) 🍦
 
 * [Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard),
   [superproductivity](http://web.archive.org/web/20121006002711/http://blog.smartbear.com/software-quality/bid/167059/Fabrice-Bellard-Portrait-of-a-Superproductive-Programmer),
