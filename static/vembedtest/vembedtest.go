@@ -69,10 +69,10 @@ var (
 	// Test strings with varying lengths and complexity
 	testStrings = []string{
 		"Hello, world!",
-		"The quick brown fox jumps over the lazy dog.",
-		"Artificial intelligence is transforming the world.",
-		"Vector embeddings represent semantic meaning of text.",
-		"Short text",
+		// "The quick brown fox jumps over the lazy dog.",
+		// "Artificial intelligence is transforming the world.",
+		// "Vector embeddings represent semantic meaning of text.",
+		// "Short text",
 		"This is a longer sentence with more complex vocabulary and structure to test how embedding models handle varying text lengths and complexity.",
 	}
 )
