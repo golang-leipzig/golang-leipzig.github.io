@@ -1,8 +1,16 @@
+// Ollama Embedding Determinism Test
+//
+// This program tests whether Ollama embedding models produce deterministic results
+// by generating embeddings multiple times for the same input and comparing them.
+//
+// Usage: go run main.go [flags]
+
 package main
 
 import (
 	"bytes"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -32,15 +40,16 @@ type TestResult struct {
 	EmbeddingSize   int
 }
 
-// Configuration
-const (
-	ollamaURL  = "http://localhost:11434/api/embed"
-	iterations = 5     // Number of times to test each embedding
-	verbose    = false // Set to true for debug output
+// Configuration flags
+var (
+	ollamaURL  = flag.String("url", "http://localhost:11434/api/embed", "Full Ollama embedding API endpoint URL (include /api/embed)")
+	iterations = flag.Int("iterations", 5, "Number of times to test each embedding for determinism")
+	verbose    = flag.Bool("verbose", false, "Enable verbose debug output")
+	help       = flag.Bool("help", false, "Show help message")
 )
 
 var (
-	// Test models - adjust based on what you have available
+	// Test models - update these to match your available models
 	// Run "ollama list" to see your available models
 	testModels = []string{
 		"mxbai-embed-large",
@@ -51,7 +60,7 @@ var (
 		// "bge-large:latest",
 	}
 
-	// Test strings
+	// Test strings with varying lengths and complexity
 	testStrings = []string{
 		"Hello, world!",
 		"The quick brown fox jumps over the lazy dog.",
@@ -63,10 +72,43 @@ var (
 )
 
 func main() {
+	flag.Parse()
+
+	if *help {
+		fmt.Println("🧪 Ollama Embedding Determinism Test")
+		fmt.Println(strings.Repeat("=", 50))
+		fmt.Println()
+		fmt.Println("This tool tests whether Ollama embedding models produce deterministic results")
+		fmt.Println("by generating embeddings multiple times for the same input and comparing them.")
+		fmt.Println()
+		fmt.Println("Flags:")
+		flag.PrintDefaults()
+		fmt.Println()
+		fmt.Println("Examples:")
+		fmt.Println("  # Run with defaults (localhost)")
+		fmt.Println("  go run main.go")
+		fmt.Println()
+		fmt.Println("  # Run 10 iterations with verbose output")
+		fmt.Println("  go run main.go -iterations 10 -verbose")
+		fmt.Println()
+		fmt.Println("  # Connect to remote Ollama instance")
+		fmt.Println("  go run main.go -url http://zima:11434/api/embed")
+		fmt.Println()
+		fmt.Println("Setup:")
+		fmt.Println("  1. Make sure Ollama is running: ollama serve")
+		fmt.Println("  2. Check available models: ollama list")
+		fmt.Println("  3. Update testModels in code to match your installed models")
+		fmt.Println("  4. Test manually: curl http://localhost:11434/api/embed -d '{\"model\":\"your-model\",\"input\":\"test\"}'")
+		return
+	}
+
 	fmt.Println("🧪 Testing Ollama Embedding Determinism")
 	fmt.Println(strings.Repeat("=", 50))
-	fmt.Printf("Testing %d models with %d strings, %d iterations each\n", len(testModels), len(testStrings), iterations)
-	fmt.Printf("💡 Tip: Run 'ollama list' to see available models and update testModels in the code\n")
+	fmt.Printf("Testing %d models with %d strings, %d iterations each\n", len(testModels), len(testStrings), *iterations)
+	fmt.Printf("Ollama URL: %s\n", *ollamaURL)
+	if *verbose {
+		fmt.Printf("Verbose mode: enabled\n")
+	}
 	fmt.Println()
 
 	var allResults []TestResult
@@ -83,7 +125,7 @@ func main() {
 					return ""
 				}())
 
-			result := testEmbeddingDeterminism(model, input, iterations)
+			result := testEmbeddingDeterminism(model, input, *iterations)
 			allResults = append(allResults, result)
 
 			status := "✅ DETERMINISTIC"
@@ -157,27 +199,27 @@ func getEmbedding(model, input string) ([]float64, error) {
 		return nil, fmt.Errorf("error marshaling request: %w", err)
 	}
 
-	resp, err := http.Post(ollamaURL, "application/json", bytes.NewBuffer(jsonData))
+	if *verbose {
+		log.Printf("Request to %s: %s", *ollamaURL, string(jsonData))
+	}
+
+	resp, err := http.Post(*ollamaURL, "application/json", bytes.NewBuffer(jsonData))
 	if err != nil {
 		return nil, fmt.Errorf("error making request: %w", err)
 	}
 	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		body, _ := io.ReadAll(resp.Body)
-		if verbose {
-			log.Printf("API Error Response: %s", string(body))
-		}
-		return nil, fmt.Errorf("API returned status %d: %s", resp.StatusCode, string(body))
-	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, fmt.Errorf("error reading response body: %w", err)
 	}
 
-	if verbose {
-		log.Printf("Raw response for model %s: %s", model, string(body))
+	if *verbose {
+		log.Printf("Response status: %d, body: %s", resp.StatusCode, string(body))
+	}
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("API returned status %d: %s", resp.StatusCode, string(body))
 	}
 
 	var embedResp EmbedResponse
