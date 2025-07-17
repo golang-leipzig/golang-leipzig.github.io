@@ -62,6 +62,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#53](/posts/meetup-53-wrapup/),
 [#52](/posts/meetup-52-wrapup/),
 [#51](/posts/meetup-51-wrapup/),
 [#50](/posts/meetup-50-wrapup/),
