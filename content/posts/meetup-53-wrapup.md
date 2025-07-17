@@ -37,7 +37,7 @@ test](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/sta
 using [ollama](https://ollama.com) running on a Intel
 [N3450](https://www.intel.com/content/www/us/en/products/sku/95596/intel-celeron-processor-n3450-2m-cache-up-to-2-20-ghz/specifications.html)
 2016 6W TDP CPU (and [1.6W idle](/images/zima-idle-1.6w.png) power
-consumption) reveals determenistic embeddings, whereas there are [observations of the opposite](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/vembedtest) as well:
+consumption) reveals deterministic embeddings, whereas there are [observations of the opposite](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/vembedtest) as well:
 
 ![](/vembedtest/vembedtest.gif)
 
