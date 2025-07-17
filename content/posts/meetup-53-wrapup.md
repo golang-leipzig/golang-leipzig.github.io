@@ -13,7 +13,7 @@ tags:
 * [Terrence Tao, Analysis I](https://www.google.com/search?q=terrence+tao+analysis)
 * [Mathematics: Its Contents, Methods and Meaning](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3)
 * [Guitar Practice](https://www.captrice.io/)
-* [CLRS](https://www.betterworldbooks.com/search/results?q=%22Introduction%20to%20Algorithms%22%20cormen)
+* [CLRS](https://www.betterworldbooks.com/search/results?q=%22Introduction%20to%20Algorithms%22%20cormen), [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 * regular languages, [regular expressions](https://stackoverflow.com/q/1732348/89391), chomsky hierarchy, metamathematics
 
 [![](/images/640px-Chomsky-hierarchy-s.svg.png)](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
