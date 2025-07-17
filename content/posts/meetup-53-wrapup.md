@@ -32,12 +32,12 @@ is simple, robust and an algorithm that does not require any training)
 > get higher. -- [Is Temperature the Creativity Parameter of Large Language Models?](https://arxiv.org/pdf/2405.00492)
 
 Randomness in embeddings: Do you get different embedding vectors from the same
-model on the same input? [Quick
+model on the same input? Yes and no. [Quick
 test](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/vembedtest)
 using [ollama](https://ollama.com) running on a Intel
 [N3450](https://www.intel.com/content/www/us/en/products/sku/95596/intel-celeron-processor-n3450-2m-cache-up-to-2-20-ghz/specifications.html)
 2016 6W TDP CPU (and [1.6W idle](/images/zima-idle-1.6w.png) power
-consumption):
+consumption) reveals determenistic embeddings, whereas there are [observations of the opposite](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/vembedtest) as well:
 
 ![](/vembedtest/vembedtest.gif)
 
