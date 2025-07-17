@@ -61,7 +61,18 @@
 is simple, robust and an algorithm that does not require any training)</li>
 <li><a href="https://www.42network.org/">42 school</a> &ndash; &ldquo;42 is the largest free IT school network in the world, with a global presence of 50+ campuses across 30+ countries.&rdquo;</li>
 <li>running CI locally, e.g. with <a href="https://docs.gitlab.com/runner/install/">GL runner</a>, or <a href="https://github.com/nektos/act">act</a></li>
-<li>LLM architecture challanges</li>
+<li>challenges of system designs that include language models or related technologies: levels or randomness (LLM parameters, temperature, &hellip;)</li>
+</ul>
+<blockquote>
+<p>However, the influence of temperature on creativity is far more nuanced and
+weak than suggested by the &ldquo;creativity parameter&rdquo; claim; overall results
+suggest that the LLM generates slightly more novel outputs as temperatures
+get higher. &ndash; <a href="https://arxiv.org/pdf/2405.00492">Is Temperature the Creativity Parameter of Large Language Models?</a></p>
+</blockquote>
+<p>Randomness in embeddings: Do you get different embedding vectors from the same model on the same input? Quick test using ollama running on a Intel <a href="https://www.intel.com/content/www/us/en/products/sku/95596/intel-celeron-processor-n3450-2m-cache-up-to-2-20-ghz/specifications.html">N3450</a> 2016 6W TDP CPU:</p>
+<p><img src="/images/vembedtest.gif" alt=""></p>
+<p>Estimated cost of running this test (90 embeddings, total): ~9W for ~6 minutes at <a href="/images/l-strom-dyn-2025-07.png">0.30 EUR/kWh</a>: EUR 0.00027.</p>
+<ul>
 <li><a href="https://en.wikipedia.org/wiki/Fabrice_Bellard">Fabrice Bellard</a>,
 <a href="http://web.archive.org/web/20121006002711/http://blog.smartbear.com/software-quality/bid/167059/Fabrice-Bellard-Portrait-of-a-Superproductive-Programmer">superproductivity</a>,
 plus: <a href="https://bellard.org/jslinux/">jslinux</a>, <a href="https://bellard.org/nncp/">NNCP</a>, <a href="https://bellard.org/libnc/">libNC</a>, &hellip;t</li>
