@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jul 2025 20:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jul 2025 12:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer Drinkup #53 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-53-wrapup/</link>
+      <pubDate>Wed, 16 Jul 2025 12:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-53-wrapup/</guid>
+      <description>Misc  Long(er)-Form Mathematics Mathematics: Its Contents, Methods and Meaning Guitar Practice CLRS regular languages, regular expressions, chomsky hierarchy, metamathematics  
+
+ haystack, langchain one does not simply reindexing a whole vector database HNSW, approximate nearest neighbor search (classic kNN is simple, robust and an algorithm that does not require any training) 42 school &amp;ndash; &amp;ldquo;42 is the largest free IT school network in the world, with a global presence of 50+ campuses across 30+ countries.</description>
+    </item>
+    
     <item>
       <title>Summer Drinkup #53 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-53-invitation/</link>
