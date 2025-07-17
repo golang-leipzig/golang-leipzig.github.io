@@ -49,7 +49,7 @@ them with this device) 🍦
 
 * [Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard),
   [superproductivity](http://web.archive.org/web/20121006002711/http://blog.smartbear.com/software-quality/bid/167059/Fabrice-Bellard-Portrait-of-a-Superproductive-Programmer),
-plus: [jslinux](https://bellard.org/jslinux/), [NNCP](https://bellard.org/nncp/), [libNC](https://bellard.org/libnc/), ...t
+plus: [jslinux](https://bellard.org/jslinux/), [NNCP](https://bellard.org/nncp/), [libNC](https://bellard.org/libnc/), ...
 
 > If there’s a secret to this superhero-level productivity, it appears to have
 > less to do with comic-book mutation and radioactivity, and far more with
