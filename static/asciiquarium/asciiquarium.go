@@ -13,6 +13,12 @@ import (
 
 const Version = "1.1-go"
 
+// Define color constants that might not be available in all tcell versions
+var (
+	ColorCyan    = tcell.NewRGBColor(0, 255, 255)
+	ColorMagenta = tcell.NewRGBColor(255, 0, 255)
+)
+
 type Depth struct {
 	GUIText    int
 	GUI        int
@@ -321,27 +327,27 @@ func (a *Aquarium) getColor(colorCode rune) tcell.Color {
 	case '2':
 		return tcell.ColorGreen
 	case '3':
-		return tcell.ColorCyan
+		return ColorCyan
 	case '4':
 		return tcell.ColorRed
 	case '5':
-		return tcell.ColorMagenta
+		return ColorMagenta
 	case '6':
 		return tcell.ColorYellow
 	case '7':
 		return tcell.ColorWhite
 	case 'c', 'C':
-		return tcell.ColorTeal
+		return ColorCyan
 	case 'r', 'R':
-		return tcell.ColorMaroon
+		return tcell.ColorRed
 	case 'y', 'Y':
-		return tcell.ColorOlive
+		return tcell.ColorYellow
 	case 'b', 'B':
-		return tcell.ColorNavy
+		return tcell.ColorBlue
 	case 'g', 'G':
 		return tcell.ColorGreen
 	case 'm', 'M':
-		return tcell.ColorPurple
+		return ColorMagenta
 	case 'W':
 		return tcell.ColorWhite
 	default:
@@ -366,7 +372,7 @@ func (a *Aquarium) addEnvironment() {
 			Type:         "waterline",
 			Shape:        []string{repeatedSegment},
 			Pos:          Position{X: 0, Y: i + 5, Z: depths.WaterLine0 - i},
-			DefaultColor: tcell.ColorCyan,
+			DefaultColor: ColorCyan,
 			Physical:     true,
 		}
 		a.AddEntity(entity)
@@ -463,7 +469,7 @@ func (a *Aquarium) addBubble(fish *Entity) {
 		Vel:          Velocity{DX: 0, DY: -1, Speed: 0.1},
 		MaxFrames:    5,
 		DieOffscreen: true,
-		DefaultColor: tcell.ColorCyan,
+		DefaultColor: ColorCyan,
 		Width:        1,
 		Height:       1,
 	}
