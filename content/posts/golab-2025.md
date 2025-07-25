@@ -12,9 +12,7 @@ tags:
 Since 2015, [Develer](https://www.develer.com) has been [organizing](https://golab.io/about-us) one of the
 best Go conferences on the continent: [GoLab](https://golab.io/) - bringing
 together the international and Italian Go developer community in the beautiful
-city of [Florence](https://en.wikipedia.org/wiki/Florence).
-
-Happy 10th birthday, GoLab!
+city of [Florence](https://en.wikipedia.org/wiki/Florence). Happy 10th birthday, GoLab!
 
 This year, GoLab will take place [Oct 5-7, 2025](https://golab.io/)!
 
