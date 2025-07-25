@@ -10,7 +10,7 @@ tags:
 ## GOLAB 2025
 
 Since 2015, [Develer](https://www.develer.com) has been [organizing](https://golab.io/about-us) one of the
-best Go conferences on the continent: [GOLAB](https://golab.io/), bringing
+best Go conferences on the continent: [GOLAB](https://golab.io/) - bringing
 together the international and Italian Go developer community in the beautiful
 city of [Florence](https://en.wikipedia.org/wiki/Florence).
 
