@@ -20,7 +20,7 @@ Thoughtfulness in environmental stewardship and social responsibility continues
 with GoLab 2025 through their [GoLab for the
 Planet](https://golab.io/golab-for-the-planet) initiative.
 
-![](/golab-2025/golab-planet2025.png)
+[![](/golab-2025/golab-planet2025.png)](https://golab.io/golab-for-the-planet)
 
 The conference offers a variety of topics and formats:
 
