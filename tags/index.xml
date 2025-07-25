@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 12:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jul 2025 11:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>conference</title>
+      <link>https://golangleipzig.space/tags/conference/</link>
+      <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>italy</title>
+      <link>https://golangleipzig.space/tags/italy/</link>
+      <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/italy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
@@ -67,24 +85,6 @@
       <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference</title>
-      <link>https://golangleipzig.space/tags/conference/</link>
-      <pubDate>Wed, 15 May 2024 11:30:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>italy</title>
-      <link>https://golangleipzig.space/tags/italy/</link>
-      <pubDate>Wed, 15 May 2024 11:30:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/italy/</guid>
       <description></description>
     </item>
     

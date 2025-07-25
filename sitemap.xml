@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://golangleipzig.space/</loc>
-    <lastmod>2025-07-16T12:30:00+02:00</lastmod>
+    <loc>https://golangleipzig.space/tags/conference/</loc>
+    <lastmod>2025-07-25T11:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://golangleipzig.space/tags/meetup/</loc>
-    <lastmod>2025-07-16T12:30:00+02:00</lastmod>
+    <loc>https://golangleipzig.space/posts/golab-2025/</loc>
+    <lastmod>2025-07-25T11:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/italy/</loc>
+    <lastmod>2025-07-25T11:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/</loc>
+    <lastmod>2025-07-25T11:30:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://golangleipzig.space/posts/</loc>
+    <lastmod>2025-07-25T11:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/</loc>
+    <lastmod>2025-07-25T11:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://golangleipzig.space/tags/meetup/</loc>
     <lastmod>2025-07-16T12:30:00+02:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://golangleipzig.space/posts/meetup-53-wrapup/</loc>
-    <lastmod>2025-07-16T12:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/</loc>
     <lastmod>2025-07-16T12:30:00+02:00</lastmod>
   </url>
   
@@ -173,17 +188,7 @@
   </url>
   
   <url>
-    <loc>https://golangleipzig.space/tags/conference/</loc>
-    <lastmod>2024-05-15T11:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://golangleipzig.space/posts/golab-2024/</loc>
-    <lastmod>2024-05-15T11:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://golangleipzig.space/tags/italy/</loc>
     <lastmod>2024-05-15T11:30:00+02:00</lastmod>
   </url>
   
