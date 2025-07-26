@@ -1,5 +1,5 @@
 ---
-title: "GOLAB 2025"
+title: "GoLab 2025"
 date: 2025-07-25T11:30:00+02:00
 draft: false
 tags:
