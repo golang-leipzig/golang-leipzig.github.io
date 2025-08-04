@@ -45,4 +45,4 @@ of them.
 {{< h2 >}}Timeline{{< /h2 >}}
 
 It will take a few weeks to rename all our sites and groups, but the process
-should be done be end of October 2019.
+should be done by end of October 2019.
