@@ -1,4 +1,4 @@
-# Leipzig Gophers - Go Programming Meetup
+# Leipzig Gophers - Go Programming Meetup in Leipzig, Germany
 
 ## About
 
@@ -8,14 +8,14 @@ Leipzig Gophers is a Go programming language meetup group based in Leipzig, Germ
 
 - **Location**: Leipzig, Germany (hybrid events - in-person and online)
 - **Founded**: 2019
-- **Members**: 695+ (as of 2024)
+- **Members**: 750+ (as of 2025)
 - **Events**: 50+ meetups organized since inception
 - **Meeting Format**: Monthly meetups, summer drinkups, lightning talks, presentations
 - **Topics**: Go programming, cloud-native technologies, distributed systems, performance optimization
 
 ## Recent Activities
 
-- Meetup #50+ (as of 2024)
+- Recent meetup summaries: https://golangleipzig.space/tags/summary/
 - Hybrid format: Basislager Leipzig venue + online via Jitsi/Google Meet
 - Tech talks on topics like memory management, Kubernetes security, testing, concurrency
 - Collaborations with local companies (CHECK24, Gridfuse, Sciendis, CodeNotary)
@@ -30,8 +30,8 @@ Leipzig Gophers is a Go programming language meetup group based in Leipzig, Germ
 
 ## Contact & Participation
 
-- Submit talk proposals via website
-- Join meetup group for event notifications
+- Submit talk proposals via website, https://golangleipzig.space/proposals/
+- Join meetup group for event notifications, https://www.meetup.com/Leipzig-Golang/
 - Open to all experience levels
 - Lightning talks and project discussions welcome
 
