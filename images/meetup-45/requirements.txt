@@ -22,5 +22,5 @@ six==1.16.0
 stack-data==0.6.3
 tifffile==2024.9.20
 traitlets==5.14.3
-uv==0.4.28
+uv==0.8.6
 wcwidth==0.2.13
