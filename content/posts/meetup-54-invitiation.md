@@ -14,7 +14,7 @@ We'll meet for drinks at [Cafe Cantona](https://www.google.com/search?q=cafe+can
 19:00](https://www.meetup.com/leipzig-golang/events/305626262).  Join us to
 discuss all topics Go, cloud and beyond.
 
-![](/images/GXEUCWW6SOFTYXMQGXDXUCSK3M6IK5OM.gif)
+[![](/images/GXEUCWW6SOFTYXMQGXDXUCSK3M6IK5OM.gif)](https://gifcities.org)
 
 See you!
 
