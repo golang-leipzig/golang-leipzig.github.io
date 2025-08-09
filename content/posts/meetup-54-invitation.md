@@ -12,7 +12,7 @@ Hello, 世界!
 We'll meet for drinks at [Cafe Cantona](https://www.google.com/search?q=cafe+cantona)
 ([OSM](https://www.openstreetmap.org/node/243213647)) on [Tue, 2025-09-30
 19:00](https://www.meetup.com/leipzig-golang/events/305626262).  Join us to
-discuss all topics Go, cloud and beyond.
+discuss all topics Go, cloud and beyond. Offline only.
 
 [![](/images/GXEUCWW6SOFTYXMQGXDXUCSK3M6IK5OM.gif)](https://gifcities.org)
 
