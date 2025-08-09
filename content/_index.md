@@ -9,7 +9,7 @@ Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 for drinks, outside. Next
 Drinkup [#54](/posts/meetup-54-invitation/)
 in September, on
-[2025-09-30](https://www.meetup.com/leipzig-golang/events/305626262).
+[2025-09-30](https://www.meetup.com/leipzig-golang/events/305626262) 19:00 CET at [Cafe Cantona](https://www.openstreetmap.org/node/243213647).
 
 
 If you have an idea for a presentation, please [let us know](/proposals/).
