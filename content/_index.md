@@ -7,7 +7,7 @@ We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 50 events so far (eight in [2024](/posts/2024/)). Over the summer, we'll meet
 for drinks, outside. Next
-Drinkup [#54](https://www.meetup.com/leipzig-golang/events/305626262)
+Drinkup [#54](/posts/meetup-54-invitation/)
 in September, on
 [2025-09-30](https://www.meetup.com/leipzig-golang/events/305626262).
 
