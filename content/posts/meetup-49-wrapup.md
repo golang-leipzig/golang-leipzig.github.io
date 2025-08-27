@@ -19,6 +19,8 @@ Slides and quiz can be found at
 
 [![](/images/meetup-49-menti-screenie-2025-03-25-231344.png)](https://www.mentimeter.com/app/presentation/alog8a9xsqj6hwbyi6t32m5qzh295rue/view?question=9bym8yfwp7c4)
 
+We also have an [archive of that page](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/downloads/meetup-49-mentimeter).
+
 Some rules to program by:
 
 * Stack allocation are better then heap allocation
