@@ -32,7 +32,7 @@ Check out the [GoLab 2025 schedule](https://golab.io/schedule) for more details.
 
 Tracks will be interesting for developers, engineers, and tech leaders alike,
 so reserve your ticket while they are available at:
-[https://golab.io/tickets25](https://golab.io/tickets25).
+[https://golab.io/tickets25](https://golab.io/tickets25). [Contact us](mailto:martin.czygan@gmail.com) for a discount.
 
 See you!
 
