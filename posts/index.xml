@@ -129,6 +129,7 @@ For meetup #50 on Tuesday Apr 29, 2025 19:00 CET at Basislager Coworking we are 
       <description>Memory management in Go or To GC or not to GC Hybrid Meetup #49 took place 2025-03-25 19:00 at CHECK24 Leipzig Office and we had a great introduction to memory management with Go by Fabian.
 Slides and quiz can be found at mentimeter.com.
 
+We also have an archive of that page.
 Some rules to program by:
  Stack allocation are better then heap allocation Number of heap allocations are more important than size of heap allocations Reduce the number of pointers in heap to reduce mark phase costs Be aware of the memory layout of you structs Make sure that every goroutine returns at some point (to avoid leaks) Use pprof to determine problems in you program  There is a great GC guide at: doc/gc-guide, and a few SO questions tagged with Go and GC</description>
     </item>
