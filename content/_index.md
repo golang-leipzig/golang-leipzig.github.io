@@ -5,8 +5,9 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far (eight in [2024](/posts/2024/)). Next Drinkup [#54](/posts/meetup-54-invitation/) in September, on
-[2025-09-30](https://www.meetup.com/leipzig-golang/events/305626262) 19:00 CET at [Cantona](https://www.openstreetmap.org/node/243213647).
+50 events so far (eight in [2024](/posts/2024/)). Next Meetup #55 in October,
+on [2025-10-28](https://www.meetup.com/de-DE/leipzig-golang/events/305626267/)
+19:00 CET at [Basislager Leipzig](https://www.basislager.co/de).
 
 
 If you have an idea for a presentation, please [let us know](/proposals/).
