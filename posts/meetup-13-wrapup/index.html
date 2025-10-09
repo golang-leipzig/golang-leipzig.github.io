@@ -64,17 +64,17 @@ options directly (there can be too many), or by passing in a single config
 struct (which becomes part of the public API, for better or for worse). The functional options
 pattern works because in Go functions are first class values and can be passed
 as arguments into or returned by functions.</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// WithInsecure skips certificate verification
-</span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">func</span> <span style="color:#900;font-weight:bold">WithInsecure</span>(in <span style="color:#458;font-weight:bold">bool</span>) ServerOption {
-    <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">func</span>(s <span style="color:#000;font-weight:bold">*</span>Server) <span style="color:#458;font-weight:bold">error</span> {
-        <span style="color:#000;font-weight:bold">if</span> in {
-            <span style="color:#000;font-weight:bold">return</span> errors.<span style="color:#900;font-weight:bold">New</span>(<span style="color:#d14">&#34;security alert&#34;</span>)
-        }
-        s.insecure = in
-        <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">nil</span>
-    }
-}
-</code></pre></div><p>The complete example can be found here:
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#998;font-style:italic">// WithInsecure skips certificate verification
+</span></span></span><span style="display:flex;"><span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">func</span> <span style="color:#900;font-weight:bold">WithInsecure</span>(in <span style="color:#458;font-weight:bold">bool</span>) ServerOption {
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">func</span>(s <span style="color:#000;font-weight:bold">*</span>Server) <span style="color:#458;font-weight:bold">error</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#000;font-weight:bold">if</span> in {
+</span></span><span style="display:flex;"><span>            <span style="color:#000;font-weight:bold">return</span> errors.<span style="color:#900;font-weight:bold">New</span>(<span style="color:#d14">&#34;security alert&#34;</span>)
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>        s.insecure = in
+</span></span><span style="display:flex;"><span>        <span style="color:#000;font-weight:bold">return</span> <span style="color:#000;font-weight:bold">nil</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>The complete example can be found here:
 <a href="https://github.com/embano1/funcy-ops/blob/main/server.go">https://github.com/embano1/funcy-ops/blob/main/server.go</a>.</p>
 <p>Functional Options is a Go <em>pattern</em> and addresses some issues with too many
 arguments, variants of <em>New</em> and API stability.</p>

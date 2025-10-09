@@ -6,16 +6,16 @@
     <description>Recent content in ai on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drinkup #54 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-54-wrapup/</link>
-      <pubDate>Mon, 06 Oct 2025 22:30:00 +0200</pubDate>
+      <pubDate>Tue, 07 Oct 2025 22:30:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-54-wrapup/</guid>
       <description>Drinkup #54 took place on 2025-09-30 at Cantona Leipzig.
 Screencast showing open source crush (written in Go) agent using a qwen3-coder:30b &amp;ndash; agentic coding in the world &amp;ndash; via ollama (written in Go, wrapping llama.cpp and ggml).
- Join our meetup to get notified of upcoming events.</description>
+Join our meetup to get notified of upcoming events.</description>
     </item>
     
     <item>
@@ -25,8 +25,8 @@ Screencast showing open source crush (written in Go) agent using a qwen3-coder:3
       
       <guid>https://golangleipzig.space/posts/bigcode-in-the-stack/</guid>
       <description>In The Stack The AI space develops fast, with one cornerstone being the availability of open datasets for model development and training. Code from golang-leipzig is part of The Stack (20 Nov 2022):
- a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
- Five of our repositories are included in the 25.74 GB of source code (spread across 4,730,461 files) written in Go included in this dataset.</description>
+a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
+Five of our repositories are included in the 25.74 GB of source code (spread across 4,730,461 files) written in Go included in this dataset.</description>
     </item>
     
   </channel>

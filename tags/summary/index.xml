@@ -6,16 +6,16 @@
     <description>Recent content in summary on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/summary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drinkup #54 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-54-wrapup/</link>
-      <pubDate>Mon, 06 Oct 2025 22:30:00 +0200</pubDate>
+      <pubDate>Tue, 07 Oct 2025 22:30:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-54-wrapup/</guid>
       <description>Drinkup #54 took place on 2025-09-30 at Cantona Leipzig.
 Screencast showing open source crush (written in Go) agent using a qwen3-coder:30b &amp;ndash; agentic coding in the world &amp;ndash; via ollama (written in Go, wrapping llama.cpp and ggml).
- Join our meetup to get notified of upcoming events.</description>
+Join our meetup to get notified of upcoming events.</description>
     </item>
     
     <item>
@@ -24,9 +24,7 @@ Screencast showing open source crush (written in Go) agent using a qwen3-coder:3
       <pubDate>Wed, 16 Jul 2025 12:30:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-53-wrapup/</guid>
-      <description>Misc  Math: Long(er)-Form Mathematics, Terrence Tao, Analysis I, Mathematics: Its Contents, Methods and Meaning Music: Guitar Practice CLRS, Introduction to Algorithms regular languages, regular expressions, chomsky hierarchy, metamathematics  
-
- haystack, langchain one does not simply reindexing a whole vector database HNSW, approximate nearest neighbor search (classic kNN is simple, robust and an algorithm that does not require any training) 42 school &amp;ndash; &amp;ldquo;42 is the largest free IT school network in the world, with a global presence of 50+ campuses across 30+ countries.</description>
+      <description>Misc Math: Long(er)-Form Mathematics, Terrence Tao, Analysis I, Mathematics: Its Contents, Methods and Meaning Music: Guitar Practice CLRS, Introduction to Algorithms regular languages, regular expressions, chomsky hierarchy, metamathematics haystack, langchain one does not simply reindexing a whole vector database HNSW, approximate nearest neighbor search (classic kNN is simple, robust and an algorithm that does not require any training) 42 school &amp;ndash; &amp;ldquo;42 is the largest free IT school network in the world, with a global presence of 50+ campuses across 30+ countries.</description>
     </item>
     
     <item>
@@ -36,7 +34,7 @@ Screencast showing open source crush (written in Go) agent using a qwen3-coder:3
       
       <guid>https://golangleipzig.space/posts/meetup-52-wrapup/</guid>
       <description>AI 2027, strudel.cc
- Join our meetup to get notified of upcoming events.</description>
+Join our meetup to get notified of upcoming events.</description>
     </item>
     
     <item>
@@ -46,7 +44,7 @@ Screencast showing open source crush (written in Go) agent using a qwen3-coder:3
       
       <guid>https://golangleipzig.space/posts/meetup-51-wrapup/</guid>
       <description>Flaky LLMs and secure containers Hybrid Meetup #51 took place 2025-05-27 19:00 at renewable energy startup Gridfuse and we had two shorter presentations:
- Beyond Benchmarks: Human x LLM for Go and other code (intermediate report) StackRox architecture and repository setup  LLM for coding related tasks LLM use for coding remains constrained to well scoped problems with some human domain knowledge, oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.</description>
+Beyond Benchmarks: Human x LLM for Go and other code (intermediate report) StackRox architecture and repository setup LLM for coding related tasks LLM use for coding remains constrained to well scoped problems with some human domain knowledge, oversight and review. It is still possible to spot generated code, it lacks a kind of handwriting.</description>
     </item>
     
     <item>
@@ -67,10 +65,9 @@ Leandro tooks us on a journey into the postfix mail transport agent (MTA) monito
       <guid>https://golangleipzig.space/posts/meetup-49-wrapup/</guid>
       <description>Memory management in Go or To GC or not to GC Hybrid Meetup #49 took place 2025-03-25 19:00 at CHECK24 Leipzig Office and we had a great introduction to memory management with Go by Fabian.
 Slides and quiz can be found at mentimeter.com.
-
 We also have an archive of that page.
 Some rules to program by:
- Stack allocation are better then heap allocation Number of heap allocations are more important than size of heap allocations Reduce the number of pointers in heap to reduce mark phase costs Be aware of the memory layout of you structs Make sure that every goroutine returns at some point (to avoid leaks) Use pprof to determine problems in you program  There is a great GC guide at: doc/gc-guide, and a few SO questions tagged with Go and GC</description>
+Stack allocation are better then heap allocation Number of heap allocations are more important than size of heap allocations Reduce the number of pointers in heap to reduce mark phase costs Be aware of the memory layout of you structs Make sure that every goroutine returns at some point (to avoid leaks) Use pprof to determine problems in you program There is a great GC guide at: doc/gc-guide, and a few SO questions tagged with Go and GC</description>
     </item>
     
     <item>
@@ -81,7 +78,7 @@ Some rules to program by:
       <guid>https://golangleipzig.space/posts/meetup-48-wrapup/</guid>
       <description>Kubernetes Security and checkpoint/restore in userspace Hybrid Meetup #48 took place 2025-02-25 19:00 at Basislager and we had a great presentation about Kubernetes security.
 StackRox/RHACS StackRox (founded in 2014) focussed on container/cluster security and was acquired by Red Hat in 2021.
- Today, Red Hat is excited to announce that Red Hat Advanced Cluster Security for Kubernetes (RHACS) is now open sourced as StackRox. The Kubernetes and container security community can now use and contribute to the codebase of StackRox on Github.</description>
+Today, Red Hat is excited to announce that Red Hat Advanced Cluster Security for Kubernetes (RHACS) is now open sourced as StackRox. The Kubernetes and container security community can now use and contribute to the codebase of StackRox on Github.</description>
     </item>
     
     <item>
@@ -91,7 +88,7 @@ StackRox/RHACS StackRox (founded in 2014) focussed on container/cluster security
       
       <guid>https://golangleipzig.space/posts/meetup-47-wrapup/</guid>
       <description>Misc Drinkup #47 took place 2024-12-19 19:00 at Cantona Leipzig.
- LLM coding assistants became so mainstream this year that people are starting to turn them off (even if they are given away for free); but new interaction modes like canvas or deeper integration with your code project or IDE feel a bit like having swimming fins 🧜 do you know about software that is usable, used and finished? haha! tell us about it!</description>
+LLM coding assistants became so mainstream this year that people are starting to turn them off (even if they are given away for free); but new interaction modes like canvas or deeper integration with your code project or IDE feel a bit like having swimming fins 🧜 do you know about software that is usable, used and finished? haha! tell us about it!</description>
     </item>
     
     <item>
@@ -123,7 +120,7 @@ Coverage metrics Fabian analyzed the Go coverage tool cmd/cover, listed some of 
       <guid>https://golangleipzig.space/posts/meetup-44-wrapup/</guid>
       <description>Ideas and Tools Hybrid Meetup #44 took place 2024-09-24 19:00 at Basislager Leipzig. The topic was everyday tools and libraries, with demos from a few people.
 Here&amp;rsquo;s a list of tools presented, mentioned, praised:
- smart-branches (git): stacked commits git fixup (git): cleaner history awk and xargs, GNU parallel (cli): data wrangling roxvet (go): example custom code vetting strace (linux): syscalls and more tilt (k8s): local k8s env fzf (cli): fuzzy finder in command line just, task (cli): task runner, similar to make tmux (sh): terminal multiplexing btop, zenith (cli): system monitors git-cal (git): repo stats cobra (go): cli tool scaffold charm (go): TUI (we also had a lightning talk on charm at #28) direnv (sh): project management lazyvim (vim): editor devspace, devpod, gitpod, and more (ops): dev env asciinema (linux): script(1) heir, agg ai tools: good for learning or to sketch out a problem space; less usable code just yet obisidian (editor/wiki): a tool to manage your knowledge timefilp (tool): tool to efficiently manage time tracking  </description>
+smart-branches (git): stacked commits git fixup (git): cleaner history awk and xargs, GNU parallel (cli): data wrangling roxvet (go): example custom code vetting strace (linux): syscalls and more tilt (k8s): local k8s env fzf (cli): fuzzy finder in command line just, task (cli): task runner, similar to make tmux (sh): terminal multiplexing btop, zenith (cli): system monitors git-cal (git): repo stats cobra (go): cli tool scaffold charm (go): TUI (we also had a lightning talk on charm at #28) direnv (sh): project management lazyvim (vim): editor devspace, devpod, gitpod, and more (ops): dev env asciinema (linux): script(1) heir, agg ai tools: good for learning or to sketch out a problem space; less usable code just yet obisidian (editor/wiki): a tool to manage your knowledge timefilp (tool): tool to efficiently manage time tracking </description>
     </item>
     
     <item>
@@ -143,7 +140,7 @@ The use case in the context of RAIDA is the modelling of workflows, composed of 
       
       <guid>https://golangleipzig.space/posts/meetup-42-wrapup/</guid>
       <description>Fast Things First Hybrid Meetup #42 took place 2024-04-30 at CHECK24 Leipzig Office at Altes Landratsamt. We had two talks that revolved around Go and performance: Patrick Vahl gave a great overview about SIMD in Go and what is possible (and not possible), today. Examples from the talk can be found here: Crash129/go-simd-example. A few points from the talk:
- performance gains can be significant try to isolate SIMD as much as possible   The difficulty with a general purpose approach to SIMD [&amp;hellip;] is that the performance can be dramatically different on different processors.</description>
+performance gains can be significant try to isolate SIMD as much as possible The difficulty with a general purpose approach to SIMD [&amp;hellip;] is that the performance can be dramatically different on different processors.</description>
     </item>
     
     <item>
@@ -163,10 +160,9 @@ Go tools for genai models There is no shortage of tooling and applications for L
       
       <guid>https://golangleipzig.space/posts/meetup-40-wrapup/</guid>
       <description>Domain Driven Data Oriented Design Hybrid Meetup #40 took place 2024-01-30 at Basislager Leipzig and we had a great presentation by Bill Kennedy from Ardan Labs about Domain Driven Data Oriented Design. A recording of the talk is available at our YouTube Channel.
-
 All code shown in the talk is available at: ardanlabs/service.
 Just a few notes from the talk:
- CRUD is boilerplate domain-driven design comes with a cost but can help to keep larger projects structured and maintainable one way to limit data exposure per domain is to create a relational view per domain example of an opaque type from the repo is user.</description>
+CRUD is boilerplate domain-driven design comes with a cost but can help to keep larger projects structured and maintainable one way to limit data exposure per domain is to create a relational view per domain example of an opaque type from the repo is user.</description>
     </item>
     
     <item>
@@ -176,7 +172,7 @@ Just a few notes from the talk:
       
       <guid>https://golangleipzig.space/posts/meetup-39-wrapup/</guid>
       <description>Drinkup notes Meetup #39 took place 2023-12-19 at Cantona Leipzig and these were just some of the talking points.
- without extra libraries, schema validation in JSON is minimalistic (e.g. json schema); could cue help? malloy is an experimental data modeling language over relational stores direnv is a nice shell helper for 12-factor-style appu time is not just a line, it&amp;rsquo;s bound (cf. chrony) test your latencies: aws, gcp, or just the internet eventbridge/kubernetes at serverless office hours interesting, dedicated code assistant for ansible: Ansible Lightspeed  Next year will probably bring yet another wave of hyper-focussed LLM-based code comprehension tools (beside hyper-focussed niche, local, custom-trained LLMs for dedicated tasks, in general).</description>
+without extra libraries, schema validation in JSON is minimalistic (e.g. json schema); could cue help? malloy is an experimental data modeling language over relational stores direnv is a nice shell helper for 12-factor-style appu time is not just a line, it&amp;rsquo;s bound (cf. chrony) test your latencies: aws, gcp, or just the internet eventbridge/kubernetes at serverless office hours interesting, dedicated code assistant for ansible: Ansible Lightspeed Next year will probably bring yet another wave of hyper-focussed LLM-based code comprehension tools (beside hyper-focussed niche, local, custom-trained LLMs for dedicated tasks, in general).</description>
     </item>
     
     <item>
@@ -241,7 +237,7 @@ We prepared a demo for the vanity URL import supported by Go package system - ch
       <guid>https://golangleipzig.space/posts/meetup-34-wrapup/</guid>
       <description>Go 1.20 Hybrid meetup #34 took place 2023-02-21 19:00 at Basislager Leipzig and was all about Go 1.20 (similar to previous years, where we looked at Go 1.14, 1.16, 1.18 - #9, #16, #25).
 We had two great presentations:
- A rundown of most novelties in Go 1.20: Go 1.20 updates, including many examples &amp;ndash; thanks, Andreas! &amp;hellip; and Go 1.20 Coverage Profiling Support for Kubernetes Apps, a walkthrough on how to use Go 1.</description>
+A rundown of most novelties in Go 1.20: Go 1.20 updates, including many examples &amp;ndash; thanks, Andreas! &amp;hellip; and Go 1.20 Coverage Profiling Support for Kubernetes Apps, a walkthrough on how to use Go 1.</description>
     </item>
     
     <item>
@@ -251,7 +247,7 @@ We had two great presentations:
       
       <guid>https://golangleipzig.space/posts/meetup-33-wrapup/</guid>
       <description>Drinkup Notes We met 2022-12-20 19:00 at Café Cantona, with no specific Go agenda, for a great exchange of ideas and experiences - too many to capture them in a blog post, so here&amp;rsquo;s just a fraction of the topics we passed (slightly categorized):
-Reading list  Grokking Functional Programming - a very readable introduction to the topic; more academic angles include the classic Out of the tar pit or Purely Functional Data Structures (always nice to find references to this book in code) in 04/2022, a JS version of SICP (1984) came out: SICP JS edition, there&amp;rsquo;s an open access version, too Podman in Action, container tools with a nice Unix backdrop the classic, albeit just five year old DDIA 100 mistakes in Go and how to avoid them - actionable advice for Go code improvements  Software General  ISO 28500:2017, aka WARC is how you can capture the web - and there are many libraries and tools around this format, just to name a few: Heritrix, brozzler, webrecorder, warcprox, replayweb.</description>
+Reading list Grokking Functional Programming - a very readable introduction to the topic; more academic angles include the classic Out of the tar pit or Purely Functional Data Structures (always nice to find references to this book in code) in 04/2022, a JS version of SICP (1984) came out: SICP JS edition, there&amp;rsquo;s an open access version, too Podman in Action, container tools with a nice Unix backdrop the classic, albeit just five year old DDIA 100 mistakes in Go and how to avoid them - actionable advice for Go code improvements Software General ISO 28500:2017, aka WARC is how you can capture the web - and there are many libraries and tools around this format, just to name a few: Heritrix, brozzler, webrecorder, warcprox, replayweb.</description>
     </item>
     
     <item>
@@ -260,7 +256,7 @@ Reading list  Grokking Functional Programming - a very readable introduction to 
       <pubDate>Wed, 30 Nov 2022 13:00:31 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-32-wrapup/</guid>
-      <description>Gridfuse x Leipzig Gophers Leipzig Gophers #32 took place on 2022-11-29 19:00 CET and we had a great meetup at Gridfuse&#39; new office in the heart of Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable energy sources (wind, solar, &amp;hellip;) to react to market prices - in Germany and Europe.
+      <description>Gridfuse x Leipzig Gophers Leipzig Gophers #32 took place on 2022-11-29 19:00 CET and we had a great meetup at Gridfuse&amp;rsquo; new office in the heart of Leipzig. Gridfuse was founded in 2022 and builds software to bundle renewable energy sources (wind, solar, &amp;hellip;) to react to market prices - in Germany and Europe.
 Predicting future energy prices is one key component, and renewables pose their own set of challenges since they depend more on external factors (like the weather, and more&amp;hellip;).</description>
     </item>
     
@@ -283,7 +279,6 @@ Max Eusterbrock and his colleague Aavash Shrestha told us about The personal clo
       <description>Secure data with immudb - a fast, immutable database Leipzig Gophers Hybrid Meetup #30 took place 2022-09-20 19:00 CEST at Lancaster University Leipzig Campus.
 We had a great presentation by Dennis Zimmer and Bartłomiej Święcki (GitHub) from CodeNotary about their cutting edge, open source, immutable database project immudb.
 Presentation slides are available here:
-
 Originally, the CodeNotary team looked at blockchains to implement the idea of tamperproof data store - but found that they could build something more performant.</description>
     </item>
     
@@ -295,7 +290,7 @@ Originally, the CodeNotary team looked at blockchains to implement the idea of t
       <guid>https://golangleipzig.space/posts/meetup-29-wrapup/</guid>
       <description>All things Go and beyond We met on 2022-07-14 at Soltmann Bar and it was great to see everyone in person and also to welcome new Gophers.
 In September, we hope to follow up with an in-person meetup featuring a presentation from immudb:
- immudb is database with built-in cryptographic proof and verification. It can track changes in sensitive data and the integrity of the history will be protected by the clients, without the need to trust the server.</description>
+immudb is database with built-in cryptographic proof and verification. It can track changes in sensitive data and the integrity of the history will be protected by the clients, without the need to trust the server.</description>
     </item>
     
     <item>
@@ -316,9 +311,9 @@ We had a short presentation Never forget to handle errors, rediscovered the 1000
       <guid>https://golangleipzig.space/posts/meetup-27-wrapup/</guid>
       <description>Algorithm Challenge Meetup #27 took place on 2022-05-10 19:00 CEST and was virtual again and we had an interesting problem-solving live-coding challenge.
 Slides and code: gitlab.com/telo_tade/prefix_suffix_arrays
-Problem  You are given a list of numbers. Find its longest slice that sums to zero.
- First, clarify:
- Is it a consecutive list of numbers? What kind of numbers, and how many?  We collaboratively went from a naive O(n^3) solution to a slightly improved O(n^2) one using an auxiliary data structure: a prefix sum array.</description>
+Problem You are given a list of numbers. Find its longest slice that sums to zero.
+First, clarify:
+Is it a consecutive list of numbers? What kind of numbers, and how many? We collaboratively went from a naive O(n^3) solution to a slightly improved O(n^2) one using an auxiliary data structure: a prefix sum array.</description>
     </item>
     
     <item>
@@ -339,8 +334,8 @@ Type Signatures How would you generate a unique fingerprint for a type? A finger
       <guid>https://golangleipzig.space/posts/meetup-25-wrapup/</guid>
       <description>Go 1.18 and generics Meetup #25 was virtual and we were glad to have an international audience again.
 We had a great presentation about the upcoming Go 1.18 release, including generics and fuzzing:
- Go 1.18 with some fuzzing and a focus on generics  As always, Go 1.18 will include lots of smaller tweaks and improvements, like a new debug/buildinfo package, which
- provides access to information embedded in a Go binary about how it was built,</description>
+Go 1.18 with some fuzzing and a focus on generics As always, Go 1.18 will include lots of smaller tweaks and improvements, like a new debug/buildinfo package, which
+provides access to information embedded in a Go binary about how it was built,</description>
     </item>
     
     <item>
@@ -351,8 +346,8 @@ We had a great presentation about the upcoming Go 1.18 release, including generi
       <guid>https://golangleipzig.space/posts/meetup-24-wrapup/</guid>
       <description>Quiz night! Thanks everyone for joining our quiz night at virtual meetup #24, Dec 21, 2021; we got through 16 of our 24 prepared questions - from easy to hard. Most prizes are already on their way.
 A special thanks 💕 to our sponsors:
- O&amp;rsquo;Reilly Media Manning Publications About You (check out jobs) Jetbrains  Happy holidays!
- Join our meetup to get notified of upcoming events!</description>
+O&amp;rsquo;Reilly Media Manning Publications About You (check out jobs) Jetbrains Happy holidays!
+Join our meetup to get notified of upcoming events!</description>
     </item>
     
     <item>
@@ -374,9 +369,8 @@ Go in a startup environment Sciendis develops a React Native application called 
       <guid>https://golangleipzig.space/posts/meetup-22-wrapup/</guid>
       <description>Confidential Computing with Go We had a great presentation by Moritz Eckert from edgeless systems about Confidential Computing with Go, and especially ego.dev, a modified Go compiler and additional tooling which allows you to run code within a trusted execution environment like Intel® SGX enclaves with zero code changes.
 Here&amp;rsquo;s a recording of the talk, code walkthroughs and Q&amp;amp;A:
-
 A few highlights from the talk:
- a trusted execution environment can be implemented in various ways, Intel SGX being one that is usable today (with others in development, e.</description>
+a trusted execution environment can be implemented in various ways, Intel SGX being one that is usable today (with others in development, e.</description>
     </item>
     
     <item>
@@ -386,8 +380,7 @@ A few highlights from the talk:
       
       <guid>https://golangleipzig.space/posts/meetup-21-wrapup/</guid>
       <description>Concise Encoding We had a great presentation about Concise Encoding, a proposed encoding standard that aims to be human and machine friendly.
- Presentation: go-concise-encoding  Here&amp;rsquo;s a recording:
-
+Presentation: go-concise-encoding Here&amp;rsquo;s a recording:
 Concise encoding is element-oriented (similar to e.g. JSON) and tries to solve some issues in existing standards, such as lack of types, performance and security (one similar format is Amazon Ion).
 In prerelease stage, feedback is highly appreciated, a reference implementation written in Go exists at:</description>
     </item>
@@ -412,7 +405,7 @@ Many people use vscode or vim, but there are also some dedicated Go IDEs, e.g. G
       <guid>https://golangleipzig.space/posts/meetup-19-wrapup/</guid>
       <description>Journey to the Center of Kubernetes Meetup #19 took place Jun 22, 2021 19:00 CEST, and was virtual again. Michael Gasch gave an input presentation on etcd and did a deep dive into its role in the container-orchestrator kubernetes.
 The talk is based on a blog post: Onwards to the Core: etcd. A shell transcript can be found here:
- https://git.io/JnQ1n  We learned about the API of etcd, its data model, key value stores layouts, append-only storage and compaction.</description>
+https://git.io/JnQ1n We learned about the API of etcd, its data model, key value stores layouts, append-only storage and compaction.</description>
     </item>
     
     <item>
@@ -432,7 +425,7 @@ We looked at a few patterns when working with data, e.g. I/O considerations, wha
       
       <guid>https://golangleipzig.space/posts/meetup-17-wrapup/</guid>
       <description>(Fuzzy) Matching with command line tools and Go Meetup #17 took place Apr 20, 2021 19:00 CEST, and was virtual again (crossing one year of virtual meetups). We had a lightning talk on a data engineering topic:
- (Fuzzy) Matching with command line tools and Go  How to build a graph dataset with about 1B edges from semi-structured data? With Taco Bell style programming, you can reuse (UNIX) command line tools and combine it with a few custom Go programs.</description>
+(Fuzzy) Matching with command line tools and Go How to build a graph dataset with about 1B edges from semi-structured data? With Taco Bell style programming, you can reuse (UNIX) command line tools and combine it with a few custom Go programs.</description>
     </item>
     
     <item>
@@ -443,7 +436,7 @@ We looked at a few patterns when working with data, e.g. I/O considerations, wha
       <guid>https://golangleipzig.space/posts/meetup-16-wrapup/</guid>
       <description>Go 1.16 Meetup #16 was all about Go 1.16 (which was released after the meetup).
 We had an informative breakdown of the updates coming in this release, the full slides can be found here:
- A quick tour of Go 1.16  A few highlights are: the go tool is now module aware by default, ioutil gets deprecated, support for file embedding (we talked about that in #14) and there is a new io subpackage io/fs, defining among other things interfaces for filesystems.</description>
+A quick tour of Go 1.16 A few highlights are: the go tool is now module aware by default, ioutil gets deprecated, support for file embedding (we talked about that in #14) and there is a new io subpackage io/fs, defining among other things interfaces for filesystems.</description>
     </item>
     
     <item>
@@ -467,7 +460,7 @@ Enter package waitgroup which allows to preempt running goroutines.</description
 How do you put files into a binary? There a numerous tools, some of them limited, some of them with large feature sets.
 Is it time for Yet Another File Embedding Tool? Yes!
 That such a tool can be simple and easy to use is shown by klingtnet/embed.
-Misc  awsls is a tool that uses code generation to simplify AWS command line interactions we side-tracked into note-taking, and found out that people use all kinds of journal software, from OneNote, plain text files, custom software and plain paper notebooks   Join us next time!</description>
+Misc awsls is a tool that uses code generation to simplify AWS command line interactions we side-tracked into note-taking, and found out that people use all kinds of journal software, from OneNote, plain text files, custom software and plain paper notebooks Join us next time!</description>
     </item>
     
     <item>
@@ -477,7 +470,7 @@ Misc  awsls is a tool that uses code generation to simplify AWS command line int
       
       <guid>https://golangleipzig.space/posts/meetup-13-wrapup/</guid>
       <description>Today we had two input presentations:
- Haystack and seaweedfs: miku/haystack Functional Options Pattern: embano1/funcy-ops  Haystack The haystack talk gave an overview about an early Facebook photo storage system and a Go project inspired by it, called seaweedfs. The seaweedfs project is great, as it is developer friendly, scales up and down and is easy to use out of the box. It offers an S3 compatible API and a FUSE filesystem option.</description>
+Haystack and seaweedfs: miku/haystack Functional Options Pattern: embano1/funcy-ops Haystack The haystack talk gave an overview about an early Facebook photo storage system and a Go project inspired by it, called seaweedfs. The seaweedfs project is great, as it is developer friendly, scales up and down and is easy to use out of the box. It offers an S3 compatible API and a FUSE filesystem option.</description>
     </item>
     
     <item>
@@ -489,7 +482,7 @@ Misc  awsls is a tool that uses code generation to simplify AWS command line int
       <description>We had a short talk about HTTP proxies in Go. As expected, Go supports the usual environment variables, like HTTP_PROXY, HTTPS_PROXY and NO_PROXY - and you can easily customize the proxy selection, as we saw in an example code walkthrough of an ip rotation proxy.
 The x/net package contains support in x/net/http/httpproxy.
 A couple of fun facts from the talk:
- The first book on HTTP proxies was published in 1998: &amp;ldquo;Web Proxy Servers&amp;rdquo; by Ari Luotonen (CERN), who also wrote a web proxy tunneling draft.</description>
+The first book on HTTP proxies was published in 1998: &amp;ldquo;Web Proxy Servers&amp;rdquo; by Ari Luotonen (CERN), who also wrote a web proxy tunneling draft.</description>
     </item>
     
     <item>
@@ -498,7 +491,7 @@ A couple of fun facts from the talk:
       <pubDate>Fri, 29 May 2020 20:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-11-wrapup/</guid>
-      <description>Kubeflow 🔗  The data science process is not free of friction, especially when acquiring, preparing and cleaning data. But even when data is readily available, one might want to use it to train a number of ML models to perform model selection.
+      <description>Kubeflow 🔗 The data science process is not free of friction, especially when acquiring, preparing and cleaning data. But even when data is readily available, one might want to use it to train a number of ML models to perform model selection.
 And what happens, if an update is available and the whole process needs to be run again? Optimally with a tested model that is put into production in a canary deployment workflow?</description>
     </item>
     
@@ -508,7 +501,7 @@ And what happens, if an update is available and the whole process needs to be ru
       <pubDate>Tue, 21 Apr 2020 10:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-10-wrapup/</guid>
-      <description>The sync package 🔗  Virtual Meetup #10 took place on Friday, April 17, 2020, 19:00 CEST via Zoom (thanks to saschagrunert and CNCF).
+      <description>The sync package 🔗 Virtual Meetup #10 took place on Friday, April 17, 2020, 19:00 CEST via Zoom (thanks to saschagrunert and CNCF).
 Michael prepared a great overview of the sync and x/sync packages, which implement concurrency related facilities (concurrency is hard with either classical approaches or CSP, as we learned from a presentation last year at meetup #2).
 The overview included among other things a bug hunt in a counter example and a benchmark of the builtin map and sync.</description>
     </item>
@@ -519,13 +512,12 @@ The overview included among other things a bug hunt in a counter example and a b
       <pubDate>Sat, 22 Feb 2020 01:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-9-wrapup/</guid>
-      <description>Go 1.14 🔗  Meetup #9 took place on Friday, February 21, 2020, 19:00 CEST at Basislager.
+      <description>Go 1.14 🔗 Meetup #9 took place on Friday, February 21, 2020, 19:00 CEST at Basislager.
 We looked at changes coming in the upcoming Go 1.14 release, which is is expected to be released in February 2020.
 The slides can be found here:
- Slides, Repo  
-There are many improvements, just one of them is lower-cost defer statements.
+Slides, Repo There are many improvements, just one of them is lower-cost defer statements.
 The proposal can be found here:
- Proposal: Low-cost defers through inline code, and extra funcdata to manage the panic case  Recommended podcast: gotime/112.</description>
+Proposal: Low-cost defers through inline code, and extra funcdata to manage the panic case Recommended podcast: gotime/112.</description>
     </item>
     
     <item>
@@ -534,7 +526,7 @@ The proposal can be found here:
       <pubDate>Tue, 19 Nov 2019 21:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-8-wrapup/</guid>
-      <description>Anatomy of a Go module proxy 🔗  The Go packaging story started many years ago with GO15VENDOREXPERIMENT and a myriad of tools for managing dependencies. And, annoyingly GOPATH was one of the main obstactles for people getting started with Go. Since Go 1.11, we have experimental support for Go modules.
+      <description>Anatomy of a Go module proxy 🔗 The Go packaging story started many years ago with GO15VENDOREXPERIMENT and a myriad of tools for managing dependencies. And, annoyingly GOPATH was one of the main obstactles for people getting started with Go. Since Go 1.11, we have experimental support for Go modules.
 A new component related to modules is the module proxy. A bit of history, internals and pitfalls has been compiled by klingtnet into a great talk.</description>
     </item>
     
@@ -544,10 +536,10 @@ A new component related to modules is the module proxy. A bit of history, intern
       <pubDate>Sat, 28 Sep 2019 14:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-7-wrapup/</guid>
-      <description>Concurrency in Go 🔗  Concurrency is hard, but the primitive building blocks of CSP in Go - goroutines and channels - can make things simpler.
+      <description>Concurrency in Go 🔗 Concurrency is hard, but the primitive building blocks of CSP in Go - goroutines and channels - can make things simpler.
 We glanced at the six chapters of Concurrency in Go, and learned a bit about the problem setting, goroutine sizes, context switch times and patterns.
 The notes can be found here:
- Notes on Concurrency in Go  In the book, the perf tool is used to benchmark context switch times of the kernel - and to compare it with context switch times in the Go scheduler.</description>
+Notes on Concurrency in Go In the book, the perf tool is used to benchmark context switch times of the kernel - and to compare it with context switch times in the Go scheduler.</description>
     </item>
     
     <item>
@@ -556,7 +548,7 @@ The notes can be found here:
       <pubDate>Fri, 12 Jul 2019 22:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-6-wrapup/</guid>
-      <description>Where to Go? 🔗  The Berlin Go User Group celebrates its eighth birthday next week. Our meetup just completed its first ½ year - so far, we touched upon quite a few of the initial topic ideas.
+      <description>Where to Go? 🔗 The Berlin Go User Group celebrates its eighth birthday next week. Our meetup just completed its first ½ year - so far, we touched upon quite a few of the initial topic ideas.
 As for Go conferences, Golab is an annual international Go conference, which will have its 4th edition this October. We have two free tickets for you - if you are interested, just drop me a line.</description>
     </item>
     
@@ -566,10 +558,10 @@ As for Go conferences, Golab is an annual international Go conference, which wil
       <pubDate>Sat, 15 Jun 2019 01:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-5-wrapup/</guid>
-      <description>Bits from the IO package 🔗  The IO package is a central package in the standard library, as it provides (among other things) two main interfaces:
- io.Reader io.Writer  In a lightning talk we dug a bit into the package:
- Slides (PDF) Repo  The IO model is simple and powerful (and reminds one of UNIX pipes).
-Automate the Web with chromedp 🔗  In a code walkthrough we explored chromedp, a pure Go library talking the Chrome devtools protocol.</description>
+      <description>Bits from the IO package 🔗 The IO package is a central package in the standard library, as it provides (among other things) two main interfaces:
+io.Reader io.Writer In a lightning talk we dug a bit into the package:
+Slides (PDF) Repo The IO model is simple and powerful (and reminds one of UNIX pipes).
+Automate the Web with chromedp 🔗 In a code walkthrough we explored chromedp, a pure Go library talking the Chrome devtools protocol.</description>
     </item>
     
     <item>
@@ -578,7 +570,7 @@ Automate the Web with chromedp 🔗  In a code walkthrough we explored chromedp,
       <pubDate>Fri, 17 May 2019 22:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-4-wrapup/</guid>
-      <description>Lightning Network Micropayments 🔗  Go is popular in the crypocurrency space. The well-rounded standard library and great support for networking applications might be one reason. In Meetup #4 Philipp presented an introduction to Bitcoin, Lighting Network and a Go project, that makes micropayments for API usage really simple: ln-paywall.
+      <description>Lightning Network Micropayments 🔗 Go is popular in the crypocurrency space. The well-rounded standard library and great support for networking applications might be one reason. In Meetup #4 Philipp presented an introduction to Bitcoin, Lighting Network and a Go project, that makes micropayments for API usage really simple: ln-paywall.
 The presentation is available as PDF.
 An http middleware takes care of creating invoices per request, a complete example can be implemented in a few lines.</description>
     </item>
@@ -590,7 +582,7 @@ An http middleware takes care of creating invoices per request, a complete examp
       
       <guid>https://golangleipzig.space/posts/meetup-3-wrapup/</guid>
       <description>Meetup #3 took place on Friday, April 12, 2019, 19:00 CEST at Basislager. We are now officially part of the Go Developer Network (GDN, currently 103 groups with 47418 members in 37 countries), which was announced in March 2019.
- The GDN is a collection of Go user groups working together with a shared mission to empower developer communities with the knowledge, experience, and wisdom to build the next generation of software in Go.</description>
+The GDN is a collection of Go user groups working together with a shared mission to empower developer communities with the knowledge, experience, and wisdom to build the next generation of software in Go.</description>
     </item>
     
     <item>
@@ -600,8 +592,8 @@ An http middleware takes care of creating invoices per request, a complete examp
       
       <guid>https://golangleipzig.space/posts/second-meetup-wrapup/</guid>
       <description>Our second meetup took place yesterday (2019-03-15) at Basislager Leipzig, here&amp;rsquo;s a short wrap-up:
-  miku gave a lightning talk about generating Go structs from JSON and XML documents, e.g. via JSONGen or zek. Code generation is not perfect, but can save you time.
-  Michael presented the paper Understanding Real-World Concurrency Bugs in Go, which compares bug classes by analyzing popular open source projects like BoltDB, etcd, Docker and Kubernetes.</description>
+miku gave a lightning talk about generating Go structs from JSON and XML documents, e.g. via JSONGen or zek. Code generation is not perfect, but can save you time.
+Michael presented the paper Understanding Real-World Concurrency Bugs in Go, which compares bug classes by analyzing popular open source projects like BoltDB, etcd, Docker and Kubernetes. Did you know that some concurrency bugs stay undetected for months, even years?</description>
     </item>
     
     <item>

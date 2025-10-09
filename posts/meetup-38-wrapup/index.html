@@ -70,32 +70,32 @@ quiz:</p>
 <li>When would it become a problem?</li>
 <li>What could be improved?</li>
 </ul>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// Offer, abridged.
-</span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
-    HomeAirport        <span style="color:#000;font-weight:bold">*</span>Airport
-    DestinationAirport <span style="color:#000;font-weight:bold">*</span>Airport
-    Hotel              <span style="color:#000;font-weight:bold">*</span>Hotel
-    RoomType           <span style="color:#458;font-weight:bold">string</span>
-    MealType           <span style="color:#458;font-weight:bold">string</span>
-    Airline            <span style="color:#458;font-weight:bold">string</span>
-    DepartureTime      time.Time
-    ReturnTime         time.Time
-}
-</code></pre></div><p>If possible, one can try to use stack allocated values (note: Go
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#998;font-style:italic">// Offer, abridged.
+</span></span></span><span style="display:flex;"><span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
+</span></span><span style="display:flex;"><span>    HomeAirport        <span style="color:#000;font-weight:bold">*</span>Airport
+</span></span><span style="display:flex;"><span>    DestinationAirport <span style="color:#000;font-weight:bold">*</span>Airport
+</span></span><span style="display:flex;"><span>    Hotel              <span style="color:#000;font-weight:bold">*</span>Hotel
+</span></span><span style="display:flex;"><span>    RoomType           <span style="color:#458;font-weight:bold">string</span>
+</span></span><span style="display:flex;"><span>    MealType           <span style="color:#458;font-weight:bold">string</span>
+</span></span><span style="display:flex;"><span>    Airline            <span style="color:#458;font-weight:bold">string</span>
+</span></span><span style="display:flex;"><span>    DepartureTime      time.Time
+</span></span><span style="display:flex;"><span>    ReturnTime         time.Time
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>If possible, one can try to use stack allocated values (note: Go
 <a href="https://go.dev/ref/spec">ref/spec</a> never mentions to stack or heap, as these
 concepts are abstracted by the language):</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#998;font-style:italic">// Offer, reduced, abridged.
-</span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
-    HomeAirportID        <span style="color:#458;font-weight:bold">int</span>
-    DestinationAirportID <span style="color:#458;font-weight:bold">int</span>
-    HotelID              <span style="color:#458;font-weight:bold">int</span>
-    RoomType             RoomTypeEnum
-    MealType             MealTypeEnum
-    AirlineID            <span style="color:#458;font-weight:bold">int</span>
-    DepartureTime        <span style="color:#458;font-weight:bold">int64</span>
-    ReturnTime           <span style="color:#458;font-weight:bold">int64</span>
-}
-</code></pre></div><p>This is now a much more compact, GC-friendly struct that will require
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#998;font-style:italic">// Offer, reduced, abridged.
+</span></span></span><span style="display:flex;"><span><span style="color:#998;font-style:italic"></span><span style="color:#000;font-weight:bold">type</span> Offer <span style="color:#000;font-weight:bold">struct</span> {
+</span></span><span style="display:flex;"><span>    HomeAirportID        <span style="color:#458;font-weight:bold">int</span>
+</span></span><span style="display:flex;"><span>    DestinationAirportID <span style="color:#458;font-weight:bold">int</span>
+</span></span><span style="display:flex;"><span>    HotelID              <span style="color:#458;font-weight:bold">int</span>
+</span></span><span style="display:flex;"><span>    RoomType             RoomTypeEnum
+</span></span><span style="display:flex;"><span>    MealType             MealTypeEnum
+</span></span><span style="display:flex;"><span>    AirlineID            <span style="color:#458;font-weight:bold">int</span>
+</span></span><span style="display:flex;"><span>    DepartureTime        <span style="color:#458;font-weight:bold">int64</span>
+</span></span><span style="display:flex;"><span>    ReturnTime           <span style="color:#458;font-weight:bold">int64</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>This is now a much more compact, GC-friendly struct that will require
 additional object lookups for respective identifiers but would reduce GC load
 significantly, when dealing with millions of objects. Simple, effective.</p>
 <p><a href="https://www.linkedin.com/posts/florianbr%C3%A4utigam_golang-meetup-golangmeetup-activity-7138814464618860544--Xe2"><img src="/images/meetup-38-pic-sketch.jpg" alt=""></a></p>

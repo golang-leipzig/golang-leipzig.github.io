@@ -33,8 +33,7 @@ With a Decoder it is possible to iterate over a large number of XML elements and
       
       <guid>https://golangleipzig.space/posts/go-at-coding-leipzig-chapter-four/</guid>
       <description>A last minute tip for today: There will be a quick introduction to Go at Coding Leipzig Chapter Four meetup tonight at Basislager:
- Michael Panzer | GoBasics in 30 Minutes   Michael is co-organizer of Leipzig Golang and Cloud-Native Meetup and show us the basics of Golang in only 30 minutes. He has prepared a bunch of useful examples.
- </description>
+Michael Panzer | GoBasics in 30 Minutes Michael is co-organizer of Leipzig Golang and Cloud-Native Meetup and show us the basics of Golang in only 30 minutes. He has prepared a bunch of useful examples.</description>
     </item>
     
     <item>
@@ -54,7 +53,7 @@ A good mix of backgrounds, experience levels and professional contexts lead to l
       
       <guid>https://golangleipzig.space/posts/go-heise-frontpage/</guid>
       <description>On 22, Jan 2019, Go made it to the frontpage of heise.de, with an introductory article about the language:
- Einstieg in Go (German)  After a brief historical overview, the authors jump right into various channels types. They also highlight struct embedding and interfaces.</description>
+Einstieg in Go (German) After a brief historical overview, the authors jump right into various channels types. They also highlight struct embedding and interfaces.</description>
     </item>
     
     <item>

@@ -14,8 +14,8 @@
       
       <guid>https://golangleipzig.space/posts/bigcode-in-the-stack/</guid>
       <description>In The Stack The AI space develops fast, with one cornerstone being the availability of open datasets for model development and training. Code from golang-leipzig is part of The Stack (20 Nov 2022):
- a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
- Five of our repositories are included in the 25.74 GB of source code (spread across 4,730,461 files) written in Go included in this dataset.</description>
+a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
+Five of our repositories are included in the 25.74 GB of source code (spread across 4,730,461 files) written in Go included in this dataset.</description>
     </item>
     
   </channel>

@@ -15,7 +15,6 @@
       <guid>https://golangleipzig.space/posts/meetup-54-invitation/</guid>
       <description>Hello, 世界!
 We&amp;rsquo;ll meet for drinks at Cafe Cantona (OSM) on Tue, 2025-09-30 19:00. Join us to discuss all topics Go, cloud and beyond. Offline only.
-
 See you!</description>
     </item>
     
@@ -27,7 +26,6 @@ See you!</description>
       <guid>https://golangleipzig.space/posts/meetup-53-invitation/</guid>
       <description>Hello, 世界!
 We&amp;rsquo;ll meet for drinks at Zum Wilden Heinz (OSM) on Tue, 2025-07-15 19:00. Join us to discuss all topics Go, cloud and beyond.
-
 See you!</description>
     </item>
     
@@ -39,7 +37,6 @@ See you!</description>
       <guid>https://golangleipzig.space/posts/meetup-52-invitation/</guid>
       <description>Hello, 世界!
 We&amp;rsquo;ll meet for drinks at Vergebung on Tue, 2025-06-17 19:00. Join us to discuss all topics Go, cloud and beyond.
-
 See you!</description>
     </item>
     
@@ -51,8 +48,8 @@ See you!</description>
       <guid>https://golangleipzig.space/posts/meetup-51-invitation/</guid>
       <description>Summer vibes Hello, 世界!
 For meetup #51 on Tuesday May 27, 2025 19:00 CET at Gridfuse we have two talks! One short talk/experience report by Martin Czygan on using large language models for writing and editing Go (and other) code:
- Beyond Benchmarks: Human x LLM for Go and other code (intermediate report)
-  Writing a prompt is like researching a model. Since 01/2025 I have been conducting a self-experiment trying to integrate various LLMs into Go software development (and also other languages), with mixed results.</description>
+Beyond Benchmarks: Human x LLM for Go and other code (intermediate report)
+Writing a prompt is like researching a model. Since 01/2025 I have been conducting a self-experiment trying to integrate various LLMs into Go software development (and also other languages), with mixed results.</description>
     </item>
     
     <item>
@@ -63,7 +60,7 @@ For meetup #51 on Tuesday May 27, 2025 19:00 CET at Gridfuse we have two talks! 
       <guid>https://golangleipzig.space/posts/meetup-50-invitation/</guid>
       <description>Reflection and Reconciliation Hello, 世界!
 For meetup #50 on Tuesday Apr 29, 2025 19:00 CET at Basislager Coworking we are thrilled to have two input presentations:
- Leandro will reflect on a recent software project of his, written in Go, that provides smart postfix monitoring. The project was part of the YC-W22 batch (blog). The title of his talk will be:   How a Go project dies; lessons learned, challenges to revive it and the scars I got on the way</description>
+Leandro will reflect on a recent software project of his, written in Go, that provides smart postfix monitoring. The project was part of the YC-W22 batch (blog). The title of his talk will be: How a Go project dies; lessons learned, challenges to revive it and the scars I got on the way</description>
     </item>
     
     <item>
@@ -74,7 +71,7 @@ For meetup #50 on Tuesday Apr 29, 2025 19:00 CET at Basislager Coworking we are 
       <guid>https://golangleipzig.space/posts/meetup-49-invitation/</guid>
       <description>Memory Management in Go Hello, 世界!
 For meetup #49 on Tuesday Mar 25, 2025 19:00 CET at CHECK24 Leipzig Office we will dive into the Go memory model and we are glad to have to some great input on this matter:
- Fabian will dive into Memory Management in Go   Go approaches its memory model in much the same way as the rest of the language, aiming to keep the semantics simple, understandable, and useful.</description>
+Fabian will dive into Memory Management in Go Go approaches its memory model in much the same way as the rest of the language, aiming to keep the semantics simple, understandable, and useful.</description>
     </item>
     
     <item>
@@ -85,7 +82,7 @@ For meetup #49 on Tuesday Mar 25, 2025 19:00 CET at CHECK24 Leipzig Office we wi
       <guid>https://golangleipzig.space/posts/meetup-48-invitation/</guid>
       <description>Kubernetes Security Bits Hello, 世界!
 For meetup #48 on Tuesday Tue 25, 2025 19:00 CET at Basislager Leipzig we are lucky to have Simon (Red Hat, RHACS) to dive into kubernetes container security topics, including architecture questions and concrete techniques like forensic container checkpointing (a related ASG23 talk on the matter).
-Schedule  18:45 Doors open 19:00 Welcome 19:10 Kubernetes Security Bits (talk and discussion) 20:15 Local bar excursion  We&amp;rsquo;ll meet:</description>
+Schedule 18:45 Doors open 19:00 Welcome 19:10 Kubernetes Security Bits (talk and discussion) 20:15 Local bar excursion We&amp;rsquo;ll meet:</description>
     </item>
     
     <item>
@@ -96,7 +93,6 @@ Schedule  18:45 Doors open 19:00 Welcome 19:10 Kubernetes Security Bits (talk an
       <guid>https://golangleipzig.space/posts/meetup-47-invitation/</guid>
       <description>Hello, 世界!
 For meetup #47 on Thursday Dec 19, 2024 19:00 CET we will meet at Cantona Leipzig (OSM) without agenda, offline only.
-
 Join us to discuss all things Go and beyond.</description>
     </item>
     
@@ -106,8 +102,8 @@ Join us to discuss all things Go and beyond.</description>
       <pubDate>Fri, 15 Nov 2024 10:00:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-46-invitation/</guid>
-      <description>Better software insights  Metrics with Go and systemd + improved continuous integration
- Hello, 世界!
+      <description>Better software insights Metrics with Go and systemd + improved continuous integration
+Hello, 世界!
 For meetup #46 on Tuesday Nov 26, 2024 19:00 CET at Basislager Leipzig we will have two great input presentations related to metrics and continuous integration:
 Leandro will tell us how he is Getting metrics out of systemd journal with Go from a current C++ project, he is working on. Arch wiki has a nice page on systemd/Journal.</description>
     </item>
@@ -120,7 +116,7 @@ Leandro will tell us how he is Getting metrics out of systemd journal with Go fr
       <guid>https://golangleipzig.space/posts/meetup-45-invitation/</guid>
       <description>Testing in Go Hello, 世界!
 For meetup #45 on Tuesday Oct 29, 2024 19:00 CET at CHECK24 Leipzig Office we are lucky to have two great input presentations and the overarching topic will be Testing in Go.
- Fabian will take a closer look at Test Coverage in Go Jan will present an open source project: timestone – deterministic concurrency in go tests   The missing ability in Go&amp;rsquo;s standard lib to mock time and concurrency poses a significant problem when testing concurrent code.</description>
+Fabian will take a closer look at Test Coverage in Go Jan will present an open source project: timestone – deterministic concurrency in go tests The missing ability in Go&amp;rsquo;s standard lib to mock time and concurrency poses a significant problem when testing concurrent code.</description>
     </item>
     
     <item>
@@ -132,7 +128,7 @@ For meetup #45 on Tuesday Oct 29, 2024 19:00 CET at CHECK24 Leipzig Office we ar
       <description>Hello, 世界!
 For meetup #44 on Tuesday Sep 24, 2024 19:00 CET we&amp;rsquo;ll showcase daily development tools.
 In this format we&amp;rsquo;ll exchange our favorite tools to do our development tasks, including
- Your favorite software tools that streamline your coding process. Custom scripts or functions you’ve written to automate repetitive tasks. Any hardware or desk setup that boosts your productivity. Even non-technical items that contribute to your coding routine are welcome!</description>
+Your favorite software tools that streamline your coding process. Custom scripts or functions you’ve written to automate repetitive tasks. Any hardware or desk setup that boosts your productivity. Even non-technical items that contribute to your coding routine are welcome! This is intended to be casual and everyone is welcomed to share their tool, no matter how small or big it is.</description>
     </item>
     
     <item>
@@ -143,7 +139,7 @@ In this format we&amp;rsquo;ll exchange our favorite tools to do our development
       <guid>https://golangleipzig.space/posts/meetup-43-invitation/</guid>
       <description>Hello, 世界!
 For meetup #43 on Tuesday May 28, 2024 19:00 CET we are thrilled to collaborate again with Gridfuse, a renewable energy startup in the heart of Leipzig with the mission to help deliver a world where renewable energy sources become the main source of power on the global grid.
- By fusing together multiple individual renewable sources through software and intelligent algorithms, we unite them into a force that can transform our global energy system.</description>
+By fusing together multiple individual renewable sources through software and intelligent algorithms, we unite them into a force that can transform our global energy system.</description>
     </item>
     
     <item>
@@ -167,7 +163,7 @@ We will have two presentations: one about SIMD and Go, by Patrick Vahl and one a
 For meetup #41 on Tuesday Feb 27, 2024 19:00 CET we&amp;rsquo;ll discuss what&amp;rsquo;s new in Go 1.22.
 You can join us in person at Basislager Leipzig (free drinks) or remotely via Google Meet (BYOD).
 See you!
- Join us to discuss all things Go, and similar things!</description>
+Join us to discuss all things Go, and similar things!</description>
     </item>
     
     <item>
@@ -178,7 +174,7 @@ See you!
       <guid>https://golangleipzig.space/posts/meetup-40-invitation/</guid>
       <description>Hello, 世界!
 Happy 2024! For meetup #40 on Tuesday Jan 30, 2024 19:00 CET we are thrilled to have Bill Kennedy, Gopher Pioneer and Managing Partner at Ardan Labs joining us (remotely) to talk about Domain Driven, Data Oriented Design.
-Domain driven design has been tackling complexity in the heart of software since Eric Evans&#39; classic 2003 book, while emphasizing data in programming has many facets, from caring about caches, over treating data as first-class citizen (cf.</description>
+Domain driven design has been tackling complexity in the heart of software since Eric Evans&amp;rsquo; classic 2003 book, while emphasizing data in programming has many facets, from caring about caches, over treating data as first-class citizen (cf.</description>
     </item>
     
     <item>
@@ -189,7 +185,6 @@ Domain driven design has been tackling complexity in the heart of software since
       <guid>https://golangleipzig.space/posts/meetup-39-invitation/</guid>
       <description>Hello, 世界!
 For meetup #39 on Tuesday Dec 19, 2023 19:00 CET we will meet at Cantona Leipzig (OSM) for drinks.
-
 Join us to discuss all things Go, cloud, AI, past, future and beyond. See you!</description>
     </item>
     
@@ -202,7 +197,7 @@ Join us to discuss all things Go, cloud, AI, past, future and beyond. See you!</
       <description>Hello, 世界!
 For meetup #38 on Tuesday Nov 21, 2023 19:00 CET we&amp;rsquo;re excited to collaborate with CHECK24, which will host this meetup at their Leipzig office, located at Tröndlinring 3, 04105 Leipzig. CHECK24 uses Go in production at scale.
 We&amp;rsquo;re having two presentations:
- Fabian will present about a Go project developed at CHECK24 Martin (Leipzig Gophers) will give a lightning talk about running and using large-language models (LLM) locally with the help of Go tools (following up on some topics discussed in #35)  We&amp;rsquo;ll meet:</description>
+Fabian will present about a Go project developed at CHECK24 Martin (Leipzig Gophers) will give a lightning talk about running and using large-language models (LLM) locally with the help of Go tools (following up on some topics discussed in #35) We&amp;rsquo;ll meet:</description>
     </item>
     
     <item>
@@ -213,8 +208,8 @@ We&amp;rsquo;re having two presentations:
       <guid>https://golangleipzig.space/posts/meetup-36-invitation/</guid>
       <description>Hello, 世界!
 For meetup #36 on Tuesday Jun 20, 2023 19:00 CET we&amp;rsquo;re thrilled to welcome André Eriksson, software engineer and founder of Encore, a startup building the next generation platform for rapid backend development.
- Building cloud-native backends and distributed systems can involve large amounts of complexity and repetitive boilerplate.
- Encore is a backend development platform and infrastructure SDK designed to simplify building such backend. Encore provides a declarative approach to managing cloud infrastructure directly in application code, based on static analysis.</description>
+Building cloud-native backends and distributed systems can involve large amounts of complexity and repetitive boilerplate.
+Encore is a backend development platform and infrastructure SDK designed to simplify building such backend. Encore provides a declarative approach to managing cloud infrastructure directly in application code, based on static analysis.</description>
     </item>
     
     <item>
@@ -226,9 +221,9 @@ For meetup #36 on Tuesday Jun 20, 2023 19:00 CET we&amp;rsquo;re thrilled to wel
       <description>Hello, 世界!
 For meetup #35 on Tuesday Apr 18, 2023 19:00 CET we&amp;rsquo;ll have a lightning talk about CGO, which allows to call C code from Go.
 We&amp;rsquo;ll meet
- in person at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers35.  Join us to discuss all things Go and CGO. Onsite: presenters&#39; laptop NumCPU free drinks!
+in person at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers35. Join us to discuss all things Go and CGO. Onsite: presenters&amp;rsquo; laptop NumCPU free drinks!
 See you!
-  &amp;ldquo;cgo is not go&amp;rdquo; as mural painting &amp;ndash; Stable Diffusion</description>
+&amp;ldquo;cgo is not go&amp;rdquo; as mural painting &amp;ndash; Stable Diffusion</description>
     </item>
     
     <item>
@@ -240,9 +235,9 @@ See you!
       <description>Hello, 世界!
 For meetup #34 on Tuesday Feb 21, 2023 19:00 CET we&amp;rsquo;ll have a few lightning talks and experience reports about some upcoming, exciting Go 1.20 features, e.g. related to coverage, error handling, end-to-end tests in containerized environments and more.
 We&amp;rsquo;ll meet
- in person at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers34.  Join us to discuss all things Go 1.20 and beyond.
+in person at Basislager, Peterssteinweg 14, 04107 Leipzig and online via meet.jit.si/LeipzigGophers34. Join us to discuss all things Go 1.20 and beyond.
 See you!
-  Concurrency is not parallelism as mural painting &amp;ndash; Stable Diffusion</description>
+Concurrency is not parallelism as mural painting &amp;ndash; Stable Diffusion</description>
     </item>
     
     <item>
@@ -253,7 +248,6 @@ See you!
       <guid>https://golangleipzig.space/posts/meetup-33-invitation/</guid>
       <description>Hello, 世界!
 Meetup #33 on Tuesday Dec 20, 2022 19:00 CET will be an offline-only (AFK) meetup &amp;ndash; it&amp;rsquo;s getting cold, so we&amp;rsquo;re meeting for warm drinks at Cantona Leipzig (on OpenStreetMap).
-
 Join us to discuss all things Go, past, future and beyond. See you!</description>
     </item>
     
@@ -266,7 +260,7 @@ Join us to discuss all things Go, past, future and beyond. See you!</description
       <description>Hello, 世界!
 Gridfuse x Leipzig Gophers For meetup #32 on Tuesday Nov 29, 2022 19:00 CET we&amp;rsquo;re thrilled to collaborate with Gridfuse, a start-up in the heart of Leipzig!
 Jörg from Gridfuse will give a presentation on how they use telegraf (code) to persist timeseries data in influxdb and will also talk about their open source contributions to the telegraf nats plugin.
- Gridfuse is a 2022-founded start-up that has made it its mission to swift the balance of power in the energy domain.</description>
+Gridfuse is a 2022-founded start-up that has made it its mission to swift the balance of power in the energy domain.</description>
     </item>
     
     <item>
@@ -277,10 +271,9 @@ Jörg from Gridfuse will give a presentation on how they use telegraf (code) to 
       <guid>https://golangleipzig.space/posts/meetup-31-invitation/</guid>
       <description>Hello, 世界!
 Clouds, Monsters and Streams For meetup #31 — on Oct 18, 2022 19:00 CEST — we&amp;rsquo;re happy to have (remote) guests from Berlin! We&amp;rsquo;ll have a short talk and demo by personal cloud builders deta.sh: The personal cloud and the monster that makes it.
-
 We&amp;rsquo;re excited to find out, what makes deta fly!
 Depending on time and interest, we have two other lightning talk registrations:
- Reading the last bytes of a stream in Go &amp;ndash; blog post A quick summary of Cloud Native Go (O&amp;rsquo;Reilly Media, 2021) (postponed)  Hybrid Meetup This meetup will be hybrid:</description>
+Reading the last bytes of a stream in Go &amp;ndash; blog post A quick summary of Cloud Native Go (O&amp;rsquo;Reilly Media, 2021) (postponed) Hybrid Meetup This meetup will be hybrid:</description>
     </item>
     
     <item>
@@ -291,9 +284,8 @@ Depending on time and interest, we have two other lightning talk registrations:
       <guid>https://golangleipzig.space/posts/meetup-30-invitation/</guid>
       <description>Hello, 世界!
 immudb For meetup #30 — on Sep 20, 2022 19:00 CEST — we&amp;rsquo;re thrilled to welcome Dennis Zimmer and Bartłomiej Święcki from Codenotary, who will talk about their open source database project immudb.
-
- immudb is a ledger database that has been developed with performance, scalability and versatility in mind [&amp;hellip;]
-  Data stored in immudb is cryptographically coherent and verifiable. Unlike blockchains, immudb can handle millions of transactions per second, and can be used both as a lightweight service or embedded in your application as a library.</description>
+immudb is a ledger database that has been developed with performance, scalability and versatility in mind [&amp;hellip;]
+Data stored in immudb is cryptographically coherent and verifiable. Unlike blockchains, immudb can handle millions of transactions per second, and can be used both as a lightweight service or embedded in your application as a library.</description>
     </item>
     
     <item>
@@ -304,7 +296,6 @@ immudb For meetup #30 — on Sep 20, 2022 19:00 CEST — we&amp;rsquo;re thrille
       <guid>https://golangleipzig.space/posts/meetup-29-invitation/</guid>
       <description>Hello, 世界!
 Summer&amp;rsquo;s getting hot, so let&amp;rsquo;s meet AFK for cold drinks on Jul 14, 2022 19:00 CEST at Soltmann Bar (OSM). We&amp;rsquo;ll have some Go swag to give away!
-
 We have no specific agenda. We hope for good weather and look forward to meet you all in person, after all.
 See you!</description>
     </item>
@@ -317,7 +308,7 @@ See you!</description>
       <guid>https://golangleipzig.space/posts/meetup-28-invitation/</guid>
       <description>Hello, 世界!
 For meetup #28 — on Jun 21, 2022 19:00 CEST — we&amp;rsquo;ll have two lightning talks:
- Never forget to handle errors, rediscovered the 1000th time &amp;ndash; Leandro Santiago from lightmeter.io A glance at glamorous command line apps with charm &amp;ndash; Martin Czygan  Join us to discuss all things Go via Google Meet: https://meet.google.com/mpb-ypdi-est - see you!</description>
+Never forget to handle errors, rediscovered the 1000th time &amp;ndash; Leandro Santiago from lightmeter.io A glance at glamorous command line apps with charm &amp;ndash; Martin Czygan Join us to discuss all things Go via Google Meet: https://meet.google.com/mpb-ypdi-est - see you!</description>
     </item>
     
     <item>
@@ -330,7 +321,7 @@ For meetup #28 — on Jun 21, 2022 19:00 CEST — we&amp;rsquo;ll have two light
 For meetup #27 — on May 10, 2022 19:00 CEST — we&amp;rsquo;ll have an interactive coding session around Go generics.
 We start with a problem and will develop two versions, one with and one without generics.
 For a refresher on Generics see:
- refs/spec https://go.dev/doc/tutorial/generics https://www.klingt.net/articles/go-1-18-with-some-fuzzing-and-a-focus-on-generics.html (see also: #25)  Join us to discuss all things Go via Google Meet: https://meet.google.com/wxm-argz-hqh</description>
+refs/spec https://go.dev/doc/tutorial/generics https://www.klingt.net/articles/go-1-18-with-some-fuzzing-and-a-focus-on-generics.html (see also: #25) Join us to discuss all things Go via Google Meet: https://meet.google.com/wxm-argz-hqh</description>
     </item>
     
     <item>
@@ -342,7 +333,7 @@ For a refresher on Generics see:
       <description>Hello, 世界!
 Join us for meetup #26 Apr 26, 2022 19:00 CEST via Google Meet: https://meet.google.com/weh-dtvn-gpk.
 We&amp;rsquo;ll have two lightning talks:
- Calculating Type Signatures The rsync for the cloud era: Rclone  Other lightning talks and project discussion are welcome - join us to discuss all things Go.</description>
+Calculating Type Signatures The rsync for the cloud era: Rclone Other lightning talks and project discussion are welcome - join us to discuss all things Go.</description>
     </item>
     
     <item>
@@ -379,7 +370,7 @@ We&amp;rsquo;re lucky to have Jetbrains, Manning Publications, O&amp;rsquo;Reill
       <description>Hello, 世界!
 Corona emergency ordinance (SächsCoronaNotVO §7 2021-11-19) becoming effective on Monday forces us to move this meeting online. Our talk schedule stays the same.
 Join us for meetup #23 Nov 23, 2021 19:00 CET via Google Meet: https://meet.google.com/sym-ohzu-spb.
- We&amp;rsquo;re always interested in connecting with the local Go community and we&amp;rsquo;re thrilled that for meetup #23 on Nov 23, 2021 Sciendis reached out to us and offered to host an event at their site.</description>
+We&amp;rsquo;re always interested in connecting with the local Go community and we&amp;rsquo;re thrilled that for meetup #23 on Nov 23, 2021 Sciendis reached out to us and offered to host an event at their site.</description>
     </item>
     
     <item>
@@ -389,11 +380,10 @@ Join us for meetup #23 Nov 23, 2021 19:00 CET via Google Meet: https://meet.goog
       
       <guid>https://golangleipzig.space/posts/hackolaus-2-hack-for-good/</guid>
       <description>Hello, 世界!
-   Update 2021-11-04: Cancelled: See hackolaus.de for new dates.
-  Update 2021-11-03: Hackolaus #2 may be cancelled due to local pandemic regulation; please follow updates at the event site.
-   We would like to invite you to a special hackathon event this year: Hackolaus #2 - running from Nov 19 to Nov 21, 2021 at Basislager Leipzig.
-
- When the nights get longer and the weather outside is frightful, we need some warmth in our hearts.</description>
+Update 2021-11-04: Cancelled: See hackolaus.de for new dates.
+Update 2021-11-03: Hackolaus #2 may be cancelled due to local pandemic regulation; please follow updates at the event site.
+We would like to invite you to a special hackathon event this year: Hackolaus #2 - running from Nov 19 to Nov 21, 2021 at Basislager Leipzig.
+When the nights get longer and the weather outside is frightful, we need some warmth in our hearts.</description>
     </item>
     
     <item>
@@ -405,7 +395,7 @@ Join us for meetup #23 Nov 23, 2021 19:00 CET via Google Meet: https://meet.goog
       <description>Hello, 世界!
 For virtual meetup #22 - scheduled 2021-10-26, 19:00 CEST - we&amp;rsquo;ll have an interesting presentation on a security related topic: Confidential Computing with Go.
 Join us via Zoom.
- Confidential Computing with Go Confidential computing is a new security paradigm that protects data not only at rest or in transit but also in use. A hardware-based trusted execution environment provides an isolated area, a secure enclave within a CPU, that protects sensitive data while being processed.</description>
+Confidential Computing with Go Confidential computing is a new security paradigm that protects data not only at rest or in transit but also in use. A hardware-based trusted execution environment provides an isolated area, a secure enclave within a CPU, that protects sensitive data while being processed.</description>
     </item>
     
     <item>
@@ -416,9 +406,10 @@ Join us via Zoom.
       <guid>https://golangleipzig.space/posts/meetup-21-invitation/</guid>
       <description>Hello, 世界!
 Meetup #21 will take place Tuesday, Sep 28, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
- https://us02web.zoom.us/j/81869277732?pwd=ZldmeHp0eWs0N1YyTE94OUo2Z01vdz09  We will have an input presentation by the author of Concise Encoding about the project and its Go reference implementation. Concise encoding is a
- friendly data format for human &amp;amp; machine.
- It addresses a modern dilemma:</description>
+https://us02web.zoom.us/j/81869277732?pwd=ZldmeHp0eWs0N1YyTE94OUo2Z01vdz09 We will have an input presentation by the author of Concise Encoding about the project and its Go reference implementation. Concise encoding is a
+friendly data format for human &amp;amp; machine.
+It addresses a modern dilemma:
+Today&amp;rsquo;s data formats present us with a dilemma: Use text based formats that are bloated and slow, or use binary formats that humans can&amp;rsquo;t read.</description>
     </item>
     
     <item>
@@ -429,7 +420,6 @@ Meetup #21 will take place Tuesday, Sep 28, 2021 19:00 CEST and will be virtual 
       <guid>https://golangleipzig.space/posts/meetup-20-invitation/</guid>
       <description>Hello, 世界!
 Meetup #20 will take place Tuesday, Jul 20, 2021 18:30 CEST and we&amp;rsquo;ll meet outside for a cold drink - specifically at Cantona Leipzig (on OpenStreetMap).
-
 We have no specific agenda. We hope for good weather and look forward to meet you all in person, after all.
 See you!</description>
     </item>
@@ -442,8 +432,8 @@ See you!</description>
       <guid>https://golangleipzig.space/posts/meetup-19-invitation/</guid>
       <description>Hello, 世界!
 Meetup #19 will take place Tuesday, Jun 22, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
- https://us02web.zoom.us/j/84547890514?pwd=eXIzdXU2RGJmWmw4NzVjb0VMazZxZz09  We&amp;rsquo;ll have an input presentation about a core distributed systems project: etcd.
- etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines.</description>
+https://us02web.zoom.us/j/84547890514?pwd=eXIzdXU2RGJmWmw4NzVjb0VMazZxZz09 We&amp;rsquo;ll have an input presentation about a core distributed systems project: etcd.
+etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines.</description>
     </item>
     
     <item>
@@ -454,7 +444,7 @@ Meetup #19 will take place Tuesday, Jun 22, 2021 19:00 CEST and will be virtual 
       <guid>https://golangleipzig.space/posts/meetup-18-invitation/</guid>
       <description>Hello, 世界!
 Meetup #18 will take place Tuesday, May 25, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
- https://us02web.zoom.us/j/84647419671?pwd=Z0l2aDBrNWtqZDR5azRVbkRmeHdyUT09  We&amp;rsquo;ll have lightning talk on a data topic.
+https://us02web.zoom.us/j/84647419671?pwd=Z0l2aDBrNWtqZDR5azRVbkRmeHdyUT09 We&amp;rsquo;ll have lightning talk on a data topic.
 As always, other lightning talks or contributions are welcome.
 See you!</description>
     </item>
@@ -467,7 +457,7 @@ See you!</description>
       <guid>https://golangleipzig.space/posts/meetup-17-invitation/</guid>
       <description>Hello, 世界!
 Meetup #17 will take place Tuesday, Apr 20, 2021 19:00 CEST and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
- https://us02web.zoom.us/j/88430151082?pwd=QzlFWlhKaUJKajFxcXRqRkpYYzNSdz09  We&amp;rsquo;ll have lightning talk on data deduplication with Go.
+https://us02web.zoom.us/j/88430151082?pwd=QzlFWlhKaUJKajFxcXRqRkpYYzNSdz09 We&amp;rsquo;ll have lightning talk on data deduplication with Go.
 As always, other lightning talks or contributions are welcome.
 See you!</description>
     </item>
@@ -493,7 +483,8 @@ Note: This time the meetup will be all about the number sixteen, i.e. this will 
       <description>Hello, 世界!
 Meetup #15 will take place today Dec 18, 2020 and will be virtual again. We&amp;rsquo;ll use Zoom (find the link on the event page or below):
 $ curl -sL https://git.io/JLBe8 | base64 -d We&amp;rsquo;ll have two input presentations:
- On a WaitGroup wrapper, including testing strategies. On a tiny library - parallel that allows to write parallel filters fast.  As always, other lightning talks or contributions are welcome.</description>
+On a WaitGroup wrapper, including testing strategies. On a tiny library - parallel that allows to write parallel filters fast. As always, other lightning talks or contributions are welcome.
+See you!</description>
     </item>
     
     <item>
@@ -576,9 +567,10 @@ UPDATE: There will also be a presentation about Go 1.14 (which will be released 
       <description>Hello, 世界!
 Our next meetup is scheduled for Friday Nov, 15 2019, 19:00 at Basislager.
 We will have input presentations on two topics:
- A custom deployment utility for Pull Requests written in Go Go module proxy internals and pitfalls  As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome, too.
- Hallo, 世界!
-Unser nächstes Meetup findet am 15. November 19:00 im Basislager statt.</description>
+A custom deployment utility for Pull Requests written in Go Go module proxy internals and pitfalls As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome, too.
+Hallo, 世界!
+Unser nächstes Meetup findet am 15. November 19:00 im Basislager statt.
+Wir haben zwei Input-Präsentationen</description>
     </item>
     
     <item>
@@ -594,7 +586,7 @@ We will summarize the book
 Concurrency in Go: Tools and Techniques for Developers
 and present and discuss techniques - from theoretical to practical aspects.
 As always, please bring your projects, questions, findings. Spontaneous lightning talks and other inputs are welcome. too.
- Hallo, 世界!</description>
+Hallo, 世界!</description>
     </item>
     
     <item>
@@ -606,7 +598,7 @@ As always, please bring your projects, questions, findings. Spontaneous lightnin
       <description>Hello, 世界! Last minute invitation for meetup #6.
 This will be an open event - please bring your projects, questions, findings. Lightning talks and other inputs are welcome. too.
 We have two free tickets for the Golab 2019 Go conference in Florence, Italy - so if you are interested, just drop by.
- Hallo, 世界! Last Minute Einladung zu Meetup #6.
+Hallo, 世界! Last Minute Einladung zu Meetup #6.
 Offenes Treffen, eigene Projekte, Themen, Tools, Fragen sind willkommen, ebenso lightning talks und andere Inputs.</description>
     </item>
     
@@ -617,8 +609,8 @@ Offenes Treffen, eigene Projekte, Themen, Tools, Fragen sind willkommen, ebenso 
       
       <guid>https://golangleipzig.space/posts/meetup-5-invitation/</guid>
       <description>Hello, 世界! For meetup #5 we will have two lightning talks:
- Beautiful (and strange) IO  A short overview of the io package and its interfaces and possible strategies for custom implementations. Plus some a few examples of implementations you might not have seen before.
- Controlling a headless browser with Go.  A quick look at web automation with Go and Chrome.
+Beautiful (and strange) IO A short overview of the io package and its interfaces and possible strategies for custom implementations. Plus some a few examples of implementations you might not have seen before.
+Controlling a headless browser with Go. A quick look at web automation with Go and Chrome.
 As always are also looking for lightning talks, presentations or other kinds of inputs.</description>
     </item>
     
@@ -651,7 +643,7 @@ As always, please bring your own code, projects, ideas, Go and Cloud-Native ques
       
       <guid>https://golangleipzig.space/posts/second-meetup-invitation/</guid>
       <description>For our second meetup tonight, we have two lighting talk proposals:
- Turn data into Go struct - how to easily work with complex XML documents and JSON data with Go Glance at the io package and some io.Reader implementation, that you may not have seen before - how to implement your own reader and some examples of useful (sometimes strange) implementations from existing projects  Please bring your own code, projects, ideas, Go and Cloud-Native questions and let&amp;rsquo;s discuss them.</description>
+Turn data into Go struct - how to easily work with complex XML documents and JSON data with Go Glance at the io package and some io.Reader implementation, that you may not have seen before - how to implement your own reader and some examples of useful (sometimes strange) implementations from existing projects Please bring your own code, projects, ideas, Go and Cloud-Native questions and let&amp;rsquo;s discuss them.</description>
     </item>
     
     <item>
