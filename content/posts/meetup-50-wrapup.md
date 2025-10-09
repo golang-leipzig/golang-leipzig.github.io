@@ -95,7 +95,7 @@ Telemetry](https://research.swtch.com/telemetry) as well
 * [Is email dead?](https://www.emailisnotdead.com/) Hint: while you read this
   blog post, the world moved 115,403,640 (legitimate) emails forward.
 
-[![](/images/lotsmail.gif)](https://gitcities.org)
+[![](/images/lotsmail.gif)](https://gifcities.org)
 
 Thanks again to [Leandro](https://www.linkedin.com/in/leandrosansilva/) for the
 talk and insights!
