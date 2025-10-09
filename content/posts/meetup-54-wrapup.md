@@ -10,7 +10,7 @@ tags:
 
 Drinkup #54 took place on
 [2025-09-30](https://www.meetup.com/de-DE/leipzig-golang/events/305626262/) at
-[Cantona](https://www.google.com/search?q=cafe+cantona) Leipzig.
+[Cantona](https://www.google.com/search?q=cafe+cantona+leipzig) Leipzig.
 
 [![](/images/2025-10-09-crush-hello.gif)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
 
