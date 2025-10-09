@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>announcement</title>
-      <link>https://golangleipzig.space/tags/announcement/</link>
-      <pubDate>Sat, 09 Aug 2025 10:00:00 +0200</pubDate>
+      <title>ai</title>
+      <link>https://golangleipzig.space/tags/ai/</link>
+      <pubDate>Mon, 06 Oct 2025 22:30:00 +0200</pubDate>
       
-      <guid>https://golangleipzig.space/tags/announcement/</guid>
+      <guid>https://golangleipzig.space/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Sat, 09 Aug 2025 10:00:00 +0200</pubDate>
+      <pubDate>Mon, 06 Oct 2025 22:30:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summary</title>
+      <link>https://golangleipzig.space/tags/summary/</link>
+      <pubDate>Mon, 06 Oct 2025 22:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>https://golangleipzig.space/tags/announcement/</link>
+      <pubDate>Sat, 09 Aug 2025 10:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/italy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>summary</title>
-      <link>https://golangleipzig.space/tags/summary/</link>
-      <pubDate>Wed, 16 Jul 2025 12:30:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/summary/</guid>
       <description></description>
     </item>
     
@@ -130,15 +139,6 @@
       <pubDate>Fri, 06 Oct 2023 00:20:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/tags/unconference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ai</title>
-      <link>https://golangleipzig.space/tags/ai/</link>
-      <pubDate>Tue, 16 May 2023 10:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/ai/</guid>
       <description></description>
     </item>
     
