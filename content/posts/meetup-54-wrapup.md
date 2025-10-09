@@ -14,8 +14,8 @@ Drinkup #54 took place on
 
 ![](/images/2025-10-09-crush-hello.gif)
 
-Screencast showing open source [crush](https://github.com/charmbracelet/crush) (written in Go)
-agent using a [qwen3-coder:30b](https://ollama.com/library/qwen3-coder:30b) -- [agentic coding in the world](https://github.com/QwenLM/Qwen3-Coder) -- via
+Above screencast showing open source [crush coding agent](https://github.com/charmbracelet/crush) (written in Go)
+using a [qwen3-coder:30b](https://ollama.com/library/qwen3-coder:30b) -- [agentic coding in the world](https://github.com/QwenLM/Qwen3-Coder) -- via
 [ollama](https://github.com/ollama/ollama/) (written in Go, wrapping [llama.cpp](https://github.com/ggml-org/llama.cpp) and [ggml](https://github.com/ggml-org/ggml)).
 
 ----
