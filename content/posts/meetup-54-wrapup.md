@@ -12,7 +12,7 @@ Drinkup #54 took place on
 [2025-09-30](https://www.meetup.com/de-DE/leipzig-golang/events/305626262/) at
 [Cantona](https://www.google.com/search?q=cafe+cantona) Leipzig.
 
-![](/images/2025-10-09-crush-hello.gif)
+[![](/images/2025-10-09-crush-hello.gif)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
 
 Above screencast showing open source [crush coding agent](https://github.com/charmbracelet/crush) (written in Go)
 using a [qwen3-coder:30b](https://ollama.com/library/qwen3-coder:30b) -- [agentic coding in the world](https://github.com/QwenLM/Qwen3-Coder) -- via
