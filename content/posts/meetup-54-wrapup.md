@@ -1,6 +1,6 @@
 ---
 title: "Drinkup #54 wrap-up"
-date: 2025-10-06T22:30:00+02:00
+date: 2025-10-07T22:30:00+02:00
 draft: false
 tags:
 - summary
