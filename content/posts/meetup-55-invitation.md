@@ -13,7 +13,9 @@ Hello, 世界!
 
 For meetup #55 on Tuesday [Oct 28, 2025 19:00
 CET](https://www.meetup.com/de-DE/leipzig-golang/events/305626267/) at
-[Basislager Leipzig](https://basislager.co) we are thrilled to welcome [Klaas Freitag](https://www.linkedin.com/in/klaasf/) (CTO) from [OpenCloud](https://opencloud.eu).
+[Basislager Leipzig](https://basislager.co) we are thrilled to welcome [Klaas
+Freitag](https://www.linkedin.com/in/klaasf/) (CTO) from
+[OpenCloud](https://opencloud.eu).
 
 > OpenCloud is an open-source project that gives you a secure and private way
 > to store, access, and share your files. -- [GitHub:
@@ -37,7 +39,11 @@ We will hear about the architecture of the backend system and will have
 opportunity to explore and discuss the challenges of large scale storage
 systems.
 
-
+More background on the project can also be found on recordings from
+[CS3](https://www.cs3community.org/) (Cloud Storage, Synchronization and
+Sharing) at [TU
+München](https://www.physik.lmu.de/en/latest-news/events-overview/event/cs3-2025-cloud-storage-synchronization-and-sharing.html):
+[https://opencloud.eu/de/cs3-2025-aufzeichnungen](https://opencloud.eu/de/cs3-2025-aufzeichnungen).
 
 ### Schedule
 
