@@ -64,6 +64,8 @@ Join us for unique insights and discussion on Go, software architecture and stor
 
 See you!
 
+![](/images/clouds.gif)
+
 
 <!--
 
