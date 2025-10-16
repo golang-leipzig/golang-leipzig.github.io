@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Meetup #55 invitation"
-date: 2025-10-17T12:00:00+02:00
+date: 2025-10-16T12:00:00+02:00
 draft: false
 tags:
 - announcement
