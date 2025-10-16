@@ -21,14 +21,14 @@ Freitag](https://www.linkedin.com/in/klaasf/) (CTO) from
 > to store, access, and share your files. -- [GitHub:
 > OpenCloud](https://github.com/opencloud-eu)
 
-Formerly knows as ownCloud, OpenCloud components were co-developed at
-[CERN](https://home.cern/) and a large community of active contributors.
+OpenCloud components were co-developed at [CERN](https://home.cern/) and a
+large community of active contributors.
 
 > [OpenCloud] is based on a fork of the open source software ‘ownCloud Infinite
 > Scale’ (OCIS), whose components were co-developed by developers from the
 > science organisation CERN and other active participants. OpenCloud is now
 > being further developed with new ideas and in the spirit of a reliable open
-> source community and published under the Apache 2.0 and AGPL-3.0 licences.
+> source community and published under the Apache 2.0 and AGPL-3.0 licences. -- [opencloud.eu](https://opencloud.eu/en/opencloud-community)
 
 The core OpenCloud backend is written in Go and available at
 [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) (a few
@@ -45,6 +45,10 @@ Sharing) at [TU
 München](https://www.physik.lmu.de/en/latest-news/events-overview/event/cs3-2025-cloud-storage-synchronization-and-sharing.html):
 [https://opencloud.eu/de/cs3-2025-aufzeichnungen](https://opencloud.eu/de/cs3-2025-aufzeichnungen).
 
+Open source infrastructure projects are a key to [digital
+sovereignty](https://scholar.archive.org/work/l45kfd56hrf2pcccqijxk3swe4/access/wayback/https://policyreview.info/pdf/policyreview-2020-4-1532.pdf)
+which promotes independence, resilience and innovation.
+
 ### Schedule
 
 * 18:45 Doors open
@@ -60,7 +64,7 @@ We'll meet:
 
 FCFS Free drinks on site!
 
-Join us for unique insights and discussion on Go, software architecture and storage.
+Join us for unique insights and discussion on Go, software architecture, and storage.
 
 See you!
 
