@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #55 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-55-invitation/</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/posts/meetup-55-invitation/</guid>
+      <description>OpenCloud Hello, 世界!
+For meetup #55 on Tuesday Oct 28, 2025 19:00 CET at Basislager Leipzig we are thrilled to welcome Klaas Freitag (CTO) from OpenCloud.
+OpenCloud is an open-source project that gives you a secure and private way to store, access, and share your files. &amp;ndash; GitHub: OpenCloud
+Formerly knows as ownCloud, OpenCloud components were co-developed at CERN and a large community of active contributors.
+[OpenCloud] is based on a fork of the open source software ‘ownCloud Infinite Scale’ (OCIS), whose components were co-developed by developers from the science organisation CERN and other active participants.</description>
+    </item>
+    
     <item>
       <title>Drinkup #54 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-54-wrapup/</link>
