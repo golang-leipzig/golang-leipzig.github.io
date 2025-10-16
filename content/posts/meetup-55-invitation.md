@@ -21,8 +21,8 @@ Freitag](https://www.linkedin.com/in/klaasf/) (CTO) from
 > to store, access, and share your files. -- [GitHub:
 > OpenCloud](https://github.com/opencloud-eu)
 
-Formerly knows as ownCloud, OpenCloud components were co-developed at CERN and
-a large community of active contributors.
+Formerly knows as ownCloud, OpenCloud components were co-developed at
+[CERN](https://home.cern/) and a large community of active contributors.
 
 > [OpenCloud] is based on a fork of the open source software ‘ownCloud Infinite
 > Scale’ (OCIS), whose components were co-developed by developers from the
