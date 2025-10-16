@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #55 invitation"
-date: 2025-10-13T12:00:00+02:00
-draft: true
+date: 2025-10-17T12:00:00+02:00
+draft: false
 tags:
 - announcement
 - meetup
@@ -60,7 +60,7 @@ We'll meet:
 
 FCFS Free drinks on site!
 
-Join us for discussions on Go, software architecture and storage.
+Join us for unique insights and discussion on Go, software architecture and storage.
 
 See you!
 
