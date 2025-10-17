@@ -140,7 +140,8 @@ Cloud](https://deta.space/)
 [#45](/posts/meetup-45-wrapup/),
 [#49](/posts/meetup-49-wrapup/)), [Ardan
 Labs](https://ardanlabs.com)
-([#40](/posts/meetup-40-wrapup/)) and
+([#40](/posts/meetup-40-wrapup/)),
+[OpenCloud](https://opencloud.eu) ([#55](/posts/meetup-55-invitation/) and
 [GOLAB](https://golab.io) for their contributions and [Basislager Leipzig](https://basislager.co), [Manning
 Publications](https://www.manning.com/), [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592) and
