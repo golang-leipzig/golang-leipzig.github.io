@@ -21,6 +21,8 @@ Freitag](https://www.linkedin.com/in/klaasf/) (CTO) from
 > to store, access, and share your files. -- [GitHub:
 > OpenCloud](https://github.com/opencloud-eu)
 
+![](/images/web-ui-gallery-view-optimized.jpg)
+
 OpenCloud components were co-developed at [CERN](https://home.cern/) and a
 large community of active contributors.
 
