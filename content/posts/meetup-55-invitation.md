@@ -14,7 +14,8 @@ Hello, 世界!
 For meetup #55 on Tuesday [Oct 28, 2025 19:00
 CET](https://www.meetup.com/de-DE/leipzig-golang/events/305626267/) at
 [Basislager Leipzig](https://basislager.co) we are thrilled to welcome [Klaas
-Freitag](https://www.linkedin.com/in/klaasf/) (CTO) from
+Freitag](https://www.linkedin.com/in/klaasf/) (CTO) and Principal Architect
+[Dr. Jörn F. Dreyer](https://www.xing.com/profile/Joern_Dreyer) from
 [OpenCloud](https://opencloud.eu).
 
 > OpenCloud is an open-source project that gives you a secure and private way
@@ -48,7 +49,7 @@ München](https://www.physik.lmu.de/en/latest-news/events-overview/event/cs3-202
 [https://opencloud.eu/de/cs3-2025-aufzeichnungen](https://opencloud.eu/de/cs3-2025-aufzeichnungen).
 
 Open source infrastructure projects are a key to [digital
-sovereignty](https://scholar.archive.org/work/l45kfd56hrf2pcccqijxk3swe4/access/wayback/https://policyreview.info/pdf/policyreview-2020-4-1532.pdf)
+sovereignty](https://policyreview.info/pdf/policyreview-2020-4-1532.pdf)
 which promotes independence, resilience and innovation.
 
 ### Schedule
@@ -66,7 +67,7 @@ We'll meet:
 
 FCFS Free drinks on site!
 
-Join us for unique insights and discussion on Go, software architecture, and storage.
+Join us for unique insights and discussions on Go, software architecture, and storage.
 
 See you!
 
