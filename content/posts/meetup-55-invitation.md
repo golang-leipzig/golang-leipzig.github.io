@@ -61,7 +61,7 @@ which promotes independence, resilience and innovation.
 
 We'll meet:
 
-* in person at [Basislager Leipzig](https://basislager.co), at [Peterssteinweg 14, 04107 Leipzig](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8) ([OSM](https://www.openstreetmap.org/node/7724665352))
+* in person at [Basislager Leipzig](https://basislager.co), at [Peterssteinweg 14, 04107 Leipzig](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8) ([OSM](https://www.openstreetmap.org/node/3504864558))
 * and online via [Google Meet](https://meet.google.com/adb-nibc-gcp)
 
 FCFS Free drinks on site!
