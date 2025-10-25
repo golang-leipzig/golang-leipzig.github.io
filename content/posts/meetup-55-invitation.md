@@ -78,6 +78,7 @@ See you!
 
 todo: outreach
 
-https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-llm-activity-7331246910868975616-WHZM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+https://www.linkedin.com/posts/martin-czygan-58348842_golang-meetup-activity-7387945038066114560-uaxB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
 
 -->
+
