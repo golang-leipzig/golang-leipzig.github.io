@@ -41,8 +41,9 @@ EOS itself is an impressive storage system:
 > 2022), matching the exceptional performance of the LHC machine and
 > experiments.
 
-[CERNBox](https://cern.service-now.com/service-portal?id=service_element&name=CERNBox-Service) acts as an file sync and service layer over EOS and is based on
-ownCloud (from which openCloud [was
+[CERNBox](https://cern.service-now.com/service-portal?id=service_element&name=CERNBox-Service)
+acts as an file sync and service layer over EOS and is based on ownCloud (from
+which openCloud [was
 forked](https://www.linux-magazin.de/artikel/opencloud-forkt-owncloud-neue-wendung-bei-den-freien-speichercloud-versionen/)).
 
 > CERNBox is a cloud storage and file synchronization service developed at
@@ -50,6 +51,10 @@ forked](https://www.linux-magazin.de/artikel/opencloud-forkt-owncloud-neue-wendu
 > securely store, access, and share files from any device. It offers 1TB of
 > personal space (just login to cernbox.cern.ch) and 1-100TB for (justified)
 > project space.
+
+More background on CERNBox: [Turning CephFS into a collaborative space with
+CERNBox](https://www.epj-conferences.org/articles/epjconf/pdf/2025/22/epjconf_chep2025_01041.pdf)
+(2025)
 
 
 
