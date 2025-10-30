@@ -34,6 +34,23 @@ Some highlights from the presentation:
 > performant and customizable HTTP and gRPC server. --
 > [github.com/cs3org/reva/](https://github.com/cs3org/reva/)
 
+EOS itself is an impressive storage system:
+
+> EOS instances at CERN store more than seven billion files and provide 780
+> petabytes of disk storage capacity using over 60k hard drives (as of June
+> 2022), matching the exceptional performance of the LHC machine and
+> experiments.
+
+[CERNBox](https://cern.service-now.com/service-portal?id=service_element&name=CERNBox-Service) acts as an file sync and service layer over EOS and is based on
+ownCloud (from which openCloud [was
+forked](https://www.linux-magazin.de/artikel/opencloud-forkt-owncloud-neue-wendung-bei-den-freien-speichercloud-versionen/)).
+
+> CERNBox is a cloud storage and file synchronization service developed at
+> CERN, built on the open-source software ownCloud and EOS. It enables users to
+> securely store, access, and share files from any device. It offers 1TB of
+> personal space (just login to cernbox.cern.ch) and 1-100TB for (justified)
+> project space.
+
 
 
 ----
