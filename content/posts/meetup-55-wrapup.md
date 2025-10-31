@@ -24,7 +24,7 @@ The presentation reflected on some architectural and deployment changes over
 the years - densily packed with engineering wisdom that extends beyond code and
 include aspects like deployment, backwards compatibilty and scalability.
 
-![](/meetup-55-opencloud/screenshot-2025-10-31-112307-opencloud-landscape.png)
+[![](/meetup-55-opencloud/screenshot-2025-10-31-112307-opencloud-landscape.png)](https://docs.opencloud.eu/)
 
 Some highlights from the presentation:
 
