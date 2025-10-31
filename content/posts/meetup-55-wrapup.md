@@ -72,13 +72,13 @@ CERNBox](https://www.epj-conferences.org/articles/epjconf/pdf/2025/22/epjconf_ch
 
 ### Highlight from the presentation
 
-* not uncontroversial: you can get rid of a database at the core of your application (which was, in parts, a bottleneck) and move to a file based setup (plus lots of caches)
-* moving from individual shares to the concept of spaces opened up a more maintainably way to handle users (and users that left)
+* not uncontroversial: you can get rid of a database at the core of your application (which was, in parts, a bottleneck) and move to a file based setup (and caching)
+* moving from individual *shares* to the concept of *spaces* opened up a more maintainably way to handle users (and users that left)
 * moving from from individual microservices to a more monolithic microservice architecture has been beneficial; internally opencloud uses [nats](https://nats.io/) for messaging (cf. list of microservices in the docs: [section services](https://docs.opencloud.eu/docs/dev/server/))
 * large scale deployments with predictable, but still spiky patterns inspired changes to the node communication setup
 * while user report that opencloud feels fast, it is hard to attribute this to the move from PHP to Go, only
 * the layer between a (distributed) filesystem or object store and the end user
-  view has is developed by an active community, which in parts is organized
+  view is developed by an active community, which in parts is organized
   under the [CS3](https://www.cs3community.org/) umbrella
 
 Found out more about the project at:
@@ -89,6 +89,27 @@ Found out more about the project at:
 Thanks again to [Klaas](https://www.linkedin.com/in/klaasf/) and
 [Jörn](https://www.xing.com/profile/Joern_Dreyer) for the inspiring
 presentation!
+
+
+### References
+
+Assorted references from the talk:
+
+* [lizardfs](https://github.com/lizardfs/lizardfs), forked from [MooseFS](https://en.wikipedia.org/wiki/Moose_File_System)
+* [SaunaFS](https://saunafs.com/)
+* [Ceph filesystem](https://ceph.io/)
+* [GPFS](https://en.wikipedia.org/wiki/GPFS) (IBM)
+* [SeaFile](https://www.seafile.com)
+* [PyDio](https://www.pydio.com/)
+* [CS3 APIs](https://github.com/cs3org/cs3apis)
+* [NFS](https://en.wikipedia.org/wiki/Network_File_System) (use [noacl](https://ftp.gwdg.de/pub/linux/centos.discontinued/4.1/docs/html/rhel-rg-en-4/s1-nfs-client-config.html)!)
+* [k6](https://k6.io/), designed for load testing
+* [gomicro](https://github.com/micro/go-micro), microservice framework
+* [DNS based routing in k8s](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+* [Apache Tika](https://tika.apache.org), can be used as a [document extractor](https://docs.opencloud.eu/docs/dev/server/Services/search/Search-info/#tika-extractor)
+* [Collabora](https://www.collaboraonline.com/), online document editing suite
+* [WebDAV specs](http://www.webdav.org/specs/) (extension to the HTTP/1.1 protocol that allows clients to perform remote Web content authoring operations -- [RFC4918](https://www.ietf.org/rfc/rfc4918.txt))
+
 
 ----
 
