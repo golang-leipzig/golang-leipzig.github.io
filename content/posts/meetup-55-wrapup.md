@@ -81,6 +81,10 @@ CERNBox](https://www.epj-conferences.org/articles/epjconf/pdf/2025/22/epjconf_ch
   view has is developed by an active community, which in parts is organized
   under the [CS3](https://www.cs3community.org/) umbrella
 
+Found out more about the project at:
+
+* [opencloud.eu](https://opencloud.eu)
+* [github.com/opencloud-eu](https://github.com/opencloud-eu/)
 
 Thanks again to [Klaas](https://www.linkedin.com/in/klaasf/) and
 [Jörn](https://www.xing.com/profile/Joern_Dreyer) for the inspiring
