@@ -53,7 +53,7 @@ Some highlights from the presentation:
 
 [CERNBox](https://cern.service-now.com/service-portal?id=service_element&name=CERNBox-Service)
 acts as an file sync and service layer over EOS and is based on ownCloud (from
-which openCloud [was
+which opencloud [was
 forked](https://www.linux-magazin.de/artikel/opencloud-forkt-owncloud-neue-wendung-bei-den-freien-speichercloud-versionen/)).
 
 > CERNBox is a cloud storage and file synchronization service developed at
