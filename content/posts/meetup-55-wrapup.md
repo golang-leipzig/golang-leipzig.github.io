@@ -7,6 +7,8 @@ tags:
 - meetup
 ---
 
+### OpenCloud
+
 Hybrid Meetup #55 took place
 [2025-10-28](https://www.meetup.com/de-de/leipzig-golang/events/305626267) 19:00 at
 [Basislager Leipzig](https://basislager.co) and we had a great presentation by
@@ -22,7 +24,8 @@ installations to large clusters with millions of users.
 
 The presentation reflected on some architectural and deployment changes over
 the years - densily packed with engineering wisdom that extends beyond code and
-include aspects like deployment, backwards compatibilty and scalability.
+includes aspects like deployment, requirements and project constraints,
+backwards compatibilty and scalability.
 
 <!--
 
@@ -30,9 +33,10 @@ include aspects like deployment, backwards compatibilty and scalability.
 
 -->
 
-Some highlights from the presentation:
+### Background and origins
 
-* [reva](https://reva.link/) is a CERN storage interop layer and is also where opencloud story started
+* [reva](https://reva.link/) is a CERN storage interop layer and is also where
+  the opencloud story started, many years ago:
 
 > Reva is an interoperability platform consisting of several daemons written in
 > Go. It acts as bridge between high-level clients (mobile, web, desktop) and
@@ -64,7 +68,9 @@ forked](https://www.linux-magazin.de/artikel/opencloud-forkt-owncloud-neue-wendu
 
 More background on CERNBox: [Turning CephFS into a collaborative space with
 CERNBox](https://www.epj-conferences.org/articles/epjconf/pdf/2025/22/epjconf_chep2025_01041.pdf)
-(2025)
+(2025).
+
+### Highlight from the presentation
 
 * not uncontroversial: you can get rid of a database at the core of your application (which was, in parts, a bottleneck) and move to a file based setup (plus lots of caches)
 * moving from individual shares to the concept of spaces opened up a more maintainably way to handle users (and users that left)
