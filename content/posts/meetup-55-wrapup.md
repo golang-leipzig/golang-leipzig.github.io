@@ -88,7 +88,7 @@ Found out more about the project at:
 
 Thanks again to [Klaas](https://www.linkedin.com/in/klaasf/) and
 [Jörn](https://www.xing.com/profile/Joern_Dreyer) for the inspiring
-presentation.
+presentation!
 
 ----
 
