@@ -1,0 +1,139 @@
+
+
+digraph {
+    graph [TBbalance=min,
+        bgcolor=transparent,
+        compound=true,
+        fontname=Arial,
+        fontsize=15,
+        labeljust=l,
+        labelloc=t,
+        layout=dot,
+        likec4_viewId=index,
+        nodesep=1.528,
+        outputorder=nodesfirst,
+        pad=0.209,
+        rankdir=TB,
+        ranksep=1.667,
+        splines=spline
+    ];
+    node [color="#2563eb",
+        fillcolor="#3b82f6",
+        fontcolor="#eff6ff",
+        fontname=Arial,
+        label="\N",
+        penwidth=0,
+        shape=rect,
+        style=filled
+    ];
+    edge [arrowsize=0.75,
+        color="#6E6E6E",
+        fontcolor="#C6C6C6",
+        fontname=Arial,
+        fontsize=14,
+        penwidth=2
+    ];
+    guest [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">Guest</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">A user external to the organization</FONT></TD></TR></TABLE>>,
+        likec4_id=guest,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">OpenCloud</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">File sharing and collaboration platform</FONT></TD></TR></TABLE>>,
+        likec4_id=opencloud,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    guest -> opencloud [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">manages shared files</FONT></TD></TR></TABLE>>,
+        likec4_id=mvae2n,
+        minlen=1,
+        style=dashed];
+    user [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">User</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">A member of the organization</FONT></TD></TR></TABLE>>,
+        likec4_id=user,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    user -> opencloud [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">manages files</FONT></TD></TR></TABLE>>,
+        likec4_id="1x4i0ta",
+        minlen=1,
+        style=dashed];
+    admin [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">Admin</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">A user with administrative permissions</FONT></TD></TR></TABLE>>,
+        likec4_id=admin,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    admin -> opencloud [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">manages spaces and users</FONT></TD></TR></TABLE>>,
+        likec4_id=jyroao,
+        minlen=1,
+        style=dashed];
+    collabora [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">Collabora Online</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">Online office suite</FONT></TD></TR></TABLE>>,
+        likec4_id=collabora,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud -> collabora [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">opens documents in</FONT></TD></TR></TABLE>>,
+        likec4_id=ex39wc,
+        minlen=1,
+        style=dashed];
+    clamav [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">ClamAV</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">An antivirus engine</FONT></TD></TR></TABLE>>,
+        likec4_id=clamav,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud -> clamav [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">scans uploaded files with</FONT></TD></TR></TABLE>>,
+        likec4_id="10efnrv",
+        minlen=1,
+        style=dashed];
+    openldap [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">OpenLDAP</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">An LDAP server</FONT></TD></TR></TABLE>>,
+        likec4_id=openldap,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud -> openldap [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">searches recipients in</FONT></TD></TR></TABLE>>,
+        likec4_id=wfolvm,
+        minlen=1,
+        style=dashed];
+    storage [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">POSIX storage</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">POSIX capable storage with<BR/>a watch/notification mechanism<BR/>local ext4, xfs, btrfs, zfs, ...<BR/>distributed cephfs, gpfs, NFS, ...</FONT></TD></TR></TABLE>>,
+        likec4_id=storage,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud -> storage [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">manages files on</FONT></TD></TR></TABLE>>,
+        likec4_id="1a6ixli",
+        minlen=1,
+        style=dashed];
+    idp [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">Identity Provider</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">OpenID Connect capable identity provider<BR/>that authenticates users</FONT></TD></TR></TABLE>>,
+        likec4_id=idp,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud -> idp [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">authenticaties users with</FONT></TD></TR></TABLE>>,
+        likec4_id="1uq8jsi",
+        minlen=1,
+        style=dashed];
+    mta [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD><FONT POINT-SIZE="19">E-Mail Server</FONT></TD></TR><TR><TD><FONT POINT-SIZE="15" COLOR="#bfdbfe">Mail Transfer Agent that sends notifications</FONT></TD></TR></TABLE>>,
+        likec4_id=mta,
+        likec4_level=0,
+        margin="0.223,0.223",
+        width=4.445];
+    opencloud -> mta [label=<<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" BGCOLOR="#18191bA0"><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="14">sends e-mails via</FONT></TD></TR></TABLE>>,
+        likec4_id="1uq8h13",
+        minlen=1,
+        style=dashed];
+    tika [height=2.5,
+        label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="4"><TR><TD ROWSPAN="2" WIDTH="76"> </TD><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="19">Apache Tika</FONT></TD><TD ROWSPAN="2" WIDTH="16"> </TD></TR><TR><TD ALIGN="TEXT" BALIGN="LEFT"><FONT POINT-SIZE="15" COLOR="#bfdbfe">An open source content analysis<BR/>toolkit</FONT></TD></TR></TABLE>>,
+        likec4_id=tika,
+        likec4_level=0,
+        margin="0.112,0.223",
+        width=4.445];
+}
+

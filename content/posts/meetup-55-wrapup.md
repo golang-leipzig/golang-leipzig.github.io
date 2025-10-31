@@ -9,16 +9,22 @@ tags:
 
 Hybrid Meetup #55 took place
 [2025-10-28](https://www.meetup.com/de-de/leipzig-golang/events/305626267) 19:00 at
-[Basislager Leipzig](https://basislager.co) and we had a great presentation from
+[Basislager Leipzig](https://basislager.co) and we had a great presentation by
 [Klaas Freitag](https://www.linkedin.com/in/klaasf/) (CTO) and Principal Architect
 [Dr. Jörn F. Dreyer](https://www.xing.com/profile/Joern_Dreyer) from
 [OpenCloud](https://opencloud.eu). A recording can be found [here](https://youtu.be/DChn7mZuiIA):
 
 ![](screenshot-2025-10-30-134510-leipzig-gophers-55-opencloud-youtube.png)
 
-OpenCloud is a widely deployed OpenCloud cloud storage and collaboration
-platform built on a microservices architecture. It scales from homelab
+OpenCloud is a widely deployed cloud storage and collaboration platform built
+on a variation of a microservices architecture. It scales from homelab
 installations to large clusters with millions of users.
+
+The presentation reflected on some architectural and deployment changes over
+the years - densily packed with engineering wisdom that extends beyond code and
+include aspects like deployment, backwards compatibilty and scalability.
+
+![](/meetup-55-opencloud/screenshot-2025-10-31-112307-opencloud-landscape.png)
 
 Some highlights from the presentation:
 
@@ -56,7 +62,19 @@ More background on CERNBox: [Turning CephFS into a collaborative space with
 CERNBox](https://www.epj-conferences.org/articles/epjconf/pdf/2025/22/epjconf_chep2025_01041.pdf)
 (2025)
 
+* not uncontroversial: you can get rid of a database at the core of your application (which was, in parts, a bottleneck) and move to a file based setup (plus lots of caches)
+* moving from individual shares to the concept of spaces opened up a more maintainably way to handle users (and users that left)
+* moving from from individual microservices to a more monolithic microservice architecture has been beneficial; internally opencloud uses [nats](https://nats.io/) for messaging
+* large scale deployments with predictable, but still spiky patterns inspired changes to the node communication setup
+* while user report that opencloud feels fast, it is hard to attribute this to the move from PHP to Go, only
+* the layer between a (distributed) filesystem or object store and the end user
+  view has is developed by an active community, which in parts is organized
+  under the [CS3](https://www.cs3community.org/) umbrella
 
+
+Thanks again to [Klaas](https://www.linkedin.com/in/klaasf/) and
+[Jörn](https://www.xing.com/profile/Joern_Dreyer) for the inspiring
+presentation.
 
 ----
 
