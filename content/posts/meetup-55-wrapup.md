@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #55 wrap-up"
 date: 2025-10-30T10:30:00+02:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
@@ -16,7 +16,7 @@ Hybrid Meetup #55 took place
 [Dr. Jörn F. Dreyer](https://www.xing.com/profile/Joern_Dreyer) from
 [OpenCloud](https://opencloud.eu). A recording can be found [here](https://youtu.be/DChn7mZuiIA):
 
-![](/images/screenshot-2025-10-30-134510-leipzig-gophers-55-opencloud-youtube.png)
+[![](/images/screenshot-2025-10-30-134510-leipzig-gophers-55-opencloud-youtube.png)](https://youtu.be/DChn7mZuiIA)
 
 OpenCloud is a widely deployed cloud storage and collaboration platform built
 on a variation of a microservices architecture. It scales from homelab
