@@ -110,6 +110,7 @@ Assorted references from the talk:
 * [Apache Tika](https://tika.apache.org), can be used as a [document extractor](https://docs.opencloud.eu/docs/dev/server/Services/search/Search-info/#tika-extractor)
 * [Collabora](https://www.collaboraonline.com/), online document editing suite
 * [WebDAV specs](http://www.webdav.org/specs/) (extension to the HTTP/1.1 protocol that allows clients to perform remote Web content authoring operations -- [RFC4918](https://www.ietf.org/rfc/rfc4918.txt))
+* [Garage](https://garagehq.deuxfleurs.fr/), an open-source distributed object storage service tailored for self-hosting
 
 
 ----
