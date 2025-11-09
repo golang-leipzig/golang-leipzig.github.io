@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 10:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meetup</title>
+      <link>https://golangleipzig.space/tags/meetup/</link>
+      <pubDate>Thu, 30 Oct 2025 10:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summary</title>
+      <link>https://golangleipzig.space/tags/summary/</link>
+      <pubDate>Thu, 30 Oct 2025 10:30:00 +0200</pubDate>
+      
+      <guid>https://golangleipzig.space/tags/summary/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>announcement</title>
       <link>https://golangleipzig.space/tags/announcement/</link>
@@ -17,29 +35,11 @@
     </item>
     
     <item>
-      <title>meetup</title>
-      <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Thu, 16 Oct 2025 12:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ai</title>
       <link>https://golangleipzig.space/tags/ai/</link>
       <pubDate>Tue, 07 Oct 2025 22:30:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>summary</title>
-      <link>https://golangleipzig.space/tags/summary/</link>
-      <pubDate>Tue, 07 Oct 2025 22:30:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/summary/</guid>
       <description></description>
     </item>
     
