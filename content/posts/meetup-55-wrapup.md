@@ -97,6 +97,7 @@ Assorted references from the talk:
 
 * [lizardfs](https://github.com/lizardfs/lizardfs), forked from [MooseFS](https://en.wikipedia.org/wiki/Moose_File_System)
 * [SaunaFS](https://saunafs.com/)
+* [JuiceFS](https://github.com/juicedata/juicefs)
 * [Ceph filesystem](https://ceph.io/)
 * [GPFS](https://en.wikipedia.org/wiki/GPFS) (IBM)
 * [SeaFile](https://www.seafile.com)
