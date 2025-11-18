@@ -41,7 +41,7 @@ We'll meet:
 
 Join us, agents!
 
-![](static/images/lgo-56-inv-o3.gif)
+![](/images/lgo-56-inv-o3.gif)
 
 See you!
 
