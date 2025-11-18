@@ -16,7 +16,7 @@ CET](https://www.meetup.com/de-de/leipzig-golang/events/305626275/) at
 [Basislager Leipzig](https://basislager.co) we'll have a short presentation on
 the newly released [Agent Development Kit (ADK) for
 Go](https://github.com/google/adk-go). They say, [you should write an agent](https://fly.io/blog/everyone-write-an-agent/)
-yourself - so we will explore what an library like Go ADK can help us with.
+yourself - so we will explore what a library like [Go ADK](https://github.com/google/adk-go) can help us with.
 
 For LLM support, we will see how far open (weights) models can take us on nice
 hardware (such as the AMD [Strix Halo
