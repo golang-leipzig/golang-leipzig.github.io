@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far (eight in [2024](/posts/2024/)). Next Meetup #56 in November,
+50 events so far (eight in [2024](/posts/2024/)). Next Meetup [#56](/posts/meetup-56-invitation) in November,
 on [2025-11-25](https://www.meetup.com/de-DE/leipzig-golang/events/305626275)
 19:00 CET at [Basislager Leipzig](https://www.basislager.co/de).
 
