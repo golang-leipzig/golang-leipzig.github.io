@@ -14,7 +14,8 @@
       
       <guid>https://golangleipzig.space/posts/meetup-56-invitation/</guid>
       <description>Quick Look at the new Go ADK Hello, 世界!
-For meetup #56 on Tuesday Nov 25, 2025 19:00 CET at Basislager Leipzig we&amp;rsquo;ll have a short presentation on the newly released Agent Development Kit (ADK) for Go. They say, you should write an agent yourself - so we will explore what an library like Go ADK can help us with. For LLM support, we will see how far open (weights) models can take us on nice hardware (such as the AMD Strix Halo APU, as found in e.</description>
+For meetup #56 on Tuesday Nov 25, 2025 19:00 CET at Basislager Leipzig we&amp;rsquo;ll have a short presentation on the newly released Agent Development Kit (ADK) for Go. They say, you should write an agent yourself - so we will explore what an library like Go ADK can help us with.
+For LLM support, we will see how far open (weights) models can take us on nice hardware (such as the AMD Strix Halo APU, as found in e.</description>
     </item>
     
     <item>
