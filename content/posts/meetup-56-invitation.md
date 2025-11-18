@@ -17,14 +17,16 @@ CET](https://www.meetup.com/de-de/leipzig-golang/events/305626275/) at
 the newly released [Agent Development Kit (ADK) for
 Go](https://github.com/google/adk-go). [They
 say](https://fly.io/blog/everyone-write-an-agent/), you should write an agent
-yourself - so we will explore what an library like Go ADK can help us with. For
-LLM support, we will see how far open (weights) models can take us on nice
+yourself - so we will explore what an library like Go ADK can help us with.
+
+For LLM support, we will see how far open (weights) models can take us on nice
 hardware (such as the AMD [Strix Halo
 APU](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html),
 as found in e.g. the [Framework Desktop](https://frame.work/de/en/desktop)).
 
-We will have enough time for lightning talks or to dive into development
-questions, if you are hacking something in Go!
+We will have enough time for lightning talks, and also please don't hesitate to
+bring your own project or any interesting find from the vast [Go
+ecosystem](https://blog.jetbrains.com/go/2025/11/10/go-language-trends-ecosystem-2025/)!
 
 
 ### Schedule
