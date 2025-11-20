@@ -21,7 +21,7 @@ We then used [canary-v2-1b](https://huggingface.co/nvidia/canary-1b-v2) to
 transcribe the mostly german audio, grepped the term "KI" and stichted
 together a mostly static website, where you can glance into radio voices talking about AI:
 
-> [AI in the RADIO / KI im Radio](/kith-25-ai-radio-quotes.html)
+> [AI in the RADIO / KI im Radio](/kith25/index.html)
 
 
 ----
