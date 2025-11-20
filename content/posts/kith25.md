@@ -13,9 +13,9 @@ tags:
 broad program around AI in beautiful Halle (Saale).
 
 We wrote a small radio stream capturing
-[script](https://gist.github.com/miku/55c0c8272a9f847feb9ae845e0e6e47e) that
-recorded about 2000 hours of radio in 11/2025 from four different broadcasting
-stations: MDR Aktuell, DLF, DLF Kultur, DLF Nova.
+[script](https://gist.github.com/miku/55c0c8272a9f847feb9ae845e0e6e47e) in Go
+that recorded about 2000 hours of radio in 11/2025 from four different
+broadcasting stations: [MDR](https://www.mdr.de/) Aktuell, [DLF](https://www.deutschlandfunk.de/), DLF Kultur, DLF Nova.
 
 We then used [canary-v2-1b](https://huggingface.co/nvidia/canary-1b-v2) to
 transscribe the mostly german audio, grepped the term "KI" and stichted
