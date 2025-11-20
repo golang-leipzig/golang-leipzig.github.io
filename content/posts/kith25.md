@@ -18,7 +18,7 @@ that recorded about 2000 hours of radio in 11/2025 from four different
 broadcasting stations: [MDR](https://www.mdr.de/) Aktuell, [DLF](https://www.deutschlandfunk.de/), DLF Kultur, DLF Nova.
 
 We then used [canary-v2-1b](https://huggingface.co/nvidia/canary-1b-v2) to
-transscribe the mostly german audio, grepped the term "KI" and stichted
+transcribe the mostly german audio, grepped the term "KI" and stichted
 together a mostly static website, where you can glance into radio voices talking about AI:
 
 > [AI in the RADIO / KI im Radio](/kith-25-ai-radio-quotes.html)
