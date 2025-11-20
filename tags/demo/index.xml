@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 20 Nov 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KI-Tage Halle 2025</title>
-      <link>https://golangleipzig.space/posts/kith25/</link>
+      <link>https://golangleipzig.space/posts/ki-tage-halle-2025/</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0200</pubDate>
       
-      <guid>https://golangleipzig.space/posts/kith25/</guid>
+      <guid>https://golangleipzig.space/posts/ki-tage-halle-2025/</guid>
       <description>KI-Tage Halle 2025 KI-Tage Halle is a two-day event with a broad program around AI in beautiful Halle (Saale).
 We wrote a small radio stream capturing script in Go that recorded about 2000 hours of radio in 11/2025 from four different broadcasting stations: MDR Aktuell, DLF, DLF Kultur, DLF Nova.
 We then used canary-v2-1b to transcribe the mostly german audio, grepped the term &amp;ldquo;KI&amp;rdquo; in the sentences and stichted together a mostly static website, where you can glance into radio voices talking about AI:</description>
