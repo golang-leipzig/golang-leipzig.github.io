@@ -5,9 +5,9 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far (eight in [2024](/posts/2024/)). Next Meetup [#56](/posts/meetup-56-invitation) in November,
-on [2025-11-25](https://www.meetup.com/de-DE/leipzig-golang/events/305626275)
-19:00 CET at [Basislager Leipzig](https://www.basislager.co/de).
+50 events so far (eight in [2024](/posts/2024/)). Next X-Mas Drinkup #57 in December,
+on [2025-12-12](https://www.meetup.com/de-de/leipzig-golang/events/312022773)
+18:00 CET at the Christmas Market (starting here: [osm](https://www.openstreetmap.org/way/188679471), [google maps](https://maps.app.goo.gl/sWRwwMsRjXM8MUEA7)).
 
 
 If you have an idea for a presentation, please [let us know](/proposals/).
@@ -60,6 +60,7 @@ interested, [let's talk](mailto:martin.czygan@gmail.com).
 {{< h2 >}}Meetup log{{< /h2 >}}
 
 We try to sum up every meetup in a short blog post:
+[#56](/posts/meetup-56-wrapup/),
 [#55](/posts/meetup-55-wrapup/),
 [#54](/posts/meetup-54-wrapup/),
 [#53](/posts/meetup-53-wrapup/),
