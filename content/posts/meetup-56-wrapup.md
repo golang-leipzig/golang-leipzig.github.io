@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-### An older version of the matrix / 不気味の谷
+### An older version of the matrix · 不気味の谷
 
 Hybrid Meetup #56 took place
 [2025-11-25](https://www.meetup.com/de-de/leipzig-golang/events/305626275/)
