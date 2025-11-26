@@ -13,7 +13,7 @@
       <pubDate>Wed, 26 Nov 2025 00:30:00 +0100</pubDate>
       
       <guid>https://golangleipzig.space/posts/meetup-56-wrapup/</guid>
-      <description>An older version of the matrix / 不気味の谷 Hybrid Meetup #56 took place 2025-11-25 19:00 at Basislager Leipzig and we looked into basic agents with Go, notes can be found here: miku/unplugged.
+      <description>An older version of the matrix · 不気味の谷 Hybrid Meetup #56 took place 2025-11-25 19:00 at Basislager Leipzig and we looked into basic agents with Go, notes can be found here: miku/unplugged.
 Agents are possible because of the reasoning and tool support of language models (and they are simple to write.
 An early paper on tools was Toolformer: Language Models Can Teach Themselves to Use Tools (2023-02-09)
 We introduce Toolformer, a model trained to decide which APIs to call, when to call them, what arguments to pass, and how to best incorporate the results into future token prediction.</description>
