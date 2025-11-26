@@ -40,9 +40,12 @@ the help of tools.
 
 ![](/images/lgo-56-looptool.gif)
 
-Google Agent SDK at this time only supports gemini out of the box, so we wrote
-a simple agent from scratch (against any openai compatible endpoint) and ended
-up with an program that had a short list of tools (some of them just stubs):
+[Google ADK for Go](https://github.com/google/adk-go) at this time only
+supports gemini out of the box
+([#233](https://github.com/google/adk-go/pull/233),
+[#242](https://github.com/google/adk-go/pull/242), ...), so we wrote a simple
+agent from scratch (against any openai compatible endpoint) and ended up with
+an program that had a short list of tools (some of them just stubs):
 
 ```
 get_weather
