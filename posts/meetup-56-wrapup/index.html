@@ -50,8 +50,8 @@
 agents with Go, notes can be found here:
 <a href="https://github.com/miku/unplugged">miku/unplugged</a>.</p>
 <p>Agents are possible because of the <em>reasoning</em> and tool support of language
-models (and they are <a href="https://fly.io/blog/everyone-write-an-agent/">simple to
-write</a>.</p>
+models (and they are somewhat <a href="https://fly.io/blog/everyone-write-an-agent/">simple to
+write</a>).</p>
 <p>An early paper on tools was <a href="https://arxiv.org/pdf/2302.04761"><em>Toolformer: Language Models Can Teach Themselves to Use Tools</em></a> (2023-02-09)</p>
 <blockquote>
 <p>We introduce Toolformer, a model trained to decide which APIs to call, when
@@ -113,7 +113,7 @@ and an <a href="https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-s
 </tr>
 </tbody>
 </table>
-<p>However, prefill is a bit faster on the nvidia card:</p>
+<p>However, <em>prefill</em> is a bit faster on the nvidia card:</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>$ time OLLAMA_MODEL=qwen3:14b OLLAMA_HOST=http://ada:11434 ./one -m &#34;how warm is it in leipzig?&#34;
 </span></span><span style="display:flex;"><span>2025/11/26 09:57:17 user: how warm is it in leipzig?               ...
 </span></span><span style="display:flex;"><span>2025/11/26 09:57:17 context length: 4974                           ...
@@ -155,9 +155,10 @@ among open-source models in complex agent-based tasks. &ndash; <a href="https://
 <p><img src="/images/lgo-56-agent-3.gif" alt=""></p>
 <p>Future ideas for tools:</p>
 <ul>
-<li><input disabled="" type="checkbox"> browser use to facility web search</li>
+<li><input disabled="" type="checkbox"> browser use for web search</li>
 <li><input disabled="" type="checkbox"> manage context by offloading to text files, similar to deep research agents</li>
 <li><input disabled="" type="checkbox"> code snippets for subtasks and sandboxed execution</li>
+<li><input disabled="" type="checkbox"> hierarchical setup: lead researcher, sub agents, &hellip;</li>
 </ul>
 <p>Go&rsquo;s concurrency facilities seems to be helpful when implementing agents.</p>
 <h3 id="misc">Misc</h3>
