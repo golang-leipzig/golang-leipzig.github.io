@@ -16,8 +16,8 @@ agents with Go, notes can be found here:
 [miku/unplugged](https://github.com/miku/unplugged).
 
 Agents are possible because of the *reasoning* and tool support of language
-models (and they are [simple to
-write](https://fly.io/blog/everyone-write-an-agent/).
+models (and they are somewhat [simple to
+write](https://fly.io/blog/everyone-write-an-agent/)).
 
 An early paper on tools was [*Toolformer: Language Models Can Teach Themselves to Use Tools*](https://arxiv.org/pdf/2302.04761) (2023-02-09)
 
@@ -71,7 +71,7 @@ and an [AMD AI MAX+ 395 with an
 | FP16 (theoretical) | 59.4 TFLOPS | ~19.2 TFLOPS |
 | Memory Bandwidth | ~212 GB/s (DDR5-8000) | 280 GB/s (GDDR6) |
 
-However, prefill is a bit faster on the nvidia card:
+However, *prefill* is a bit faster on the nvidia card:
 
 ```
 $ time OLLAMA_MODEL=qwen3:14b OLLAMA_HOST=http://ada:11434 ./one -m "how warm is it in leipzig?"
@@ -119,9 +119,10 @@ Example: (1) fetch image, (2) convert to jpg, (3) calculate sha1 and (4) write t
 
 Future ideas for tools:
 
-* [ ] browser use to facility web search
+* [ ] browser use for web search
 * [ ] manage context by offloading to text files, similar to deep research agents
 * [ ] code snippets for subtasks and sandboxed execution
+* [ ] hierarchical setup: lead researcher, sub agents, ...
 
 Go's concurrency facilities seems to be helpful when implementing agents.
 
