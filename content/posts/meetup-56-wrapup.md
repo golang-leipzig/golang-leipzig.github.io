@@ -61,11 +61,11 @@ run_command
 We used both an [RTX 4000 SFF
 ADA](https://www.nvidia.com/content/dam/en-zz/Solutions/rtx-4000-sff/proviz-rtx-4000-sff-ada-datasheet-2616456-web.pdf)
 and an [AMD AI MAX+ 395 with an
-8060S](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html).
+8060S](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html) (via [FWD](https://frame.work/de/en/desktop)).
 
 | Spec | AMD Radeon 8060S | NVIDIA RTX 4000 SFF Ada |
 |------|------------------|-------------------------|
-| **FP16 (theoretical)** | **59.4 TFLOPS** | **~19.2 TFLOPS** |
+| FP16 (theoretical) | 59.4 TFLOPS | ~19.2 TFLOPS |
 | Memory Bandwidth | ~212 GB/s (DDR5-8000) | 280 GB/s (GDDR6) |
 
 However, prefill is a bit faster on the nvidia card:
