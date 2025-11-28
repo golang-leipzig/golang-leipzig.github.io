@@ -143,12 +143,11 @@ or [any language](https://www.shakudo.io/blog/top-9-ai-agent-frameworks)
 * AI will be similar to the internet, e.g. in terms of omnipresence
 * AI [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley), 不気味の谷
 
+----
+
 If AI produces too much artificial reality, maybe apply some [ubik](https://en.wikipedia.org/wiki/Ubik)?
 
 [![](/images/ubik1969.jpg)](https://en.wikipedia.org/wiki/Ubik)
-
-Did you implement a cool agent in Go (or something else)? Then why not [join
-us](https://www.meetup.com/de-DE/leipzig-golang/) and let it introduce itself.
 
 ----
 
