@@ -25,7 +25,7 @@ We introduce Toolformer, a model trained to decide which APIs to call, when to c
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0200</pubDate>
       
       <guid>https://golangleipzig.space/posts/kith25/</guid>
-      <description>KI-Tage Halle 2025 KI-Tage Halle is a two-day event with a broad program around AI in beautiful Halle (Saale).
+      <description>KI-Tage Halle 2025 KI-Tage Halle is a two-day event with a broad program around AI in Halle (Saale).
 We wrote a small radio stream capturing script in Go that recorded about 2000 hours of radio in 11/2025 from four different broadcasting stations: MDR Aktuell, DLF, DLF Kultur, DLF Nova.
 We then used canary-v2-1b to transcribe the mostly german audio, grepped the term &amp;ldquo;KI&amp;rdquo; in the sentences and stichted together a mostly static website, where you can glance into radio voices talking about AI:</description>
     </item>
