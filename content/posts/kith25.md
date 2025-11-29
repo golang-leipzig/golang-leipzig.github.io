@@ -10,7 +10,7 @@ tags:
 ## KI-Tage Halle 2025
 
 [KI-Tage Halle](https://ki-tage.webwirtschaft.net/) is a two-day event with a
-broad program around AI in beautiful Halle (Saale).
+broad program around AI in Halle (Saale).
 
 We wrote a small radio stream capturing
 [script](https://gist.github.com/miku/55c0c8272a9f847feb9ae845e0e6e47e) in Go
