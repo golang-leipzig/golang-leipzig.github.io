@@ -14,6 +14,8 @@ Hello, 世界!
 Enjoying Go or tech in general and Christmas markets? Then consider joining
 Drinkup #57 on [2025-12-12 18:00](https://www.meetup.com/de-de/leipzig-golang/events/312022773/).
 
+![](/images/IBU5FMT7JR5FO4MAMHYNYZOVDQNB5WYZ.gif)
+
 See you!
 
 <!--
