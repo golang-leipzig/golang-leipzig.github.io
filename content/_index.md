@@ -5,7 +5,7 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far (eight in [2024](/posts/2024/)). Next X-Mas Drinkup #57 in December,
+50 events so far (eight in [2024](/posts/2024/)). Next X-Mas Drinkup [#57](/posts/meetup-57-invitation/) in December,
 on [2025-12-12](https://www.meetup.com/de-de/leipzig-golang/events/312022773)
 18:00 CET at the Christmas Market (starting here: [osm](https://www.openstreetmap.org/way/188679471), [google maps](https://maps.app.goo.gl/sWRwwMsRjXM8MUEA7)).
 
