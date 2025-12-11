@@ -11,6 +11,8 @@ tags:
 
 Hello, 世界!
 
+UPDATE [2025-12-11]: **This event is cancelled**, unfortunately.
+
 Enjoying Go or tech in general and Christmas markets? Then consider joining
 Drinkup #57 on [2025-12-12 18:00](https://www.meetup.com/de-de/leipzig-golang/events/312022773/).
 
