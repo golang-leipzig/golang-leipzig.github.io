@@ -11,13 +11,6 @@ tags:
 
 Hello, 世界!
 
-For anyone still in town, we are going to have a small drinkup at
-[Pilot](https://pilot-leipzig.de/)
-([OSM](https://www.openstreetmap.org/node/890992486)), no RSVP, just drop by if
-you like, 7pm onwards. See you!
-
-----
-
 UPDATE [2025-12-11]: **This event was cancelled**, unfortunately.
 
 Enjoying Go or tech in general and Christmas markets? Then consider joining
