@@ -25,8 +25,6 @@ Drinkup #57 on [2025-12-12 18:00](https://www.meetup.com/de-de/leipzig-golang/ev
 
 [![](/images/IBU5FMT7JR5FO4MAMHYNYZOVDQNB5WYZ.gif)](https://gifcities.org/search?q=christmas+night)
 
-See you!
-
 <!--
 
 todo: outreach
