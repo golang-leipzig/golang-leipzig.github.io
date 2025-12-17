@@ -128,7 +128,7 @@ We'd like to thank [edgeless systems](https://www.edgeless.systems)
 ([#23](/posts/meetup-23-wrapup/)),
 [CodeNotary](https://codenotary.com/)
 ([#30](/posts/meetup-30-wrapup/)), [Deta
-Cloud](https://deta.space/)
+Cloud](https://web.archive.org/web/20221223065813/https://deta.space/)
 ([#31](/posts/meetup-31-wrapup/)),
 [Gridfuse](https://gridfuse.com/)
 ([#32](/posts/meetup-32-wrapup/),
