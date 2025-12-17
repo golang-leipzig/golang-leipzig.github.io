@@ -8,7 +8,8 @@ pygmentsCodeFencesGuessSyntax = true
 # pygmentsoptions = "linenos=table"
 pygmentsStyle = "github"
 
-paginate = 256 # we do not have a db
+[pagination]
+pagerSize = 256
 
 [menu]
   [[menu.main]]
