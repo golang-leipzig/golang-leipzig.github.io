@@ -47,7 +47,7 @@ today.
 
 ## More information
 
-* [Intel® Software Guard Extensions (Intel® SGX) Developer Guide](https://download.01.org/intel-sgx/linux-2.2/docs/Intel_SGX_Developer_Guide.pdf)
+* [Intel® Software Guard Extensions (Intel® SGX) Developer Guide](https://download.01.org/intel-sgx/latest/linux-latest/docs/Intel_SGX_Developer_Guide.pdf)
 * [Edgeless Systems GitHub](https://github.com/edgelesssys), open source components for Confidential Computing
 * [Open Enclave](https://openenclave.io), SDK
 * [RandomClave](https://arxiv.org/abs/2107.09470) (2021) analyzes potential risks in a PoC ransomware attack using SGX
