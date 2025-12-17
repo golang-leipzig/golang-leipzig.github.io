@@ -9,7 +9,7 @@ tags:
 
 ## All things Go and beyond
 
-We met on 2022-07-14 at [Soltmann Bar](https://www.soltmann-bar.de/) and it was great to see
+We met on 2022-07-14 at [Soltmann Bar](https://web.archive.org/web/20230331120832/https://www.soltmann-bar.de//) and it was great to see
 everyone in person and also to welcome new Gophers.
 
 In September, we hope to follow up with an [in-person meetup](https://www.meetup.com/leipzig-golang/events/286871365/) featuring a
