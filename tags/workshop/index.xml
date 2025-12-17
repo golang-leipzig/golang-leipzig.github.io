@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>workshop on Leipzig Gophers</title>
+    <title>Workshop on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/workshop/</link>
-    <description>Recent content in workshop on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Workshop on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2019 09:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2019 09:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go at Spartakiade 2019 Berlin</title>
       <link>https://golangleipzig.space/posts/go-at-spartakiade-2019-berlin/</link>
       <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/go-at-spartakiade-2019-berlin/</guid>
-      <description>Spartakiade is a regular, developer-centric conference in Berlin. This year it will host over twenty full day workshops, with topics ranging from data science, 3D, docker, kubernetes, and also a few programming language introductions, among them F#, Python, Purescript &amp;ndash; and Go!
-There will be two Go workshops (in English or German, depending on the audience):
-Apr, 27 2019, 10-17: Kann weniger mehr sein? Eine praktische Einführung in die Programmiersprache Go (Can less be more?</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://spartakiade.org/&#34;&gt;Spartakiade&lt;/a&gt; is a regular, developer-centric&#xA;conference in Berlin. This year it will host over twenty full day workshops,&#xA;with topics ranging from data science, 3D, docker, kubernetes, and also a few&#xA;programming language introductions, among them F#, Python, Purescript &amp;ndash; and Go!&lt;/p&gt;&#xA;&lt;p&gt;There will be two Go workshops (in English or German, depending on the audience):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apr, 27 2019, 10-17: &lt;a href=&#34;https://github.com/miku/golang6h&#34;&gt;Kann weniger mehr sein? Eine praktische Einführung in&#xA;die Programmiersprache Go&lt;/a&gt; (Can less be more? A practical introduction to Go)&lt;/li&gt;&#xA;&lt;li&gt;Apr, 28 2019, 10-17: &lt;a href=&#34;https://github.com/miku/golangnetpkg&#34;&gt;Schreiben von Netzwerkanwendungen mit Go&lt;/a&gt; (Writing network&#xA;applications with Go)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Interested in Go or anything else at Spartakiade 2019? Then you&amp;rsquo;re in luck, we&#xA;have two free tickets for you - use the code W7UJQS55 at&#xA;&lt;a href=&#34;http://spartakiade.eventbrite.de/&#34;&gt;http://spartakiade.eventbrite.de/&lt;/a&gt; - and&#xA;have a fun weekend learning new things. See you there!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,71 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>go on Leipzig Gophers</title>
+    <title>Go on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/go/</link>
-    <description>Recent content in go on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Go on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 12:00:01 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 12:00:01 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Faster XML processing in Go</title>
       <link>https://golangleipzig.space/posts/faster-go-xml-processing/</link>
       <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/faster-go-xml-processing/</guid>
-      <description>Prelude Go supports XML processing in the standard library package encoding/xml. The Marshal and Unmarshal function will use a Encoder and Decoder under the hood, as these are more general.
-With a Decoder it is possible to iterate over a large number of XML elements and to deserialize data in a way that will limit memory consumption. Here is a playground example for using a decoder to repeatedly parse elements from a Reader: efY60PYLFm8.</description>
+      <description>&lt;h2 id=&#34;prelude&#34;&gt;Prelude&lt;/h2&gt;&#xA;&lt;p&gt;Go supports XML processing in the standard library package&#xA;&lt;a href=&#34;https://pkg.go.dev/encoding/xml&#34;&gt;encoding/xml&lt;/a&gt;. The &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Marshal&#34;&gt;Marshal&lt;/a&gt; and &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Unmarshal&#34;&gt;Unmarshal&lt;/a&gt;&#xA;function will use a &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Encoder&#34;&gt;Encoder&lt;/a&gt; and &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Decoder&#34;&gt;Decoder&lt;/a&gt; under the hood, as these are more general.&lt;/p&gt;&#xA;&lt;p&gt;With a &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Decoder&#34;&gt;Decoder&lt;/a&gt; it is possible to iterate over a large number of XML&#xA;elements and to deserialize data in a way that will limit memory consumption.&#xA;Here is a playground example for using a decoder to repeatedly parse elements&#xA;from a &lt;a href=&#34;https://pkg.go.dev/io#Reader&#34;&gt;Reader&lt;/a&gt;: &lt;a href=&#34;https://go.dev/play/p/efY60PYLFm8&#34;&gt;efY60PYLFm8&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;One limitation of this approach is that you can only parse top-level elements.&#xA;This restriction is circumvented by utilities like&#xA;&lt;a href=&#34;https://github.com/tamerh/xml-stream-parser&#34;&gt;xml-stream-parser&lt;/a&gt; or &lt;a href=&#34;https://github.com/miku/xmlstream&#34;&gt;xmlstream&lt;/a&gt;, which allow to parse a number&#xA;of different elements from any level in the XML document in a streaming&#xA;fashion.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go at devopenspace 2023</title>
       <link>https://golangleipzig.space/posts/go-devopenspace-2023/</link>
       <pubDate>Fri, 06 Oct 2023 00:20:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/go-devopenspace-2023/</guid>
-      <description>devopenspace is a regular, classic unconference on software engineering and related topics - this year, there are a few Go and cloud related workshops as well! See the agenda for more details.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devopenspace.de/&#34;&gt;devopenspace&lt;/a&gt; is a regular, &lt;a href=&#34;http://web.archive.org/web/20120801000000*/https://devopenspace.de/&#34;&gt;classic&lt;/a&gt;&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unconference&#34;&gt;unconference&lt;/a&gt; on software&#xA;engineering and related topics - this year, there are a few Go and cloud&#xA;related workshops as well! See the &lt;a href=&#34;https://devopenspace.de/&#34;&gt;agenda for more details&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go at Coding Leipzig Chapter Four</title>
       <link>https://golangleipzig.space/posts/go-at-coding-leipzig-chapter-four/</link>
       <pubDate>Wed, 27 Feb 2019 15:45:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/go-at-coding-leipzig-chapter-four/</guid>
-      <description>A last minute tip for today: There will be a quick introduction to Go at Coding Leipzig Chapter Four meetup tonight at Basislager:
-Michael Panzer | GoBasics in 30 Minutes Michael is co-organizer of Leipzig Golang and Cloud-Native Meetup and show us the basics of Golang in only 30 minutes. He has prepared a bunch of useful examples.</description>
+      <description>&lt;p&gt;A last minute tip for today: There will be a quick introduction to Go at&#xA;&lt;a href=&#34;https://www.meetup.com/coding-leipzig/events/258098205/&#34;&gt;Coding Leipzig Chapter Four&lt;/a&gt; meetup tonight at &lt;a href=&#34;https://www.basislager.co/&#34;&gt;Basislager&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/coding-leipzig/events/258098205/&#34;&gt;Michael Panzer | GoBasics in 30 Minutes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Michael is co-organizer of Leipzig Golang and Cloud-Native Meetup and show us&#xA;the basics of Golang in only 30 minutes. He has prepared a bunch of useful&#xA;examples.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Launched 🚀</title>
       <link>https://golangleipzig.space/posts/meetup-launched/</link>
       <pubDate>Sat, 09 Feb 2019 00:15:25 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/meetup-launched/</guid>
-      <description>We launched! The first meetup took place yesterday (2019-02-08) at Basislager. A dozen gophers, programmers, devops developers, cluster admins and curious individuals followed our invitation.
-A good mix of backgrounds, experience levels and professional contexts lead to lively discussions around Go, the language, microservices, company cultures, adoption, streaming, cruise ships, conference impressions, book tips, distributed denial-of-service attacks, kubernetes operators and much more. Thanks for joining us, we think we&amp;rsquo;re off to a good start!</description>
+      <description>&lt;p&gt;We launched! The first meetup took place&#xA;&lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/events/258372375/&#34;&gt;yesterday&lt;/a&gt;&#xA;(2019-02-08) at &lt;a href=&#34;https://www.basislager.co/&#34;&gt;Basislager&lt;/a&gt;. A dozen gophers,&#xA;programmers, devops developers, cluster admins and curious individuals&#xA;followed our invitation.&lt;/p&gt;&#xA;&lt;p&gt;A good mix of backgrounds, experience levels and professional contexts lead to&#xA;lively discussions around Go, the language, microservices, company cultures,&#xA;adoption, streaming, cruise ships, conference impressions, book tips, distributed&#xA;denial-of-service attacks, kubernetes operators and much more. Thanks for&#xA;joining us, we think we&amp;rsquo;re off to a good start!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go makes the frontpage</title>
       <link>https://golangleipzig.space/posts/go-heise-frontpage/</link>
       <pubDate>Wed, 23 Jan 2019 00:10:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/go-heise-frontpage/</guid>
-      <description>On 22, Jan 2019, Go made it to the frontpage of heise.de, with an introductory article about the language:
-Einstieg in Go (German) After a brief historical overview, the authors jump right into various channels types. They also highlight struct embedding and interfaces.</description>
+      <description>&lt;p&gt;On 22, Jan 2019, Go made it to the frontpage of &lt;a href=&#34;https://heise.de&#34;&gt;heise.de&lt;/a&gt;,&#xA;with an introductory article about the language:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.heise.de/developer/artikel/Ein-Einstieg-in-die-Programmiersprache-Go-Teil-1-4282998.html&#34;&gt;Einstieg in Go&lt;/a&gt; (German)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;After a brief historical overview, the authors jump right into various channels&#xA;types. They also highlight struct embedding and interfaces.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>First meetup date is fixed</title>
       <link>https://golangleipzig.space/posts/first-meetup-date-is-fixed-2019-02-08/</link>
       <pubDate>Mon, 21 Jan 2019 00:14:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/first-meetup-date-is-fixed-2019-02-08/</guid>
-      <description>The first Golang and Cloud-Native Meetup will take place on Friday, 8th of February 2019 starting 19:00 at Basislager Leipzig, ground floor.
-Are you using Go? Are you curious about Go? Are you a cloud architect? You are working on an interesting project that you would like to share? Or maybe you just want to meet some fellow Gophers in your city? Then, by all means, consider dropping by.
-This will be our first meeting and there will be plenty of room to participate and shape this meetup going forward.</description>
+      <description>&lt;p&gt;The first Golang and Cloud-Native Meetup will take place on Friday, 8th of&#xA;February 2019 starting 19:00 at &lt;a href=&#34;https://www.basislager.co/&#34;&gt;Basislager&#xA;Leipzig&lt;/a&gt;, ground floor.&lt;/p&gt;&#xA;&lt;p&gt;Are you using Go? Are you curious about Go? Are you a cloud architect? You are&#xA;working on an interesting project that you would like to share? Or maybe you&#xA;just want to meet some fellow Gophers in your city? Then, by all means,&#xA;consider dropping by.&lt;/p&gt;&#xA;&lt;p&gt;This will be our first meeting and there will be plenty of room to participate&#xA;and shape this meetup going forward.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

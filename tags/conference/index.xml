@@ -1,76 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conference on Leipzig Gophers</title>
+    <title>Conference on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/conference/</link>
-    <description>Recent content in conference on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Conference on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Nov 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Nov 2025 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KI-Tage Halle 2025</title>
       <link>https://golangleipzig.space/posts/kith25/</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/kith25/</guid>
-      <description>KI-Tage Halle 2025 KI-Tage Halle is a two-day event with a broad program around AI in Halle (Saale).
-We wrote a small radio stream capturing script in Go that recorded about 2000 hours of radio in 11/2025 from four different broadcasting stations: MDR Aktuell, DLF, DLF Kultur, DLF Nova.
-We then used canary-v2-1b to transcribe the mostly german audio, grepped the term &amp;ldquo;KI&amp;rdquo; in the sentences and stichted together a mostly static website, where you can glance into radio voices talking about AI:</description>
+      <description>&lt;h2 id=&#34;ki-tage-halle-2025&#34;&gt;KI-Tage Halle 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ki-tage.webwirtschaft.net/&#34;&gt;KI-Tage Halle&lt;/a&gt; is a two-day event with a&#xA;broad program around AI in Halle (Saale).&lt;/p&gt;&#xA;&lt;p&gt;We wrote a small radio stream capturing&#xA;&lt;a href=&#34;https://gist.github.com/miku/55c0c8272a9f847feb9ae845e0e6e47e&#34;&gt;script&lt;/a&gt; in Go&#xA;that recorded about 2000 hours of radio in 11/2025 from four different&#xA;broadcasting stations: &lt;a href=&#34;https://www.mdr.de/&#34;&gt;MDR&lt;/a&gt; Aktuell, &lt;a href=&#34;https://www.deutschlandfunk.de/&#34;&gt;DLF&lt;/a&gt;, DLF Kultur, DLF Nova.&lt;/p&gt;&#xA;&lt;p&gt;We then used &lt;a href=&#34;https://huggingface.co/nvidia/canary-1b-v2&#34;&gt;canary-v2-1b&lt;/a&gt; to&#xA;transcribe the mostly german audio, grepped the term &amp;ldquo;KI&amp;rdquo; in the &lt;a href=&#34;https://github.com/neurosnap/sentences&#34;&gt;sentences&lt;/a&gt; and stichted&#xA;together a mostly static website, where you can glance into radio voices talking about AI:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GoLab 2025</title>
       <link>https://golangleipzig.space/posts/golab-2025/</link>
       <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/golab-2025/</guid>
-      <description>GoLab 2025 Since 2015, Develer has been organizing one of the best Go conferences on the continent: GoLab - bringing together the international and Italian Go developer community in the beautiful city of Florence. Happy 10th birthday, GoLab!
-This year, GoLab will take place Oct 5-7, 2025!
-Thoughtfulness in environmental stewardship and social responsibility continues with GoLab 2025 through their GoLab for the Planet initiative.
-The conference offers a variety of topics and formats:</description>
+      <description>&lt;h2 id=&#34;golab-2025&#34;&gt;GoLab 2025&lt;/h2&gt;&#xA;&lt;p&gt;Since 2015, &lt;a href=&#34;https://www.develer.com&#34;&gt;Develer&lt;/a&gt; has been &lt;a href=&#34;https://golab.io/about-us&#34;&gt;organizing&lt;/a&gt; one of the&#xA;best Go conferences on the continent: &lt;a href=&#34;https://golab.io/&#34;&gt;GoLab&lt;/a&gt; - bringing&#xA;together the international and Italian Go developer community in the beautiful&#xA;city of &lt;a href=&#34;https://en.wikipedia.org/wiki/Florence&#34;&gt;Florence&lt;/a&gt;. Happy 10th birthday, GoLab!&lt;/p&gt;&#xA;&lt;p&gt;This year, GoLab will take place &lt;a href=&#34;https://golab.io/&#34;&gt;Oct 5-7, 2025&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Thoughtfulness in environmental stewardship and social responsibility continues&#xA;with GoLab 2025 through their &lt;a href=&#34;https://golab.io/golab-for-the-planet&#34;&gt;GoLab for the&#xA;Planet&lt;/a&gt; initiative.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golab.io/golab-for-the-planet&#34;&gt;&lt;img src=&#34;https://golangleipzig.space/golab-2025/golab-planet2025.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The conference offers a variety of topics and formats:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In-depth Workshops: Hands-on learning experiences for practical skill development.&lt;/li&gt;&#xA;&lt;li&gt;Technical Talks: Presentations on the latest advancements, best practices, and challenges in Go development.&lt;/li&gt;&#xA;&lt;li&gt;Lightning Talks: Quick, insightful interventions that spark new ideas and discussions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://golab.io/schedule&#34;&gt;GoLab 2025 schedule&lt;/a&gt; for more details.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GOLAB 2024</title>
       <link>https://golangleipzig.space/posts/golab-2024/</link>
       <pubDate>Wed, 15 May 2024 11:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/golab-2024/</guid>
-      <description>GOLAB 2024 GOLAB, The International Conference on Go is a wonderful event that brings together developers from Europe and beyond in Florence, Italy since 2015 and which will take place 2024-11-11 to 2024-11-13 this year, featuring a discovery and deep dive track as well as workshops on introductory and advanced topics. Find out more:
-Conference homepage: golab.io GOLAB on Twitter GOLAB YouTube Channel, recordings from previous years We partnered with GOLAB and are excited to share discount codes for tickets 🎟️ — just drop by our next event!</description>
+      <description>&lt;h2 id=&#34;golab-2024&#34;&gt;GOLAB 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golab.io/&#34;&gt;GOLAB&lt;/a&gt;, &lt;em&gt;The International Conference on Go&lt;/em&gt; is a wonderful&#xA;event that brings together developers from Europe and beyond in &lt;a href=&#34;https://en.wikipedia.org/wiki/Florence&#34;&gt;Florence&lt;/a&gt;, Italy&#xA;since 2015 and which will take place 2024-11-11 to 2024-11-13 this year,&#xA;featuring a discovery and deep dive track as well as workshops on introductory&#xA;and advanced topics. Find out more:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conference homepage: &lt;a href=&#34;https://golab.io&#34;&gt;golab.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GOLAB on &lt;a href=&#34;https://twitter.com/golab_conf&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@golabconference9448&#34;&gt;GOLAB YouTube Channel&lt;/a&gt;, recordings from previous years&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We partnered with GOLAB and are excited to share discount codes for tickets 🎟️&#xA;— just drop by our &lt;a href=&#34;https://www.meetup.com/leipzig-golang/events/298066360/&#34;&gt;next&#xA;event&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go at devopenspace 2023</title>
       <link>https://golangleipzig.space/posts/go-devopenspace-2023/</link>
       <pubDate>Fri, 06 Oct 2023 00:20:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/go-devopenspace-2023/</guid>
-      <description>devopenspace is a regular, classic unconference on software engineering and related topics - this year, there are a few Go and cloud related workshops as well! See the agenda for more details.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devopenspace.de/&#34;&gt;devopenspace&lt;/a&gt; is a regular, &lt;a href=&#34;http://web.archive.org/web/20120801000000*/https://devopenspace.de/&#34;&gt;classic&lt;/a&gt;&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unconference&#34;&gt;unconference&lt;/a&gt; on software&#xA;engineering and related topics - this year, there are a few Go and cloud&#xA;related workshops as well! See the &lt;a href=&#34;https://devopenspace.de/&#34;&gt;agenda for more details&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CLT23</title>
       <link>https://golangleipzig.space/posts/clt23/</link>
       <pubDate>Mon, 13 Mar 2023 12:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/clt23/</guid>
-      <description>CLT23 We briefly presented at the annual Chemnitz Linux Days (CLT) conference on 2023-03-11. The topic was Sustainability and Security in the Go ecosystem, collecting a few thoughts starting from the ACM Queue article Surviving Software Dependencies (2019).
-Keywords: security, data breach, dependency management, distributed package management, OSV, vulnerability scanning.
-We prepared a demo for the vanity URL import supported by Go package system - check out clt23 or try:</description>
+      <description>&lt;h2 id=&#34;clt23&#34;&gt;CLT23&lt;/h2&gt;&#xA;&lt;p&gt;We briefly presented at the annual &lt;a href=&#34;https://chemnitzer.linux-tage.de/2023/en/programm/vortraege&#34;&gt;Chemnitz Linux&#xA;Days&lt;/a&gt; (CLT)&#xA;conference on 2023-03-11. The topic was &lt;a href=&#34;https://github.com/miku/goeco&#34;&gt;Sustainability and Security in the Go&#xA;ecosystem&lt;/a&gt;, collecting a few thoughts starting&#xA;from the ACM Queue article &lt;a href=&#34;https://doi.org/10.1145/3329781.3344149&#34;&gt;Surviving Software&#xA;Dependencies&lt;/a&gt; (2019).&lt;/p&gt;&#xA;&lt;p&gt;Keywords: security, data breach, dependency management, distributed package management, &lt;a href=&#34;https://ossf.github.io/osv-schema/&#34;&gt;OSV&lt;/a&gt;, vulnerability scanning.&lt;/p&gt;&#xA;&lt;p&gt;We prepared a demo for the vanity URL import supported by Go package system - check out &lt;a href=&#34;https://golangleipzig.space/clt23/&#34;&gt;clt23&lt;/a&gt; or try:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ go install golangleipzig.space/clt23@latest&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ clt23&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;CLT is a nice event to learn and connect with people from the open source community.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Decentralized Storage Summit Berlin</title>
       <link>https://golangleipzig.space/posts/decentralized-storage-summit-berlin/</link>
       <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/decentralized-storage-summit-berlin/</guid>
-      <description>In Meetup #4 we learned about a Go project using the Lightning Network. Many more projects in the Cryptocurrenty space use Go, such filecoin, subprojects from sia and many more.
-If you are excited about these technologies, why not attend the Decentralized Storage Summit at TU Berlin on Friday, August 23, 2019?
-Here&amp;rsquo;s a link to a discount code to get in for free:
-https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2 Enjoy.</description>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://golangleipzig.space/posts/meetup-4-wrapup/&#34;&gt;Meetup #4&lt;/a&gt; we learned&#xA;about a Go project using the Lightning Network. Many more projects in the&#xA;Cryptocurrenty space use Go, such&#xA;&lt;a href=&#34;https://github.com/filecoin-project/go-filecoin&#34;&gt;filecoin&lt;/a&gt;, &lt;a href=&#34;https://gitlab.com/NebulousLabs&#34;&gt;subprojects from&#xA;sia&lt;/a&gt; and many more.&lt;/p&gt;&#xA;&lt;p&gt;If you are excited about these technologies, why not attend the&#xA;Decentralized Storage Summit at TU Berlin on Friday, August 23, 2019?&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a link to a discount code to get in for free:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2&#34;&gt;https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>italy on Leipzig Gophers</title>
+    <title>Italy on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/italy/</link>
-    <description>Recent content in italy on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Italy on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2025 11:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jul 2025 11:30:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/italy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoLab 2025</title>
       <link>https://golangleipzig.space/posts/golab-2025/</link>
       <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/golab-2025/</guid>
-      <description>GoLab 2025 Since 2015, Develer has been organizing one of the best Go conferences on the continent: GoLab - bringing together the international and Italian Go developer community in the beautiful city of Florence. Happy 10th birthday, GoLab!
-This year, GoLab will take place Oct 5-7, 2025!
-Thoughtfulness in environmental stewardship and social responsibility continues with GoLab 2025 through their GoLab for the Planet initiative.
-The conference offers a variety of topics and formats:</description>
+      <description>&lt;h2 id=&#34;golab-2025&#34;&gt;GoLab 2025&lt;/h2&gt;&#xA;&lt;p&gt;Since 2015, &lt;a href=&#34;https://www.develer.com&#34;&gt;Develer&lt;/a&gt; has been &lt;a href=&#34;https://golab.io/about-us&#34;&gt;organizing&lt;/a&gt; one of the&#xA;best Go conferences on the continent: &lt;a href=&#34;https://golab.io/&#34;&gt;GoLab&lt;/a&gt; - bringing&#xA;together the international and Italian Go developer community in the beautiful&#xA;city of &lt;a href=&#34;https://en.wikipedia.org/wiki/Florence&#34;&gt;Florence&lt;/a&gt;. Happy 10th birthday, GoLab!&lt;/p&gt;&#xA;&lt;p&gt;This year, GoLab will take place &lt;a href=&#34;https://golab.io/&#34;&gt;Oct 5-7, 2025&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Thoughtfulness in environmental stewardship and social responsibility continues&#xA;with GoLab 2025 through their &lt;a href=&#34;https://golab.io/golab-for-the-planet&#34;&gt;GoLab for the&#xA;Planet&lt;/a&gt; initiative.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golab.io/golab-for-the-planet&#34;&gt;&lt;img src=&#34;https://golangleipzig.space/golab-2025/golab-planet2025.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The conference offers a variety of topics and formats:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In-depth Workshops: Hands-on learning experiences for practical skill development.&lt;/li&gt;&#xA;&lt;li&gt;Technical Talks: Presentations on the latest advancements, best practices, and challenges in Go development.&lt;/li&gt;&#xA;&lt;li&gt;Lightning Talks: Quick, insightful interventions that spark new ideas and discussions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://golab.io/schedule&#34;&gt;GoLab 2025 schedule&lt;/a&gt; for more details.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GOLAB 2024</title>
       <link>https://golangleipzig.space/posts/golab-2024/</link>
       <pubDate>Wed, 15 May 2024 11:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/golab-2024/</guid>
-      <description>GOLAB 2024 GOLAB, The International Conference on Go is a wonderful event that brings together developers from Europe and beyond in Florence, Italy since 2015 and which will take place 2024-11-11 to 2024-11-13 this year, featuring a discovery and deep dive track as well as workshops on introductory and advanced topics. Find out more:
-Conference homepage: golab.io GOLAB on Twitter GOLAB YouTube Channel, recordings from previous years We partnered with GOLAB and are excited to share discount codes for tickets 🎟️ — just drop by our next event!</description>
+      <description>&lt;h2 id=&#34;golab-2024&#34;&gt;GOLAB 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golab.io/&#34;&gt;GOLAB&lt;/a&gt;, &lt;em&gt;The International Conference on Go&lt;/em&gt; is a wonderful&#xA;event that brings together developers from Europe and beyond in &lt;a href=&#34;https://en.wikipedia.org/wiki/Florence&#34;&gt;Florence&lt;/a&gt;, Italy&#xA;since 2015 and which will take place 2024-11-11 to 2024-11-13 this year,&#xA;featuring a discovery and deep dive track as well as workshops on introductory&#xA;and advanced topics. Find out more:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conference homepage: &lt;a href=&#34;https://golab.io&#34;&gt;golab.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GOLAB on &lt;a href=&#34;https://twitter.com/golab_conf&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@golabconference9448&#34;&gt;GOLAB YouTube Channel&lt;/a&gt;, recordings from previous years&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We partnered with GOLAB and are excited to share discount codes for tickets 🎟️&#xA;— just drop by our &lt;a href=&#34;https://www.meetup.com/leipzig-golang/events/298066360/&#34;&gt;next&#xA;event&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

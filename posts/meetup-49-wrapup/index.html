@@ -65,8 +65,8 @@ introduction to memory management with Go by <a href="https://www.linkedin.com/i
 a few SO questions <a href="https://stackoverflow.com/questions/tagged/go%2bgarbage-collection?tab=Votes">tagged with Go and
 GC</a></p>
 <p>A tool for visualizing is <a href="https://github.com/dominikh/go-tools/tree/master/cmd/structlayout">structlayout</a>.</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>$ go install honnef.co/go/tools/cmd/structlayout@latest
-</span></span><span style="display:flex;"><span>$ go install github.com/ajstarks/svgo/structlayout-svg@latest
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-gdscript3" data-lang="gdscript3"><span style="display:flex;"><span><span style="color:#0550ae">$</span> go install honnef<span style="color:#0550ae">.</span>co<span style="color:#0550ae">/</span>go<span style="color:#0550ae">/</span>tools<span style="color:#0550ae">/</span>cmd<span style="color:#0550ae">/</span>structlayout<span style="color:#f6f8fa;background-color:#82071e">@</span>latest
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">$</span> go install github<span style="color:#0550ae">.</span>com<span style="color:#0550ae">/</span>ajstarks<span style="color:#0550ae">/</span>svgo<span style="color:#0550ae">/</span>structlayout<span style="color:#0550ae">-</span>svg<span style="color:#f6f8fa;background-color:#82071e">@</span>latest
 </span></span></code></pre></div><p>You can then generate struct layout diagrams.</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>$ structlayout -json runtime slice | structlayout-svg -t &#34;runtime.slice&#34; &gt; /tmp/struct.svg
 </span></span><span style="display:flex;"><span>$ structlayout -json bufio Reader | structlayout-svg -t &#34;bufio.Reader&#34; &gt; /tmp/struct.svg

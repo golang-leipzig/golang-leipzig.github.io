@@ -4,19 +4,16 @@
     <title>2022 on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/2022/</link>
     <description>Recent content in 2022 on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 16:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 16:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022</title>
       <link>https://golangleipzig.space/posts/2022/</link>
       <pubDate>Sat, 31 Dec 2022 16:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/2022/</guid>
-      <description>From an email exchange in November 2009 (a few weeks after the first presentation on Go):
-It seems to me that these functions [append, copy] are not useful if we figure out a way to implement generics. Not necessarily a strong argument against them, I suppose, but do we want to introduce new builtin functions if we may not need them?
-About 4500 days and many proposals later, Go 1.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://golangleipzig.space/images/DALL%C2%B7E_2022-12-31_16.39.07_-_the_bigger_the_interface_the_weaker_the_abstraction_expressionist_painting_30.png&#34; alt=&#34;the bigger the interface the weaker the abstraction expressionist painting&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From an &lt;a href=&#34;https://www.airs.com/blog/archives/559&#34;&gt;email exchange&lt;/a&gt; in November 2009 (a few weeks after the &lt;a href=&#34;https://www.youtube.com/watch?v=rKnDgT73v8s&#34;&gt;first presentation on Go&lt;/a&gt;):&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It seems to me that these functions [&lt;a href=&#34;https://go.dev/ref/spec#Appending_and_copying_slices&#34;&gt;append, copy&lt;/a&gt;] are not useful if we figure out a way to&#xA;implement &lt;strong&gt;generics&lt;/strong&gt;. Not necessarily a strong argument against them, I&#xA;suppose, but do we want to introduce new builtin functions if we may not need&#xA;them?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;About 4500 days and many proposals later, &lt;a href=&#34;https://go.dev/blog/go1.18&#34;&gt;Go 1.18&lt;/a&gt; is released, including support for &lt;a href=&#34;https://go.dev/ref/spec#Type_parameter_declarations&#34;&gt;parameterized types&lt;/a&gt;:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

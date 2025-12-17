@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2025 on Leipzig Gophers</title>
+    <link>https://golangleipzig.space/tags/2025/</link>
+    <description>Recent content in 2025 on Leipzig Gophers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025</title>
+      <link>https://golangleipzig.space/posts/2025/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>https://golangleipzig.space/posts/2025/</guid>
+      <description>&lt;h2 id=&#34;2025-is-a-wrap&#34;&gt;2025 is a wrap&lt;/h2&gt;&#xA;&lt;p&gt;In 2025, a software term again made it to the word of the year in Collins&#xA;Dictionary, &lt;a href=&#34;https://en.wikipedia.org/wiki/Word_of_the_year#Collins_English_Dictionary&#34;&gt;vibecoding&lt;/a&gt;&#xA;(after &amp;ldquo;permacrisis&amp;rdquo; and &amp;ldquo;AI&amp;rdquo; in previous years) and probably more code has been&#xA;generated (without a &amp;ldquo;&lt;a href=&#34;https://golang.org/s/generatedcode&#34;&gt;DO NOT EDIT&lt;/a&gt;&amp;rdquo;) this year than anytime before.&lt;/p&gt;&#xA;&lt;p&gt;So much indeed, that we have a new term around this phenomenon as well: &lt;a href=&#34;https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/&#34;&gt;comprehension debt&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Notably, we identified “comprehension debt” as a novel form of technical&#xA;debt: AI helped us build more sophisticated systems than our skill level&#xA;could independently create, but our insufficient expertise made those systems&#xA;difficult to maintain or modify. This paradox—possessing working systems we&#xA;incompletely understood, created fragility and AI dependency distinct from&#xA;traditional code quality debt. &amp;ndash; &lt;a href=&#34;https://www.arxiv.org/pdf/2512.08942&#34;&gt;2512.08942&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

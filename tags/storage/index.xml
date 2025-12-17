@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>storage on Leipzig Gophers</title>
+    <title>Storage on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/storage/</link>
-    <description>Recent content in storage on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Storage on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:12:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2019 00:12:00 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decentralized Storage Summit Berlin</title>
       <link>https://golangleipzig.space/posts/decentralized-storage-summit-berlin/</link>
       <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/decentralized-storage-summit-berlin/</guid>
-      <description>In Meetup #4 we learned about a Go project using the Lightning Network. Many more projects in the Cryptocurrenty space use Go, such filecoin, subprojects from sia and many more.
-If you are excited about these technologies, why not attend the Decentralized Storage Summit at TU Berlin on Friday, August 23, 2019?
-Here&amp;rsquo;s a link to a discount code to get in for free:
-https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2 Enjoy.</description>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://golangleipzig.space/posts/meetup-4-wrapup/&#34;&gt;Meetup #4&lt;/a&gt; we learned&#xA;about a Go project using the Lightning Network. Many more projects in the&#xA;Cryptocurrenty space use Go, such&#xA;&lt;a href=&#34;https://github.com/filecoin-project/go-filecoin&#34;&gt;filecoin&lt;/a&gt;, &lt;a href=&#34;https://gitlab.com/NebulousLabs&#34;&gt;subprojects from&#xA;sia&lt;/a&gt; and many more.&lt;/p&gt;&#xA;&lt;p&gt;If you are excited about these technologies, why not attend the&#xA;Decentralized Storage Summit at TU Berlin on Friday, August 23, 2019?&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a link to a discount code to get in for free:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2&#34;&gt;https://www.eventbrite.com/e/decentralised-storage-summit-tickets-62719912948?discount=DC2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

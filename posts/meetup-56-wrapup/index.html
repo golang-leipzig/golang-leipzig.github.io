@@ -93,54 +93,54 @@ ADA</a>
 and an <a href="https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html">AMD AI MAX+ 395 with an
 8060S</a> (via <a href="https://frame.work/de/en/desktop">FWD</a>).</p>
 <table>
-<thead>
-<tr>
-<th>Spec</th>
-<th>AMD Radeon 8060S</th>
-<th>NVIDIA RTX 4000 SFF Ada</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>FP16 (theoretical)</td>
-<td>59.4 TFLOPS</td>
-<td>~19.2 TFLOPS</td>
-</tr>
-<tr>
-<td>Memory Bandwidth</td>
-<td>~212 GB/s (DDR5-8000)</td>
-<td>280 GB/s (GDDR6)</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Spec</th>
+          <th>AMD Radeon 8060S</th>
+          <th>NVIDIA RTX 4000 SFF Ada</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>FP16 (theoretical)</td>
+          <td>59.4 TFLOPS</td>
+          <td>~19.2 TFLOPS</td>
+      </tr>
+      <tr>
+          <td>Memory Bandwidth</td>
+          <td>~212 GB/s (DDR5-8000)</td>
+          <td>280 GB/s (GDDR6)</td>
+      </tr>
+  </tbody>
 </table>
 <p>However, <em>prefill</em> is a bit faster on the nvidia card:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>$ time OLLAMA_MODEL=qwen3:14b OLLAMA_HOST=http://ada:11434 ./one -m &#34;how warm is it in leipzig?&#34;
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:17 user: how warm is it in leipzig?               ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:17 context length: 4974                           ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:23 assistant wants to call 1 tool(s)              ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:23 calling tool: get_weather                      ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:23 args: {&#34;city&#34;:&#34;Leipzig&#34;}                       ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:23     Result: {&#34;city&#34;: &#34;Leipzig&#34;, &#34;temperature&#34;: ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:23 context length: 5227                           ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:30 assistant: The current temperature in Leipzig i...
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-gdscript3" data-lang="gdscript3"><span style="display:flex;"><span><span style="color:#0550ae">$</span> time OLLAMA_MODEL<span style="color:#0550ae">=</span>qwen3<span style="color:#1f2328">:</span><span style="color:#0550ae">14</span>b OLLAMA_HOST<span style="color:#0550ae">=</span>http<span style="color:#1f2328">:</span><span style="color:#0550ae">//</span>ada<span style="color:#1f2328">:</span><span style="color:#0550ae">11434</span> <span style="color:#0550ae">./</span>one <span style="color:#0550ae">-</span>m <span style="color:#0a3069">&#34;how warm is it in leipzig?&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">17</span> user<span style="color:#1f2328">:</span> how warm is it <span style="color:#0550ae">in</span> leipzig<span style="color:#f6f8fa;background-color:#82071e">?</span>               <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">17</span> context length<span style="color:#1f2328">:</span> <span style="color:#0550ae">4974</span>                           <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">23</span> assistant wants to call <span style="color:#0550ae">1</span> <span style="color:#cf222e">tool</span><span style="color:#1f2328">(</span>s<span style="color:#1f2328">)</span>              <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">23</span> calling <span style="color:#cf222e">tool</span><span style="color:#1f2328">:</span> get_weather                      <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">23</span> args<span style="color:#1f2328">:</span> <span style="color:#1f2328">{</span><span style="color:#0a3069">&#34;city&#34;</span><span style="color:#1f2328">:</span><span style="color:#0a3069">&#34;Leipzig&#34;</span><span style="color:#1f2328">}</span>                       <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">23</span>     Result<span style="color:#1f2328">:</span> <span style="color:#1f2328">{</span><span style="color:#0a3069">&#34;city&#34;</span><span style="color:#1f2328">:</span> <span style="color:#0a3069">&#34;Leipzig&#34;</span><span style="color:#1f2328">,</span> <span style="color:#0a3069">&#34;temperature&#34;</span><span style="color:#1f2328">:</span> <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">23</span> context length<span style="color:#1f2328">:</span> <span style="color:#0550ae">5227</span>                           <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">30</span> assistant<span style="color:#1f2328">:</span> The current temperature <span style="color:#0550ae">in</span> Leipzig i<span style="color:#0550ae">...</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>real    0m13.423s
-</span></span><span style="display:flex;"><span>user    0m0.001s
-</span></span><span style="display:flex;"><span>sys     0m0.013s
+</span></span><span style="display:flex;"><span>real    <span style="color:#0550ae">0</span>m13<span style="color:#0550ae">.</span><span style="color:#0550ae">423</span>s
+</span></span><span style="display:flex;"><span>user    <span style="color:#0550ae">0</span>m0<span style="color:#0550ae">.</span><span style="color:#0550ae">001</span>s
+</span></span><span style="display:flex;"><span>sys     <span style="color:#0550ae">0</span>m0<span style="color:#0550ae">.</span><span style="color:#0550ae">013</span>s
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>$ time OLLAMA_MODEL=qwen3:14b OLLAMA_HOST=http://strix:11434 ./one -m &#34;how warm is it in leipzig?&#34;
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:34 user: how warm is it in leipzig?             ...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:34 context length: 4974
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:41 assistant wants to call 1 tool(s)
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:41 calling tool: get_weather
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:41 args: {&#34;city&#34;:&#34;Leipzig&#34;}
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:41     Result: {&#34;city&#34;: &#34;Leipzig&#34;, &#34;temperature&#34;...
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:41 context length: 5227
-</span></span><span style="display:flex;"><span>2025/11/26 09:57:50 assistant: The current temperature in Leipzig...
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">$</span> time OLLAMA_MODEL<span style="color:#0550ae">=</span>qwen3<span style="color:#1f2328">:</span><span style="color:#0550ae">14</span>b OLLAMA_HOST<span style="color:#0550ae">=</span>http<span style="color:#1f2328">:</span><span style="color:#0550ae">//</span>strix<span style="color:#1f2328">:</span><span style="color:#0550ae">11434</span> <span style="color:#0550ae">./</span>one <span style="color:#0550ae">-</span>m <span style="color:#0a3069">&#34;how warm is it in leipzig?&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">34</span> user<span style="color:#1f2328">:</span> how warm is it <span style="color:#0550ae">in</span> leipzig<span style="color:#f6f8fa;background-color:#82071e">?</span>             <span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">34</span> context length<span style="color:#1f2328">:</span> <span style="color:#0550ae">4974</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">41</span> assistant wants to call <span style="color:#0550ae">1</span> <span style="color:#cf222e">tool</span><span style="color:#1f2328">(</span>s<span style="color:#1f2328">)</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">41</span> calling <span style="color:#cf222e">tool</span><span style="color:#1f2328">:</span> get_weather
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">41</span> args<span style="color:#1f2328">:</span> <span style="color:#1f2328">{</span><span style="color:#0a3069">&#34;city&#34;</span><span style="color:#1f2328">:</span><span style="color:#0a3069">&#34;Leipzig&#34;</span><span style="color:#1f2328">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">41</span>     Result<span style="color:#1f2328">:</span> <span style="color:#1f2328">{</span><span style="color:#0a3069">&#34;city&#34;</span><span style="color:#1f2328">:</span> <span style="color:#0a3069">&#34;Leipzig&#34;</span><span style="color:#1f2328">,</span> <span style="color:#0a3069">&#34;temperature&#34;</span><span style="color:#0550ae">...</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">41</span> context length<span style="color:#1f2328">:</span> <span style="color:#0550ae">5227</span>
+</span></span><span style="display:flex;"><span><span style="color:#0550ae">2025</span><span style="color:#0550ae">/</span><span style="color:#0550ae">11</span><span style="color:#0550ae">/</span><span style="color:#0550ae">26</span> <span style="color:#0550ae">09</span><span style="color:#1f2328">:</span><span style="color:#0550ae">57</span><span style="color:#1f2328">:</span><span style="color:#0550ae">50</span> assistant<span style="color:#1f2328">:</span> The current temperature <span style="color:#0550ae">in</span> Leipzig<span style="color:#0550ae">...</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>real    0m15.826s
-</span></span><span style="display:flex;"><span>user    0m0.007s
-</span></span><span style="display:flex;"><span>sys     0m0.007s
+</span></span><span style="display:flex;"><span>real    <span style="color:#0550ae">0</span>m15<span style="color:#0550ae">.</span><span style="color:#0550ae">826</span>s
+</span></span><span style="display:flex;"><span>user    <span style="color:#0550ae">0</span>m0<span style="color:#0550ae">.</span><span style="color:#0550ae">007</span>s
+</span></span><span style="display:flex;"><span>sys     <span style="color:#0550ae">0</span>m0<span style="color:#0550ae">.</span><span style="color:#0550ae">007</span>s
 </span></span></code></pre></div><p>Still, the interplay is interesting to observe. Requests like <em>&ldquo;save the
 temperature in leipzig to temp.txt&rdquo;</em> or <em>&ldquo;fetch
 <a href="https://golangleipzig.space/leipzig-gopher.png">https://golangleipzig.space/leipzig-gopher.png</a>

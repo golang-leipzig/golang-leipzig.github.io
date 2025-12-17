@@ -4,278 +4,226 @@
     <title>Tags on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/</link>
     <description>Recent content in Tags on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 01:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>announcement</title>
-      <link>https://golangleipzig.space/tags/announcement/</link>
-      <pubDate>Mon, 01 Dec 2025 01:00:00 +0200</pubDate>
-      
-      <guid>https://golangleipzig.space/tags/announcement/</guid>
+      <title>2025</title>
+      <link>https://golangleipzig.space/tags/2025/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0100</pubDate>
+      <guid>https://golangleipzig.space/tags/2025/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>meetup</title>
+      <title>Meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Mon, 01 Dec 2025 01:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 26 Nov 2025 00:30:00 +0100</pubDate>
       <guid>https://golangleipzig.space/tags/meetup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>summary</title>
+      <title>Summary</title>
       <link>https://golangleipzig.space/tags/summary/</link>
       <pubDate>Wed, 26 Nov 2025 00:30:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/summary/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>conference</title>
+      <title>Conference</title>
       <link>https://golangleipzig.space/tags/conference/</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/conference/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>demo</title>
+      <title>Demo</title>
       <link>https://golangleipzig.space/tags/demo/</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/demo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ai</title>
+      <title>Announcement</title>
+      <link>https://golangleipzig.space/tags/announcement/</link>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
       <link>https://golangleipzig.space/tags/ai/</link>
       <pubDate>Tue, 07 Oct 2025 22:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>italy</title>
+      <title>Italy</title>
       <link>https://golangleipzig.space/tags/italy/</link>
       <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/italy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2024</title>
       <link>https://golangleipzig.space/tags/2024/</link>
       <pubDate>Tue, 31 Dec 2024 22:00:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/2024/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>invitation</title>
+      <title>Invitation</title>
       <link>https://golangleipzig.space/tags/invitation/</link>
       <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/invitation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lunch</title>
+      <title>Lunch</title>
       <link>https://golangleipzig.space/tags/lunch/</link>
       <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/lunch/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tech</title>
+      <title>Tech</title>
       <link>https://golangleipzig.space/tags/tech/</link>
       <pubDate>Wed, 24 Jul 2024 00:20:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/tech/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>go</title>
+      <title>Go</title>
       <link>https://golangleipzig.space/tags/go/</link>
       <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>performance</title>
+      <title>Performance</title>
       <link>https://golangleipzig.space/tags/performance/</link>
       <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/performance/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>xml</title>
+      <title>Xml</title>
       <link>https://golangleipzig.space/tags/xml/</link>
       <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/xml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2023</title>
       <link>https://golangleipzig.space/tags/2023/</link>
       <pubDate>Thu, 21 Dec 2023 02:00:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/2023/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>unconference</title>
+      <title>Unconference</title>
       <link>https://golangleipzig.space/tags/unconference/</link>
       <pubDate>Fri, 06 Oct 2023 00:20:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/unconference/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dataset</title>
+      <title>Dataset</title>
       <link>https://golangleipzig.space/tags/dataset/</link>
       <pubDate>Tue, 16 May 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/dataset/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>llm</title>
+      <title>Llm</title>
       <link>https://golangleipzig.space/tags/llm/</link>
       <pubDate>Tue, 16 May 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/llm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>admin</title>
+      <title>Admin</title>
       <link>https://golangleipzig.space/tags/admin/</link>
       <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/admin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>proposal</title>
+      <title>Proposal</title>
       <link>https://golangleipzig.space/tags/proposal/</link>
       <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/proposal/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>talk</title>
+      <title>Talk</title>
       <link>https://golangleipzig.space/tags/talk/</link>
       <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/talk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2022</title>
       <link>https://golangleipzig.space/tags/2022/</link>
       <pubDate>Sat, 31 Dec 2022 16:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2021</title>
       <link>https://golangleipzig.space/tags/2021/</link>
       <pubDate>Wed, 29 Dec 2021 22:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/2021/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hackathon</title>
+      <title>Hackathon</title>
       <link>https://golangleipzig.space/tags/hackathon/</link>
       <pubDate>Tue, 02 Nov 2021 14:00:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/hackathon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2020</title>
       <link>https://golangleipzig.space/tags/2020/</link>
       <pubDate>Tue, 31 Dec 2019 13:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/2020/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>meta</title>
+      <title>Meta</title>
       <link>https://golangleipzig.space/tags/meta/</link>
       <pubDate>Mon, 16 Sep 2019 21:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/meta/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>storage</title>
+      <title>Storage</title>
       <link>https://golangleipzig.space/tags/storage/</link>
       <pubDate>Mon, 29 Jul 2019 00:12:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/storage/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>workshop</title>
+      <title>Workshop</title>
       <link>https://golangleipzig.space/tags/workshop/</link>
       <pubDate>Mon, 22 Apr 2019 09:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/tags/workshop/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cfi</title>
+      <title>Cfi</title>
       <link>https://golangleipzig.space/tags/cfi/</link>
       <pubDate>Mon, 18 Feb 2019 17:00:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/cfi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>news</title>
+      <title>News</title>
       <link>https://golangleipzig.space/tags/news/</link>
       <pubDate>Wed, 23 Jan 2019 00:10:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/tags/news/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

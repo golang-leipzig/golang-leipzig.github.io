@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ai on Leipzig Gophers</title>
+    <title>Ai on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/ai/</link>
-    <description>Recent content in ai on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ai on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 22:30:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 22:30:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drinkup #54 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-54-wrapup/</link>
       <pubDate>Tue, 07 Oct 2025 22:30:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/meetup-54-wrapup/</guid>
-      <description>Drinkup #54 took place on 2025-09-30 at Cantona Leipzig.
-Above screencast showing open source crush coding agent (written in Go) using qwen3-coder:30b &amp;ndash; agentic coding in the world &amp;ndash; via ollama (written in Go, wrapping llama.cpp and ggml). Estimated energy cost for the one interaction in the video: EUR 0.0005.
-Join our meetup to get notified of upcoming events.</description>
+      <description>&lt;p&gt;Drinkup #54 took place on&#xA;&lt;a href=&#34;https://www.meetup.com/de-DE/leipzig-golang/events/305626262/&#34;&gt;2025-09-30&lt;/a&gt; at&#xA;&lt;a href=&#34;https://www.google.com/search?q=cafe+cantona+leipzig&#34;&gt;Cantona&lt;/a&gt; Leipzig.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golangleipzig.space/images/2025-10-09-crush-hello.webm&#34;&gt;&lt;img src=&#34;https://golangleipzig.space/images/2025-10-09-crush-hello.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Above screencast showing open source &lt;a href=&#34;https://github.com/charmbracelet/crush&#34;&gt;crush coding&#xA;agent&lt;/a&gt; (written in Go) using&#xA;&lt;a href=&#34;https://ollama.com/library/qwen3-coder:30b&#34;&gt;qwen3-coder:30b&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://github.com/QwenLM/Qwen3-Coder&#34;&gt;agentic&#xA;coding in the world&lt;/a&gt; &amp;ndash; via&#xA;&lt;a href=&#34;https://github.com/ollama/ollama/&#34;&gt;ollama&lt;/a&gt; (written in Go, wrapping&#xA;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34;&gt;llama.cpp&lt;/a&gt; and&#xA;&lt;a href=&#34;https://github.com/ggml-org/ggml&#34;&gt;ggml&lt;/a&gt;). Estimated energy cost for the&#xA;one interaction in the video: EUR 0.0005.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/de-DE/leipzig-golang/&#34;&gt;Join our meetup&lt;/a&gt; to get notified of upcoming events.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>In The Stack</title>
       <link>https://golangleipzig.space/posts/bigcode-in-the-stack/</link>
       <pubDate>Tue, 16 May 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/bigcode-in-the-stack/</guid>
-      <description>In The Stack The AI space develops fast, with one cornerstone being the availability of open datasets for model development and training. Code from golang-leipzig is part of The Stack (20 Nov 2022):
-a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
-Five of our repositories are included in the 25.74 GB of source code (spread across 4,730,461 files) written in Go included in this dataset.</description>
+      <description>&lt;h2 id=&#34;in-the-stack&#34;&gt;In The Stack&lt;/h2&gt;&#xA;&lt;p&gt;The AI space develops fast, with one cornerstone being the availability of open&#xA;datasets for model development and training. Code from&#xA;&lt;a href=&#34;https://github.com/golang-leipzig&#34;&gt;golang-leipzig&lt;/a&gt; is part of &lt;a href=&#34;https://www.bigcode-project.org/docs/about/the-stack/&#34;&gt;The&#xA;Stack&lt;/a&gt; (&lt;a href=&#34;https://arxiv.org/abs/2211.15533&#34;&gt;20 Nov&#xA;2022&lt;/a&gt;):&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;a 6.4 TB dataset of permissively licensed source code in 358 programming&#xA;languages.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Five of our repositories are included in the &lt;a href=&#34;https://arxiv.org/pdf/2305.06161.pdf#page=7&#34;&gt;25.74 GB of source code&lt;/a&gt; (spread across&#xA;4,730,461 files) written in Go included in this dataset.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://golangleipzig.space/images/sidewalk.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Transparency is a key factor in the development of datasets and derived models.&#xA;To check, whether your code is included, visit: &lt;a href=&#34;https://huggingface.co/spaces/bigcode/in-the-stack&#34;&gt;Am I in The Stack?&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

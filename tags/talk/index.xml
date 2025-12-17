@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>talk on Leipzig Gophers</title>
+    <title>Talk on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/talk/</link>
-    <description>Recent content in talk on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Talk on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talk Proposals</title>
       <link>https://golangleipzig.space/proposals/</link>
       <pubDate>Mon, 02 Jan 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/proposals/</guid>
-      <description>Talk Proposals Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.
-As for topics, we are interested in anything related to the Go programming language, including its uses, e.g. in the cloud and infrastructure domain, side projects, experiences from real world applications, and other topics. In the past, we had presentations on a wide range of topics, from language features, concurrency, networking, container technology, machine learning, tools, testing, security, databases, and much more.</description>
+      <description>&lt;h2 id=&#34;talk-proposals&#34;&gt;Talk Proposals&lt;/h2&gt;&#xA;&lt;p&gt;Thanks for your interest in giving a presentation at Leipzig Gophers, we appreciate your input.&lt;/p&gt;&#xA;&lt;p&gt;As for topics, we are interested in anything related to the Go programming&#xA;language, including its uses, e.g. in the cloud and infrastructure domain, side&#xA;projects, experiences from real world applications, and other topics. In the&#xA;&lt;a href=&#34;https://golangleipzig.space/tags/summary/&#34;&gt;past&lt;/a&gt;, we had presentations on a&#xA;wide range of topics, from language features, concurrency, networking,&#xA;container technology, machine learning, tools, testing, security, databases,&#xA;and much more.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>State of Go at Leipzig Software Craft June 2022 Meetup</title>
       <link>https://golangleipzig.space/posts/software-craft-state-of-go-2022/</link>
       <pubDate>Fri, 10 Jun 2022 00:12:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/software-craft-state-of-go-2022/</guid>
-      <description>We will be talking about the State of Go in 2022 at the classic and incredible Leipzig Software Craft Meetup (née Softwerkskammer) in June 2022.
-Go is 12 years old at this point in time. The last years brought quite a few changes into the Go ecosystem and language and we want to highlight some of those, specifically:
-Generics Go Modules and dependency management Ecosystem developments and more … Who, when and where?</description>
+      <description>&lt;p&gt;We will be talking about the &lt;a href=&#34;https://www.meetup.com/le-software-craft-community/events/286403431/&#34;&gt;State of Go in&#xA;2022&lt;/a&gt; at&#xA;the classic and incredible &lt;a href=&#34;https://www.meetup.com/de-DE/LE-software-craft-community/&#34;&gt;Leipzig Software Craft&#xA;Meetup&lt;/a&gt; (née&#xA;Softwerkskammer) in June 2022.&lt;/p&gt;&#xA;&lt;p&gt;Go is &lt;a href=&#34;https://go.dev/blog/12years&#34;&gt;12 years&lt;/a&gt; old at this point in time. The&#xA;last years brought quite a few changes into the Go ecosystem and language and&#xA;we want to highlight some of those, specifically:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generics&lt;/li&gt;&#xA;&lt;li&gt;Go Modules and dependency management&lt;/li&gt;&#xA;&lt;li&gt;Ecosystem developments and more …&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Who, when and where?&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

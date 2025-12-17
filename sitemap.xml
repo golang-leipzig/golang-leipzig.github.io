@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://golangleipzig.space/tags/announcement/</loc>
-    <lastmod>2025-12-01T01:00:00+02:00</lastmod>
+    <loc>https://golangleipzig.space/posts/2025/</loc>
+    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://golangleipzig.space/tags/2025/</loc>
+    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/</loc>
-    <lastmod>2025-12-01T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://golangleipzig.space/tags/meetup/</loc>
-    <lastmod>2025-12-01T01:00:00+02:00</lastmod>
+    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/</loc>
-    <lastmod>2025-12-01T01:00:00+02:00</lastmod>
+    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/tags/</loc>
-    <lastmod>2025-12-01T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://golangleipzig.space/posts/meetup-57-invitation/</loc>
-    <lastmod>2025-12-01T01:00:00+02:00</lastmod>
+    <lastmod>2025-12-17T10:00:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/meetup-56-wrapup/</loc>
+    <lastmod>2025-11-26T00:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://golangleipzig.space/tags/meetup/</loc>
     <lastmod>2025-11-26T00:30:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/tags/summary/</loc>
@@ -34,6 +34,9 @@
   </url><url>
     <loc>https://golangleipzig.space/posts/kith25/</loc>
     <lastmod>2025-11-20T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://golangleipzig.space/tags/announcement/</loc>
+    <lastmod>2025-11-18T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/meetup-56-invitation/</loc>
     <lastmod>2025-11-18T12:00:00+02:00</lastmod>
@@ -95,10 +98,10 @@
     <loc>https://golangleipzig.space/posts/meetup-48-invitation/</loc>
     <lastmod>2025-02-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/tags/2024/</loc>
+    <loc>https://golangleipzig.space/posts/2024/</loc>
     <lastmod>2024-12-31T22:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/posts/2024/</loc>
+    <loc>https://golangleipzig.space/tags/2024/</loc>
     <lastmod>2024-12-31T22:00:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/meetup-47-wrapup/</loc>
@@ -176,10 +179,10 @@
     <loc>https://golangleipzig.space/posts/meetup-40-invitation/</loc>
     <lastmod>2024-01-11T15:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/tags/2023/</loc>
+    <loc>https://golangleipzig.space/posts/2023/</loc>
     <lastmod>2023-12-21T02:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/posts/2023/</loc>
+    <loc>https://golangleipzig.space/tags/2023/</loc>
     <lastmod>2023-12-21T02:00:00+01:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/meetup-39-wrapup/</loc>
@@ -248,10 +251,10 @@
     <loc>https://golangleipzig.space/proposals/</loc>
     <lastmod>2023-01-02T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/tags/2022/</loc>
+    <loc>https://golangleipzig.space/posts/2022/</loc>
     <lastmod>2022-12-31T16:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/posts/2022/</loc>
+    <loc>https://golangleipzig.space/tags/2022/</loc>
     <lastmod>2022-12-31T16:00:00+02:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/meetup-33-wrapup/</loc>
@@ -311,10 +314,10 @@
     <loc>https://golangleipzig.space/posts/meetup-25-invitation/</loc>
     <lastmod>2022-02-15T13:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/tags/2021/</loc>
+    <loc>https://golangleipzig.space/posts/2021/</loc>
     <lastmod>2021-12-29T22:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://golangleipzig.space/posts/2021/</loc>
+    <loc>https://golangleipzig.space/tags/2021/</loc>
     <lastmod>2021-12-29T22:00:00+02:00</lastmod>
   </url><url>
     <loc>https://golangleipzig.space/posts/meetup-24-wrapup/</loc>

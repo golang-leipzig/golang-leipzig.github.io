@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cfi on Leipzig Gophers</title>
+    <title>Cfi on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/cfi/</link>
-    <description>Recent content in cfi on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cfi on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Feb 2019 17:00:00 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/cfi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Feb 2019 17:00:00 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/cfi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second meetup: Call for Input</title>
       <link>https://golangleipzig.space/posts/second-meetup-call-for-input/</link>
       <pubDate>Mon, 18 Feb 2019 17:00:00 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/second-meetup-call-for-input/</guid>
-      <description>The second meetup is scheduled for Friday, March 15, 2019, again 19:00 CET at Basislager. Do you have an idea for a presentation, lightning talk, code review or any other activity? Let us know until March, 1 2019 by filling out this form:
-https://goo.gl/forms/btBm0tInUp25XdUi2 You can also send us ideas by email!
-For some inspiration, there is a list of topics, we discussed at the first meetup.
-See you there!</description>
+      <description>&lt;p&gt;The second meetup is scheduled for Friday, &lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/events/259045114/&#34;&gt;March 15,&#xA;2019&lt;/a&gt;, again&#xA;19:00 CET at &lt;a href=&#34;https://www.basislager.co/&#34;&gt;Basislager&lt;/a&gt;. Do you have an idea for&#xA;a presentation, lightning talk, code review or any other activity? Let us know&#xA;until March, 1 2019 by filling out this form:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://goo.gl/forms/btBm0tInUp25XdUi2&#34;&gt;https://goo.gl/forms/btBm0tInUp25XdUi2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You can also send us ideas by &lt;a href=&#34;mailto:martin.czygan@gmail.com&#34;&gt;email&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;For some inspiration, there is a &lt;a href=&#34;https://golangleipzig.space/posts/meetup-launched/&#34;&gt;list of&#xA;topics&lt;/a&gt;, we discussed at&#xA;the first meetup.&lt;/p&gt;&#xA;&lt;p&gt;See you there!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

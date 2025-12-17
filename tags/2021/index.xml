@@ -4,28 +4,23 @@
     <title>2021 on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/2021/</link>
     <description>Recent content in 2021 on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Dec 2021 22:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 22:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021</title>
       <link>https://golangleipzig.space/posts/2021/</link>
       <pubDate>Wed, 29 Dec 2021 22:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/2021/</guid>
-      <description>Unfortunately, most of the meetups were remote-only again in 2021 - however, on the plus side:
-we started the year with a new Leipzig Gopher mascot - thanks @klingtnet we grew from 194 to 324 members in just eleven months 📈 we had nine events, eight online, one offline (#20) we had presentations from two German startup companies (#22, #23) we started a YouTube channel (thanks @embano1), recorded three great talks (18 subscribers, 330+ views) 📹 we had a first (X-mas 🎄) quiz night (#24) on Go and some Go gotchas and found great sponsors like Jetbrains, O&amp;rsquo;Reilly Media, Manning Publications and About You (jobs) 🎁 we continued to have people joining from around the world, which is incredible 🌐 we had a lovely time hosting the meetup and hope you had that too Thanks everyone for participating, we hope to see you again in 2022!</description>
+      <description>&lt;p&gt;Unfortunately, most of the meetups were remote-only again in 2021 - however, on&#xA;the plus side:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;we started the year with a new Leipzig Gopher mascot - thanks &lt;a href=&#34;https://www.klingt.net/&#34;&gt;@klingtnet&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;we grew from 194 to 324 &lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/&#34;&gt;members&lt;/a&gt; in just eleven months 📈&lt;/li&gt;&#xA;&lt;li&gt;we had nine events, eight online, one offline (&lt;a href=&#34;https://golangleipzig.space/posts/meetup-20-invitation/&#34;&gt;#20&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;we had presentations from two German startup companies (&lt;a href=&#34;https://golangleipzig.space/posts/meetup-22-wrapup/&#34;&gt;#22&lt;/a&gt;, &lt;a href=&#34;https://golangleipzig.space/posts/meetup-23-wrapup/&#34;&gt;#23&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;we started a &lt;a href=&#34;https://www.youtube.com/channel/UCFDzViL6Bo0w2AG23Q0_rZQ&#34;&gt;YouTube channel&lt;/a&gt; (thanks &lt;a href=&#34;https://twitter.com/embano1/&#34;&gt;@embano1&lt;/a&gt;), recorded three great talks (18 subscribers, 330+ views) 📹&lt;/li&gt;&#xA;&lt;li&gt;we had a first (X-mas 🎄) quiz night (&lt;a href=&#34;https://golangleipzig.space/posts/meetup-24-wrapup/&#34;&gt;#24&lt;/a&gt;) on Go and some &lt;a href=&#34;https://github.com/golang-leipzig/gotchas&#34;&gt;Go gotchas&lt;/a&gt; and found great sponsors like &lt;a href=&#34;https://jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt;, &lt;a href=&#34;https://www.oreilly.com/pub/cpc/323592&#34;&gt;O&amp;rsquo;Reilly Media&lt;/a&gt;, &lt;a href=&#34;https://www.manning.com/&#34;&gt;Manning Publications&lt;/a&gt; and &lt;a href=&#34;https://www.aboutyou.com/&#34;&gt;About You&lt;/a&gt; (&lt;a href=&#34;https://corporate.aboutyou.de/en/jobs/senior-golang-developer&#34;&gt;jobs&lt;/a&gt;) 🎁&lt;/li&gt;&#xA;&lt;li&gt;we continued to have people joining from around the world, which is incredible 🌐&lt;/li&gt;&#xA;&lt;li&gt;we had a lovely time hosting the meetup and hope you had that too&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thanks everyone for participating, we hope to &lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/&#34;&gt;see you again&lt;/a&gt; in 2022!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New year, new dates, new logo!</title>
       <link>https://golangleipzig.space/posts/welcome-2021/</link>
       <pubDate>Wed, 20 Jan 2021 22:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/welcome-2021/</guid>
-      <description>Thanks everyone for joining our meetup (we currently have 194 members), connecting, sharing experiences and projects in 2020. A positive side-effect of remote meetups during a pandemic is that people join from all over the world - we were happy to have people tuning in from South America and Asia this year.
-We expect a remote only meetup for the foreseeable future. So far we fixed six dates for 2021, and they will all be on Tuesdays this year.</description>
+      <description>&lt;p&gt;Thanks everyone for joining our&#xA;&lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/&#34;&gt;meetup&lt;/a&gt; (we currently have 194&#xA;members), connecting, sharing experiences and projects in 2020. A positive&#xA;side-effect of remote meetups during a pandemic is that people join from all&#xA;over the world - we were happy to have people tuning in from South America and&#xA;Asia this year.&lt;/p&gt;&#xA;&lt;p&gt;We expect a remote only meetup for the foreseeable future. So far we &lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/events/&#34;&gt;fixed six&#xA;dates for 2021&lt;/a&gt;, and they will&#xA;all be on Tuesdays this year. We might add more dates as we go along.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

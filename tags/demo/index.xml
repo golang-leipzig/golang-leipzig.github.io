@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>demo on Leipzig Gophers</title>
+    <title>Demo on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/demo/</link>
-    <description>Recent content in demo on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Demo on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Nov 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Nov 2025 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KI-Tage Halle 2025</title>
       <link>https://golangleipzig.space/posts/kith25/</link>
       <pubDate>Thu, 20 Nov 2025 12:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/kith25/</guid>
-      <description>KI-Tage Halle 2025 KI-Tage Halle is a two-day event with a broad program around AI in Halle (Saale).
-We wrote a small radio stream capturing script in Go that recorded about 2000 hours of radio in 11/2025 from four different broadcasting stations: MDR Aktuell, DLF, DLF Kultur, DLF Nova.
-We then used canary-v2-1b to transcribe the mostly german audio, grepped the term &amp;ldquo;KI&amp;rdquo; in the sentences and stichted together a mostly static website, where you can glance into radio voices talking about AI:</description>
+      <description>&lt;h2 id=&#34;ki-tage-halle-2025&#34;&gt;KI-Tage Halle 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ki-tage.webwirtschaft.net/&#34;&gt;KI-Tage Halle&lt;/a&gt; is a two-day event with a&#xA;broad program around AI in Halle (Saale).&lt;/p&gt;&#xA;&lt;p&gt;We wrote a small radio stream capturing&#xA;&lt;a href=&#34;https://gist.github.com/miku/55c0c8272a9f847feb9ae845e0e6e47e&#34;&gt;script&lt;/a&gt; in Go&#xA;that recorded about 2000 hours of radio in 11/2025 from four different&#xA;broadcasting stations: &lt;a href=&#34;https://www.mdr.de/&#34;&gt;MDR&lt;/a&gt; Aktuell, &lt;a href=&#34;https://www.deutschlandfunk.de/&#34;&gt;DLF&lt;/a&gt;, DLF Kultur, DLF Nova.&lt;/p&gt;&#xA;&lt;p&gt;We then used &lt;a href=&#34;https://huggingface.co/nvidia/canary-1b-v2&#34;&gt;canary-v2-1b&lt;/a&gt; to&#xA;transcribe the mostly german audio, grepped the term &amp;ldquo;KI&amp;rdquo; in the &lt;a href=&#34;https://github.com/neurosnap/sentences&#34;&gt;sentences&lt;/a&gt; and stichted&#xA;together a mostly static website, where you can glance into radio voices talking about AI:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

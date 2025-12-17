@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xml on Leipzig Gophers</title>
+    <title>Xml on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/xml/</link>
-    <description>Recent content in xml on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Xml on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 12:00:01 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 12:00:01 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/xml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Faster XML processing in Go</title>
       <link>https://golangleipzig.space/posts/faster-go-xml-processing/</link>
       <pubDate>Tue, 26 Mar 2024 12:00:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/faster-go-xml-processing/</guid>
-      <description>Prelude Go supports XML processing in the standard library package encoding/xml. The Marshal and Unmarshal function will use a Encoder and Decoder under the hood, as these are more general.
-With a Decoder it is possible to iterate over a large number of XML elements and to deserialize data in a way that will limit memory consumption. Here is a playground example for using a decoder to repeatedly parse elements from a Reader: efY60PYLFm8.</description>
+      <description>&lt;h2 id=&#34;prelude&#34;&gt;Prelude&lt;/h2&gt;&#xA;&lt;p&gt;Go supports XML processing in the standard library package&#xA;&lt;a href=&#34;https://pkg.go.dev/encoding/xml&#34;&gt;encoding/xml&lt;/a&gt;. The &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Marshal&#34;&gt;Marshal&lt;/a&gt; and &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Unmarshal&#34;&gt;Unmarshal&lt;/a&gt;&#xA;function will use a &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Encoder&#34;&gt;Encoder&lt;/a&gt; and &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Decoder&#34;&gt;Decoder&lt;/a&gt; under the hood, as these are more general.&lt;/p&gt;&#xA;&lt;p&gt;With a &lt;a href=&#34;https://pkg.go.dev/encoding/xml#Decoder&#34;&gt;Decoder&lt;/a&gt; it is possible to iterate over a large number of XML&#xA;elements and to deserialize data in a way that will limit memory consumption.&#xA;Here is a playground example for using a decoder to repeatedly parse elements&#xA;from a &lt;a href=&#34;https://pkg.go.dev/io#Reader&#34;&gt;Reader&lt;/a&gt;: &lt;a href=&#34;https://go.dev/play/p/efY60PYLFm8&#34;&gt;efY60PYLFm8&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;One limitation of this approach is that you can only parse top-level elements.&#xA;This restriction is circumvented by utilities like&#xA;&lt;a href=&#34;https://github.com/tamerh/xml-stream-parser&#34;&gt;xml-stream-parser&lt;/a&gt; or &lt;a href=&#34;https://github.com/miku/xmlstream&#34;&gt;xmlstream&lt;/a&gt;, which allow to parse a number&#xA;of different elements from any level in the XML document in a streaming&#xA;fashion.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

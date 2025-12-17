@@ -62,9 +62,7 @@ post, so here&rsquo;s just a fraction of the topics we passed (slightly categori
 </ul>
 <p>If you have <a href="https://www.gnu.org/software/wget/">wget</a> (<a href="https://wiki.archiveteam.org/index.php/Wget_with_WARC_output">1.14 or later</a>) installed, you can already create WARC files yourself:</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>$ wget -rkc --warc-file golangleipzig.space --warc-cdx https://golangleipzig.space
-</span></span></code></pre></div><!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>Since web archiving aims for a complete preservation, the whole HTTP exchange
+</span></span></code></pre></div><p>Since web archiving aims for a complete preservation, the whole HTTP exchange
 is recorded - which can be analyzed later. The <a href="https://httparchive.org/">HTTP Archive</a> creates various reports, e.g. a
 <a href="https://almanac.httparchive.org/en/2022/">yearly state of the web report</a>.</p>
 <ul>
@@ -110,10 +108,10 @@ typing: An interface can be <em>added later</em>, in an ad-hoc style, e.g. to fa
 or to establish a protocol of limited scope.</p>
 <p>Example: A function only uses <code>client.Do</code> for HTTP requests. We can create an ad-hoc interface, so we are able to use the default HTTP client from the standard
 library or some third-pary library as well (as long at it has a suitable <code>Do</code> method). We can define a Doer:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#000;font-weight:bold">type</span> Doer <span style="color:#000;font-weight:bold">interface</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#900;font-weight:bold">Do</span>(req <span style="color:#000;font-weight:bold">*</span>http.Request) (<span style="color:#000;font-weight:bold">*</span>http.Response, <span style="color:#458;font-weight:bold">error</span>)
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><p>and let our function work with this <code>Doer</code> interface instead of a concrete type.
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#cf222e">type</span><span style="color:#fff"> </span><span style="color:#1f2328">Doer</span><span style="color:#fff"> </span><span style="color:#cf222e">interface</span><span style="color:#fff"> </span><span style="color:#1f2328">{</span><span style="color:#fff">
+</span></span></span><span style="display:flex;"><span><span style="color:#fff">    </span><span style="color:#6639ba">Do</span><span style="color:#1f2328">(</span><span style="color:#1f2328">req</span><span style="color:#fff"> </span><span style="color:#0550ae">*</span><span style="color:#1f2328">http</span><span style="color:#1f2328">.</span><span style="color:#1f2328">Request</span><span style="color:#1f2328">)</span><span style="color:#fff"> </span><span style="color:#1f2328">(</span><span style="color:#0550ae">*</span><span style="color:#1f2328">http</span><span style="color:#1f2328">.</span><span style="color:#1f2328">Response</span><span style="color:#1f2328">,</span><span style="color:#fff"> </span><span style="color:#cf222e">error</span><span style="color:#1f2328">)</span><span style="color:#fff">
+</span></span></span><span style="display:flex;"><span><span style="color:#fff"></span><span style="color:#1f2328">}</span><span style="color:#fff">
+</span></span></span></code></pre></div><p>and let our function work with this <code>Doer</code> interface instead of a concrete type.
 This interface should be defined where it is used (and not in the net/http
 package, for example). On the flipside, sometimes you need central interfaces,
 e.g. <a href="https://pkg.go.dev/io#Reader">io.Reader</a>, or a database abstraction

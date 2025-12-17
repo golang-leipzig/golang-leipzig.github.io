@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>news on Leipzig Gophers</title>
+    <title>News on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/news/</link>
-    <description>Recent content in news on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in News on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 00:10:01 +0100</lastBuildDate><atom:link href="https://golangleipzig.space/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jan 2019 00:10:01 +0100</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go makes the frontpage</title>
       <link>https://golangleipzig.space/posts/go-heise-frontpage/</link>
       <pubDate>Wed, 23 Jan 2019 00:10:01 +0100</pubDate>
-      
       <guid>https://golangleipzig.space/posts/go-heise-frontpage/</guid>
-      <description>On 22, Jan 2019, Go made it to the frontpage of heise.de, with an introductory article about the language:
-Einstieg in Go (German) After a brief historical overview, the authors jump right into various channels types. They also highlight struct embedding and interfaces.</description>
+      <description>&lt;p&gt;On 22, Jan 2019, Go made it to the frontpage of &lt;a href=&#34;https://heise.de&#34;&gt;heise.de&lt;/a&gt;,&#xA;with an introductory article about the language:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.heise.de/developer/artikel/Ein-Einstieg-in-die-Programmiersprache-Go-Teil-1-4282998.html&#34;&gt;Einstieg in Go&lt;/a&gt; (German)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;After a brief historical overview, the authors jump right into various channels&#xA;types. They also highlight struct embedding and interfaces.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

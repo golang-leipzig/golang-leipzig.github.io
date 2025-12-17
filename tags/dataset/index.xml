@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dataset on Leipzig Gophers</title>
+    <title>Dataset on Leipzig Gophers</title>
     <link>https://golangleipzig.space/tags/dataset/</link>
-    <description>Recent content in dataset on Leipzig Gophers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Dataset on Leipzig Gophers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://golangleipzig.space/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://golangleipzig.space/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In The Stack</title>
       <link>https://golangleipzig.space/posts/bigcode-in-the-stack/</link>
       <pubDate>Tue, 16 May 2023 10:00:00 +0200</pubDate>
-      
       <guid>https://golangleipzig.space/posts/bigcode-in-the-stack/</guid>
-      <description>In The Stack The AI space develops fast, with one cornerstone being the availability of open datasets for model development and training. Code from golang-leipzig is part of The Stack (20 Nov 2022):
-a 6.4 TB dataset of permissively licensed source code in 358 programming languages.
-Five of our repositories are included in the 25.74 GB of source code (spread across 4,730,461 files) written in Go included in this dataset.</description>
+      <description>&lt;h2 id=&#34;in-the-stack&#34;&gt;In The Stack&lt;/h2&gt;&#xA;&lt;p&gt;The AI space develops fast, with one cornerstone being the availability of open&#xA;datasets for model development and training. Code from&#xA;&lt;a href=&#34;https://github.com/golang-leipzig&#34;&gt;golang-leipzig&lt;/a&gt; is part of &lt;a href=&#34;https://www.bigcode-project.org/docs/about/the-stack/&#34;&gt;The&#xA;Stack&lt;/a&gt; (&lt;a href=&#34;https://arxiv.org/abs/2211.15533&#34;&gt;20 Nov&#xA;2022&lt;/a&gt;):&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;a 6.4 TB dataset of permissively licensed source code in 358 programming&#xA;languages.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Five of our repositories are included in the &lt;a href=&#34;https://arxiv.org/pdf/2305.06161.pdf#page=7&#34;&gt;25.74 GB of source code&lt;/a&gt; (spread across&#xA;4,730,461 files) written in Go included in this dataset.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://golangleipzig.space/images/sidewalk.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Transparency is a key factor in the development of datasets and derived models.&#xA;To check, whether your code is included, visit: &lt;a href=&#34;https://huggingface.co/spaces/bigcode/in-the-stack&#34;&gt;Am I in The Stack?&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
