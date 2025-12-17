@@ -5,7 +5,9 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far (eight in [2024](/posts/2024/)).
+50 events so far, nine in 2025: [2025 is a wrap](/posts/2025/). See you in 2026!
+
+[![](/images/4QTYSVO64BJJAMOSWCERYD3LMHOHNKEV.gif)](https://gifcities.org)
 
 If you have an idea for a presentation, please [let us know](/proposals/).
 
