@@ -14,7 +14,7 @@ Days](https://chemnitzer.linux-tage.de/2023/en/programm/vortraege) (CLT)
 conference on 2023-03-11. The topic was [Sustainability and Security in the Go
 ecosystem](https://github.com/miku/goeco), collecting a few thoughts starting
 from the ACM Queue article [Surviving Software
-Dependencies](https://doi.org/10.1145/3329781.3344149) (2019).
+Dependencies](https://storage.googleapis.com/gweb-research2023-media/pubtools/6058.pdf) (2019).
 
 Keywords: security, data breach, dependency management, distributed package management, [OSV](https://ossf.github.io/osv-schema/), vulnerability scanning.
 
