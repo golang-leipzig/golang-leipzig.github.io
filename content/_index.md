@@ -114,9 +114,10 @@ We try to sum up every meetup in a short blog post:
 [#4](/posts/meetup-4-wrapup/),
 [#3](/posts/meetup-3-wrapup/),
 [#2](/posts/second-meetup-wrapup/),
-[#1](/posts/meetup-launched/) · [2024](/posts/2024/),
+[#1](/posts/meetup-launched/) · [2025](/posts/2025/),
+[2024](/posts/2024/),
 [2023](/posts/2023/),
-[2022](/posts/2022),
+[2022](/posts/2022/),
 [2021](/posts/2021/),
 [2020](/posts/welcome-2021/), [2019](/posts/bye-2019/).
 
