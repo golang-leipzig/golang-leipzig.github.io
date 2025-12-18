@@ -71,7 +71,7 @@ and an [AMD AI MAX+ 395 with an
 | FP16 (theoretical) | 59.4 TFLOPS | ~19.2 TFLOPS |
 | Memory Bandwidth | ~212 GB/s (DDR5-8000) | 280 GB/s (GDDR6) |
 
-However, *[prefil](https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests)l* is a bit faster on the nvidia card:
+However, *[prefill](https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests)* is a bit faster on the nvidia card:
 
 ```
 $ time OLLAMA_MODEL=qwen3:14b OLLAMA_HOST=http://ada:11434 ./one -m "how warm is it in leipzig?"
