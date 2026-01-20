@@ -6,8 +6,15 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Dec 2025 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:00:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #57 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-57-invitation/</link>
+      <pubDate>Tue, 20 Jan 2026 18:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/posts/meetup-57-invitation/</guid>
+      <description>&lt;h2 id=&#34;go4-perf--js--wasm--onlyoffice-nonlinear-programming-nlp-solver-plugin&#34;&gt;Go^(4 perf) + JS + WASM = OnlyOffice Nonlinear Programming (NLP) Solver Plugin&lt;/h2&gt;&#xA;&lt;p&gt;Hello, 世界!&lt;/p&gt;&#xA;&lt;p&gt;For meetup #57 on Tuesday &lt;a href=&#34;https://www.meetup.com/leipzig-golang/events/312537678&#34;&gt;Jan 27, 2026 19:00&#xA;CET&lt;/a&gt; we welcome &lt;a href=&#34;https://karlbreuer.com&#34;&gt;Karl&#xA;Breuer&lt;/a&gt;, who will showcase an &lt;a href=&#34;https://github.com/Karl1b/only-office-nlp-solver&#34;&gt;OnlyOffice&#xA;plugin&lt;/a&gt; for nonlinear&#xA;programming, that uses Go via WASM for performance.&lt;/p&gt;&#xA;&lt;p&gt;Linear programming (LP) optimizes problems where all relationships are straight&#xA;lines (making them efficiently solvable), while nonlinear programming (NLP)&#xA;handles curved relationships and complex constraints, which is computationally&#xA;harder, and performance is key.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025</title>
       <link>https://golangleipzig.space/posts/2025/</link>
