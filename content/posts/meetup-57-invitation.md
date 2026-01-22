@@ -24,8 +24,8 @@ harder, and performance is key.
 
 We may have a second lightning talk on a [charm](https://charm.land/) based TUI
 for interacting with the *Advanced Open-Source Enterprise Wiki* software
-[xwiki](https://www.xwiki.org/) (a project, which started at a vibecoding
-contest in [Dec 2025](https://events.scads.ai/event/121/) and won a 🥉).
+[xwiki](https://www.xwiki.org/) - a project, which started at a vibecoding
+contest in [Dec 2025](https://events.scads.ai/event/121/) and won a 🥉.
 
 
 ### Schedule
