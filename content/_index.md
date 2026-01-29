@@ -7,8 +7,8 @@ We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 50 events so far, nine in [2025](/posts/2025/). We are planning
 [six events](https://www.meetup.com/leipzig-golang/events/) in 2026, next
-[#57](/posts/meetup-57-invitation/) on [Jan 27, 2026,
-1900 CET](https://www.meetup.com/leipzig-golang/events/312537678) at [Basislager](https://www.basislager.co) Coworking ([OSM](https://www.openstreetmap.org/node/3504864558), [GMaps](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8)).
+#58 on [Mar 31, 2026,
+1900 CET](https://www.meetup.com/leipzig-golang/events/312537698) at [Basislager](https://www.basislager.co) Coworking ([OSM](https://www.openstreetmap.org/node/3504864558), [GMaps](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8)).
 
 If you have an idea for a presentation, please [let us know](/proposals/).
 
