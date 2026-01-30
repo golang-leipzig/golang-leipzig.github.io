@@ -14,8 +14,9 @@ Hybrid Meetup #57 took place
 19:00 at [Basislager Leipzig](https://basislager.co) and we had a great
 presentation by [Karl](https://www.linkedin.com/in/karl-breuer-4b71a8177/),
 mixing math and code in his open source [OnlyOffice NLP
-Solver](https://github.com/Karl1b/only-office-nlp-solver) plugin.
+Solver](https://github.com/Karl1b/only-office-nlp-solver) plugin:
 
+[![](/downloads/lgo-57-only-office-nlp-solver-slides-01-frame.png)](/downloads/lgo-57-only-office-nlp-solver-slides.pdf)
 
 ## Misc
 
@@ -23,8 +24,6 @@ Solver](https://github.com/Karl1b/only-office-nlp-solver) plugin.
   search for an open source solution, that may or may not cover all the
   requirements?
 * Go has [Web Assembly](https://go.dev/wiki/WebAssembly) support since [1.11](https://go.dev/doc/go1.11#wasm), released 2018-08-24
-
-
 
 ----
 
