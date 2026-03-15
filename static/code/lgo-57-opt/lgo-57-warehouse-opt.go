@@ -27,13 +27,16 @@ const (
 )
 
 var (
-	flagN      = flag.Int("n", 8, "number of customers")
-	flagSeed   = flag.Int64("seed", 42, "random seed")
-	flagFormat = flag.String("format", "svg", "static image format: svg or png")
-	flagIter   = flag.Int("iter", 200, "maximum Nelder-Mead iterations")
-	flagPrefix = flag.String("prefix", "warehouse", "output filename prefix")
-	flagWidth  = flag.Int("width", 800, "canvas width in pixels")
-	flagHeight = flag.Int("height", 600, "canvas height in pixels")
+	flagN           = flag.Int("n", 8, "number of customers")
+	flagSeed        = flag.Int64("seed", 42, "random seed")
+	flagFormat      = flag.String("format", "svg", "static image format: svg or png")
+	flagIter        = flag.Int("iter", 200, "maximum Nelder-Mead iterations")
+	flagPrefix      = flag.String("prefix", "warehouse", "output filename prefix")
+	flagWidth       = flag.Int("width", 900, "canvas width in pixels")
+	flagHeight      = flag.Int("height", 900, "canvas height in pixels")
+	flagDelay       = flag.Int("delay", 8, "delay between GIF frames in centiseconds (100 = 1s)")
+	flagPlacement   = flag.String("placement", "uniform", "customer placement: uniform, clustered, ring, random, diagonal")
+	flagNumClusters = flag.Int("numclusters", 2, "number of cluster")
 )
 
 // Point is a location in the unit square [0,1]x[0,1].
@@ -69,28 +72,109 @@ func objective(p Point, cs []Customer) float64 {
 	return s
 }
 
-// --- Customer generation ---
+// --- Customer placement strategies ---
 
-func generateCustomers(n int, rng *rand.Rand) []Customer {
+func clamp01(v float64) float64 { return max(0.02, min(0.98, v)) }
+
+// placeUniform distributes customers with a minimum distance between them.
+func placeUniform(n int, rng *rand.Rand) []Point {
 	const minDist = 0.12
-	labels := "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-	var cs []Customer
-	for attempts := 0; len(cs) < n && attempts < n*1000; attempts++ {
+	var ps []Point
+	for attempts := 0; len(ps) < n && attempts < n*1000; attempts++ {
 		p := Point{0.05 + 0.9*rng.Float64(), 0.05 + 0.9*rng.Float64()}
 		tooClose := false
-		for _, c := range cs {
-			dx, dy := p.X-c.Loc.X, p.Y-c.Loc.Y
+		for _, q := range ps {
+			dx, dy := p.X-q.X, p.Y-q.Y
 			if math.Sqrt(dx*dx+dy*dy) < minDist {
 				tooClose = true
 				break
 			}
 		}
 		if !tooClose {
-			cs = append(cs, Customer{
-				Loc:    p,
-				Weight: 1 + rng.Float64()*9,
-				Label:  string(labels[len(cs)%26]),
-			})
+			ps = append(ps, p)
+		}
+	}
+	return ps
+}
+
+// placeClustered groups customers around 2–3 random cluster centers.
+func placeClustered(n int, rng *rand.Rand) []Point {
+	nc := *flagNumClusters
+	centers := make([]Point, nc)
+	for i := range centers {
+		centers[i] = Point{0.2 + 0.6*rng.Float64(), 0.2 + 0.6*rng.Float64()}
+	}
+	ps := make([]Point, n)
+	for i := range ps {
+		c := centers[rng.Intn(nc)]
+		ps[i] = Point{
+			X: clamp01(c.X + rng.NormFloat64()*0.08),
+			Y: clamp01(c.Y + rng.NormFloat64()*0.08),
+		}
+	}
+	return ps
+}
+
+// placeRing arranges customers roughly along a circle.
+func placeRing(n int, rng *rand.Rand) []Point {
+	ps := make([]Point, n)
+	for i := range ps {
+		angle := 2*math.Pi*float64(i)/float64(n) + rng.NormFloat64()*0.15
+		r := 0.35 + rng.NormFloat64()*0.04
+		ps[i] = Point{
+			X: clamp01(0.5 + r*math.Cos(angle)),
+			Y: clamp01(0.5 + r*math.Sin(angle)),
+		}
+	}
+	return ps
+}
+
+// placeRandom uses pure uniform random placement, no spacing constraints.
+func placeRandom(n int, rng *rand.Rand) []Point {
+	ps := make([]Point, n)
+	for i := range ps {
+		ps[i] = Point{0.05 + 0.9*rng.Float64(), 0.05 + 0.9*rng.Float64()}
+	}
+	return ps
+}
+
+// placeDiagonal scatters customers along the main diagonal with some spread.
+func placeDiagonal(n int, rng *rand.Rand) []Point {
+	ps := make([]Point, n)
+	for i := range ps {
+		t := 0.1 + 0.8*rng.Float64()
+		offset := rng.NormFloat64() * 0.07
+		ps[i] = Point{
+			X: clamp01(t + offset),
+			Y: clamp01(t - offset),
+		}
+	}
+	return ps
+}
+
+// --- Customer generation ---
+
+func generateCustomers(n int, rng *rand.Rand) []Customer {
+	var points []Point
+	switch *flagPlacement {
+	case "clustered":
+		points = placeClustered(n, rng)
+	case "ring":
+		points = placeRing(n, rng)
+	case "random":
+		points = placeRandom(n, rng)
+	case "diagonal":
+		points = placeDiagonal(n, rng)
+	default:
+		points = placeUniform(n, rng)
+	}
+	labels := "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	cs := make([]Customer, len(points))
+	for i, p := range points {
+		cs[i] = Customer{
+			Loc:    p,
+			Weight: 1 + rng.Float64()*9,
+			Label:  string(labels[i%26]),
 		}
 	}
 	return cs
@@ -240,6 +324,55 @@ func thickLine(img draw.Image, x0, y0, x1, y1, thickness int, col color.Color) {
 	}
 }
 
+// --- Bitmap font for GIF text overlay ---
+
+const (
+	glyphW = 5
+	glyphH = 7
+)
+
+// 5x7 bitmap glyphs; each row is a uint8, bits 4..0 map to pixels left-to-right.
+var glyphs = map[byte][glyphH]uint8{
+	'0': {0x0E, 0x11, 0x13, 0x15, 0x19, 0x11, 0x0E},
+	'1': {0x04, 0x0C, 0x04, 0x04, 0x04, 0x04, 0x0E},
+	'2': {0x0E, 0x11, 0x01, 0x02, 0x04, 0x08, 0x1F},
+	'3': {0x0E, 0x11, 0x01, 0x06, 0x01, 0x11, 0x0E},
+	'4': {0x02, 0x06, 0x0A, 0x12, 0x1F, 0x02, 0x02},
+	'5': {0x1F, 0x10, 0x1E, 0x01, 0x01, 0x11, 0x0E},
+	'6': {0x06, 0x08, 0x10, 0x1E, 0x11, 0x11, 0x0E},
+	'7': {0x1F, 0x01, 0x02, 0x04, 0x08, 0x08, 0x08},
+	'8': {0x0E, 0x11, 0x11, 0x0E, 0x11, 0x11, 0x0E},
+	'9': {0x0E, 0x11, 0x11, 0x0F, 0x01, 0x02, 0x0C},
+	'.': {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x04},
+	' ': {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00},
+}
+
+func drawText(img draw.Image, x, y, scale int, s string, c color.Color) {
+	b := img.Bounds()
+	for _, ch := range []byte(s) {
+		glyph, ok := glyphs[ch]
+		if !ok {
+			x += (glyphW + 1) * scale
+			continue
+		}
+		for row := 0; row < glyphH; row++ {
+			for bit := 0; bit < glyphW; bit++ {
+				if glyph[row]&(1<<(glyphW-1-bit)) != 0 {
+					for sy := 0; sy < scale; sy++ {
+						for sx := 0; sx < scale; sx++ {
+							px, py := x+bit*scale+sx, y+row*scale+sy
+							if px >= b.Min.X && px < b.Max.X && py >= b.Min.Y && py < b.Max.Y {
+								img.Set(px, py, c)
+							}
+						}
+					}
+				}
+			}
+		}
+		x += (glyphW + 1) * scale
+	}
+}
+
 // --- SVG output ---
 
 func writeSVG(path string, cs []Customer, opt *Point, simplex *[3]Point, title string) error {
@@ -327,9 +460,11 @@ func writePNG(path string, cs []Customer, opt *Point) error {
 	img := image.NewRGBA(image.Rect(0, 0, *flagWidth, *flagHeight))
 	draw.Draw(img, img.Bounds(), image.NewUniform(color.RGBA{250, 250, 250, 255}), image.Point{}, draw.Src)
 
-	blue := color.RGBA{74, 144, 217, 255}
-	red := color.RGBA{231, 76, 60, 255}
-	connCol := color.RGBA{231, 76, 60, 60}
+	var (
+		blue    = color.RGBA{74, 144, 217, 255}
+		red     = color.RGBA{231, 76, 60, 255}
+		connCol = color.RGBA{231, 76, 60, 60}
+	)
 
 	if opt != nil {
 		ox, oy := opt.pxi()
@@ -371,6 +506,7 @@ var gifPalette = color.Palette{
 	color.RGBA{210, 210, 210, 255}, // 7: connection
 	color.Black,                    // 8
 	color.White,                    // 9
+	color.RGBA{180, 180, 180, 255}, // 10: dim text
 }
 
 func newGIFFrame() *image.Paletted {
@@ -381,14 +517,17 @@ func newGIFFrame() *image.Paletted {
 	return img
 }
 
-func drawGIFScene(cs []Customer, tri *[3]Point, best *Point, trail []Point) *image.Paletted {
-	img := newGIFFrame()
+func drawGIFScene(cs []Customer, tri *[3]Point, best *Point, trail []Point, val float64) *image.Paletted {
+	var (
+		img = newGIFFrame()
 
-	green := gifPalette[5]
-	blue := gifPalette[2]
-	red := gifPalette[4]
-	orange := gifPalette[6]
-	conn := gifPalette[7]
+		green  = gifPalette[5]
+		blue   = gifPalette[2]
+		red    = gifPalette[4]
+		orange = gifPalette[6]
+		conn   = gifPalette[7]
+		dim    = gifPalette[10]
+	)
 
 	// Connection lines from best to customers
 	if best != nil {
@@ -432,30 +571,36 @@ func drawGIFScene(cs []Customer, tri *[3]Point, best *Point, trail []Point) *ima
 		fillCircle(img, bx, by, 6, red)
 	}
 
+	// Objective value in bottom margin
+	drawText(img, padX, *flagHeight-padY+8, 2, fmt.Sprintf("%.2f", val), dim)
+
 	return img
 }
 
 func writeGIF(path string, cs []Customer, hist [][3]Point, opt Point) error {
-	targetFrames := 60
-	step := max(1, len(hist)/targetFrames)
+	var (
+		targetFrames = 60
+		step         = max(1, len(hist)/targetFrames)
 
-	var frames []*image.Paletted
-	var delays []int
-	var trail []Point
+		frames []*image.Paletted
+		delays []int
+		trail  []Point
+	)
 
 	for i := 0; i < len(hist); i += step {
 		tri := hist[i]
 		best := tri[0]
+		val := objective(best, cs)
 		trail = append(trail, best)
-		frame := drawGIFScene(cs, &tri, &best, trail)
+		frame := drawGIFScene(cs, &tri, &best, trail, val)
 		frames = append(frames, frame)
-		delays = append(delays, 8) // 80ms
+		delays = append(delays, *flagDelay)
 	}
 
 	// Final frame: hold on the result
 	lastTri := hist[len(hist)-1]
 	trail = append(trail, opt)
-	final := drawGIFScene(cs, &lastTri, &opt, trail)
+	final := drawGIFScene(cs, &lastTri, &opt, trail, objective(opt, cs))
 	frames = append(frames, final)
 	delays = append(delays, 300) // 3s hold
 
