@@ -50,7 +50,7 @@ problem).
 
 * Will open source survive AI? When it becomes cheaper to generate code than to
   search for an open source solution, that may or may not cover all the
-  requirements?
+  requirements? A recent personal example is [gh-repos](https://github.com/miku/gh-repos).
 * Go has [Web Assembly](https://go.dev/wiki/WebAssembly) support since [1.11](https://go.dev/doc/go1.11#wasm), released 2018-08-24
 
 
