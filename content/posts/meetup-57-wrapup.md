@@ -44,7 +44,7 @@ Nelder-Mead algorithm; more specific algorithms
 [exist](https://en.wikipedia.org/wiki/Geometric_median#Computation) for this
 problem).
 
-![](/code/lgo-57-opt/lgo-57-wrapup-optimization.gif)
+[![](/code/lgo-57-opt/lgo-57-wrapup-optimization.gif)](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/code/lgo-57-opt)
 
 ## Misc
 
