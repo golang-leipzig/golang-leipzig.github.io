@@ -632,6 +632,22 @@ func writeGIF(path string, cs []Customer, hist [][3]Point, opt Point) error {
 	})
 }
 
+// --- TSV output ---
+
+func writeTSV(path string, cs []Customer, opt Point) error {
+	f, err := os.Create(path)
+	if err != nil {
+		return err
+	}
+	defer f.Close()
+	fmt.Fprintln(f, "label\tx\ty\tweight")
+	for _, c := range cs {
+		fmt.Fprintf(f, "%s\t%.6f\t%.6f\t%.2f\n", c.Label, c.Loc.X, c.Loc.Y, c.Weight)
+	}
+	fmt.Fprintf(f, "OPT\t%.6f\t%.6f\t\n", opt.X, opt.Y)
+	return nil
+}
+
 // --- Main ---
 
 func log(format string, a ...any) { fmt.Fprintf(os.Stderr, format, a...) }
@@ -688,6 +704,14 @@ func main() {
 	// 3. Animated optimization
 	fn = name("optimization.gif")
 	if err = writeGIF(fn, cs, hist, opt); err != nil {
+		log("error writing %s: %v\n", fn, err)
+		os.Exit(1)
+	}
+	log("wrote %s\n", fn)
+
+	// 4. Customer data as TSV
+	fn = name("data.tsv")
+	if err = writeTSV(fn, cs, opt); err != nil {
 		log("error writing %s: %v\n", fn, err)
 		os.Exit(1)
 	}
