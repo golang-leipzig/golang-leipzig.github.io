@@ -18,6 +18,10 @@ Solver](https://github.com/Karl1b/only-office-nlp-solver) plugin:
 
 [![](/downloads/lgo-57-only-office-nlp-solver-slides-01-frame.png)](/downloads/lgo-57-only-office-nlp-solver-slides.pdf)
 
+The project can be found on [GitHub](https://github.com/Karl1b/only-office-nlp-solver).
+
+[![](/images/screenshot-2026-03-15-135110-karl1b-only-office-nlp-solver.png)](https://github.com/Karl1b/only-office-nlp-solver)
+
 Some bits from the talk:
 
 * nonlinear optimization can be made approachable to a larger user base by embedding it into a common (data) environment, like a spreadsheet application
@@ -26,7 +30,6 @@ Some bits from the talk:
 * wiring WASM to the onlyoffice spreadsheet api is another step to consider
 * for linear optimization, you can use the simpler [simplex](/images/simplex-9783642615788.png) (one of the [top ten algorithms](https://pi.math.cornell.edu/~ajt/presentations/TopTenAlgorithms.pdf) of the 20th century)
 
-[![](/images/screenshot-2026-03-15-135110-karl1b-only-office-nlp-solver.png)](https://github.com/Karl1b/only-office-nlp-solver)
 
 An example nonlinear optimization problem could be optimal warehouse placement
 (FACILITY LOCATION PROBLEM): Given a number of customers with fixed locations
