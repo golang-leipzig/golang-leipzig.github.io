@@ -40,7 +40,9 @@ use this).
 
 In the visualization, blue dots represent customers (their size is proportional
 to their demand) and the red dot is the optimal location, as discovered by the
-Nelder-Mead algorithm).
+Nelder-Mead algorithm; more specific algorithms
+[exist](https://en.wikipedia.org/wiki/Geometric_median#Computation) for this
+problem).
 
 ![](/code/lgo-57-opt/lgo-57-wrapup-optimization.gif)
 
