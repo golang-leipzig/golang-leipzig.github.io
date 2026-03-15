@@ -32,8 +32,8 @@ var (
 	flagFormat      = flag.String("format", "svg", "static image format: svg or png")
 	flagIter        = flag.Int("iter", 200, "maximum Nelder-Mead iterations")
 	flagPrefix      = flag.String("prefix", "warehouse", "output filename prefix")
-	flagWidth       = flag.Int("width", 900, "canvas width in pixels")
-	flagHeight      = flag.Int("height", 900, "canvas height in pixels")
+	flagWidth       = flag.Int("W", 900, "canvas width in pixels")
+	flagHeight      = flag.Int("H", 900, "canvas height in pixels")
 	flagDelay       = flag.Int("delay", 8, "delay between GIF frames in centiseconds (100 = 1s)")
 	flagPlacement   = flag.String("placement", "uniform", "customer placement: uniform, clustered, ring, random, diagonal")
 	flagNumClusters = flag.Int("numclusters", 2, "number of cluster")
@@ -97,19 +97,34 @@ func placeUniform(n int, rng *rand.Rand) []Point {
 	return ps
 }
 
-// placeClustered groups customers around 2–3 random cluster centers.
+// placeClustered groups customers around well-separated cluster centers.
+// Customers are assigned round-robin so each cluster is populated evenly.
 func placeClustered(n int, rng *rand.Rand) []Point {
 	nc := *flagNumClusters
-	centers := make([]Point, nc)
-	for i := range centers {
-		centers[i] = Point{0.2 + 0.6*rng.Float64(), 0.2 + 0.6*rng.Float64()}
+	// Place centers with generous separation so clusters are visually distinct.
+	const minCenterDist = 0.4
+	var centers []Point
+	for attempts := 0; len(centers) < nc && attempts < nc*1000; attempts++ {
+		p := Point{0.15 + 0.7*rng.Float64(), 0.15 + 0.7*rng.Float64()}
+		tooClose := false
+		for _, c := range centers {
+			dx, dy := p.X-c.X, p.Y-c.Y
+			if math.Sqrt(dx*dx+dy*dy) < minCenterDist {
+				tooClose = true
+				break
+			}
+		}
+		if !tooClose {
+			centers = append(centers, p)
+		}
 	}
+	// Round-robin assignment ensures each cluster gets customers.
 	ps := make([]Point, n)
 	for i := range ps {
-		c := centers[rng.Intn(nc)]
+		c := centers[i%len(centers)]
 		ps[i] = Point{
-			X: clamp01(c.X + rng.NormFloat64()*0.08),
-			Y: clamp01(c.Y + rng.NormFloat64()*0.08),
+			X: clamp01(c.X + rng.NormFloat64()*0.07),
+			Y: clamp01(c.Y + rng.NormFloat64()*0.07),
 		}
 	}
 	return ps
@@ -572,7 +587,7 @@ func drawGIFScene(cs []Customer, tri *[3]Point, best *Point, trail []Point, val 
 	}
 
 	// Objective value in bottom margin
-	drawText(img, padX, *flagHeight-padY+8, 2, fmt.Sprintf("%.2f", val), dim)
+	drawText(img, padX, *flagHeight-padY+8, 2, fmt.Sprintf("%.8f", val), dim)
 
 	return img
 }
