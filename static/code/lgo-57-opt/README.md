@@ -29,6 +29,14 @@ We use a basic implementation of nelder-mead, downhill simplex.
 
 ## Visualization
 
+Generated with:
+
+```
+$ make wrapup
+```
+
+The data: [lgo-57-wrapup-data.tsv](lgo-57-wrapup-data.tsv)
+
 > customers with demand on the map
 
 ![](lgo-57-wrapup-customers.svg)
