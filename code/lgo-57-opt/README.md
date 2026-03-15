@@ -26,3 +26,17 @@ We use a basic implementation of nelder-mead, downhill simplex.
 
 * A single Go file, for simplicity
 * Simple, clear, appealing and comprehensible visuals
+
+## Visualization
+
+> customers with demand on the map
+
+![](lgo-57-wrapup-customers.svg)
+
+> optimal placement of warehouse (red dot)
+
+![](lgo-57-wrapup-result.svg)
+
+> optimization process
+
+![](lgo-57-wrapup-optimization.gif)
