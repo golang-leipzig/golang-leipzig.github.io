@@ -13,7 +13,7 @@ Hybrid Meetup #57 took place
 [2026-01-27](https://www.meetup.com/de-de/leipzig-golang/events/312537678)
 19:00 at [Basislager Leipzig](https://basislager.co) and we had a great
 presentation by [Karl](https://www.linkedin.com/in/karl-breuer-4b71a8177/),
-mixing mathematical optimization, Go and webassembly in his open source [OnlyOffice NLP
+mixing mathematical optimization, Go and WebAssembly in his open source [OnlyOffice NLP
 Solver](https://github.com/Karl1b/only-office-nlp-solver) plugin:
 
 [![](/downloads/lgo-57-only-office-nlp-solver-slides-01-frame.png)](/downloads/lgo-57-only-office-nlp-solver-slides.pdf)
@@ -42,7 +42,7 @@ In the visualization, blue dots represent customers (their size is proportional
 to their demand) and the red dot is the optimal location, as discovered by the
 Nelder-Mead algorithm; more specific algorithms
 [exist](https://en.wikipedia.org/wiki/Geometric_median#Computation) for this
-problem).
+problem.
 
 [![](/code/lgo-57-opt/lgo-57-wrapup-optimization.gif)](https://github.com/golang-leipzig/golang-leipzig.github.io/tree/source/static/code/lgo-57-opt)
 
