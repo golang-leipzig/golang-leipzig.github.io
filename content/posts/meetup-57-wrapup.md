@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-### Downhill from here
+### Downhill-Simplex
 
 Hybrid Meetup #57 took place
 [2026-01-27](https://www.meetup.com/de-de/leipzig-golang/events/312537678)
