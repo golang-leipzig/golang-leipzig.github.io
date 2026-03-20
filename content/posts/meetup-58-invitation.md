@@ -17,8 +17,9 @@ have [Akim Zmerli](https://www.linkedin.com/in/akimzmerli/) give us an intro to
 [beads](https://github.com/steveyegge/beads), specifically:
 
 How agents perform long-running tasks and pass context seamlessly to each
-other. Beads is a rising Go project that brings structured planning to any
-workflow, whether agentic or hands-on. Akim Zmerli will present his favorite
+other. [Beads](https://github.com/steveyegge/beads) is a rising Go project that
+brings structured planning to any workflow, whether agentic or hands-on. [Akim
+Zmerli](https://www.linkedin.com/in/akimzmerli/) will present his favorite
 techniques, TUI projects and what Rob Pike thinks about the current state of
 affairs.
 
