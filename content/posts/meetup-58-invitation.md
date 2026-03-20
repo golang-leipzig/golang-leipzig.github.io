@@ -57,14 +57,12 @@ We'll meet:
 
 Join us to discuss all tools.
 
-![](/images/3TN4UORL7KCEPAUNPLLFU3JXXDZXS7O6.gif)
+[![](/images/3TN4UORL7KCEPAUNPLLFU3JXXDZXS7O6.gif)](https://gifcities.org)
 
 
 <!--
 
 todo: outreach
-
-https://www.linkedin.com/posts/martin-czygan-58348842_golang-meetup-activity-7387945038066114560-uaxB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
 
 -->
 
