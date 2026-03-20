@@ -16,12 +16,12 @@ CET](https://www.meetup.com/leipzig-golang/events/312537698/) we are happy to
 have [Akim Zmerli](https://www.linkedin.com/in/akimzmerli/) give us an intro to
 [beads](https://github.com/steveyegge/beads), specifically:
 
-How agents perform long-running tasks and pass context seamlessly to each
-other. [Beads](https://github.com/steveyegge/beads) is a rising Go project that
-brings structured planning to any workflow, whether agentic or hands-on. [Akim
-Zmerli](https://www.linkedin.com/in/akimzmerli/) will present his favorite
-techniques, TUI projects and what Rob Pike thinks about the current state of
-affairs.
+> How agents perform long-running tasks and pass context seamlessly to each
+> other. [Beads](https://github.com/steveyegge/beads) is a rising Go project
+> that brings structured planning to any workflow, whether agentic or hands-on.
+> [Akim Zmerli](https://www.linkedin.com/in/akimzmerli/) will present his
+> favorite techniques, TUI projects and what Rob Pike thinks about the current
+> state of affairs.
 
 <!--
 
@@ -33,6 +33,8 @@ affairs.
 > agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
 -->
+
+[![](/images/3TN4UORL7KCEPAUNPLLFU3JXXDZXS7O6.gif)](https://gifcities.org)
 
 The beads project is less than six months old (2025-10-11), but already well
 beyond 250 KLOC, with more than 200 KLOC written in Go.
@@ -56,9 +58,8 @@ We'll meet:
 * in person at [Basislager Leipzig](https://basislager.co), at [Peterssteinweg 14, 04107 Leipzig](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8) ([OSM](https://www.openstreetmap.org/node/3504864558))
 * and online via [Jitsi](https://meet.jit.si/LeipzigGophers58)
 
-Join us to discuss all tools.
+Join us to discuss SOTA dev tools and more.
 
-[![](/images/3TN4UORL7KCEPAUNPLLFU3JXXDZXS7O6.gif)](https://gifcities.org)
 
 
 <!--
