@@ -28,7 +28,7 @@ Some bits from the talk:
 * the [plugin](https://github.com/Karl1b/only-office-nlp-solver) handles constrained parameters and side conditions
 * parsing arbitrary arithmetic expressions requires nesting and recursion, handled well by [context-free grammars](https://en.wikipedia.org/wiki/Context-free_grammar)
 * wiring WASM to the onlyoffice spreadsheet api is another step to consider
-* for linear optimization, you can use the simpler [simplex](/images/simplex-9783642615788.png) (one of the [top ten algorithms](https://pi.math.cornell.edu/~ajt/presentations/TopTenAlgorithms.pdf) of the 20th century)
+* for linear optimization, you can use the simpler [simplex](/images/simplex-9783642615788.png) (one of the [top ten algorithms](https://web.archive.org/web/20250605185539id_/https://pi.math.cornell.edu/~ajt/presentations/TopTenAlgorithms.pdf) of the 20th century)
 
 
 An example nonlinear optimization problem could be optimal warehouse placement
