@@ -6,8 +6,15 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 08:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:00:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #58 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-58-invitation/</link>
+      <pubDate>Thu, 19 Mar 2026 20:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/posts/meetup-58-invitation/</guid>
+      <description>&lt;h2 id=&#34;beads-go-open-source-projects-in-the-age-of-ai&#34;&gt;Beads: Go Open Source Projects in the Age of AI&lt;/h2&gt;&#xA;&lt;p&gt;Hello, 世界!&lt;/p&gt;&#xA;&lt;p&gt;For meetup #58 on Tuesday &lt;a href=&#34;https://www.meetup.com/leipzig-golang/events/312537698/&#34;&gt;Mar 31, 2026 19:00&#xA;CET&lt;/a&gt; we are happy to&#xA;have &lt;a href=&#34;https://www.linkedin.com/in/akimzmerli/&#34;&gt;Akim Zmerli&lt;/a&gt; give us an intro to&#xA;&lt;a href=&#34;https://github.com/steveyegge/beads&#34;&gt;beads&lt;/a&gt;, specifically:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;How agents perform long-running tasks and pass context seamlessly to each&#xA;other. &lt;a href=&#34;https://github.com/steveyegge/beads&#34;&gt;Beads&lt;/a&gt; is a rising Go project&#xA;that brings structured planning to any workflow, whether agentic or hands-on.&#xA;&lt;a href=&#34;https://www.linkedin.com/in/akimzmerli/&#34;&gt;Akim Zmerli&lt;/a&gt; will present his&#xA;favorite techniques, TUI projects and what Rob Pike thinks about the current&#xA;state of affairs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hybrid Meetup #57 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-57-wrapup/</link>

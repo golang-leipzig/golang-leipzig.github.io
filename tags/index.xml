@@ -6,12 +6,19 @@
     <description>Recent content in Tags on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jan 2026 08:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:00:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcement</title>
+      <link>https://golangleipzig.space/tags/announcement/</link>
+      <pubDate>Thu, 19 Mar 2026 20:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/tags/announcement/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Meetup</title>
       <link>https://golangleipzig.space/tags/meetup/</link>
-      <pubDate>Fri, 30 Jan 2026 08:30:00 +0100</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:00:00 +0200</pubDate>
       <guid>https://golangleipzig.space/tags/meetup/</guid>
       <description></description>
     </item>
@@ -20,13 +27,6 @@
       <link>https://golangleipzig.space/tags/summary/</link>
       <pubDate>Fri, 30 Jan 2026 08:30:00 +0100</pubDate>
       <guid>https://golangleipzig.space/tags/summary/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Announcement</title>
-      <link>https://golangleipzig.space/tags/announcement/</link>
-      <pubDate>Tue, 20 Jan 2026 18:00:00 +0200</pubDate>
-      <guid>https://golangleipzig.space/tags/announcement/</guid>
       <description></description>
     </item>
     <item>
