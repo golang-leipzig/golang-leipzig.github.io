@@ -66,5 +66,7 @@ Join us to discuss SOTA dev tools and more.
 
 todo: outreach
 
+https://www.linkedin.com/posts/martin-czygan-58348842_beads-is-an-agentic-coding-layer-providing-share-7444309621974081536-jTTQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+
 -->
 
