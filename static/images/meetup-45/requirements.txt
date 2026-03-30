@@ -15,7 +15,7 @@ pillow==11.0.0
 prompt_toolkit==3.0.48
 ptyprocess==0.7.0
 pure_eval==0.2.3
-Pygments==2.18.0
+Pygments==2.20.0
 scikit-image==0.24.0
 scipy==1.14.1
 six==1.16.0
