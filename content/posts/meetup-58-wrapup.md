@@ -66,6 +66,22 @@ Akim also demod [kitty-beads](https://github.com/AkimZmerli/kitty-beads), a web
 interface for beads, grouping issue, supporting terminal access in the browser
 and a kanban board.
 
+### Highlighted Go projects
+
+The talk highlighed a few Go projects, too:
+
+* [dolt](https://github.com/dolthub/dolt), git for MySQL
+* [charm](https://github.com/charmbracelet) universe (we talked about it in [#28](/posts/meetup-28-wrapup)
+* [micasa](https://github.com/micasa-dev/micasa), home maintenance in a TUI
+* [gastown](https://github.com/gastownhall/gastown), multi-agent workspace manager, by the author of beads
+
+Note that Steve Yegge layed out in depth a vision for a pure agentic software
+world in [Welcome to Gas
+Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04). The
+setup reminds one of the [set of markdown
+files](https://github.com/garrytan/gstack) that were framed as virtual
+engineering team.
+
 ### AI and Go
 
 Rob Pike is
@@ -89,6 +105,12 @@ response](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ):
 * [Context7](https://context7.com/), which is a service agents can use for up-to-date API docs
 * [A sufficiently detailed spec is the code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code), remember, the [Silver Bullet](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)?
 * the [Kilo](https://kilo.ai/) orchestrator uses [memory banks](https://kilo.ai/features/memory-bank)
+* AI slop is gluey
+* experiential: keep your context usage below 40% for better results; do not
+  clutter context with too many MCP definitions; minimize or optimizue context
+(maybe try [cxpak](https://github.com/Barnett-Studios/cxpak),
+[oo](https://github.com/randomm/oo),
+[repoctx](https://github.com/miku/repoctx), ...)
 
 ## Leaks and recursion
 
