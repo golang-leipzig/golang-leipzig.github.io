@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #58 wrap-up"
 date: 2026-04-01T08:30:00+01:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
@@ -84,8 +84,7 @@ engineering team.
 
 ### AI and Go
 
-Rob Pike is
-[angered](https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s), and the
+Rob Pike is [displeased](https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s); and the
 issue of AI-generated changelists came up on
 [golang-dev](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE), recently.
 Russ Cox took the time to elaborate on the issue in a [longer
@@ -111,6 +110,8 @@ response](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ):
 (maybe try [cxpak](https://github.com/Barnett-Studios/cxpak),
 [oo](https://github.com/randomm/oo),
 [repoctx](https://github.com/miku/repoctx), ...)
+* mandate to use AI tools varies across companies; depending on your context,
+  AI tools speed you up or even slow you down
 
 ## Leaks and recursion
 
