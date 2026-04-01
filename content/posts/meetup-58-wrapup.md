@@ -112,6 +112,7 @@ response](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ):
 [repoctx](https://github.com/miku/repoctx), ...)
 * mandate to use AI tools varies across companies; depending on your context,
   AI tools speed you up or even slow you down
+* switch quickly between model providers for claude code, with [claude-switch](https://github.com/miku/claude-switch)
 
 ## Leaks and recursion
 
