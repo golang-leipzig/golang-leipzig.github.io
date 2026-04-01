@@ -103,6 +103,8 @@ Just CTRL-C to stop the music.
 ## Misc
 
 * if you use CC, also give [pi](https://github.com/badlogic/pi-mono) a try
+* set `"includeCoAuthoredBy": false` in `~/.claude/settings.json` to disable agent co-author commits
+* set env `"CLAUDE_CODE_ATTRIBUTION_HEADER": "0"` [may improve](https://github.com/musistudio/claude-code-router/issues/1161#issuecomment-3788859149) token usage
 * [Context7](https://context7.com/), which is a service agents can use for up-to-date API docs
 * [A sufficiently detailed spec is the code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code), remember, the [Silver Bullet](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)?
 * the [Kilo](https://kilo.ai/) orchestrator uses [memory banks](https://kilo.ai/features/memory-bank)
