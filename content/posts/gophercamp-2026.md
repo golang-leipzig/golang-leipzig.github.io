@@ -14,11 +14,11 @@ April 2026 in beautiful [Brno](https://en.wikipedia.org/wiki/Brno), Czech Republ
 
 > [https://gophercamp.cz/](https://gophercamp.cz/), Two days of Go programming excellence in Brno, Czech Republic
 
+[![](/images/screenshot-2026-04-01-224412-gophercamp-brno-2026.png)](https://gophercamp.cz/)
+
 We are lucky to have some 10% discount code for the event, if you are interested, please reach out.
 
-[![](/images/7961816710_0f42f6530d_b.jpg)](https://www.flickr.com/photos/french-disko/7961816710/)
-
-----
+[![](/images/7961816710_0f42f6530d_b-s.jpg)](https://www.flickr.com/photos/french-disko/7961816710/)
 
 [Join our meetup](https://www.meetup.com/Leipzig-Golang/) to get notified of upcoming events.
 
