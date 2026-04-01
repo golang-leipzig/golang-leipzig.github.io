@@ -1,0 +1,77 @@
+---
+title: "Hybrid Meetup #58 wrap-up"
+date: 2026-04-01T08:30:00+01:00
+draft: true
+tags:
+- summary
+- meetup
+---
+
+### Agentic Coding with Beads
+
+Hybrid meetup #58 took place on Tuesday [Mar 31, 2026 19:00
+CET](https://www.meetup.com/leipzig-golang/events/312537698/) and we had a
+great presentation by [Akim Zmerli](https://www.linkedin.com/in/akimzmerli/) on
+[beads](https://github.com/steveyegge/beads) and agentic coding in general.
+
+Coding with AI or agentic coding has both upsides and downsides:
+
+While it can **fill in blanks** in documentation, **help debug** or to quickly
+get up to speed with **new libraries**, the models also happily fill in the
+blanks in the requirements, orienting themselves on patterns learned from
+publicly available, average, code (but [synthetic
+data](https://arxiv.org/pdf/2601.06953) is becoming more popular as well). A language model
+can be a learning tool, or [erode skills](https://arxiv.org/pdf/2601.20245):
+
+> The erosion of conceptual understanding, code reading, and debugging skills
+> that we measured among participants using AI assistance suggests that workers
+> acquiring new skills should be mindful of their reliance on AI during the
+> learning process.
+
+In general, model may misunderstand and misunderstand in [strange
+ways](https://arxiv.org/pdf/2506.21521):
+
+> success on benchmarks only demonstrates potemkin understanding: the illusion
+> of understanding driven by answers irreconcilable with how any human would
+> interpret a concept [...] potemkins are ubiquitous across models, tasks, and
+> domains
+
+### Taming models
+
+Building a harness around an LLM can be seen as a consequence of its
+probabilistic character. Beads is an agent memory system, aiming to steer an
+agent through complex tasks by building a local, graph-based issue tracker.
+
+Beads allows to formulate different types of tasks:
+
+* bug
+* feature
+* task (default)
+* epic
+* chore
+* decision
+
+You can manually describe those, or even let the agent decompose a more complex
+problem into subtasks. Tasks can have detailed descriptions, estimates,
+acceptance criteria and other common features. While running
+
+## Misc
+
+* [Context7](https://context7.com/), which is a service agents can use for up-to-date API docs
+* [A sufficiently detailed spec is the code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code), remember, the [Silver Bullet](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)?
+* the [Kilo](https://kilo.ai/) orchestrator uses [memory banks](https://kilo.ai/features/memory-bank)
+
+## Leaks and recursion
+
+LLM [GLM](https://z.ai/blog/glm-5) taking a few minutes to analyze the source
+code of an agentic coding harness (that
+[leaked](http://web.archive.org/web/20260331105520/https://x.com/Fried_rice/status/2038894956459290963)).
+
+[![](/images/2026-04-01-an-agent-analyzing-an-agentic-coding-harness.gif)](/images/2026-04-01-an-agent-analyzing-an-agentic-coding-harness.gif)
+
+
+Thanks again [Akim](https://www.linkedin.com/in/akimzmerli/) for the well structured and engaging presentation.
+
+----
+
+[Join our meetup](https://www.meetup.com/de-DE/leipzig-golang/) to get notified of upcoming events.
