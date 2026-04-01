@@ -71,7 +71,7 @@ and a kanban board.
 The talk highlighed a few Go projects, too:
 
 * [dolt](https://github.com/dolthub/dolt), git for MySQL
-* [charm](https://github.com/charmbracelet) universe (we talked about it in [#28](/posts/meetup-28-wrapup)
+* [charm](https://github.com/charmbracelet) universe (we talked about it in [#28](/posts/meetup-28-wrapup), [miku/glamline](https://github.com/miku/glamline))
 * [micasa](https://github.com/micasa-dev/micasa), home maintenance in a TUI
 * [gastown](https://github.com/gastownhall/gastown), multi-agent workspace manager, by the author of beads
 
