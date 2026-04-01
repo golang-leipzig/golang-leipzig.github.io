@@ -77,7 +77,7 @@ The talk highlighed a few Go projects, too:
 
 Note that Steve Yegge layed out in depth a vision for a pure agentic software
 world in [Welcome to Gas
-Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04). The
+Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) (34 min read). The
 setup reminds one of the [set of markdown
 files](https://github.com/garrytan/gstack) that were framed as virtual
 engineering team.
