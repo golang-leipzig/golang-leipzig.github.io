@@ -118,7 +118,9 @@ response](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ):
 
 LLM [GLM](https://z.ai/blog/glm-5) taking a few minutes to analyze the source
 code of an agentic coding harness (that
-[leaked](http://web.archive.org/web/20260331105520/https://x.com/Fried_rice/status/2038894956459290963)).
+[leaked](http://web.archive.org/web/20260331105520/https://x.com/Fried_rice/status/2038894956459290963))
+- summary report:
+[2026-04-01-CC-BY-GLM.md](/downloads/lgo-58/2026-04-01-CC-BY-GLM.md).
 
 [![](/images/2026-04-01-an-agent-analyzing-an-agentic-coding-harness.gif)](/images/2026-04-01-an-agent-analyzing-an-agentic-coding-harness.gif)
 
