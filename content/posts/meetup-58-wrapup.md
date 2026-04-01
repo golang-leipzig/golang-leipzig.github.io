@@ -7,12 +7,14 @@ tags:
 - meetup
 ---
 
-### Agentic Coding with Beads
+## Agentic Coding with Beads
 
 Hybrid meetup #58 took place on Tuesday [Mar 31, 2026 19:00
 CET](https://www.meetup.com/leipzig-golang/events/312537698/) and we had a
 great presentation by [Akim Zmerli](https://www.linkedin.com/in/akimzmerli/) on
 [beads](https://github.com/steveyegge/beads) and agentic coding in general.
+
+[![](/downloads/lgo-58/spot-s.jpg)](/downloads/lgo-58/spot.jpg)
 
 Coding with AI or agentic coding has both upsides and downsides:
 
@@ -20,8 +22,8 @@ While it can **fill in blanks** in documentation, **help debug** or to quickly
 get up to speed with **new libraries**, the models also happily fill in the
 blanks in the requirements, orienting themselves on patterns learned from
 publicly available, average, code (but [synthetic
-data](https://arxiv.org/pdf/2601.06953) is becoming more popular as well). A language model
-can be a learning tool, or [erode skills](https://arxiv.org/pdf/2601.20245):
+data](https://arxiv.org/pdf/2601.06953) (02/2026) is becoming more popular as well). A language model
+can be a learning tool, or [erode skills](https://arxiv.org/pdf/2601.20245) (02/2026):
 
 > The erosion of conceptual understanding, code reading, and debugging skills
 > that we measured among participants using AI assistance suggests that workers
@@ -29,7 +31,7 @@ can be a learning tool, or [erode skills](https://arxiv.org/pdf/2601.20245):
 > learning process.
 
 In general, model may misunderstand and misunderstand in [strange
-ways](https://arxiv.org/pdf/2506.21521):
+ways](https://arxiv.org/pdf/2506.21521) (06/2025):
 
 > success on benchmarks only demonstrates potemkin understanding: the illusion
 > of understanding driven by answers irreconcilable with how any human would
@@ -53,10 +55,35 @@ Beads allows to formulate different types of tasks:
 
 You can manually describe those, or even let the agent decompose a more complex
 problem into subtasks. Tasks can have detailed descriptions, estimates,
-acceptance criteria and other common features. While running
+acceptance criteria and other common features. Beads is quite extensible and
+can also be used programmatically to build additional layers.
+
+[![](/images/lgo-58-beads-ops.png)](https://github.com/gastownhall/beads/tree/main/examples/library-usage)
+
+### Dashboard for beads
+
+Akim also demod [kitty-beads](https://github.com/AkimZmerli/kitty-beads), a web
+interface for beads, grouping issue, supporting terminal access in the browser
+and a kanban board.
+
+### AI and Go
+
+Rob Pike is
+[angered](https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s), and the
+issue of AI-generated changelists came up on
+[golang-dev](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE), recently.
+Russ Cox took the time to elaborate on the issue in a [longer
+response](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ):
+
+> AI tools have seduced many people into a false belief that these fundamentals
+> no longer apply. People brag about codebases of hundreds of thousands of
+> lines that have never been viewed by people, churned out in record time. On
+> closer inspection, these codebases inevitably turn out to be more like
+> dancing elephants than useful engineering artifacts.
 
 ## Misc
 
+* if you use CC, also give [pi](https://github.com/badlogic/pi-mono) a try
 * [Context7](https://context7.com/), which is a service agents can use for up-to-date API docs
 * [A sufficiently detailed spec is the code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code), remember, the [Silver Bullet](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)?
 * the [Kilo](https://kilo.ai/) orchestrator uses [memory banks](https://kilo.ai/features/memory-bank)
