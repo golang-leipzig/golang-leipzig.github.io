@@ -6,8 +6,15 @@
     <description>Recent content on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 22:30:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gophercamp 2026 Brno</title>
+      <link>https://golangleipzig.space/posts/gophercamp-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 22:30:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/posts/gophercamp-2026/</guid>
+      <description>&lt;h2 id=&#34;gophercamp-2026&#34;&gt;Gophercamp 2026&lt;/h2&gt;&#xA;&lt;p&gt;The largest Go conference in central Europe is taking place this month 23-24&#xA;April 2026 in beautiful &lt;a href=&#34;https://en.wikipedia.org/wiki/Brno&#34;&gt;Brno&lt;/a&gt;, Czech Republic.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gophercamp.cz/&#34;&gt;https://gophercamp.cz/&lt;/a&gt;, Two days of Go programming excellence in Brno, Czech Republic&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;We are lucky to have some 10% discount code for the event, if you are interested, please reach out.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brno&#34;&gt;&lt;img src=&#34;https://golangleipzig.space/images/7961816710_0f42f6530d_b.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/Leipzig-Golang/&#34;&gt;Join our meetup&lt;/a&gt; to get notified of upcoming events.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hybrid Meetup #58 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-58-wrapup/</link>
