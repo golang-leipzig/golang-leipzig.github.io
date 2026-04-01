@@ -16,7 +16,7 @@ April 2026 in beautiful [Brno](https://en.wikipedia.org/wiki/Brno), Czech Republ
 
 We are lucky to have some 10% discount code for the event, if you are interested, please reach out.
 
-[![](/images/7961816710_0f42f6530d_b.jpg)](https://en.wikipedia.org/wiki/Brno)
+[![](/images/7961816710_0f42f6530d_b.jpg)](https://www.flickr.com/photos/french-disko/7961816710/)
 
 ----
 
