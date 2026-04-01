@@ -114,6 +114,7 @@ Just CTRL-C to stop the music.
 [repoctx](https://github.com/miku/repoctx), ...)
 * mandate to use AI tools varies across companies; depending on your context,
   AI tools speed you up or even slow you down
+* if generating code is cheap and fast, bottlenecks appear elsewhere, e.g. in review
 * switch quickly between model providers for claude code, with [claude-switch](https://github.com/miku/claude-switch)
 
 ## Leaks and recursion
