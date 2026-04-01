@@ -8,10 +8,10 @@ Leipzig Gophers is a Go programming language meetup group based in Leipzig, Germ
 
 - **Location**: Leipzig, Germany (hybrid events - in-person and online)
 - **Founded**: 2019
-- **Members**: 750+ (as of 2025)
+- **Members**: 830+ (as of 03/2026)
 - **Events**: 50+ meetups organized since inception
 - **Meeting Format**: Monthly meetups, summer drinkups, lightning talks, presentations
-- **Topics**: Go programming, cloud-native technologies, distributed systems, performance optimization
+- **Topics**: Go programming, cloud-native technologies, distributed systems, AI, performance optimization
 
 ## Recent Activities
 
