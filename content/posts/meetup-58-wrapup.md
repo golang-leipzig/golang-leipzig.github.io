@@ -123,7 +123,7 @@ code of an agentic coding harness (that
 [leaked](http://web.archive.org/web/20260331105520/https://x.com/Fried_rice/status/2038894956459290963)); summary report:
 [2026-04-01-CC-BY-GLM.md](/downloads/lgo-58/2026-04-01-CC-BY-GLM.md); with [glow](https://github.com/charmbracelet/glow) md reader:
 
-> glow -p https://golangleipzig.space/downloads/lgo-58/2026-04-01-CC-BY-GLM.md
+> glow -p https://tinyurl.com/2026-04-01-CC-BY-GLM
 
 [![](/images/2026-04-01-an-agent-analyzing-an-agentic-coding-harness.gif)](/images/2026-04-01-an-agent-analyzing-an-agentic-coding-harness.gif)
 
