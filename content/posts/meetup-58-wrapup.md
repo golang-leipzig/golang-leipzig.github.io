@@ -18,8 +18,8 @@ great presentation by [Akim Zmerli](https://www.linkedin.com/in/akimzmerli/) on
 
 Coding with AI or agentic coding has both upsides and downsides:
 
-While it can **fill in blanks** in documentation, **help debug** or to quickly
-get up to speed with **new libraries**, the models also happily fill in the
+While it can **fill in blanks** in documentation, **help debug** or can quickly
+get you up to speed with **new libraries**, the models also happily fill in the
 blanks in the requirements, orienting themselves on patterns learned from
 publicly available, average, code (but [synthetic
 data](https://arxiv.org/pdf/2601.06953) (02/2026) is becoming more popular as well). A language model
