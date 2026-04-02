@@ -96,9 +96,6 @@ response](https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ):
 > closer inspection, these codebases inevitably turn out to be more like
 > dancing elephants than useful engineering artifacts.
 
-[![](/downloads/lgo-58/dancing-elephant/dancingelephant-xs.gif)](/downloads/lgo-58/dancing-elephant/dancingelephant.gif)
-
-Just CTRL-C to stop the music.
 
 ## Misc
 
