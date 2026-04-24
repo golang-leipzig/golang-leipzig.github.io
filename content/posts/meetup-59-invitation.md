@@ -49,7 +49,7 @@ software development, which is a rapidly developing field.
 We'll meet:
 
 * in person at [Basislager Leipzig](https://basislager.co), at [Peterssteinweg 14, 04107 Leipzig](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8) ([OSM](https://www.openstreetmap.org/node/3504864558))
-* and online via [Jitsi](https://meet.jit.si/LeipzigGophers59)
+* and online via [Google Meet](https://meet.google.com/tgb-juwg-khy)
 
 Join us to discuss security, agents, isolation techniques and more.
 
