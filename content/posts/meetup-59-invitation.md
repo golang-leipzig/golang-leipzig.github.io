@@ -32,7 +32,7 @@ sandbox backends like docker, podman, tart, seabelt - and security modes, using
 [kata](https://katacontainers.io/),
 [firecracker](https://firecracker-microvm.github.io/).
 
-![](/images/56701_fort_york_sm.gif)
+[![](/images/56701_fort_york_sm.gif)](https://etc.usf.edu/clipart/56700/56701/56701_fort_york.htm)
 
 After looking at a agent memory upgrade system in
 [#58](https://golangleipzig.space/posts/meetup-58-wrapup/), we continue our
