@@ -57,5 +57,7 @@ Join us to discuss security, agents, isolation techniques and more.
 
 todo: outreach
 
+https://www.linkedin.com/posts/martin-czygan-58348842_have-you-ever-been-tempted-to-just-use-the-share-7453368841079939072-ntYF
+
 -->
 
