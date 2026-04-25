@@ -14,7 +14,7 @@ Hello, 世界!
 For meetup #59 on Tuesday [Apr 28, 2026 19:00
 CET](https://www.meetup.com/leipzig-golang/events/312537718/) we are thrilled
 to welcome back [Karl Stenerud](https://www.linkedin.com/in/kstenerud/), who
-will be presenting one of his recent projects: [yoloAI](https://yoloai.dev/):
+will be presenting (remote) one of his recent projects: [yoloAI](https://yoloai.dev/):
 
 > Run AI coding agents freely in a disposable sandbox. Review exactly what
 > changed. Apply what you want.
@@ -43,7 +43,7 @@ software development, which is a rapidly developing field.
 
 * 18:45 Doors open
 * 19:00 Welcome
-* 19:10 yoloAI
+* 19:10 yoloAI (remote presentation)
 * 20:00 Open discussion
 
 We'll meet:
