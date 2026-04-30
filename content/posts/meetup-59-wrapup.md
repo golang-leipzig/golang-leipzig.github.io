@@ -32,7 +32,7 @@ changes to your project or keep working.
 
 ![](/images/yoloai-terminal.svg)
 
-You can use it with Claude Code or any other agent and it supports a variety of
+You can use it with Claude Code and [other agents](https://github.com/kstenerud/yoloai/blob/7ee813cab5d41facba547423805db828b3d5ea51/agent/agent.go#L94-L301) and it supports a variety of
 isolation approaches, sandbox backends like [docker](https://www.docker.com/), [podman](https://podman.io/), [tart](https://tart.run/) and [seatbelt](https://theapplewiki.com/wiki/Dev:Seatbelt)
 and OCI runtime variants like [runc](https://github.com/opencontainers/runc),
 [gvisor](https://gvisor.dev/), [kata containers](https://katacontainers.io/),
@@ -79,6 +79,11 @@ in Go. The result can be found in the following repo:
 * [wordle in Go repo](https://github.com/kstenerud/agentic-example-wordle-clone)
 
 ![](/images/screenshot-2026-04-30-132259-lgo-59-wordle-climbpng.png)
+
+
+### Other aspects
+
+*
 
 ## Misc
 
