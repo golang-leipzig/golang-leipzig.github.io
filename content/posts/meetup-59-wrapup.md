@@ -15,8 +15,7 @@ excellent presentation by [Karl Stenerud](https://www.linkedin.com/in/kstenerud/
 agentic sandboxing tool [yoloAI](https://yoloai.dev/) and agentic coding workflows in general.
 
 More often than not, security is an afterthought when working with AI coding
-agents, and combined with [*permission
-fatigue*](https://arxiv.org/pdf/2511.17959) this can lead to fatal security
+agents, and combined with *permission fatigue* this can lead to fatal security
 incidents (and mind you, [your agents will turn against you](https://yoloai.dev/posts/ai-agent-threat-landscape/)).
 
 Even more surprising: the isolation and virtualization technology had a very
