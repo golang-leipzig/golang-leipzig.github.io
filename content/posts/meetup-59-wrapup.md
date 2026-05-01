@@ -12,7 +12,7 @@ tags:
 Hybrid meetup #59 took place on Tuesday [Apr 28, 2026 19:00
 CET](https://www.meetup.com/de-de/leipzig-golang/events/312537718) and we had an
 excellent presentation by [Karl Stenerud](https://www.linkedin.com/in/kstenerud/) on his [open source](https://github.com/kstenerud/yoloai)
-agentic sandboxing tool [yoloAI](https://yoloai.dev/) and agentic coding workflows in general.
+agentic sandboxing project [yoloAI](https://yoloai.dev/) and agentic coding workflows in general.
 
 More often than not, security is an afterthought when working with AI coding
 agents, and combined with *permission fatigue* this can lead to fatal security
