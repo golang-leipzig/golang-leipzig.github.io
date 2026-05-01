@@ -1,6 +1,6 @@
 # yoloAI impressions
 
-> 2026-05-01, [yoloai](https://github.com/kstenerud/yoloai), [yoloai.dev](https://yoloai.dev), [#59](https://golangleipzig.space/posts/meetup-59-wrapup/)
+> 2026-05-01, [yoloai](https://github.com/kstenerud/yoloai), [yoloai.dev](https://yoloai.dev), [LGO](https://golangleipzig.space/) [#59](https://golangleipzig.space/posts/meetup-59-wrapup/)
 
 ## Impressions
 
