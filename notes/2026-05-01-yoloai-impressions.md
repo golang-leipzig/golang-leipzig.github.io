@@ -1,6 +1,9 @@
 # yoloAI impressions
 
-> 2026-05-01, [yoloai](https://github.com/kstenerud/yoloai), [yoloai.dev](https://yoloai.dev), [LGO](https://golangleipzig.space/) [#59](https://golangleipzig.space/posts/meetup-59-wrapup/)
+> from [miku](https://github.com/miku), 2026-05-01,
+> [yoloai](https://github.com/kstenerud/yoloai),
+> [yoloai.dev](https://yoloai.dev), [LGO](https://golangleipzig.space/)
+> [#59](https://golangleipzig.space/posts/meetup-59-wrapup/)
 
 ## Impressions
 
@@ -34,9 +37,12 @@ log messages, that could explain what is going on; "assembling base image",
 
 ## Development
 
-* adding a new agent is not too hard, but not requires changes in a couple of places
+* adding a new agent was not too hard (with some agentic ai hints), but requires changes in a couple of places
+* depending on the angle, there may be a bit of churn going forward keeping all
+  sandboxed agent implementations, configurations, etc. up-to-date and in sync
+  with upstream changes
 
-## Summary
+## Quick Summary
 
 Great sandboxing tool that requires a bit of setup, but once that's done offers
 a familiar lifecycle for secure agentic coding. Agent agnostic, but requires
