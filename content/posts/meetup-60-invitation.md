@@ -23,6 +23,8 @@ Nix/NixOS are similar to other immutable Linux distributions, like
 [Silverblue](https://fedoraproject.org/silverblue/) or
 [Bazzite](https://bazzite.gg/).
 
+![](static/images/lgo-60-nixos-fastfetch.png)
+
 Becoming familiar with the Nix configuration language can be a challenge, but
 one that a well instructed tutor may help with.
 
