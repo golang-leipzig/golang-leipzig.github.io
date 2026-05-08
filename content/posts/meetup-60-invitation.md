@@ -30,6 +30,14 @@ one that a well instructed tutor may help with.
 > enable personalized learning and intelligent tutoring [LLM Agents for
 > Education: Advances and Applications](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.743.pdf) (11/2025)
 
+Why reproducible and immutable distributions play a role? [Justin
+Garrison](https://justingarrison.com/blog/state-of-immutable-linux/) says:
+
+> It's 2026, if you’re not using something immutable (or at least reproducable)
+> you're doing more maintenance work than you should. [blog post recapping talk
+> from [Southern California Linux Expo
+> 23x](https://www.socallinuxexpo.org/scale/23x)], 03/2026, PASADENA, CA
+
 ### Schedule
 
 * 18:45 Doors open
