@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #60 invitation"
 date: 2026-05-08T10:00:00+02:00
-draft: true
+draft: false
 tags:
 - announcement
 - meetup
