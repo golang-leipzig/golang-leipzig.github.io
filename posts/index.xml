@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:00:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #60 invitation</title>
+      <link>https://golangleipzig.space/posts/meetup-60-invitation/</link>
+      <pubDate>Fri, 08 May 2026 10:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/posts/meetup-60-invitation/</guid>
+      <description>&lt;h2 id=&#34;learn-go-and-nixos-deployments-with-large-language-models&#34;&gt;Learn Go and NixOS deployments with large language models&lt;/h2&gt;&#xA;&lt;p&gt;Hello, 世界!&lt;/p&gt;&#xA;&lt;p&gt;When used sensibly, language models can be tutors, too. For meetup #60 on&#xA;Tuesday &lt;a href=&#34;https://www.meetup.com/leipzig-golang/events/312537727&#34;&gt;May 26, 2026 19:00&#xA;CET&lt;/a&gt; we are really&#xA;happy to have &lt;a href=&#34;https://www.linkedin.com/in/plumps/&#34;&gt;Maxime&lt;/a&gt; dive into Nix/NixOS&#xA;with the help of language models.&lt;/p&gt;&#xA;&lt;p&gt;Nix is a functional package manager and its immutable traits enable robust,&#xA;reproducable deployments of Go (and other) projects. The high level goals of&#xA;Nix/NixOS are similar to other immutable Linux distributions, like&#xA;&lt;a href=&#34;https://fedoraproject.org/silverblue/&#34;&gt;Silverblue&lt;/a&gt; or&#xA;&lt;a href=&#34;https://bazzite.gg/&#34;&gt;Bazzite&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hybrid Meetup #59 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-59-wrapup/</link>
