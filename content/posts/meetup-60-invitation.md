@@ -17,12 +17,11 @@ CET](https://www.meetup.com/leipzig-golang/events/312537727) we are really
 happy to have [Maxime](https://www.linkedin.com/in/plumps/) dive into Nix/NixOS
 with the help of language models.
 
-Nix is a functional package manager and its immutable traits enable robust
-deployments of Go (and other) projects. The high level goals of Nix/NixOS are
-similar to other immutable Linux distributions, like
+Nix is a functional package manager and its immutable traits enable robust,
+reproducable deployments of Go (and other) projects. The high level goals of
+Nix/NixOS are similar to other immutable Linux distributions, like
 [Silverblue](https://fedoraproject.org/silverblue/) or
-[Bazzite](https://bazzite.gg/). Those can be [weirdly
-great](https://www.xda-developers.com/i-used-immutable-linux-distro-for-a-week/)!
+[Bazzite](https://bazzite.gg/).
 
 Becoming familiar with the Nix configuration language can be a challenge, but
 one that a well instructed tutor may help with.
