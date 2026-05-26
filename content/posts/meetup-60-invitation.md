@@ -58,5 +58,7 @@ Join us to discuss robust Go deployments, language models as learning tools and 
 
 todo: outreach
 
+https://www.linkedin.com/posts/martin-czygan-58348842_how-about-using-llms-to-learn-about-reproducible-share-7464958222257324033-vMnY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+
 -->
 
