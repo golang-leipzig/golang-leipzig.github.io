@@ -50,7 +50,7 @@ Garrison](https://justingarrison.com/blog/state-of-immutable-linux/) says:
 We'll meet:
 
 * in person at [Basislager Leipzig](https://basislager.co), at [Peterssteinweg 14, 04107 Leipzig](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8) ([OSM](https://www.openstreetmap.org/node/3504864558))
-* and online via [Google Meet](https://meet.google.com/poy-koue-spc)
+* and online via [Google Meet](https://meet.google.com/drk-bptj-xss)
 
 Join us to discuss robust Go deployments, language models as learning tools and more!
 
