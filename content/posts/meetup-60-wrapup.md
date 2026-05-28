@@ -16,8 +16,8 @@ LLM assisted active learning, the slides can be found [here](/downloads/lgo-60-n
 
 [![](/images/lgo-60-nix-llm-slides-box.png)](/downloads/lgo-60-nix-llm-slides.pdf)
 
-Some confusion around Nix is that it can mean a couple of different things: a
-language, a package manager and an operating system.
+Some confusion around Nix is that it can mean a couple of different things: [a
+language](https://nix.dev/tutorials/nix-language.html), [a package manager](https://en.wikipedia.org/wiki/Nix_(package_manager)) and an [operating system](https://en.wikipedia.org/wiki/NixOS). You can start to use the nix package manager today allow to gradually get acquainted with
 
 The learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
 
@@ -28,8 +28,11 @@ The learning with an LLM angle was illustrated on Nix examples, but the ideas ar
 
 
 
+
+
 ## Misc
 
+* The nix package repository is one of the most comprehesive ones, see: [Repository statistics](https://repology.org/repositories/statistics/newest), with over 142992 packages, [AUR](https://repology.org/repository/aur) has 112992 (2026-05-28).
 * Nix based tools that help setting update development environments: [flox](https://flox.dev/), [devenv](https://devenv.sh/), ...
 * The past decade has seen mostly container based attempts at reproducibility, with [some caveats](https://arxiv.org/pdf/2601.12811):
 
@@ -41,6 +44,7 @@ The learning with an LLM angle was illustrated on Nix examples, but the ideas ar
 
 * [ostree](https://en.wikipedia.org/wiki/OSTree) spawned a set of distributions
   that build on the git-like model for bootable filesystem trees
+* [clan.lol](https://clan.lol/), a declarative framework for managing fleets of machines without a central controller
 
 ## Thanks!
 
