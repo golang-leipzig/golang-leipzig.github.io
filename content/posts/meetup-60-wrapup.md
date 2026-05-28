@@ -17,7 +17,10 @@ LLM assisted active learning, the slides can be found [here](/downloads/lgo-60-n
 [![](/images/lgo-60-nix-llm-slides-box.png)](/downloads/lgo-60-nix-llm-slides.pdf)
 
 Some confusion around Nix is that it can mean a couple of different things: [a
-language](https://nix.dev/tutorials/nix-language.html), [a package manager](https://en.wikipedia.org/wiki/Nix_(package_manager)) and an [operating system](https://en.wikipedia.org/wiki/NixOS). You can start to use the nix package manager today allow to gradually get acquainted with
+language](https://nix.dev/tutorials/nix-language.html), [a package
+manager](https://en.wikipedia.org/wiki/Nix_(package_manager)) and an [operating
+system](https://en.wikipedia.org/wiki/NixOS). You can start to use the nix
+package manager today allow to gradually get acquainted with the ecosystem.
 
 The learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
 
