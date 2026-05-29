@@ -6,8 +6,15 @@
     <description>Recent content in Meetup on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:00:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Meetup #60 wrap-up</title>
+      <link>https://golangleipzig.space/posts/meetup-60-wrapup/</link>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/posts/meetup-60-wrapup/</guid>
+      <description>&lt;h2 id=&#34;nix-go-and-learning-with-llms&#34;&gt;Nix, Go and learning with LLMs&lt;/h2&gt;&#xA;&lt;p&gt;Hybrid meetup #60 took place on Tuesday &lt;a href=&#34;https://www.meetup.com/leipzig-golang/events/312537727&#34;&gt;May 26, 2026 19:00&#xA;CET&lt;/a&gt; and we had an&#xA;great presentation by &lt;a href=&#34;https://www.linkedin.com/in/plumps/&#34;&gt;Maxime&lt;/a&gt; from &lt;a href=&#34;https://mxmlabs.de/&#34;&gt;mxmlabs&lt;/a&gt; on Nix and&#xA;LLM assisted active learning, the slides can be found &lt;a href=&#34;https://golangleipzig.space/downloads/lgo-60-nix-llm-slides.pdf&#34;&gt;here&lt;/a&gt; and we have &lt;a href=&#34;https://youtu.be/vMZeDe8wJu8&#34;&gt;a recording, too&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golangleipzig.space/downloads/lgo-60-nix-llm-slides.pdf&#34;&gt;&lt;img src=&#34;https://golangleipzig.space/images/lgo-60-nix-llm-slides-box.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some confusion around Nix is that it can mean a couple of different things: &lt;a href=&#34;https://nix.dev/tutorials/nix-language.html&#34;&gt;a&#xA;language&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Nix_(package_manager)&#34;&gt;a package&#xA;manager&lt;/a&gt; and an &lt;a href=&#34;https://en.wikipedia.org/wiki/NixOS&#34;&gt;operating&#xA;system&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The main concept of nix is the &lt;a href=&#34;https://nix.dev/manual/nix/2.25/language/derivations&#34;&gt;derivation&lt;/a&gt;:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hybrid Meetup #60 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-60-invitation/</link>
