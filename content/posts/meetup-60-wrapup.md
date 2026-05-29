@@ -19,8 +19,17 @@ LLM assisted active learning, the slides can be found [here](/downloads/lgo-60-n
 Some confusion around Nix is that it can mean a couple of different things: [a
 language](https://nix.dev/tutorials/nix-language.html), [a package
 manager](https://en.wikipedia.org/wiki/Nix_(package_manager)) and an [operating
-system](https://en.wikipedia.org/wiki/NixOS). You can start to use the nix
-package manager today allow to gradually get acquainted with the ecosystem.
+system](https://en.wikipedia.org/wiki/NixOS).
+
+The main concept of nix is the [derivation](https://nix.dev/manual/nix/2.25/language/derivations):
+
+> a specification for running an executable on precisely defined input files to
+> repeatably produce output files at uniquely determined file system paths
+
+A great property of Nix is that it allows for gradual adoption. A downside of a
+core abstraction in Nix, the [store](https://nix.dev/manual/nix/2.25/store/),
+is that when run locally, it can consume more space than traditional
+approaches, due to the strict isolation and immutability.
 
 The learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
 
