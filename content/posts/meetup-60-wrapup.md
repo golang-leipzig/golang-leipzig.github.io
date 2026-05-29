@@ -24,13 +24,13 @@ package manager today allow to gradually get acquainted with the ecosystem.
 
 The learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
 
-* Translate: style transfer something new to something known, e.g. nix language to Pseudocode or similar
-* Evaluation (or execution) Tracing (for simple cases)
-* Socratic debugging, using the [socratic method](https://en.wikipedia.org/wiki/Socratic_method) (below an early computer based socratic tutoring system, called "WHY", [from 1977](https://files.eric.ed.gov/fulltext/ED138297.pdf))
+* [Translate](http://localhost:1313/downloads/lgo-60-nix-llm-slides.pdf#page=13): style transfer something new to something known, e.g. nix language to Pseudocode or similar
+* Evaluation (or execution) [Tracing](http://localhost:1313/downloads/lgo-60-nix-llm-slides.pdf#page=14) (for simple cases)
+* [Socratic debugging](http://localhost:1313/downloads/lgo-60-nix-llm-slides.pdf#page=15), using the [socratic method](https://en.wikipedia.org/wiki/Socratic_method) (below an early computer based socratic tutoring system, called "WHY", [from 1977](https://files.eric.ed.gov/fulltext/ED138297.pdf))
 
 [![](/meetup-60/screenshot-2026-05-28-222132-dialogue-with-the-system.png)](https://files.eric.ed.gov/fulltext/ED138297.pdf#page=9)
 
-* Three Variations; learn by comparing solutions across competency levels
+* [Three Variations](http://localhost:1313/downloads/lgo-60-nix-llm-slides.pdf#page=16); learn by comparing solutions across competency levels
   (below screencast shows an
 [DFS](https://en.wikipedia.org/wiki/Depth-first_search) implementation with
 mostly the same prompt, just varying style (**beginner**, **expert**, **compact**), [gemma4](https://ai.google.dev/gemma/docs/core/model_card_4) via [ollama](https://ollama.com/library/gemma4:latest) (8B, Q4KM) LLM
