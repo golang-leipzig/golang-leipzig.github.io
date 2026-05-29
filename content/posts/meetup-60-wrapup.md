@@ -31,7 +31,7 @@ core abstraction in Nix, the [store](https://nix.dev/manual/nix/2.25/store/),
 is that when run locally, it can consume more space than traditional
 approaches, due to the strict isolation and immutability.
 
-The learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
+The topic of learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
 
 * [Translate](http://localhost:1313/downloads/lgo-60-nix-llm-slides.pdf#page=13): style transfer something new to something known, e.g. nix language to Pseudocode or similar
 * Evaluation (or execution) [Tracing](http://localhost:1313/downloads/lgo-60-nix-llm-slides.pdf#page=14) (for simple cases)
