@@ -33,7 +33,7 @@ The learning with an LLM angle was illustrated on Nix examples, but the ideas ar
 * Three Variations; learn by comparing solutions across competency levels
   (below screencast shows an
 [DFS](https://en.wikipedia.org/wiki/Depth-first_search) implementation with
-mostly the same prompt, just varying style (**beginner**, **expert**, **compact**), gemma4 (8B, Q4KM) LLM
+mostly the same prompt, just varying style (**beginner**, **expert**, **compact**), [gemma4](https://ai.google.dev/gemma/docs/core/model_card_4) via [ollama](https://ollama.com/library/gemma4:latest) (8B, Q4KM) LLM
 running an [FWD](https://frame.work/de/en/desktop), AMD Strix Halo 128GB):
 
 
