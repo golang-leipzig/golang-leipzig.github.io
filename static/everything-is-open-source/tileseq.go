@@ -28,6 +28,7 @@ import (
 	"log"
 	"math/rand"
 	"os"
+	"sort"
 	"strings"
 )
 
@@ -91,6 +92,60 @@ var palettes = map[string][]color.RGBA{
 		{75, 0, 130, 255},
 		{148, 0, 211, 255},
 	},
+	"forest": {
+		{34, 139, 34, 255},   // forest green
+		{85, 107, 47, 255},   // dark olive
+		{107, 142, 35, 255},  // olive drab
+		{154, 205, 50, 255},  // yellow green
+		{46, 139, 87, 255},   // sea green
+		{0, 100, 0, 255},     // dark green
+		{189, 183, 107, 255}, // dark khaki
+	},
+	"ocean": {
+		{0, 105, 148, 255},   // deep ocean
+		{0, 150, 199, 255},   // cerulean
+		{72, 202, 228, 255},  // sky
+		{144, 224, 239, 255}, // foam
+		{2, 62, 138, 255},    // navy
+		{0, 180, 216, 255},   // bright cyan-blue
+		{173, 232, 244, 255}, // pale aqua
+	},
+	"sunset": {
+		{255, 94, 77, 255},   // coral red
+		{255, 149, 5, 255},   // amber
+		{255, 195, 0, 255},   // golden
+		{199, 0, 57, 255},    // deep rose
+		{144, 12, 63, 255},   // wine
+		{255, 127, 80, 255},  // coral
+		{88, 24, 69, 255},    // dusk purple
+	},
+	"candy": {
+		{255, 105, 180, 255}, // hot pink
+		{255, 182, 193, 255}, // light pink
+		{152, 245, 255, 255}, // baby cyan
+		{186, 156, 255, 255}, // lavender
+		{255, 250, 150, 255}, // lemon
+		{170, 255, 195, 255}, // mint
+		{255, 160, 200, 255}, // bubblegum
+	},
+	"earth": {
+		{139, 90, 43, 255},   // saddle brown
+		{160, 120, 80, 255},  // clay
+		{205, 170, 125, 255}, // tan
+		{120, 100, 60, 255},  // umber
+		{222, 184, 135, 255}, // burlywood
+		{101, 67, 33, 255},   // dark brown
+		{188, 158, 130, 255}, // sand
+	},
+	"miami": {
+		{0, 255, 209, 255},   // turquoise
+		{255, 0, 144, 255},   // magenta-pink
+		{255, 209, 0, 255},   // yellow
+		{120, 0, 255, 255},   // violet
+		{0, 209, 255, 255},   // cyan
+		{255, 110, 199, 255}, // pink
+		{72, 255, 0, 255},    // lime
+	},
 }
 
 func paletteNames() string {
@@ -98,7 +153,7 @@ func paletteNames() string {
 	for n := range palettes {
 		names = append(names, n)
 	}
-	// stable-ish, order does not matter for the help text
+	sort.Strings(names)
 	return strings.Join(names, ", ")
 }
 
@@ -159,57 +214,79 @@ var font = map[rune][]string{
 	'\'': {"00100", "00100", "01000", "00000", "00000", "00000", "00000"},
 }
 
+// blockSize returns the width of the widest line and the total height of all
+// lines stacked vertically, both in tiles.
+func blockSize(lines []string, scale, gap, lineGap int) (w, h int) {
+	advance := glyphW*scale + gap*scale
+	for _, ln := range lines {
+		n := len([]rune(ln))
+		lw := 0
+		if n > 0 {
+			lw = n*advance - gap*scale
+		}
+		if lw > w {
+			w = lw
+		}
+	}
+	h = len(lines)*glyphH*scale + (len(lines)-1)*lineGap*scale
+	if h < 0 {
+		h = 0
+	}
+	return w, h
+}
+
 // textMask builds a boolean grid (rows x cols) where true marks a tile that
-// belongs to the rendered text. The text is scaled by scale (font pixel ->
-// scale x scale tiles) and centered on the grid. Characters that do not fit on
-// the grid are dropped from the right with a warning. bold thickens the glyph
-// strokes by dilating the resulting mask bold times.
-func textMask(text string, cols, rows, scale, gap, bold int) [][]bool {
+// belongs to the rendered text. Each line is scaled by scale (font pixel ->
+// scale x scale tiles), centered horizontally, and the whole block of lines is
+// centered vertically with lineGap font-pixels between lines. Tiles that fall
+// outside the grid are clipped with a warning. bold thickens the glyph strokes
+// by dilating the resulting mask bold times.
+func textMask(lines []string, cols, rows, scale, gap, lineGap, bold int) [][]bool {
 	mask := make([][]bool, rows)
 	for r := range mask {
 		mask[r] = make([]bool, cols)
 	}
 
-	text = strings.ToUpper(text)
-	runes := []rune(text)
-
-	// width of one glyph plus inter-glyph gap, in tiles
 	advance := glyphW*scale + gap*scale
+	lineH := glyphH * scale
 
-	// Total text width in tiles (no trailing gap).
-	totalW := 0
-	if len(runes) > 0 {
-		totalW = len(runes)*advance - gap*scale
-	}
-	totalH := glyphH * scale
-
+	totalW, totalH := blockSize(lines, scale, gap, lineGap)
 	if totalW > cols || totalH > rows {
 		log.Printf("warning: text (%dx%d tiles) does not fully fit the grid (%dx%d); reduce -scale or grow the canvas",
 			totalW, totalH, cols, rows)
 	}
 
-	originX := (cols - totalW) / 2
 	originY := (rows - totalH) / 2
 
-	for i, ch := range runes {
-		glyph, ok := font[ch]
-		if !ok {
-			glyph = font['?']
+	for li, ln := range lines {
+		runes := []rune(strings.ToUpper(ln))
+		lineW := 0
+		if len(runes) > 0 {
+			lineW = len(runes)*advance - gap*scale
 		}
-		gx := originX + i*advance
-		for fy := 0; fy < glyphH; fy++ {
-			row := glyph[fy]
-			for fx := 0; fx < glyphW; fx++ {
-				if row[fx] == '0' || row[fx] == ' ' {
-					continue
-				}
-				// paint a scale x scale block of tiles
-				for sy := 0; sy < scale; sy++ {
-					for sx := 0; sx < scale; sx++ {
-						tx := gx + fx*scale + sx
-						ty := originY + fy*scale + sy
-						if tx >= 0 && tx < cols && ty >= 0 && ty < rows {
-							mask[ty][tx] = true
+		originX := (cols - lineW) / 2
+		lineY := originY + li*(lineH+lineGap*scale)
+
+		for i, ch := range runes {
+			glyph, ok := font[ch]
+			if !ok {
+				glyph = font['?']
+			}
+			gx := originX + i*advance
+			for fy := 0; fy < glyphH; fy++ {
+				row := glyph[fy]
+				for fx := 0; fx < glyphW; fx++ {
+					if row[fx] == '0' || row[fx] == ' ' {
+						continue
+					}
+					// paint a scale x scale block of tiles
+					for sy := 0; sy < scale; sy++ {
+						for sx := 0; sx < scale; sx++ {
+							tx := gx + fx*scale + sx
+							ty := lineY + fy*scale + sy
+							if tx >= 0 && tx < cols && ty >= 0 && ty < rows {
+								mask[ty][tx] = true
+							}
 						}
 					}
 				}
@@ -261,14 +338,18 @@ func dilate(in [][]bool) [][]bool {
 
 type config struct {
 	text      string
+	file      string
 	width     int
 	height    int
 	tile      int
 	scale     int
 	gap       int
+	lineGap   int
 	bold      int
 	palette   string
 	textColor string
+	dim       float64
+	dimPad    int
 	output    string
 	seed      int64
 	delay     int
@@ -279,15 +360,19 @@ type config struct {
 
 func main() {
 	cfg := config{}
-	flag.StringVar(&cfg.text, "text", "HELLO", "text to render (ASCII letters, digits and . , ! ? - : ')")
+	flag.StringVar(&cfg.text, "text", "HELLO", "text to render; use \\n for line breaks (ASCII letters, digits and . , ! ? - : ')")
+	flag.StringVar(&cfg.file, "file", "", "read text from this file (one animation line per file line); overrides -text")
 	flag.IntVar(&cfg.width, "width", 640, "canvas width in pixels")
 	flag.IntVar(&cfg.height, "height", 360, "canvas height in pixels")
 	flag.IntVar(&cfg.tile, "tile", 16, "tile size in pixels")
 	flag.IntVar(&cfg.scale, "scale", 0, "font scale in tiles per font-pixel (0 = auto-fit)")
 	flag.IntVar(&cfg.gap, "gap", 1, "gap between letters in font-pixels")
+	flag.IntVar(&cfg.lineGap, "linegap", 1, "vertical gap between text lines in font-pixels")
 	flag.IntVar(&cfg.bold, "bold", 0, "stroke thickness: number of dilation passes (0 = thin)")
 	flag.StringVar(&cfg.palette, "palette", "neon", "palette: "+paletteNames())
 	flag.StringVar(&cfg.textColor, "textcolor", "", "revealed-text color: #rrggbb hex or a name (white, black, red, green, blue, yellow, cyan, magenta); empty = palette default")
+	flag.Float64Var(&cfg.dim, "dim", 1.0, "brightness of the background behind/around the text (0=black .. 1=no dimming)")
+	flag.IntVar(&cfg.dimPad, "dimpad", 1, "padding in tiles around the text included in the dimmed region")
 	flag.StringVar(&cfg.output, "output", "tileseq.gif", "output GIF filename")
 	flag.Int64Var(&cfg.seed, "seed", 42, "random seed")
 	flag.IntVar(&cfg.delay, "delay", 6, "frame delay in 1/100s")
@@ -318,18 +403,34 @@ func run(cfg config) error {
 		return fmt.Errorf("canvas too small for tile size: %dx%d / %d", cfg.width, cfg.height, cfg.tile)
 	}
 
+	lines, err := textLines(cfg)
+	if err != nil {
+		return err
+	}
+
 	// Auto-fit the font scale if the user did not pick one.
 	scale := cfg.scale
 	if scale <= 0 {
-		scale = autoScale(cfg.text, cols, rows, cfg.gap)
+		scale = autoScale(lines, cols, rows, cfg.gap, cfg.lineGap)
 	}
 
-	mask := textMask(cfg.text, cols, rows, scale, cfg.gap, cfg.bold)
+	mask := textMask(lines, cols, rows, scale, cfg.gap, cfg.lineGap, cfg.bold)
+
+	// dimRegion marks tiles behind and around the text that get dimmed to make
+	// the letters stand out. It is the text mask grown by dimPad tiles.
+	var dimRegion [][]bool
+	if cfg.dim < 1.0 {
+		dimRegion = mask
+		for i := 0; i < cfg.dimPad; i++ {
+			dimRegion = dilate(dimRegion)
+		}
+	}
 
 	// Color indices in the GIF palette:
-	//   0          -> background base (calm dark)
-	//   1          -> text color
-	//   2..2+len-1 -> flicker colors
+	//   0                     -> background base (calm dark)
+	//   1                     -> text color
+	//   2 .. 2+N-1            -> flicker colors (bright)
+	//   2+N .. 2+2N-1         -> dimmed flicker colors (behind the text)
 	bgBase := color.RGBA{18, 18, 22, 255}
 	textColor := pickTextColor(cfg.palette)
 	if cfg.textColor != "" {
@@ -346,6 +447,10 @@ func run(cfg config) error {
 	}
 	flickerStart := 2
 	flickerN := len(pal)
+	// Dimmed variants of each flicker color, indexed at settled+flickerN.
+	for _, c := range pal {
+		gifPalette = append(gifPalette, dimColor(c, cfg.dim))
+	}
 
 	anim := gif.GIF{LoopCount: 0}
 
@@ -386,6 +491,9 @@ func run(cfg config) error {
 				switch {
 				case locked && mask[y][x]:
 					idx = 1 // text
+				case locked && dimRegion != nil && dimRegion[y][x]:
+					// settled, dimmed halo behind the text
+					idx = settled[y][x] + flickerN
 				case locked:
 					idx = settled[y][x] // settled background flicker color
 				default:
@@ -410,8 +518,8 @@ func run(cfg config) error {
 		return fmt.Errorf("encode gif: %w", err)
 	}
 
-	log.Printf("wrote %s: %d frames, grid %dx%d tiles, tile %dpx, scale %d, palette %q",
-		cfg.output, totalFrames, cols, rows, cfg.tile, scale, cfg.palette)
+	log.Printf("wrote %s: %d frames, %d line(s), grid %dx%d tiles, tile %dpx, scale %d, palette %q",
+		cfg.output, totalFrames, len(lines), cols, rows, cfg.tile, scale, cfg.palette)
 	return nil
 }
 
@@ -426,20 +534,57 @@ func fillTile(img *image.Paletted, col, row, tile int, idx uint8) {
 	}
 }
 
-// autoScale picks the largest font scale such that the text fits the grid.
-func autoScale(text string, cols, rows, gap int) int {
-	n := len([]rune(strings.ToUpper(text)))
-	if n == 0 {
-		return 1
-	}
+// autoScale picks the largest font scale such that all lines fit the grid.
+func autoScale(lines []string, cols, rows, gap, lineGap int) int {
 	for s := 12; s >= 1; s-- {
-		totalW := n*(glyphW*s+gap*s) - gap*s
-		totalH := glyphH * s
-		if totalW <= cols && totalH <= rows {
+		w, h := blockSize(lines, s, gap, lineGap)
+		if w <= cols && h <= rows {
 			return s
 		}
 	}
 	return 1
+}
+
+// textLines resolves the lines to render: from -file if given (one animation
+// line per file line), otherwise from -text split on literal "\n". A trailing
+// blank line from a file's final newline is dropped, but interior blank lines
+// are kept so they appear as vertical spacing in the animation.
+func textLines(cfg config) ([]string, error) {
+	var raw string
+	if cfg.file != "" {
+		b, err := os.ReadFile(cfg.file)
+		if err != nil {
+			return nil, fmt.Errorf("read text file: %w", err)
+		}
+		raw = string(b)
+	} else {
+		raw = cfg.text
+	}
+
+	raw = strings.ReplaceAll(raw, "\r\n", "\n")
+	raw = strings.ReplaceAll(raw, "\\n", "\n") // allow literal \n in -text
+	raw = strings.TrimSuffix(raw, "\n")        // ignore one trailing newline
+	lines := strings.Split(raw, "\n")
+	if len(lines) == 0 {
+		lines = []string{""}
+	}
+	return lines, nil
+}
+
+// dimColor scales an RGB color's brightness by f (clamped to [0,1]).
+func dimColor(c color.RGBA, f float64) color.RGBA {
+	if f < 0 {
+		f = 0
+	}
+	if f > 1 {
+		f = 1
+	}
+	return color.RGBA{
+		R: uint8(float64(c.R) * f),
+		G: uint8(float64(c.G) * f),
+		B: uint8(float64(c.B) * f),
+		A: 255,
+	}
 }
 
 // parseColor accepts a "#rrggbb"/"rrggbb" hex value or one of a few common
