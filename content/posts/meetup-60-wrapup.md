@@ -24,18 +24,19 @@ package manager today allow to gradually get acquainted with the ecosystem.
 
 The learning with an LLM angle was illustrated on Nix examples, but the ideas are general:
 
-* Translate: style transfer something new to something known, e.g. nix language to Go
-* Evaluation (or execution) Tracing
-* Socratic debugging
-* Three Variations
+* Translate: style transfer something new to something known, e.g. nix language to Pseudocode or similar
+* Evaluation (or execution) Tracing (for simple cases)
+* Socratic debugging, using the [socratic method](https://en.wikipedia.org/wiki/Socratic_method) (below an early computer based socratic tutoring system, called "WHY", [from 1977](https://files.eric.ed.gov/fulltext/ED138297.pdf))
 
+[![](/meetup-60/screenshot-2026-05-28-222132-dialogue-with-the-system.png)](https://files.eric.ed.gov/fulltext/ED138297.pdf#page=9)
 
+* Three Variations; learn by comparing solutions across competency levels; below screencast shows an [DFS](https://en.wikipedia.org/wiki/Depth-first_search) implementation with mostly the same prompt, just varying style (beginner, expert, compact):
 
-
+[![](/meetup-60/synopsis/synopsis-recording-20260529-123126-github-light.gif)](/meetup-60/synopsis/synopsis-recording-20260529-123126-github-light.gif)
 
 ## Misc
 
-* The nix package repository is one of the most comprehesive ones, see: [Repository statistics](https://repology.org/repositories/statistics/newest), with over 142992 packages, [AUR](https://repology.org/repository/aur) has 112992 (2026-05-28).
+* The nix package repository is one of the most comprehesive ones, see: [Repository statistics](https://repology.org/repositories/statistics/newest), with 142992 packages, [AUR](https://repology.org/repository/aur) has 112992 (2026-05-28).
 * Nix based tools that help setting update development environments: [flox](https://flox.dev/), [devenv](https://devenv.sh/), ...
 * The past decade has seen mostly container based attempts at reproducibility, with [some caveats](https://arxiv.org/pdf/2601.12811):
 
@@ -48,10 +49,11 @@ The learning with an LLM angle was illustrated on Nix examples, but the ideas ar
 * [ostree](https://en.wikipedia.org/wiki/OSTree) spawned a set of distributions
   that build on the git-like model for bootable filesystem trees
 * [clan.lol](https://clan.lol/), a declarative framework for managing fleets of machines without a central controller
+* some ([personal](https://github.com/miku)) examples for "style-transferred" or translated programs: [goliza](https://github.com/miku/goliza), an ELIZA bot rewritten in Go, [animcan](https://github.com/miku/animcan), terminal animations inspired by firew0rks (js), ...
 
 ## Thanks!
 
-Thanks again [Karl](https://www.linkedin.com/in/kstenerud/) for bringing security to agents and for sharing his work with us.
+Thanks again [Maxime](https://www.linkedin.com/in/plumps/) giving us a gimpse into a better way to manage the software stack.
 
 ----
 
