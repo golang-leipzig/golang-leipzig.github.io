@@ -12,7 +12,7 @@ tags:
 Hybrid meetup #60 took place on Tuesday [May 26, 2026 19:00
 CET](https://www.meetup.com/leipzig-golang/events/312537727) and we had an
 great presentation by [Maxime](https://www.linkedin.com/in/plumps/) on Nix and
-LLM assisted active learning, the slides can be found [here](/downloads/lgo-60-nix-llm-slides.pdf):
+LLM assisted active learning, the slides can be found [here](/downloads/lgo-60-nix-llm-slides.pdf) and we have [a recording, too](https://youtu.be/vMZeDe8wJu8):
 
 [![](/images/lgo-60-nix-llm-slides-box.png)](/downloads/lgo-60-nix-llm-slides.pdf)
 
