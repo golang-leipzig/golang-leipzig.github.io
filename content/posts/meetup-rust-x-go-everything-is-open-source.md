@@ -24,7 +24,7 @@ Source](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events
 
 This meetup is intended as an interactive session: Let's compile some demo
 code, C, Go, Rust, etc., and see how far it can be reversed with contemporary
-tooling. Bring your laptop, C, Rust, Go (or other) compliler and your favorite
+tooling. Bring your laptop, C, Rust, Go (or other) compiler and your favorite
 LLM-based assistants.
 
 
