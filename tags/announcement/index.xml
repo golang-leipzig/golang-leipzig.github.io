@@ -6,8 +6,15 @@
     <description>Recent content in Announcement on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:00:00 +0200</lastBuildDate>
     <atom:link href="https://golangleipzig.space/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust x Go: Everything is Open Source</title>
+      <link>https://golangleipzig.space/posts/meetup-rust-x-go-everything-is-open-source/</link>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://golangleipzig.space/posts/meetup-rust-x-go-everything-is-open-source/</guid>
+      <description>&lt;h2 id=&#34;rust-x-go-everything-is-open-source&#34;&gt;Rust x Go: Everything is Open Source&lt;/h2&gt;&#xA;&lt;p&gt;Hello, 世界!&lt;/p&gt;&#xA;&lt;p&gt;We collaborate with &lt;a href=&#34;https://www.meetup.com/rust-modern-systems-programming-in-leipzig&#34;&gt;Rust Leipzig User&#xA;Group&lt;/a&gt; for a&#xA;special event on &lt;a href=&#34;https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/313813937&#34;&gt;2026-06-16 19:00&lt;/a&gt; at &lt;a href=&#34;&#34;&gt;Basislager Coworking&lt;/a&gt;, which we call &lt;a href=&#34;https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/313813937&#34;&gt;Everything is Open&#xA;Source&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Disassembling and decompiling code was once considered a highly complicated&#xA;task, making obfuscating functionality within propriety software a viable&#xA;strategy for decades [&amp;hellip;] LLMs have recently leveled the playing field&#xA;considerably, also in this domain, breaking a great number of assumptions&#xA;once believed to be safe.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hybrid Meetup #60 invitation</title>
       <link>https://golangleipzig.space/posts/meetup-60-invitation/</link>
