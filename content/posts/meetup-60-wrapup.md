@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Meetup #60 wrap-up"
-date: 2026-05-27T10:30:00+02:00
-draft: true
+date: 2026-05-28T12:00:00+02:00
+draft: false
 tags:
 - summary
 - meetup
@@ -11,7 +11,7 @@ tags:
 
 Hybrid meetup #60 took place on Tuesday [May 26, 2026 19:00
 CET](https://www.meetup.com/leipzig-golang/events/312537727) and we had an
-great presentation by [Maxime](https://www.linkedin.com/in/plumps/) on Nix and
+great presentation by [Maxime](https://www.linkedin.com/in/plumps/) from [mxmlabs](https://mxmlabs.de/) on Nix and
 LLM assisted active learning, the slides can be found [here](/downloads/lgo-60-nix-llm-slides.pdf) and we have [a recording, too](https://youtu.be/vMZeDe8wJu8):
 
 [![](/images/lgo-60-nix-llm-slides-box.png)](/downloads/lgo-60-nix-llm-slides.pdf)
