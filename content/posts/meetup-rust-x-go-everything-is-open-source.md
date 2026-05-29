@@ -23,9 +23,9 @@ Source](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events
 > once believed to be safe.
 
 This meetup is intended as an interactive session: Let's compile some demo
-code, C, Go, Rust, etc., and see how far it can be reversed with contemporary
-tooling. Bring your laptop, C, Rust, Go (or other) compiler and your favorite
-LLM-based assistants.
+code, C, Go, Rust, Zig, etc., and see how far it can be reversed with
+contemporary tooling. Bring your laptop, a compiler and your favorite LLM-based
+assistants. Lightning talks on fun topics around binaries welcome.
 
 
 We'll meet in person at [Basislager Leipzig](https://basislager.co), at
