@@ -61,7 +61,7 @@ running an [FWD](https://frame.work/de/en/desktop), AMD Strix Halo 128GB):
 > Dockerfiles yielding reproducible images. -- [Docker Does Not Guarantee Reproducibility](https://arxiv.org/pdf/2601.12811#page=25) (01/2026)
 
 * [ostree](https://en.wikipedia.org/wiki/OSTree) spawned a set of distributions
-  that build on the git-like model for bootable filesystem trees
+  that build on the git-like model for bootable filesystem trees, and also tools like [flatpak](https://docs.flatpak.org/en/latest/under-the-hood.html)
 * [clan.lol](https://clan.lol/), a declarative framework for managing fleets of machines without a central controller
 * some ([personal](https://github.com/miku)) examples for "style-transferred" or translated programs: [goliza](https://github.com/miku/goliza), an ELIZA bot rewritten in Go, [animcan](https://github.com/miku/animcan), terminal animations inspired by [firew0rks](https://github.com/addyosmani/firew0rks) (js), ...
 
