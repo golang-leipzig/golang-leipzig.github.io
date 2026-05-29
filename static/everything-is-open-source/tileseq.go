@@ -235,17 +235,27 @@ func blockSize(lines []string, scale, gap, lineGap int) (w, h int) {
 	return w, h
 }
 
+// cell is the tile-space rectangle occupied by one character, used by the
+// scanning cursor. Coordinates and size are in grid tiles.
+type cell struct {
+	x, y, w, h int
+}
+
 // textMask builds a boolean grid (rows x cols) where true marks a tile that
 // belongs to the rendered text. Each line is scaled by scale (font pixel ->
 // scale x scale tiles), centered horizontally, and the whole block of lines is
 // centered vertically with lineGap font-pixels between lines. Tiles that fall
 // outside the grid are clipped with a warning. bold thickens the glyph strokes
 // by dilating the resulting mask bold times.
-func textMask(lines []string, cols, rows, scale, gap, lineGap, bold int) [][]bool {
+//
+// It also returns the per-character cells in reading order (line by line, left
+// to right, including spaces) so the scanning cursor can sweep over them.
+func textMask(lines []string, cols, rows, scale, gap, lineGap, bold int) ([][]bool, []cell) {
 	mask := make([][]bool, rows)
 	for r := range mask {
 		mask[r] = make([]bool, cols)
 	}
+	var cells []cell
 
 	advance := glyphW*scale + gap*scale
 	lineH := glyphH * scale
@@ -273,6 +283,9 @@ func textMask(lines []string, cols, rows, scale, gap, lineGap, bold int) [][]boo
 				glyph = font['?']
 			}
 			gx := originX + i*advance
+			// Record the cursor cell: the glyph box plus the inter-letter gap
+			// so consecutive cursor blocks form a continuous sweep.
+			cells = append(cells, cell{x: gx, y: lineY, w: advance, h: lineH})
 			for fy := 0; fy < glyphH; fy++ {
 				row := glyph[fy]
 				for fx := 0; fx < glyphW; fx++ {
@@ -297,7 +310,7 @@ func textMask(lines []string, cols, rows, scale, gap, lineGap, bold int) [][]boo
 	for i := 0; i < bold; i++ {
 		mask = dilate(mask)
 	}
-	return mask
+	return mask, cells
 }
 
 // dilate grows every true tile into its 8-connected neighbors. Repeated
@@ -355,6 +368,7 @@ type config struct {
 	delay     int
 	fluxFr    int
 	revealFr  int
+	scanDwell int
 	freezeFr  int
 }
 
@@ -378,6 +392,7 @@ func main() {
 	flag.IntVar(&cfg.delay, "delay", 6, "frame delay in 1/100s")
 	flag.IntVar(&cfg.fluxFr, "flux", 18, "number of fluctuation frames")
 	flag.IntVar(&cfg.revealFr, "reveal", 28, "number of reveal frames")
+	flag.IntVar(&cfg.scanDwell, "scan", 2, "block-cursor scan speed: frames per character after reveal (0 disables)")
 	flag.IntVar(&cfg.freezeFr, "freeze", 30, "number of freeze frames")
 	flag.Parse()
 
@@ -414,7 +429,7 @@ func run(cfg config) error {
 		scale = autoScale(lines, cols, rows, cfg.gap, cfg.lineGap)
 	}
 
-	mask := textMask(lines, cols, rows, scale, cfg.gap, cfg.lineGap, cfg.bold)
+	mask, cells := textMask(lines, cols, rows, scale, cfg.gap, cfg.lineGap, cfg.bold)
 
 	// dimRegion marks tiles behind and around the text that get dimmed to make
 	// the letters stand out. It is the text mask grown by dimPad tiles.
@@ -468,18 +483,34 @@ func run(cfg config) error {
 		}
 	}
 
-	totalFrames := cfg.fluxFr + cfg.revealFr + cfg.freezeFr
+	// Phase boundaries (in frames):
+	//   flux   -> reveal -> scan -> freeze
+	// The scan phase runs a block cursor over each character once the text has
+	// fully settled, then the freeze phase holds the plain frozen view.
+	revealEnd := cfg.fluxFr + cfg.revealFr
+	scanFrames := 0
+	if cfg.scanDwell > 0 {
+		scanFrames = len(cells) * cfg.scanDwell
+	}
+	scanEnd := revealEnd + scanFrames
+	totalFrames := scanEnd + cfg.freezeFr
 
 	for f := 0; f < totalFrames; f++ {
-		// progress in [0,1] across the reveal phase
+		// progress in [0,1] across the reveal phase; 1 once revealed.
 		var progress float64
 		switch {
 		case f < cfg.fluxFr:
 			progress = 0
-		case f < cfg.fluxFr+cfg.revealFr:
+		case f < revealEnd:
 			progress = float64(f-cfg.fluxFr+1) / float64(cfg.revealFr)
 		default:
 			progress = 1
+		}
+
+		// Which character cell the scan cursor sits on (-1 = no cursor).
+		cursor := -1
+		if f >= revealEnd && f < scanEnd {
+			cursor = (f - revealEnd) / cfg.scanDwell
 		}
 
 		img := image.NewPaletted(image.Rect(0, 0, cols*cfg.tile, rows*cfg.tile), gifPalette)
@@ -501,6 +532,24 @@ func run(cfg config) error {
 					idx = flickerStart + rng.Intn(flickerN)
 				}
 				fillTile(img, x, y, cfg.tile, uint8(idx))
+			}
+		}
+
+		// Overlay the block cursor: invert the current cell so it reads as a
+		// solid text-colored block with the glyph punched out dark.
+		if cursor >= 0 && cursor < len(cells) {
+			c := cells[cursor]
+			for ty := c.y; ty < c.y+c.h; ty++ {
+				for tx := c.x; tx < c.x+c.w; tx++ {
+					if tx < 0 || tx >= cols || ty < 0 || ty >= rows {
+						continue
+					}
+					if mask[ty][tx] {
+						fillTile(img, tx, ty, cfg.tile, 0) // glyph -> background base
+					} else {
+						fillTile(img, tx, ty, cfg.tile, 1) // cell -> text color block
+					}
+				}
 			}
 		}
 
