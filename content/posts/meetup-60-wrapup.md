@@ -32,7 +32,7 @@ The learning with an LLM angle was illustrated on Nix examples, but the ideas ar
 
 * Three Variations; learn by comparing solutions across competency levels; below screencast shows an [DFS](https://en.wikipedia.org/wiki/Depth-first_search) implementation with mostly the same prompt, just varying style (beginner, expert, compact):
 
-[![](/meetup-60/synopsis/synopsis-recording-20260529-123126-github-light.gif)](/meetup-60/synopsis/synopsis-recording-20260529-123126-github-light.gif)
+[![](/meetup-60/synopsis/synopsis-recording-20260529-123126-github-light-O3.gif)](/meetup-60/synopsis/synopsis-recording-20260529-123126-github-light.gif)
 
 ## Misc
 
