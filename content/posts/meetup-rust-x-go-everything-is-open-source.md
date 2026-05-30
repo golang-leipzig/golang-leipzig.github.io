@@ -13,7 +13,7 @@ Hello, 世界!
 
 We collaborate with [Rust Leipzig User
 Group](https://www.meetup.com/rust-modern-systems-programming-in-leipzig) for a
-special event on [2026-06-16 19:00](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/313813937) at [Basislager Coworking](), which we call [Everything is Open
+interactive event on [2026-06-16 19:00](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/313813937) at [Basislager Coworking](), which we call [Everything is Open
 Source](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/313813937).
 
 > Disassembling and decompiling code was once considered a highly complicated
