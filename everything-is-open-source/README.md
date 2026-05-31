@@ -1,6 +1,6 @@
 # tileseq
 
-`tileseq` is a small single-file Go program (`tileseq.go`) that renders an
+`tileseq` is a small single-file Go program that renders an
 animated GIF on a grid of colored tiles. The canvas is subdivided into equally
 sized square tiles; a piece of text is drawn onto that grid using a built-in
 bitmap font, emerging out of a field of flickering random colors and then
@@ -10,11 +10,13 @@ freezing so it stays readable.
 go run tileseq.go -text "GOLANG" -palette neon -output out.gif
 ```
 
+![](2026EIOS.gif)
+
 ## How it works
 
 ### Grid
 
-The canvas (`-width` x `-height`, in pixels) is divided into square tiles of
+The canvas with `-width` x and `-height` (in pixels) is divided into square tiles of
 `-tile` pixels. That gives `cols = width/tile` by `rows = height/tile` grid
 cells; every cell is painted as a single flat color. All animation happens at
 the tile level — each frame is a full `image.Paletted` repaint encoded into one
