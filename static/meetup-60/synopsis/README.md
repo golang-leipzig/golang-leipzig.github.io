@@ -21,3 +21,7 @@ So I imagine the outline to be:
 * close all panes, close tmux
 * stop asciinema recording
 * move recording from TEMPPATH to synopsis-recording-DATETIME.cast
+
+## Example Output
+
+![](synopsis-recording-20260529-123126-github-light-O3.gif)
