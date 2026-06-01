@@ -38,5 +38,7 @@ We'll meet in person at [Basislager Leipzig](https://basislager.co), at
 
 todo: outreach
 
+https://www.linkedin.com/posts/martin-czygan-58348842_leipzig-activity-7467011980906618880-2CYd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
+
 -->
 
