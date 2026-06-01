@@ -41,3 +41,7 @@ I prefer to install `hugo` with `go install github.com/gohugoio/hugo@latest`, bu
 
 [1]: https://gohugo.io
 [2]: https://golangleipzig.space
+
+## Impression
+
+[![](static/images/2026-06-01-golangleipzig.space.png)](https://golangleipzig.space)
