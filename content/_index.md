@@ -8,14 +8,7 @@ Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 50 events so far, nine in [2025](/posts/2025/). We are planning
 [six events](https://www.meetup.com/leipzig-golang/events/) in 2026.
 
-Next event [Everything is Open Source](/posts/meetup-rust-x-go-everything-is-open-source) jointly with [Rust
-Leipzig](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/) on
-[2026-06-16
-19:00](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/313813937/)
-at [Basislager](https://www.basislager.co) Coworking
-([OSM](https://www.openstreetmap.org/node/3504864558),
-[GMaps](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8)).
-
+Next drinkup will be in Halle (Saale), date and location TBD.
 
 <!-- next [#60](/posts/meetup-60-invitation) on [May 26, 2026, 1900 CET](https://www.meetup.com/leipzig-golang/events/312537727) at [Basislager](https://www.basislager.co) Coworking ([OSM](https://www.openstreetmap.org/node/3504864558), [GMaps](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8)). -->
 
