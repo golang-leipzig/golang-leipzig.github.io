@@ -1,5 +1,5 @@
 ---
-title: "Leipzig Gophers"
+title: "Leipzig/Halle Gophers"
 draft: false
 ---
 
