@@ -5,8 +5,8 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-50 events so far, nine in [2025](/posts/2025/). We are planning
-[six events](https://www.meetup.com/leipzig-golang/events/) in 2026.
+50 events so far, nine in [2025](/posts/2025/). We will have at least
+[two events](https://www.meetup.com/leipzig-golang/events/) upcoming in 2026.
 
 Next meetup will take place at [Klaustor
 Coworking](https://klaustor-coworking.de/)
