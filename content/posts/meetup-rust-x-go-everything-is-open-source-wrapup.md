@@ -1,7 +1,7 @@
 ---
 title: "Wrapup: Everything is Open Source"
 date: 2026-06-16T22:00:00+02:00
-draft: true
+draft: false
 tags:
 - summary
 - meetup
