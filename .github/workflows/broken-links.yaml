@@ -15,9 +15,9 @@ jobs:
           submodules: false
       - name: Check for broken links
         id: brokenLinks
-        uses: lycheeverse/lychee-action@master
+        uses: lycheeverse/lychee-action@v2
         with:
-          args: --user-agent "golangleipzig.space" --exclude meet.google.com content/
+          args: --base-url https://golangleipzig.space/ --user-agent "golangleipzig.space" --exclude meet.google.com content/
       - name: Create Issue From File
         if: github.repository_owner == 'golang-leipzig' && failure() && steps.brokenLinks.outcome == 'failure'
         uses: peter-evans/create-issue-from-file@v4
