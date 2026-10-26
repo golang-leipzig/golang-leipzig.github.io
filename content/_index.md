@@ -8,7 +8,7 @@ Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 50 events so far, nine in [2025](/posts/2025/). We will have at least
 [two events](https://www.meetup.com/leipzig-golang/events/) upcoming in 2026.
 
-Next meetup will take place at [Klaustor
+Next meetup [#61](/posts/meetup-61-invitation) will take place at [Klaustor
 Coworking](https://klaustor-coworking.de/)
 ([OSM](https://www.openstreetmap.org/node/6257928551),
 [GMaps](https://maps.app.goo.gl/1BrVk1JtyWNkARCR9)) in [Halle
