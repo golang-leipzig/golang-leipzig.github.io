@@ -47,13 +47,41 @@ Join us to discuss Go, software discovery in the age of AI and more. See you!
 
 <!--
 
+Leipzig Gophers Meetup takes an excursion to Halle/Saale for Meetup #61 on Tue,
+2026-10-27 19:00 - we'll meet at Klaustor Coworking, a great place for (tech)
+events in Halle. Our homebase is Leipzig, but over the past years we saw, that
+our community extends beyond that.
+
+We'll have a short input presentation from Martin Czygan on Software Discovery,
+in general and specificall, using a small Go tool for finding interesting
+projects across ecosystems. There will be ample opportunity to discuss the
+changing formula of software discovery and reuse in the era of generative AI.
+
+Schedule
+
+18:45 Doors open
+19:00 Welcome
+19:10 Software Discovery and Tools
+19:45 Open discussion / Bar excursion
+
+Date and Time:
+
+2026-10-27 19:00 at Klaustor Coworking, Google Mpas: https://maps.app.goo.gl/facHqdPnZE2HwNNs8, OpenStreetMap: https://www.openstreetmap.org/node/6257928551
+
+Details
+
+Meetup -> https://www.meetup.com/leipzig-golang/events/312537729/
+Blog Invitation -> https://golangleipzig.space/posts/meetup-61-invitation/
+
+Join us to discuss Go, software discovery and more. See you!
+
+
+----
+
+
 todo: outreach
 
 https://www.linkedin.com/posts/martin-czygan-58348842_how-about-using-llms-to-learn-about-reproducible-share-7464958222257324033-vMnY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAj4ETMB_N_adYM-kQAUCeKn07XBMXgGGaE
-
-misc:
-
-https://www.reddit.com/r/NixOS/comments/1iaiqsu/comment/m9dng1l/ -- "Nix is not the easiest language to deal with neither today, nor 12 years ago"
 
 -->
 
