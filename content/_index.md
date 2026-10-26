@@ -156,7 +156,7 @@ Cloud](https://web.archive.org/web/20221223065813/https://deta.space/)
 Labs](https://ardanlabs.com)
 ([#40](/posts/meetup-40-wrapup/)),
 [OpenCloud](https://opencloud.eu) ([#55](/posts/meetup-55-wrapup/)), [mxmlabs](https://mxmlabs.de/) ([#60](/posts/meetup-60-wrapup)) and
-[GOLAB](https://golab.io) for their contributions and [Basislager Leipzig](https://basislager.co), [Manning
+[GOLAB](https://golab.io) for their contributions and [Basislager Leipzig](https://basislager.co), [Klaustor Coworking Halle/Saale](https://klaustor-coworking.de/), [Manning
 Publications](https://www.manning.com/), [O'Reilly
 Media](https://www.oreilly.com/pub/cpc/323592) and
 [Jetbrains](https://www.jetbrains.com/) for their support.
