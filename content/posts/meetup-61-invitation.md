@@ -7,25 +7,25 @@ tags:
 - meetup
 ---
 
-## Software Discovery with Go
+## Software and Discovery
 
 Hello, 世界!
 
 Leipzig Gophers is frequently visited by people from outside Leipzig and hence
-[Meetup #61](https://www.meetup.com/leipzig-golang/events/312537729) will take
-place outside Leipzig, specifically in Halle/Saale, where [Klaustor
-Coworking](https://klaustor-coworking.de/) provides an excellent space for
-meetups.
+we are moving, as an experiment, [Meetup #61](https://www.meetup.com/leipzig-golang/events/312537729) out of Leipzig,
+specifically to charming [Halle/Saale](https://en.wikipedia.org/wiki/Halle_(Saale)), where [Klaustor
+Coworking](https://klaustor-coworking.de/) provides an excellent space for meetups.
 
 We'll have a short input presentation by [Martin
 Czygan](https://www.linkedin.com/in/martin-czygan-58348842/) about software
-discovery and Go tool that can help you find new and interesting projects.
+discovery and a Go tool that can help you find new and interesting tools and
+libraries.
 
 ### Schedule
 
 * 18:45 Doors open
 * 19:00 Welcome
-* 19:10 Software Discovery
+* 19:10 Software Discovery and Tools
 * 19:45 Open discussion / Bar excursion
 
 We'll meet:
