@@ -1,6 +1,6 @@
 ---
 title: "Meetup #61 invitation"
-date: 2026-10-26T20:00:00+01:00
+date: 2026-10-25T20:00:00+01:00
 draft: false
 tags:
 - announcement
