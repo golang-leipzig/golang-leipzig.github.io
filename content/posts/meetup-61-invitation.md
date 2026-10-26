@@ -1,7 +1,7 @@
 ---
 title: "Meetup #61 invitation"
 date: 2026-10-26T20:00:00+01:00
-draft: true
+draft: false
 tags:
 - announcement
 - meetup
@@ -11,15 +11,17 @@ tags:
 
 Hello, 世界!
 
-Leipzig Gophers is frequently visited by people from outside Leipzig and hence
-we are moving, as an experiment, [Meetup #61](https://www.meetup.com/leipzig-golang/events/312537729) out of Leipzig,
+We are happy, that Leipzig Gophers is frequently visited by people from outside Leipzig and hence
+we are moving, as an experiment, [Meetup #61](https://www.meetup.com/leipzig-golang/events/312537729) out of Leipzig as well,
 specifically to charming [Halle/Saale](https://en.wikipedia.org/wiki/Halle_(Saale)), where [Klaustor
 Coworking](https://klaustor-coworking.de/) provides an excellent space for meetups.
 
 We'll have a short input presentation by [Martin
 Czygan](https://www.linkedin.com/in/martin-czygan-58348842/) about software
 discovery and a Go tool that can help you find new and interesting tools and
-libraries.
+libraries. This will also be an opportinity to share and discuss contemporary
+software tools (inspired by a past user group event,
+[#44](https://golangleipzig.space/posts/meetup-44-wrapup/)).
 
 ### Schedule
 
