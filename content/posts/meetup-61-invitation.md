@@ -39,11 +39,7 @@ We'll meet:
 
 * in person at [Klaustor Coworking](https://klaustor-coworking.de/), at [Peterssteinweg 14, 04107 Leipzig](https://maps.app.goo.gl/facHqdPnZE2HwNNs8) ([OSM](https://www.openstreetmap.org/node/6257928551))
 
-We are not sure, whether we will be able to provide an online stream, but if we
-do, it will be found under:
-[https://meet.jit.si/LeipzigGophers61](https://meet.jit.si/LeipzigGophers61)
-(meetup.com does not let us change hybrid events after the fact,
-unfortunately).
+**We are not sure, whether we will be able to provide an online stream**, but if we do, it will be found under: [https://meet.jit.si/LeipzigGophers61](https://meet.jit.si/LeipzigGophers61) (meetup.com does not let us change hybrid events after the fact, unfortunately).
 
 Join us to discuss Go, software discovery in the age of AI and more. See you!
 
