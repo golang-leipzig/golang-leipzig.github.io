@@ -24,7 +24,7 @@ interesting meetups.
 We'll have a short input presentation by [Martin
 Czygan](https://www.linkedin.com/in/martin-czygan-58348842/) about software
 discovery and a Go tool that can help you find new and interesting tools and
-libraries. This will also be an opportinity to share and discuss contemporary
+libraries. This will also be an opportunity to share and discuss contemporary
 software tools (inspired by a past user group event,
 [#44](https://golangleipzig.space/posts/meetup-44-wrapup/)).
 
