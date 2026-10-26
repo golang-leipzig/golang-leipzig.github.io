@@ -28,6 +28,8 @@ libraries. This will also be an opportunity to share and discuss contemporary
 software tools (inspired by a past user group event,
 [#44](https://golangleipzig.space/posts/meetup-44-wrapup/)).
 
+![](/images/meetup-61-silt.png)
+
 ### Schedule
 
 * 18:45 Doors open
