@@ -8,12 +8,9 @@ Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
 50 events so far, nine in [2025](/posts/2025/). We will have at least
 [two events](https://www.meetup.com/leipzig-golang/events/) upcoming in 2026.
 
-Next meetup [#61](/posts/meetup-61-invitation) will take place at [Klaustor
-Coworking](https://klaustor-coworking.de/)
-([OSM](https://www.openstreetmap.org/node/6257928551),
-[GMaps](https://maps.app.goo.gl/1BrVk1JtyWNkARCR9)) in [Halle
-(Saale)](https://en.wikipedia.org/wiki/Halle_(Saale)), on [2026-10-27
-19:00](https://www.meetup.com/de-de/leipzig-golang/events/312537729).
+Next meetup #62 will take place at [Gridfuse Leipzig Office](https://gridfuse.com/)
+([OSM](https://www.openstreetmap.org/node/7230218702),
+[GMaps](https://maps.app.goo.gl/B7kSaJ2RHJKGKfEPA)) on [2026-11-24 19:00](https://www.meetup.com/de-de/leipzig-golang/events/312537734).
 
 <!-- next [#60](/posts/meetup-60-invitation) on [May 26, 2026, 1900 CET](https://www.meetup.com/leipzig-golang/events/312537727) at [Basislager](https://www.basislager.co) Coworking ([OSM](https://www.openstreetmap.org/node/3504864558), [GMaps](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8)). -->
 

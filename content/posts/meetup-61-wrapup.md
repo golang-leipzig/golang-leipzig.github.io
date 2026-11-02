@@ -30,6 +30,10 @@ project to Go.
 
 * ...
 
+> Vibe coding helps me move faster.
+> Hand-written code helps me think deeper.
+> I use both, but I will always enjoy the craft of writing code myself. -- found on [github.com/RowanCole](https://github.com/RowanCole)
+
 ## Thanks!
 
 
