@@ -4,6 +4,51 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name='impact-site-verification' value='54840aba-1503-416b-b5d7-dafee41af763'> <!-- O'Reilly Media -->
 
+<style>
+    /* Tables: sans-serif, a bit smaller, zebra stripes; wide tables scroll
+       horizontally instead of overflowing the 45em column. */
+    table {
+        display: block;
+        width: max-content;
+        max-width: 100%;
+        overflow-x: auto;
+        margin: 1.5em 0;
+        border-collapse: collapse;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 0.8em;
+        line-height: 1.4;
+        font-variant-numeric: tabular-nums;
+    }
+
+    th, td {
+        padding: 0.45em 0.8em;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    thead th {
+        border-bottom: 2px solid #2f2d2e;
+        font-weight: 600;
+    }
+
+    tbody tr {
+        border-bottom: 1px solid #e4e4e4;
+    }
+
+    tbody tr:nth-child(even) {
+        background: #f5f5f5;
+    }
+
+    tbody tr:last-child {
+        border-bottom: 1px solid #2f2d2e;
+    }
+
+    /* the theme gives links a white bottom border, visible on gray rows */
+    table a {
+        border-bottom-color: transparent;
+    }
+</style>
+
 {{ if eq .Page.Title "CLT23" }}
 <!--
         For CLT2023: https://chemnitzer.linux-tage.de/2023/en/programm/beitrag/234
