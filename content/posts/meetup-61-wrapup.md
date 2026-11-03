@@ -29,7 +29,7 @@ Alternative forms are [wishful thinking](https://pypi.org/project/wishful/), or
 This phenomenon can be observed at smaller scale, when people report how
 they write helper tools, bash scripts, small automations. The description of
 what they would search for becomes the spec of what to build. While some
-examples of long-horizon tasks exist, the 80% in 2026 case seems to be small
+examples of long-horizon tasks exist, the 80% case in 2026 seems to be small
 projects.
 
 
