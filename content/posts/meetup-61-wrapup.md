@@ -41,8 +41,9 @@ projects.
 ## Misc
 
 * [crossplane](https://www.crossplane.io/), a platform engineering framework
-* [MUMPS](https://en.wikipedia.org/wiki/MUMPS) is still alive
-* [HL-7](https://polavis.de/blog/hl7-format-datenaustausch-in-krankenhaeusern/), a widely used, yet wierd format (not always implemented to spec)
+* casual observation: "Jev" like models are fast, but e.g. in law text context, a classic LLM can beat a "system one" model on accuracy
+* [MUMPS](https://en.wikipedia.org/wiki/MUMPS) is still alive; in the medical context, but also beyond
+* [HL-7](https://polavis.de/blog/hl7-format-datenaustausch-in-krankenhaeusern/), a widely used, yet wierd format (not always implemented to spec); has also been called a "[fundamental flaw](https://linuxincluded.com/hl7-medical-fundamental-flaw/)"
 
 ![](/images/HL7-V2-Message.png)
 
