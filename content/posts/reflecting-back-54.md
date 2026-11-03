@@ -56,6 +56,6 @@ in a  [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x]
 
 The agent take a prompt and in about ten minutes in a multi-turn conversation
 builds a 1000+ SLOC inverted index project. The GIF show its work in real-time.
-Energy consumption of the FWD under load [stays below](IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W.
+Energy consumption of the FWD under load [stays below](/images/IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W.
 
 [![agent.gif](/images/2026-11-03-reflecting-back-54/agent.gif)](/images/2026-11-03-reflecting-back-54/agent.webm)
