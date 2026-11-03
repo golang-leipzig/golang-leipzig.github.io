@@ -24,7 +24,7 @@ running
 [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
 a [AMD Ryzen AI Max
 395+](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
-in a  [Framework Desktop](https://frame.work/de/en/desktop):
+in a  [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x](https://ibis.org/summits/oct24b//PDFs/04-ZhangH.pdf)-8000:
 
 | Category | Benchmark | Qwen3.8-Flash-Next | Qwen3.8-27B | Qwen3.7-Plus | DeepSeek-V4-Flash-0731 | Claude-Opus-4.6 (Max) |
 | --- | --- | --- | --- | --- | --- | --- |
