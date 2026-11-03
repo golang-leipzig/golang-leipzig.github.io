@@ -54,7 +54,8 @@ in a  [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x]
 | General | Multidisciplinary reasoning — HLE | 35.9 | 30.8 | 34.7 | 33.8 | **40.0** |
 | General | Competitive coding — LiveCodeBench v6 | **91.9** | 90.3 | 89.6 | 90.6 | 88.8 |
 
-The agent take a prompt and in a multi-turn conversation builds a 1000+ SLOC
-inverted index project. The GIF show its work in real-time.
+The agent take a prompt and in about ten minutes in a multi-turn conversation
+builds a 1000+ SLOC inverted index project. The GIF show its work in real-time.
+Energy consumption of the FWD under load [stays below](IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W.
 
 [![agent.gif](/images/2026-11-03-reflecting-back-54/agent.gif)](/images/2026-11-03-reflecting-back-54/agent.webm)
