@@ -19,7 +19,7 @@ on software discovery and an example port of a [rust
 project](https://github.com/r14dd/patent) to Go:
 [silt](https://github.com/miku/silt).
 
-![](/images/meetup-61/promptai.gif)
+[![](/images/meetup-61/promptai.gif)](https://github.com/miku/silt)
 
 Software discovery shares a border with
 generative AI. Instead of searching for code, you let an LLM write it for you.
