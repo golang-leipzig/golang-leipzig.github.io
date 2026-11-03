@@ -56,6 +56,10 @@ Even with an LLM you still need to think when designing software:
 
 ## Thanks!
 
+Thanks to [Klaustor Coworking](https://klaustor-coworking.de/) for hosting our
+meetup - and for being a great spot for [other interesting
+events](https://klaustor-coworking.de/events/), too.
+
 
 ----
 
