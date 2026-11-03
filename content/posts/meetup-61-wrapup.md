@@ -9,7 +9,7 @@ tags:
 
 ## Software Discovery
 
-Aboard Meetup #61 took place on Tuesday [Oct 27, 2026 19:00
+Abroad Meetup #61 took place on Tuesday [Oct 27, 2026 19:00
 CET](https://www.meetup.com/leipzig-golang/events/312537729) at [Klaustor
 Coworking](https://klaustor-coworking.de/) in Halle (Saale).
 
@@ -26,7 +26,7 @@ generative AI. Instead of searching for code, you let an LLM write it for you.
 Alternative forms are [wishful thinking](https://pypi.org/project/wishful/), or
 [ghost functions](https://github.com/bmritz/ai-ghostfunctions).
 
-This phenomenon can be observed in the smaller scale, when people report how
+This phenomenon can be observed at smaller scale, when people report how
 they write helper tools, bash scripts, small automations. The description of
 what they would search for becomes the spec of what to build. While some
 examples of long-horizon tasks exist, the 80% in 2026 case seems to be small
