@@ -12,28 +12,25 @@ tags:
 We just held meetup [#61](https://golangleipzig.space/posts/meetup-61-wrapup/)
 on 2026-10-27 in Halle (Saale). About a year ago, we had a drinkup
 [#54](https://golangleipzig.space/posts/meetup-54-wrapup/) on 2025-09-30. The
-wrap-up blog post for #54 demos
-[qwen3-coder:30b](https://ollama.com/library/qwen3-coder) on ollama, running on
-a [RTX 4000 SFF "Ada"
+wrap-up blog post for #54 demos the [crush agent](https://github.com/charmbracelet/crush) running
+[qwen3-coder:30b](https://ollama.com/library/qwen3-coder) with ollama, on
+an [RTX 4000 SFF "Ada"
 GPU](https://www.nvidia.com/content/dam/en-zz/Solutions/rtx-4000-sff/proviz-rtx-4000-sff-ada-datasheet-2616456-web.pdf)
 with 20GB VRAM.
 
 [![](https://golangleipzig.space/images/2025-10-09-crush-hello.gif)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
 
 If you squint, you can see a tiny bit of agentic coding happening. Claude code
-was released in seven month earlier on 2025-02-24
-[RT](https://github.com/jqueryscript/anthropic-claude-timeline#quick-release-table),
+was released about seven months earlier on [2025-02-24](https://github.com/jqueryscript/anthropic-claude-timeline#quick-release-table),
 and accelerated the move to agentic coding. Harnesses were built, models improved.
 
-Today, I can run the [pi](https://pi.dev) or
-[zot](https://github.com/patriceckhart/zot) agent harness with
+Today, it is possible can run the [pi](https://pi.dev) or
+[zot](https://github.com/patriceckhart/zot) (Go) agent harness with for example
 [halogen](https://peonist.ai/halogen/)
 ([LICENSE](https://github.com/peonist-ai/halogen-server/blob/main/LICENSE.md))
-running
-[Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
-a [AMD Ryzen AI Max
-395+](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
-in a  [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x](https://ibis.org/summits/oct24b//PDFs/04-ZhangH.pdf)-8000:
+with [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
+an [AMD Ryzen AI Max 395+](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
+in a [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x](https://ibis.org/summits/oct24b//PDFs/04-ZhangH.pdf)-8000:
 
 | Category | Benchmark | Qwen3.8-Flash-Next | Qwen3.8-27B | Qwen3.7-Plus | DeepSeek-V4-Flash-0731 | Claude-Opus-4.6 (Max) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,8 +51,10 @@ in a  [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x]
 | General | Multidisciplinary reasoning — HLE | 35.9 | 30.8 | 34.7 | 33.8 | **40.0** |
 | General | Competitive coding — LiveCodeBench v6 | **91.9** | 90.3 | 89.6 | 90.6 | 88.8 |
 
-The agent take a prompt and in about ten minutes in a multi-turn conversation
-builds a 1000+ SLOC inverted index project. The GIF show its work in real-time.
-Energy consumption of the FWD under load [stays below](/images/IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W.
+The agent takes a likely underspecified task and in about ten minutes in a
+multi-turn conversation builds a 1000+ SLOC toy inverted index project. The
+gif/mp4 show its work in real-time.  Energy consumption of the FWD under load
+[stays below](/images/IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W (estimaged 1c for
+energy for the whole conversation).
 
 [![agent.gif](/images/2026-11-03-reflecting-back-54/agent.gif)](/images/2026-11-03-reflecting-back-54/agent.webm)
