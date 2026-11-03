@@ -7,7 +7,7 @@ qwen3-coder:30b on ollama, running on a RTX 4000 SFF "Ada" GPU with 20GB VRAM.
 [![](https://golangleipzig.space/images/2025-10-09-crush-hello.gif)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
 
 If you squint, you can see a tiny bit of agentic coding happening. Claude code
-was released in 2025-02-24
+was released in seven month earlier on 2025-02-24
 [RT](https://github.com/jqueryscript/anthropic-claude-timeline#quick-release-table),
 and accelerated the move to agentic coding. Harnesses were built, models improved.
 
@@ -15,7 +15,11 @@ Today, I can run the [pi](https://pi.dev) or
 [zot](https://github.com/patriceckhart/zot) agent harness with
 [halogen](https://peonist.ai/halogen/)
 ([LICENSE](https://github.com/peonist-ai/halogen-server/blob/main/LICENSE.md))
-running [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance):
+running
+[Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
+a [AMD Ryzen AI Max
+395+](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
+in a  [Framework Desktop](https://frame.work/de/en/desktop):
 
 | Category | Benchmark | Qwen3.8-Flash-Next | Qwen3.8-27B | Qwen3.7-Plus | DeepSeek-V4-Flash-0731 | Claude-Opus-4.6 (Max) |
 | --- | --- | --- | --- | --- | --- | --- |
