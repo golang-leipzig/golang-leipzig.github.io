@@ -6,8 +6,15 @@
     <description>Recent content in Leipzig/Halle Gophers on Leipzig Gophers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:00:00 +0100</lastBuildDate>
     <atom:link href="https://golangleipzig.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflecting back #54</title>
+      <link>https://golangleipzig.space/posts/reflecting-back-54/</link>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+      <guid>https://golangleipzig.space/posts/reflecting-back-54/</guid>
+      <description>&lt;h1 id=&#34;reflecting-back-54--2025-09-30&#34;&gt;Reflecting back #54 · 2025-09-30&lt;/h1&gt;&#xA;&lt;p&gt;We just held meetup &lt;a href=&#34;https://golangleipzig.space/posts/meetup-61-wrapup/&#34;&gt;#61&lt;/a&gt;&#xA;on 2026-10-27 in Halle (Saale). About a year ago, we had a drinkup&#xA;&lt;a href=&#34;https://golangleipzig.space/posts/meetup-54-wrapup/&#34;&gt;#54&lt;/a&gt; on 2025-09-30. The&#xA;wrap-up blog post for #54 demos&#xA;&lt;a href=&#34;https://ollama.com/library/qwen3-coder&#34;&gt;qwen3-coder:30b&lt;/a&gt; on ollama, running on&#xA;a &lt;a href=&#34;https://www.nvidia.com/content/dam/en-zz/Solutions/rtx-4000-sff/proviz-rtx-4000-sff-ada-datasheet-2616456-web.pdf&#34;&gt;RTX 4000 SFF &amp;ldquo;Ada&amp;rdquo;&#xA;GPU&lt;/a&gt;&#xA;with 20GB VRAM.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golangleipzig.space/images/2025-10-09-crush-hello.webm&#34;&gt;&lt;img src=&#34;https://golangleipzig.space/images/2025-10-09-crush-hello.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you squint, you can see a tiny bit of agentic coding happening. Claude code&#xA;was released in seven month earlier on 2025-02-24&#xA;&lt;a href=&#34;https://github.com/jqueryscript/anthropic-claude-timeline#quick-release-table&#34;&gt;RT&lt;/a&gt;,&#xA;and accelerated the move to agentic coding. Harnesses were built, models improved.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meetup #61 wrap-up</title>
       <link>https://golangleipzig.space/posts/meetup-61-wrapup/</link>
