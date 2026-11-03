@@ -1,8 +1,13 @@
 # Reflecting back #54 2025-09-30
 
-We just held meetup #61 on 2026-10-27 in Halle (Saale). About a year ago, we
-had a drinkup #54, 2025-09-30. The wrap-up blog post for #54 demos
-qwen3-coder:30b on ollama, running on a RTX 4000 SFF "Ada" GPU with 20GB VRAM.
+We just held meetup [#61](https://golangleipzig.space/posts/meetup-61-wrapup/)
+on 2026-10-27 in Halle (Saale). About a year ago, we had a drinkup
+[#54](https://golangleipzig.space/posts/meetup-54-wrapup/) on 2025-09-30. The
+wrap-up blog post for #54 demos
+[qwen3-coder:30b](https://ollama.com/library/qwen3-coder) on ollama, running on
+a [RTX 4000 SFF "Ada"
+GPU](https://www.nvidia.com/content/dam/en-zz/Solutions/rtx-4000-sff/proviz-rtx-4000-sff-ada-datasheet-2616456-web.pdf)
+with 20GB VRAM.
 
 [![](https://golangleipzig.space/images/2025-10-09-crush-hello.gif)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
 
