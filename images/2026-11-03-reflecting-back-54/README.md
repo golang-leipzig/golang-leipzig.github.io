@@ -4,7 +4,7 @@ We just held meetup #61 on 2026-10-27 in Halle (Saale). About a year ago, we
 had a drinkup #54, 2025-09-30. The wrap-up blog post for #54 demos
 qwen3-coder:30b on ollama, running on a RTX 4000 SFF "Ada" GPU with 20GB VRAM.
 
-[![](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
+[![](https://golangleipzig.space/images/2025-10-09-crush-hello.gif)](https://golangleipzig.space/images/2025-10-09-crush-hello.webm)
 
 If you squint, you can see a tiny bit of agentic coding happening. Claude code
 was released in 2025-02-24
