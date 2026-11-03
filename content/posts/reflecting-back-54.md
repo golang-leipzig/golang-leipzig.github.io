@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-# Reflecting back #54 · 2025-09-30
+## What a difference a year makes
 
 We just held meetup [#61](https://golangleipzig.space/posts/meetup-61-wrapup/)
 on 2026-10-27 in Halle (Saale). About a year ago, we had a drinkup
