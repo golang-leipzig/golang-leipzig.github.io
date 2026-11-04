@@ -30,7 +30,7 @@ Today, it is possible can run the [pi](https://pi.dev) or
 ([LICENSE](https://github.com/peonist-ai/halogen-server/blob/main/LICENSE.md))
 with [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
 an [AMD Ryzen AI Max 395+](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
-in a [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x](https://ibis.org/summits/oct24b//PDFs/04-ZhangH.pdf)-8000:
+in a [Framework Desktop](https://frame.work/de/en/desktop) (FWD) with 128GB [LPDDR5x](https://ibis.org/summits/oct24b//PDFs/04-ZhangH.pdf)-8000:
 
 | Category | Benchmark | Qwen3.8-Flash-Next | Qwen3.8-27B | Qwen3.7-Plus | DeepSeek-V4-Flash-0731 | Claude-Opus-4.6 (Max) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -51,10 +51,10 @@ in a [Framework Desktop](https://frame.work/de/en/desktop) with 128GB [LPDDR5x](
 | General | Multidisciplinary reasoning — HLE | 35.9 | 30.8 | 34.7 | 33.8 | **40.0** |
 | General | Competitive coding — LiveCodeBench v6 | **91.9** | 90.3 | 89.6 | 90.6 | 88.8 |
 
-The agent takes a likely underspecified task and in about ten minutes in a
+The agent takes a likely underspecified task and in about fifteen minutes in a
 multi-turn conversation builds a 1000+ SLOC toy inverted index project. The
-gif/mp4 show its work in real-time.  Energy consumption of the FWD under load
-[stays below](/images/IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W (estimaged 1c for
-energy for the whole conversation).
+gif/mp4 shows it in real-time.  Energy consumption of the FWD under load [stays
+below](/images/IMG_6748-TEXT-REDUCED-GRAY.mp4) 200W (estimated 1c in energy
+costs).
 
 [![agent.gif](/images/2026-11-03-reflecting-back-54/agent.gif)](/images/2026-11-03-reflecting-back-54/agent.webm)
