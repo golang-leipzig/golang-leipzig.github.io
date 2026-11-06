@@ -25,9 +25,7 @@ was released about seven months earlier on [2025-02-24](https://github.com/jquer
 and accelerated the move to agentic coding. Harnesses were built, models improved.
 
 Today, it is possible can run the [pi](https://pi.dev) or
-[zot](https://github.com/patriceckhart/zot) (Go) agent harness with e.g. [gufo](https://gufo.blog/) or
-[halogen](https://peonist.ai/halogen/)
-([LICENSE](https://github.com/peonist-ai/halogen-server/blob/main/LICENSE.md))
+[zot](https://github.com/patriceckhart/zot) (Go) agent harness with e.g. with the open source strix halo engine [gufo](https://gufo.blog/) (or [halogen](https://peonist.ai/halogen/) ([LICENSE](https://github.com/peonist-ai/halogen-server/blob/main/LICENSE.md)))
 with [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
 an [AMD Ryzen AI Max 395+](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
 in a [Framework Desktop](https://frame.work/de/en/desktop) (FWD) with 128GB [LPDDR5x](https://ibis.org/summits/oct24b//PDFs/04-ZhangH.pdf)-8000:
