@@ -1,0 +1,12 @@
+<header>
+    {{- /* Fixed id: posts may open with a heading named like the title, and a
+           title-based id would then appear twice on the page. */}}
+    <h1 id="title">
+        {{- .Title | markdownify }}
+        <a class="anchor" href="#title">#</a>
+    </h1>
+    {{ partial "post_meta.html" . }}
+</header>
+<article>
+    {{ .Content }}
+</article>

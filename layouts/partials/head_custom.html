@@ -47,6 +47,28 @@
     table a {
         border-bottom-color: transparent;
     }
+
+    /* Heading anchors: a dimmed "#" that only appears while the pointer is on
+       the heading, or when the link has keyboard focus. Opacity, not
+       visibility, so the link stays reachable with the tab key. */
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 {{ if eq .Page.Title "CLT23" }}
