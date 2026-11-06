@@ -25,7 +25,7 @@ was released about seven months earlier on [2025-02-24](https://github.com/jquer
 and accelerated the move to agentic coding. Harnesses were built, models improved.
 
 Today, it is possible can run the [pi](https://pi.dev) or
-[zot](https://github.com/patriceckhart/zot) (Go) agent harness with for example
+[zot](https://github.com/patriceckhart/zot) (Go) agent harness with e.g. [gufo](https://gufo.blog/) or
 [halogen](https://peonist.ai/halogen/)
 ([LICENSE](https://github.com/peonist-ai/halogen-server/blob/main/LICENSE.md))
 with [Qwen3.8-Flash-Next](https://qwen.ai/blog?id=qwen3.8-flash-next#performance) on
