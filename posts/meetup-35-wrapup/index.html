@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,7 +109,7 @@
 </div>
 </header>
 <article>
-    <h2 id="cgo-experiments">Cgo experiments</h2>
+    <h2 id="cgo-experiments">Cgo experiments <a class="anchor" href="#cgo-experiments">#</a></h2>
 <p>Hybrid meetup #35 took place <a href="https://www.meetup.com/leipzig-golang/events/290666173/">2023-04-18
 19:00</a> at <a href="https://www.basislager.co/">Basislager
 Leipzig</a> and was all about <a href="https://pkg.go.dev/cmd/cgo">Cgo</a>.</p>
@@ -133,11 +134,11 @@ machine learning</em> -
 threading <a href="https://github.com/miku/cgosamples/tree/main/x/xcgothreads">mystery
 remains</a>.</p>
 <p>Experiment details can be found here: <a href="https://github.com/miku/cgosamples">https://github.com/miku/cgosamples</a></p>
-<h2 id="zig-cross-compilation">Zig cross-compilation</h2>
+<h2 id="zig-cross-compilation">Zig cross-compilation <a class="anchor" href="#zig-cross-compilation">#</a></h2>
 <p>The zig compiler (LLVM) can build real staticly linked binaries from a Go
 project with C dependencies, such as sqlite3. Example repo:
 <a href="https://github.com/klingtnet/cross-compile-with-zigcc">https://github.com/klingtnet/cross-compile-with-zigcc</a>.</p>
-<h2 id="misc">Misc</h2>
+<h2 id="misc">Misc <a class="anchor" href="#misc">#</a></h2>
 <ul>
 <li>Cgo is a not Go, many guarantees are given up, maintenance of mixed C and Go
 code is much more difficult - rather than use CGO, maybe a grpc or other

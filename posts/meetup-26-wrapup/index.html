@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,11 +109,11 @@
 </div>
 </header>
 <article>
-    <h2 id="type-signatures-and-cloud-storage">Type Signatures and Cloud Storage</h2>
+    <h2 id="type-signatures-and-cloud-storage">Type Signatures and Cloud Storage <a class="anchor" href="#type-signatures-and-cloud-storage">#</a></h2>
 <p><a href="https://www.meetup.com/Leipzig-Golang/events/282941906/">Meetup #26</a> was
 virtual again and we were glad to meet Gophers from Leipzig and beyond. We had a two short talks and code walkthroughs on type signatures and rclone, a
 cloud storage tool.</p>
-<h3 id="type-signatures">Type Signatures</h3>
+<h3 id="type-signatures">Type Signatures <a class="anchor" href="#type-signatures">#</a></h3>
 <p>How would you generate a unique fingerprint for a type? A fingerprint that would change, even
 if the name of the type stays the same, but e.g. fields in a struct are renamed, added or removed?</p>
 <p>The term <a href="https://en.wikipedia.org/wiki/Type_signature">Type Signature</a> is
@@ -133,7 +134,7 @@ thus result in unexpected InvalidClassExceptions during deserialization.</p>
 the type and compute some hash, e.g.
 <a href="https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function">FNV</a>
 or <a href="https://pkg.go.dev/hash#section-directories">other</a>.</p>
-<h3 id="cloud-storage-tool-rclone">Cloud storage tool: rclone</h3>
+<h3 id="cloud-storage-tool-rclone">Cloud storage tool: rclone <a class="anchor" href="#cloud-storage-tool-rclone">#</a></h3>
 <p><a href="https://rclone.org/">Rclone</a> is a</p>
 <blockquote>
 <p>command-line program to manage files on cloud storage. It is a feature-rich
@@ -145,7 +146,7 @@ storage services, as well as standard transfer protocols.</p>
 (similar to <a href="https://dev.yorhel.nl/ncdu">ncdu</a>) and expose cloud storage
 providers with classic protocols like FTP, webdav or http.</p>
 <p>Find out more: <a href="https://github.com/miku/rclone-lightning-talk">The rsync for the cloud era: Rclone</a>.</p>
-<h2 id="misc">Misc</h2>
+<h2 id="misc">Misc <a class="anchor" href="#misc">#</a></h2>
 <ul>
 <li>rclone does not seem to support <a href="https://upspin.io/">upspin</a> (nor <a href="https://github.com/rclone/rclone/issues/128">ipfs</a>, for that matter)</li>
 <li>in 2022 go is still niche!

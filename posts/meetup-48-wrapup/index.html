@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,12 +109,12 @@
 </div>
 </header>
 <article>
-    <h2 id="kubernetes-security-and-checkpointrestore-in-userspace">Kubernetes Security and checkpoint/restore in userspace</h2>
+    <h2 id="kubernetes-security-and-checkpointrestore-in-userspace">Kubernetes Security and checkpoint/restore in userspace <a class="anchor" href="#kubernetes-security-and-checkpointrestore-in-userspace">#</a></h2>
 <p>Hybrid Meetup #48 took place
 <a href="https://www.meetup.com/leipzig-golang/events/305626240/">2025-02-25</a> 19:00 at
 <a href="https://www.basislager.co/">Basislager</a> and we had a great presentation about
 Kubernetes security.</p>
-<h3 id="stackroxrhacs">StackRox/RHACS</h3>
+<h3 id="stackroxrhacs">StackRox/RHACS <a class="anchor" href="#stackroxrhacs">#</a></h3>
 <p>StackRox (founded in
 <a href="http://web.archive.org/web/20151002074324/https://www.stackrox.com/">2014</a>)
 focussed on container/cluster security and was acquired by Red Hat in
@@ -147,7 +148,7 @@ collected events can be analyzed off-host in SIEM or data lake systems.</p>
 <p>For node communication, StackRox will use
 <a href="https://en.wikipedia.org/wiki/Mutual_authentication#mTLS">mTLS</a> and
 <a href="https://grpc.io/">gRPC</a>.</p>
-<h3 id="checkpointrestore-in-userspace">Checkpoint/Restore in userspace</h3>
+<h3 id="checkpointrestore-in-userspace">Checkpoint/Restore in userspace <a class="anchor" href="#checkpointrestore-in-userspace">#</a></h3>
 <p>Creating snapshots from containers can be useful for forensic analysis or container migration.
 We briefly looked at <a href="https://criu.org/Main_Page">criu</a>:</p>
 <blockquote>

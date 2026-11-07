@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,12 +109,12 @@
 </div>
 </header>
 <article>
-    <h2 id="drinkup-notes">Drinkup Notes</h2>
+    <h2 id="drinkup-notes">Drinkup Notes <a class="anchor" href="#drinkup-notes">#</a></h2>
 <p><img src="/images/cantona_pixel.png" alt=""></p>
 <p>We met 2022-12-20 19:00 at Café Cantona, with no specific Go agenda, for a
 great exchange of ideas and experiences - too many to capture them in a blog
 post, so here&rsquo;s just a fraction of the topics we passed (slightly categorized):</p>
-<h2 id="reading-list">Reading list</h2>
+<h2 id="reading-list">Reading list <a class="anchor" href="#reading-list">#</a></h2>
 <ul>
 <li><a href="https://www.manning.com/books/grokking-functional-programming">Grokking Functional Programming</a> - a very readable introduction to the topic; more academic angles include the classic <a href="https://curtclifton.net/papers/MoseleyMarks06a.pdf">Out of the tar pit</a> or <a href="https://openlibrary.org/works/OL1863182W/Purely_functional_data_structures">Purely Functional Data Structures</a> (always nice to <a href="https://github.com/golang/go/blob/78fc81070a853d08a71f70fa20b2093f5535e6c5/src/net/http/transport.go#L1256-L1271">find references to this book in code</a>)</li>
 <li>in 04/2022, a JS version of <a href="https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs">SICP</a> (1984) came out: <a href="https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition">SICP JS edition</a>, there&rsquo;s an <a href="https://sourceacademy.org/sicpjs/index">open access version</a>, too</li>
@@ -121,7 +122,7 @@ post, so here&rsquo;s just a fraction of the topics we passed (slightly categori
 <li>the classic, albeit just five year old <a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">DDIA</a></li>
 <li><a href="https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them">100 mistakes in Go and how to avoid them</a> - actionable advice for Go code improvements</li>
 </ul>
-<h2 id="software-general">Software General</h2>
+<h2 id="software-general">Software General <a class="anchor" href="#software-general">#</a></h2>
 <ul>
 <li><a href="http://bibnum.bnf.fr/WARC/">ISO 28500:2017</a>, aka <a href="https://web.archive.org/web/20120619151338/http://www.iwaw.net/05/kunze.pdf">WARC</a> is how you can capture the web - and there are many libraries and tools around this format, just to name a few: <a href="https://en.wikipedia.org/wiki/Heritrix">Heritrix</a>, <a href="https://github.com/internetarchive/brozzler">brozzler</a>, <a href="https://github.com/webrecorder">webrecorder</a>, <a href="https://github.com/internetarchive/warcprox">warcprox</a>, <a href="https://replayweb.page/">replayweb.page</a>, <a href="https://github.com/iipc/awesome-web-archiving">and more</a></li>
 </ul>
@@ -137,7 +138,7 @@ is recorded - which can be analyzed later. The <a href="https://httparchive.org/
 <ul>
 <li>Did you know? Google BigQuery does not have <code>MEDIAN</code> - <a href="https://www.pascallandau.com/bigquery-snippets/calculate-median/">workaround</a></li>
 </ul>
-<h2 id="go">Go</h2>
+<h2 id="go">Go <a class="anchor" href="#go">#</a></h2>
 <ul>
 <li>JSON matcher: <a href="https://github.com/timbray/quamina">quamina</a></li>
 </ul>
@@ -162,7 +163,7 @@ to the functional programming paradigms.</p>
 advantages over the still widely used technique of passing config structs to
 functions.</li>
 </ul>
-<h3 id="a-go-interface-puzzle">A Go interface puzzle</h3>
+<h3 id="a-go-interface-puzzle">A Go interface puzzle <a class="anchor" href="#a-go-interface-puzzle">#</a></h3>
 <blockquote>
 <p>Declare an interface where it is used, not where it is implemented. Unless
 the interface is well discovered.</p>
@@ -194,13 +195,13 @@ verbose.</p>
 and programming
 languages</a>
 <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TAPL</a>.</p>
-<h2 id="python">Python</h2>
+<h2 id="python">Python <a class="anchor" href="#python">#</a></h2>
 <ul>
 <li><a href="https://github.com/jazzband/pip-tools">pip-tools</a> is a small tool for pinning dependencies and predictable builds</li>
 <li>Python in 2022 with <a href="https://en.wikipedia.org/wiki/Gradual_typing">gradual typing</a> feels like a static language now - a long way since <a href="http://web.archive.org/web/20060111181527/http://pico.vub.ac.be/~wdmeuter/RDL04/papers/Meijer.pdf">Static Typing Where Possible, Dynamic Typing When Needed:
 The End of the Cold War Between Programming Languages</a> (discussed at the time by <a href="http://web.archive.org/web/20240112074349/lambda-the-ultimate.org/node/834">LtU</a>)</li>
 </ul>
-<h2 id="api-design">API Design</h2>
+<h2 id="api-design">API Design <a class="anchor" href="#api-design">#</a></h2>
 <ul>
 <li><a href="https://stripe.com/docs/api/expanding_objects">Expanding objects</a> - another example in the wild: <a href="https://api.fatcat.wiki/v0/release/qaa7ysrn5rfbnkjec7rtrkcao4?expand=files">fatcat API</a> (<em>List of sub-entities to expand in response. For releases, &lsquo;files&rsquo;, &lsquo;filesets, &lsquo;webcaptures&rsquo;, &lsquo;container&rsquo;, and &lsquo;creators&rsquo; are valid.</em>)</li>
 <li><a href="https://docs.powertools.aws.dev/lambda/python/2.4.0/utilities/idempotency/">Idempotency tool for AWS lambda</a></li>
@@ -213,7 +214,7 @@ Garage, famously said that <em>if cloud native has to be a synonym for anything,
 <ul>
 <li><a href="https://www.infoq.com/articles/API-Design-Joshua-Bloch/">Joshua Bloch: Bumper-Sticker API Design</a> (<a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf">Slides</a>)</li>
 </ul>
-<h2 id="cloud">Cloud</h2>
+<h2 id="cloud">Cloud <a class="anchor" href="#cloud">#</a></h2>
 <ul>
 <li><a href="http://web.archive.org/web/20230207204652/https://www.salilmishra.ml/posts/k8s-podman-wsl2/">Running kubernetes with rootless podman on WSL2</a></li>
 </ul>
@@ -231,7 +232,7 @@ Go</a> (including error handling);
 (btw, <a href="https://aws.amazon.com/blogs/aws/aws-blog-the-first-five-years/">SQS</a>
 started in 2004); at some places, <a href="https://archive.org/details/jonah-edwards-presentation">infra works differently</a> <a href="https://archive.org/donate/">❤️</a></li>
 </ul>
-<h2 id="misc">Misc</h2>
+<h2 id="misc">Misc <a class="anchor" href="#misc">#</a></h2>
 <ul>
 <li>Culture: <a href="https://ghuntley.com/fracture/">Visual Studio Code is designed to fracture</a></li>
 <li>How to improve as an software engineer? We got some ideas, like keeping a
@@ -240,7 +241,7 @@ our meetup</a> to connect and to get
 notified of upcoming events!</li>
 <li>Airtags and Parcel: <a href="https://www.youtube.com/watch?v=W8SER24F0U8">DHL &ldquo;Lost&rdquo; My AirTag Parcel (but I knew where it was)</a></li>
 </ul>
-<h2 id="happy-holidays">Happy holidays!</h2>
+<h2 id="happy-holidays">Happy holidays! <a class="anchor" href="#happy-holidays">#</a></h2>
 <p><img src="/images/sierpinski50.jpg" alt=""></p>
 
 </article>

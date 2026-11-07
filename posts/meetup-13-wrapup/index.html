@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -113,7 +114,7 @@
 <li>Haystack and seaweedfs: <a href="https://github.com/miku/haystack">miku/haystack</a></li>
 <li>Functional Options Pattern: <a href="https://github.com/embano1/funcy-ops">embano1/funcy-ops</a></li>
 </ul>
-<h2 id="haystack">Haystack</h2>
+<h2 id="haystack">Haystack <a class="anchor" href="#haystack">#</a></h2>
 <p>The haystack talk gave an overview about an early Facebook photo storage system
 and a Go project inspired by it, called
 <a href="https://github.com/chrislusf/seaweedfs">seaweedfs</a>. The seaweedfs project is
@@ -122,7 +123,7 @@ the box. It offers an <a href="https://github.com/chrislusf/seaweedfs/wiki/Amazo
 API</a> and a <a href="https://github.com/chrislusf/seaweedfs/wiki/FUSE-Mount">FUSE
 filesystem</a> option.</p>
 <p><img src="/images/assembly_pic13.png" alt=""></p>
-<h2 id="functional-options-pattern">Functional Options Pattern</h2>
+<h2 id="functional-options-pattern">Functional Options Pattern <a class="anchor" href="#functional-options-pattern">#</a></h2>
 <p>The <em>Functional Options Pattern</em> addresses API stability when it comes to
 configuration options. A simple way to configure a type is by passing in
 options directly (there can be too many), or by passing in a single config
@@ -143,7 +144,7 @@ as arguments into or returned by functions.</p>
 <a href="https://github.com/embano1/funcy-ops/blob/main/server.go">https://github.com/embano1/funcy-ops/blob/main/server.go</a>.</p>
 <p>Functional Options is a Go <em>pattern</em> and addresses some issues with too many
 arguments, variants of <em>New</em> and API stability.</p>
-<h2 id="misc">Misc</h2>
+<h2 id="misc">Misc <a class="anchor" href="#misc">#</a></h2>
 <p>Discussion evolved around testing (Go) code with controlled, restricted
 environments, like memory limits or maybe different
 <a href="https://man7.org/linux/man-pages/man3/ulimit.3.html">ulimits</a>. Running tests

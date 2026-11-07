@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,13 +109,13 @@
 </div>
 </header>
 <article>
-    <h2 id="log-transform-monitor-journals-ci-and-serverless-databases">Log, Transform, Monitor: Journals, CI and serverless databases</h2>
+    <h2 id="log-transform-monitor-journals-ci-and-serverless-databases">Log, Transform, Monitor: Journals, CI and serverless databases <a class="anchor" href="#log-transform-monitor-journals-ci-and-serverless-databases">#</a></h2>
 <p>Hybrid Meetup #46 took place
 <a href="https://www.meetup.com/leipzig-golang/events/298481354/">2024-11-26</a> 19:00 at
 <a href="https://www.basislager.co/">Basislager</a> and we had a nice mix of people, both
 online and offline, with different backgrounds in addition to two great
 presentations.</p>
-<h3 id="go-journald-exporter">Go journald exporter</h3>
+<h3 id="go-journald-exporter">Go journald exporter <a class="anchor" href="#go-journald-exporter">#</a></h3>
 <p><a href="https://www.linkedin.com/in/leandrosansilva/">Leandro</a> motivated the need for
 a tool that joins a legacy C++ application with modern event monitoring tool
 like <a href="https://github.com/prometheus/prometheus">Prometheus</a>, through systemd,
@@ -135,7 +136,7 @@ environment, where Go is viable and a performant option, too.</p>
 <p>More details <a href="/downloads/leipzig-gophers-46-2024-11-26-go-journald-exporter.html">in the slides</a>.</p>
 </blockquote>
 <p><a href="/downloads/leipzig-gophers-46-2024-11-26-go-journald-exporter.html"><img src="/images/meetup-46-go-journald-exporter-slides-screenie.png" alt=""></a></p>
-<h3 id="from-github-workflow-json-to-postgres-to-grafana">From GitHub workflow JSON to postgres to grafana</h3>
+<h3 id="from-github-workflow-json-to-postgres-to-grafana">From GitHub workflow JSON to postgres to grafana <a class="anchor" href="#from-github-workflow-json-to-postgres-to-grafana">#</a></h3>
 <p><a href="https://www.linkedin.com/in/fedor-dikarev/">Fedor</a> turned GitHub CI run
 results (taken from the API, JSON format) into much more comprehensible visual
 aggregations with a small tool:
@@ -158,14 +159,14 @@ scaling and branching. With branching, the
 forward differently for different branches, which is useful for testing and
 staging environments.</p>
 <p>On the side: neon.tech is <a href="https://neon.tech/careers">hiring</a>!</p>
-<h3 id="thanks-for-the-tools">Thanks for the tools!</h3>
+<h3 id="thanks-for-the-tools">Thanks for the tools! <a class="anchor" href="#thanks-for-the-tools">#</a></h3>
 <p><a href="https://github.com/XAMPPRocky/tokei">SLOC</a> of the tools presented: 484 (go-journald-exporter) and 622
 (gh-workflow-stats-action) — both help to turn streams of diagnostics into
 suitable formats for modern monitoring tools and are adaptable in other projects as well.</p>
 <p>Thanks again to <a href="https://www.linkedin.com/in/leandrosansilva/">Leandro</a> and
 <a href="https://www.linkedin.com/in/fedor-dikarev/">Fedor</a> for the inspiring talks and
 demos.</p>
-<h3 id="misc">Misc</h3>
+<h3 id="misc">Misc <a class="anchor" href="#misc">#</a></h3>
 <ul>
 <li>kubernetes test grid: <a href="https://testgrid.k8s.io/sig-release">https://testgrid.k8s.io/sig-release</a></li>
 <li>another CI tool (written in Go): <a href="https://concourse-ci.org/">concourse</a></li>

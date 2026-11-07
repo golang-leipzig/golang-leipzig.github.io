@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,7 +109,7 @@
 </div>
 </header>
 <article>
-    <h2 id="testing-in-go">Testing in Go</h2>
+    <h2 id="testing-in-go">Testing in Go <a class="anchor" href="#testing-in-go">#</a></h2>
 <p>Hybrid Meetup #45 took place
 <a href="https://www.meetup.com/leipzig-golang/events/298481354/">2024-10-29</a> 19:00 at
 <a href="https://check24.de">CHECK24</a> Leipzig Office at Altes Landratsamt and we were
@@ -117,7 +118,7 @@ thrilled to see people joining from Leipzig
 <a href="https://en.wikipedia.org/wiki/Thuringia">beyond</a>, both on site and online. We
 had two great input presentations about open source projects in the testing
 domain.</p>
-<h3 id="coverage-metrics">Coverage metrics</h3>
+<h3 id="coverage-metrics">Coverage metrics <a class="anchor" href="#coverage-metrics">#</a></h3>
 <p><a href="https://www.linkedin.com/in/fabian-g%C3%A4rtner-913584141/">Fabian</a> analyzed
 the Go coverage tool <a href="https://pkg.go.dev/cmd/cover">cmd/cover</a>, listed some of
 its shortcomings and demonstrated a tool to address them and to improve some
@@ -159,7 +160,7 @@ into your projects folder, then:</p>
 </span></span></code></pre></div><p>Then render the report, e.g. as HTML or to stdout. A nice little TUI for
 coverage reports is: <a href="https://github.com/orlangure/gocovsh">gocovsh</a>.</p>
 <p><a href="https://github.com/orlangure/gocovsh"><img src="/images/gocovsh.png" alt=""></a></p>
-<h3 id="go-scheduler-overlay">Go scheduler overlay</h3>
+<h3 id="go-scheduler-overlay">Go scheduler overlay <a class="anchor" href="#go-scheduler-overlay">#</a></h3>
 <p>We took another look on testing, through the lens of <a href="https://github.com/Metamogul/timestone">timestone</a>,</p>
 <blockquote>
 <p>a library to create deterministic and easy-to-understand unit tests for time-dependent, concurrent go code.</p>
@@ -181,7 +182,7 @@ that gives the caller control over the process execution.</p>
 around the scheduling randomness, when this interferes with test results. Check
 out some of the examples included in the library, here:
 <a href="https://github.com/Metamogul/timestone/tree/main/examples">timestone/examples</a>.</p>
-<h3 id="misc">Misc</h3>
+<h3 id="misc">Misc <a class="anchor" href="#misc">#</a></h3>
 <ul>
 <li>for integration testing, <a href="https://golang.testcontainers.org/">testcontainers</a>
 can come in handy; you can simulate the actual services your code interfaces

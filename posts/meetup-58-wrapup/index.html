@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,7 +109,7 @@
 </div>
 </header>
 <article>
-    <h2 id="agentic-coding-with-beads">Agentic Coding with Beads</h2>
+    <h2 id="agentic-coding-with-beads">Agentic Coding with Beads <a class="anchor" href="#agentic-coding-with-beads">#</a></h2>
 <p>Hybrid meetup #58 took place on Tuesday <a href="https://www.meetup.com/leipzig-golang/events/312537698/">Mar 31, 2026 19:00
 CET</a> and we had a
 great presentation by <a href="https://www.linkedin.com/in/akimzmerli/">Akim Zmerli</a> on
@@ -135,7 +136,7 @@ of understanding driven by answers irreconcilable with how any human would
 interpret a concept [&hellip;] potemkins are ubiquitous across models, tasks, and
 domains</p>
 </blockquote>
-<h3 id="taming-models">Taming models</h3>
+<h3 id="taming-models">Taming models <a class="anchor" href="#taming-models">#</a></h3>
 <p>Building a harness around an LLM can be seen as a consequence of its
 probabilistic character. Beads is an agent memory system, aiming to steer an
 agent through complex tasks by building a local, graph-based issue tracker.</p>
@@ -153,11 +154,11 @@ problem into subtasks. Tasks can have detailed descriptions, estimates,
 acceptance criteria and other common features. Beads is quite extensible and
 can also be used programmatically to build additional layers.</p>
 <p><a href="https://github.com/gastownhall/beads/tree/main/examples/library-usage"><img src="/images/lgo-58-beads-ops.png" alt=""></a></p>
-<h3 id="dashboard-for-beads">Dashboard for beads</h3>
+<h3 id="dashboard-for-beads">Dashboard for beads <a class="anchor" href="#dashboard-for-beads">#</a></h3>
 <p>Akim also demod <a href="https://github.com/AkimZmerli/kitty-beads">kitty-beads</a>, a web
 interface for beads, grouping issue, supporting terminal access in the browser
 and a kanban board.</p>
-<h3 id="highlighted-go-projects">Highlighted Go projects</h3>
+<h3 id="highlighted-go-projects">Highlighted Go projects <a class="anchor" href="#highlighted-go-projects">#</a></h3>
 <p>The talk highlighed a few Go projects, too:</p>
 <ul>
 <li><a href="https://github.com/dolthub/dolt">dolt</a>, git for MySQL</li>
@@ -171,7 +172,7 @@ Town</a> (34 min read). The
 setup reminds one of the <a href="https://github.com/garrytan/gstack">set of markdown
 files</a> that were framed as virtual
 engineering team.</p>
-<h3 id="ai-and-go">AI and Go</h3>
+<h3 id="ai-and-go">AI and Go <a class="anchor" href="#ai-and-go">#</a></h3>
 <p>Rob Pike is <a href="https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s">displeased</a>; and the
 issue of AI-generated changelists came up on
 <a href="https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE">golang-dev</a>, recently.
@@ -184,7 +185,7 @@ lines that have never been viewed by people, churned out in record time. On
 closer inspection, these codebases inevitably turn out to be more like
 dancing elephants than useful engineering artifacts.</p>
 </blockquote>
-<h2 id="misc">Misc</h2>
+<h2 id="misc">Misc <a class="anchor" href="#misc">#</a></h2>
 <ul>
 <li>if you use CC, also give <a href="https://github.com/badlogic/pi-mono">pi</a> a try</li>
 <li>set <code>&quot;includeCoAuthoredBy&quot;: false</code> in <code>~/.claude/settings.json</code> to disable agent co-author commits</li>
@@ -203,7 +204,7 @@ AI tools speed you up or even slow you down</li>
 <li>if generating code is cheap and fast, bottlenecks appear elsewhere, e.g. in review</li>
 <li>switch quickly between model providers for claude code, with <a href="https://github.com/miku/claude-switch">claude-switch</a></li>
 </ul>
-<h2 id="leaks-and-recursion">Leaks and recursion</h2>
+<h2 id="leaks-and-recursion">Leaks and recursion <a class="anchor" href="#leaks-and-recursion">#</a></h2>
 <p>LLM <a href="https://z.ai/blog/glm-5">GLM</a> taking a few minutes to analyze the source
 code of an agentic coding harness (that
 <a href="http://web.archive.org/web/20260331105520/https://x.com/Fried_rice/status/2038894956459290963">leaked</a>); summary report (more deep dives in <a href="https://github.com/rosaboyle/awesome-cc-oss">rosaboyle/awesome-cc-oss</a>):

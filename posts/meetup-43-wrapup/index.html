@@ -70,6 +70,7 @@
 
     h1:hover a.anchor,
     h2:hover a.anchor,
+    h3:hover a.anchor,
     a.anchor:focus {
         opacity: 1;
     }
@@ -108,7 +109,7 @@
 </div>
 </header>
 <article>
-    <h2 id="finite-state-machines">Finite state machines</h2>
+    <h2 id="finite-state-machines">Finite state machines <a class="anchor" href="#finite-state-machines">#</a></h2>
 <p>Hybrid Meetup #43 took place
 <a href="https://www.meetup.com/leipzig-golang/events/298066360/">2024-05-28</a> at
 <a href="https://gridfuse.com">Gridfuse</a>, <a href="https://de.wikipedia.org/wiki/Hauptpost_(Leipzig)">Hauptpost</a> Leipzig. We had a
@@ -129,7 +130,7 @@ interface. [<a href="https://go.dev/ref/spec#Go_1.18">Go 1.18</a>]</p>
 <a href="https://github.com/Metamogul/ekstatic">Metamogul/ekstatic</a>, and contains some
 <a href="https://github.com/Metamogul/ekstatic/tree/main/examples">examples</a> as well. Thanks again, <a href="https://www.linkedin.com/in/jan-z-255b28225/">Jan</a> for the insights,
 and <a href="https://gridfuse.com/">Gridfuse</a> for hosting another Leipzig Gophers event.</p>
-<h2 id="misc">Misc</h2>
+<h2 id="misc">Misc <a class="anchor" href="#misc">#</a></h2>
 <ul>
 <li>code generation may improve type safety of a generic FSM Go implementation, similar to <a href="https://sqlc.dev/">sqlc</a> and other libraries</li>
 <li><a href="https://vimeo.com/113707214">railway oriented control flow</a>, reminding one of <a href="https://maelvls.dev/go-happy-line-of-sight/">The happy path is left-aligned</a></li>
@@ -143,7 +144,7 @@ try emulate that; or even language <a href="https://github.com/golang/go/issues/
 <li>GraphQL is a nice alternative to representional state transfer (REST); libraries: <a href="https://gqlgen.com/getting-started/">gqlgen</a> for servers, <a href="https://github.com/Yamashou/gqlgenc">gqlgenc</a> for clients</li>
 <li>Rob Pike on state machines, 12 years ago: <a href="https://youtu.be/HxaD_trXwRE">Lexical Scanning in Go - Rob Pike</a>, <a href="https://youtu.be/HxaD_trXwRE?si=wIGRoDxp78G8eXn4&amp;t=825">What is a state? [13:45]</a></li>
 </ul>
-<h2 id="monads">Monads</h2>
+<h2 id="monads">Monads <a class="anchor" href="#monads">#</a></h2>
 <p>A finite state machine consists of states and state <em>transitions</em>;
 implementationwise, a state may be <em>any</em> type, but at the same time we would
 benefit from marking a type as a state, hence unifying different actions. A <a href="https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec04-types/lec04.html">variant type</a> could be a solution, but <a href="https://go.dev/doc/faq#variant_types">Go does not support
