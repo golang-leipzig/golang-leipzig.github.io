@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-3-wrap-up">
-        <a class="anchor" href="#meetup-3-wrap-up">🔗</a>Meetup #3 wrap-up</h1>
+    <h1 id="title">Meetup #3 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-04-14">Apr 14, 2019</time><div class="tags">
@@ -99,7 +120,7 @@ wisdom to build the next generation of software in Go.</p>
 </blockquote>
 <h2 id="meetup-topics">
   Meetup topics
-  <a class="anchor" href="#meetup-topics">🔗</a>
+  <a class="anchor" href="#meetup-topics">#</a>
 </h2>
 
 <p>We took a closer look at <a href="https://github.com/golang/go/wiki/Modules">Go
@@ -130,7 +151,7 @@ pointer</a>, in contrast
 to the response writer).</p>
 <h2 id="from-go-to-cloud-to-linux">
   From Go to Cloud to Linux
-  <a class="anchor" href="#from-go-to-cloud-to-linux">🔗</a>
+  <a class="anchor" href="#from-go-to-cloud-to-linux">#</a>
 </h2>
 
 <p>Clouds and Cloud-Native technologies would be nothing without Linux. The <a href="https://www.meetup.com/Linux-Meetup-Leipzig/">Linux
@@ -142,7 +163,7 @@ Since there is overlap in topics, we might organize a joint event in the
 future.</p>
 <h2 id="postponed-topics">
   Postponed topics
-  <a class="anchor" href="#postponed-topics">🔗</a>
+  <a class="anchor" href="#postponed-topics">#</a>
 </h2>
 
 <ul>
@@ -151,7 +172,7 @@ future.</p>
 </ul>
 <h2 id="references">
   References
-  <a class="anchor" href="#references">🔗</a>
+  <a class="anchor" href="#references">#</a>
 </h2>
 
 <ul>
@@ -180,6 +201,7 @@ more careful, it will lead to serious problems.</p>
 </blockquote>
 
 </article>
+
 
 
     </div>

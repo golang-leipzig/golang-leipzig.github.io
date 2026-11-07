@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#go-at-devopenspace-2023">
-        <a class="anchor" href="#go-at-devopenspace-2023">🔗</a>Go at devopenspace 2023</h1>
+    <h1 id="title">Go at devopenspace 2023
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2023-10-06">Oct 6, 2023</time><div class="tags">
@@ -94,6 +115,7 @@ engineering and related topics - this year, there are a few Go and cloud
 related workshops as well! See the <a href="https://devopenspace.de/">agenda for more details</a>.</p>
 
 </article>
+
 
 
     </div>

@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-6-invitation">
-        <a class="anchor" href="#meetup-6-invitation">🔗</a>Meetup #6 invitation</h1>
+    <h1 id="title">Meetup #6 invitation
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-07-11">Jul 11, 2019</time><div class="tags">
@@ -96,6 +117,7 @@
 <p>Wir haben zwei Tickets für die <a href="https://golab.io/">Golab 2019 Konferenz in Florenz</a>, zu vergeben. Bei Interesse einfach vorbeischauen.</p>
 
 </article>
+
 
 
     </div>

@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#virtual-meetup-14-wrap-up">
-        <a class="anchor" href="#virtual-meetup-14-wrap-up">🔗</a>Virtual Meetup #14 wrap-up</h1>
+    <h1 id="title">Virtual Meetup #14 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2020-11-14">Nov 14, 2020</time><div class="tags">
@@ -110,6 +131,7 @@ paper notebooks</li>
 <p>Join us <a href="https://www.meetup.com/Leipzig-Golang/events/268785606/">next time</a>!</p>
 
 </article>
+
 
 
     </div>

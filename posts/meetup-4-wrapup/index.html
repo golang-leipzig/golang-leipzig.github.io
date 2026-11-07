@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-4-wrap-up">
-        <a class="anchor" href="#meetup-4-wrap-up">🔗</a>Meetup #4 wrap-up</h1>
+    <h1 id="title">Meetup #4 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-05-17">May 17, 2019</time><div class="tags">
@@ -89,7 +110,7 @@
 <article>
     <h2 id="lightning-network-micropayments">
   Lightning Network Micropayments
-  <a class="anchor" href="#lightning-network-micropayments">🔗</a>
+  <a class="anchor" href="#lightning-network-micropayments">#</a>
 </h2>
 
 <p>Go is popular in the crypocurrency space. The well-rounded standard library and
@@ -116,7 +137,7 @@ away over twenty local and cloud based implementations.</p>
 <p><img src="/images/go-bitcoin-books-web.jpg" alt=""></p>
 <h2 id="the-zero-value-in-the-wild">
   The zero value in the wild
-  <a class="anchor" href="#the-zero-value-in-the-wild">🔗</a>
+  <a class="anchor" href="#the-zero-value-in-the-wild">#</a>
 </h2>
 
 <p>Cloud providers SDK API differ in style, this might play a role in the decision
@@ -140,7 +161,7 @@ existing code difficult. Also, simple initialization become cumbersome &hellip;<
 </blockquote>
 <h2 id="open-source-companies-and-sustainability">
   Open Source, Companies and Sustainability
-  <a class="anchor" href="#open-source-companies-and-sustainability">🔗</a>
+  <a class="anchor" href="#open-source-companies-and-sustainability">#</a>
 </h2>
 
 <p>Many companies love open source, fewer like to take an active role in
@@ -172,7 +193,7 @@ to look at contributing to more projects.</p>
 </blockquote>
 <h2 id="references">
   References
-  <a class="anchor" href="#references">🔗</a>
+  <a class="anchor" href="#references">#</a>
 </h2>
 
 <ul>
@@ -185,6 +206,7 @@ to look at contributing to more projects.</p>
 </ul>
 
 </article>
+
 
 
     </div>

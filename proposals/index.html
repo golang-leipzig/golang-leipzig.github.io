@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#talk-proposals">
-        <a class="anchor" href="#talk-proposals">🔗</a>Talk Proposals</h1>
+    <h1 id="title">Talk Proposals
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2023-01-02">Jan 2, 2023</time><div class="tags">
@@ -116,6 +137,7 @@ and much more.</p>
 <p>Looking forward to hear from you.</p>
 
 </article>
+
 
 
     </div>

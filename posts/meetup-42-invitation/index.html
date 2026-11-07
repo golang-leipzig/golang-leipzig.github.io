@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#hybrid-meetup-42-invitation">
-        <a class="anchor" href="#hybrid-meetup-42-invitation">🔗</a>Hybrid Meetup #42 invitation</h1>
+    <h1 id="title">Hybrid Meetup #42 invitation
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2024-03-14">Mar 14, 2024</time><div class="tags">
@@ -108,6 +129,7 @@ and <a href="https://github.com/alivanz/go-simd">Go</a>, by Patrick Vahl and one
 <p>PS: Free drinks and 🍕!</p>
 
 </article>
+
 
 
     </div>

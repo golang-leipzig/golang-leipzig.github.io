@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#summer-drinkup-29-wrap-up">
-        <a class="anchor" href="#summer-drinkup-29-wrap-up">🔗</a>Summer Drinkup #29 wrap-up</h1>
+    <h1 id="title">Summer Drinkup #29 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2022-07-17">Jul 17, 2022</time><div class="tags">
@@ -105,6 +126,7 @@ everything</a> ☯️</p>
 upcoming events!</p>
 
 </article>
+
 
 
     </div>

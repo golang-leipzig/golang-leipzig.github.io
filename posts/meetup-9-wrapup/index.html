@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-9-wrap-up">
-        <a class="anchor" href="#meetup-9-wrap-up">🔗</a>Meetup #9 wrap-up</h1>
+    <h1 id="title">Meetup #9 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2020-02-22">Feb 22, 2020</time><div class="tags">
@@ -89,7 +110,7 @@
 <article>
     <h2 id="go-114">
   Go 1.14
-  <a class="anchor" href="#go-114">🔗</a>
+  <a class="anchor" href="#go-114">#</a>
 </h2>
 
 <p><a href="https://www.meetup.com/Leipzig-Golang/events/268785494/">Meetup #9</a>
@@ -115,7 +136,7 @@ case</a></li>
 <hr>
 <h2 id="http-getaway">
   HTTP Getaway
-  <a class="anchor" href="#http-getaway">🔗</a>
+  <a class="anchor" href="#http-getaway">#</a>
 </h2>
 
 <p>The <a href="https://golang.org/pkg/net/http/">net/http</a> package offers many extension points, using interfaces or callbacks - as well as alternative implementations. A few examples are sketched out in <a href="https://github.com/miku/httpgetaway">HTTP Getaway</a>.</p>
@@ -126,7 +147,7 @@ always be enough, sometimes only a connection reset will help.</p>
 <hr>
 <h2 id="misc">
   Misc
-  <a class="anchor" href="#misc">🔗</a>
+  <a class="anchor" href="#misc">#</a>
 </h2>
 
 <ul>
@@ -166,7 +187,7 @@ information.</em></li>
 <hr>
 <h2 id="contributing">
   Contributing
-  <a class="anchor" href="#contributing">🔗</a>
+  <a class="anchor" href="#contributing">#</a>
 </h2>
 
 <p>We want to make it simpler to contribute and to stay up to date with our meetup
@@ -180,6 +201,7 @@ and we may create a mailing list in the future.</p>
 </ul>
 
 </article>
+
 
 
     </div>

@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#reflecting-back-54">
-        <a class="anchor" href="#reflecting-back-54">🔗</a>Reflecting back #54</h1>
+    <h1 id="title">Reflecting back #54
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2026-11-03">Nov 3, 2026</time><div class="tags">
@@ -272,6 +293,7 @@ costs).</p>
 <p><a href="/images/2026-11-03-reflecting-back-54/agent.webm"><img src="/images/2026-11-03-reflecting-back-54/agent.gif" alt="agent.gif"></a></p>
 
 </article>
+
 
 
     </div>

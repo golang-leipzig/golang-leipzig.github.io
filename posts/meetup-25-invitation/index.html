@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#virtual-meetup-25-invitation">
-        <a class="anchor" href="#virtual-meetup-25-invitation">🔗</a>Virtual Meetup #25 invitation</h1>
+    <h1 id="title">Virtual Meetup #25 invitation
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2022-02-15">Feb 15, 2022</time><div class="tags">
@@ -99,6 +120,7 @@ Avoid Them</a> - with our participants.</p>
 <p>Join us to discuss all things Go.</p>
 
 </article>
+
 
 
     </div>

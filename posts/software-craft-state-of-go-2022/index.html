@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#state-of-go-at-leipzig-software-craft-june-2022-meetup">
-        <a class="anchor" href="#state-of-go-at-leipzig-software-craft-june-2022-meetup">🔗</a>State of Go at Leipzig Software Craft June 2022 Meetup</h1>
+    <h1 id="title">State of Go at Leipzig Software Craft June 2022 Meetup
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2022-06-10">Jun 10, 2022</time><div class="tags">
@@ -115,6 +136,7 @@ last minute update due to pandemic regulations.</p>
 <p><a href="https://github.com/golang-leipzig/state-of-go-in-2022/blob/main/Slides.md"><img src="/images/state-of-go-2022-slides.png" alt=""></a></p>
 
 </article>
+
 
 
     </div>

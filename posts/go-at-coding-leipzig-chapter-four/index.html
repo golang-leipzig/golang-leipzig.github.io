@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#go-at-coding-leipzig-chapter-four">
-        <a class="anchor" href="#go-at-coding-leipzig-chapter-four">🔗</a>Go at Coding Leipzig Chapter Four</h1>
+    <h1 id="title">Go at Coding Leipzig Chapter Four
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-02-27">Feb 27, 2019</time><div class="tags">
@@ -99,6 +120,7 @@ examples.</p>
 </blockquote>
 
 </article>
+
 
 
     </div>

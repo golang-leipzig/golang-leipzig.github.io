@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-3-invitation">
-        <a class="anchor" href="#meetup-3-invitation">🔗</a>Meetup #3 invitation</h1>
+    <h1 id="title">Meetup #3 invitation
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-04-04">Apr 4, 2019</time><div class="tags">
@@ -97,6 +118,7 @@ We also have one potential proposal for a lightning talk with the cryptic title
 <p>As always, please bring your own code, projects, ideas, Go and Cloud-Native questions and let&rsquo;s discuss them. See you there.</p>
 
 </article>
+
 
 
     </div>

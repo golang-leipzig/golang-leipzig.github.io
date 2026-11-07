@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-8-wrap-up">
-        <a class="anchor" href="#meetup-8-wrap-up">🔗</a>Meetup #8 wrap-up</h1>
+    <h1 id="title">Meetup #8 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-11-19">Nov 19, 2019</time><div class="tags">
@@ -89,7 +110,7 @@
 <article>
     <h2 id="anatomy-of-a-go-module-proxy">
   Anatomy of a Go module proxy
-  <a class="anchor" href="#anatomy-of-a-go-module-proxy">🔗</a>
+  <a class="anchor" href="#anatomy-of-a-go-module-proxy">#</a>
 </h2>
 
 <p>The Go packaging story started many years ago with <code>GO15VENDOREXPERIMENT</code> and
@@ -122,7 +143,7 @@ implementation!</p>
 </ul>
 <h2 id="pull-request-deployment">
   Pull Request Deployment
-  <a class="anchor" href="#pull-request-deployment">🔗</a>
+  <a class="anchor" href="#pull-request-deployment">#</a>
 </h2>
 
 <p>Everyone needs this. When a change to a codebase is made, how great would it be
@@ -144,7 +165,7 @@ context, <a href="https://github.com/panzerdev">panzerdev</a> condensed the work
 <p>Read the slides, get inspired, join us next time - and: automate all the things!</p>
 <h2 id="misc">
   Misc
-  <a class="anchor" href="#misc">🔗</a>
+  <a class="anchor" href="#misc">#</a>
 </h2>
 
 <ul>
@@ -164,6 +185,7 @@ world!</li>
 </ul>
 
 </article>
+
 
 
     </div>

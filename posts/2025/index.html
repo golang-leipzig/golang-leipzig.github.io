@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#2025">
-        <a class="anchor" href="#2025">🔗</a>2025</h1>
+    <h1 id="title">2025
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2025-12-17">Dec 17, 2025</time><div class="tags">
@@ -123,6 +144,7 @@ was a inspiring place to meet lots of Gophers from Italy and around the world. O
 <p><a href="https://gifcities.org"><img src="/images/UME7IHWQZFOT5AXW735ZSMOQPUSCHIBR.gif" alt=""></a></p>
 
 </article>
+
 
 
     </div>

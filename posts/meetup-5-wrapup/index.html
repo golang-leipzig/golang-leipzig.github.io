@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#meetup-5-wrap-up">
-        <a class="anchor" href="#meetup-5-wrap-up">🔗</a>Meetup #5 wrap-up</h1>
+    <h1 id="title">Meetup #5 wrap-up
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-06-15">Jun 15, 2019</time><div class="tags">
@@ -89,7 +110,7 @@
 <article>
     <h2 id="bits-from-the-io-package">
   Bits from the IO package
-  <a class="anchor" href="#bits-from-the-io-package">🔗</a>
+  <a class="anchor" href="#bits-from-the-io-package">#</a>
 </h2>
 
 <p>The <a href="https://golang.org/pkg/io/">IO package</a> is a central package in the
@@ -106,7 +127,7 @@ standard library, as it provides (among other things) two main interfaces:</p>
 <p>The IO model is simple and powerful (and reminds one of UNIX pipes).</p>
 <h2 id="automate-the-web-with-chromedp">
   Automate the Web with chromedp
-  <a class="anchor" href="#automate-the-web-with-chromedp">🔗</a>
+  <a class="anchor" href="#automate-the-web-with-chromedp">#</a>
 </h2>
 
 <p>In a code walkthrough we explored <a href="https://github.com/chromedp/chromedp">chromedp</a>, a pure Go library
@@ -124,7 +145,7 @@ programmatically). Running many (even headless) Chrome instances will eat your
 RAM.</p>
 <h2 id="how-do-developers-discover-go">
   How do developers discover Go?
-  <a class="anchor" href="#how-do-developers-discover-go">🔗</a>
+  <a class="anchor" href="#how-do-developers-discover-go">#</a>
 </h2>
 
 <p>Have you ever wondered about how programmers move from language to language?
@@ -135,7 +156,7 @@ things</a>) did as well:</p>
 </ul>
 <h2 id="more-linux-and-cloud">
   More Linux and Cloud
-  <a class="anchor" href="#more-linux-and-cloud">🔗</a>
+  <a class="anchor" href="#more-linux-and-cloud">#</a>
 </h2>
 
 <p>We have a presentation about libpod (a tool to work with OCI images) in the
@@ -144,7 +165,7 @@ Meetup</a> on
 Tue, 2019-06-18 about runc and CRI-O.</p>
 <h2 id="references">
   References
-  <a class="anchor" href="#references">🔗</a>
+  <a class="anchor" href="#references">#</a>
 </h2>
 
 <ul>
@@ -154,6 +175,7 @@ Tue, 2019-06-18 about runc and CRI-O.</p>
 </ul>
 
 </article>
+
 
 
     </div>

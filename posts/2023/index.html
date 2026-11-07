@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#2023">
-        <a class="anchor" href="#2023">🔗</a>2023</h1>
+    <h1 id="title">2023
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2023-12-21">Dec 21, 2023</time><div class="tags">
@@ -118,6 +139,7 @@ know</a>)</li>
 <p>Thanks everyone for joining, we hope to <a href="https://www.meetup.com/Leipzig-Golang/">see you again</a> in 2024!</p>
 
 </article>
+
 
 
     </div>

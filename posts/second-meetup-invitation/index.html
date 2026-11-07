@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#second-meetup-invitation">
-        <a class="anchor" href="#second-meetup-invitation">🔗</a>Second meetup invitation</h1>
+    <h1 id="title">Second meetup invitation
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2019-03-15">Mar 15, 2019</time><div class="tags">
@@ -97,6 +118,7 @@ useful (sometimes strange) implementations from existing projects</li>
 <p>Please bring your own code, projects, ideas, Go and Cloud-Native questions and let&rsquo;s discuss them. See you there.</p>
 
 </article>
+
 
 
     </div>

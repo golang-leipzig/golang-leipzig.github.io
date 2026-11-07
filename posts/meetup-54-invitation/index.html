@@ -58,6 +58,26 @@
     table a {
         border-bottom-color: transparent;
     }
+
+     
+    a.anchor {
+        padding-right: 0;
+        border-bottom-color: transparent;
+        font-weight: normal;
+        opacity: 0;
+        transition: opacity 150ms ease-in;
+    }
+
+    h1:hover a.anchor,
+    h2:hover a.anchor,
+    a.anchor:focus {
+        opacity: 1;
+    }
+
+    a.anchor:hover {
+        border-bottom-color: transparent;
+        color: #838383;
+    }
 </style>
 
 
@@ -75,8 +95,9 @@
 <div id="content">
 
 <header>
-    <h1 id="#drinkup-54-invitation">
-        <a class="anchor" href="#drinkup-54-invitation">🔗</a>Drinkup #54 invitation</h1>
+    <h1 id="title">Drinkup #54 invitation
+        <a class="anchor" href="#title">#</a>
+    </h1>
     
 
 <div class="post-meta"><time datetime="2025-08-09">Aug 9, 2025</time><div class="tags">
@@ -96,6 +117,7 @@ discuss all topics Go, cloud and beyond. Offline only.</p>
 <p>See you!</p>
 
 </article>
+
 
 
     </div>
