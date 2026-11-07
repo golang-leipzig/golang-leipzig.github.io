@@ -7,7 +7,7 @@ tags:
 - meetup
 ---
 
-{{< h2 >}}Where to Go?{{< /h2 >}}
+## Where to Go?
 
 The [Berlin Go User Group
 celebrates](https://www.meetup.com/golang-users-berlin/) its eighth birthday next
@@ -21,7 +21,7 @@ for you - if you are interested, [just drop me a line](mailto:martin.czygan@gmai
 We'll take a short summer break, and will continue in September 2019. Until
 then, enjoy a few references.
 
-{{< h2 >}}References{{< /h2 >}}
+## References
 
 If you haven't played the nerdiest game in town yet, maybe now is the time:
 

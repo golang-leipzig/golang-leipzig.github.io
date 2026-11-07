@@ -31,7 +31,7 @@ If you have an idea for a presentation, please [let us know](/proposals/).
 
 ----
 
-{{< h2 >}}About{{< /h2 >}}
+## About
 
 Our goal is to establish a place, where people from all backgrounds interested
 in the Go programming language (golang) and various cloud technologies can meet, learn,
@@ -43,7 +43,7 @@ Current organizers are [Martin](https://github.com/miku/),
 [Andreas](https://github.com/klingtnet), [Simon](https://github.com/simonbaeumer) and friends and we are inviting
 everyone to participate.
 
-{{< h2 >}}How to participate{{< /h2 >}}
+## How to participate
 
 * follow us on [meetup](https://www.meetup.com/Leipzig-Golang) for updates, or via [RSS feed](/posts/index.xml)
 * [tell us](https://www.meetup.com/Leipzig-Golang/#discussions) about topics that you'd like to see covered in this context
@@ -53,7 +53,7 @@ everyone to participate.
 organizing this (just [drop us an email](mailto:martin.czygan@gmail.com); we
 have a few nice ideas for events already, but help is always appreciated)
 
-{{< h2 >}}Want to host a meetup at your company?{{< /h2 >}}
+## Want to host a meetup at your company?
 
 Your company uses Go or wants to look into it? Why not connect with the local
 Go community by hosting a user group event? We do have presentations on
@@ -61,7 +61,7 @@ interesting technical topics and spark lively discussions. If you are
 interested, [let's talk](mailto:martin.czygan@gmail.com).
 
 
-{{< h2 >}}Meetup log{{< /h2 >}}
+## Meetup log
 
 We try to sum up every meetup in a short blog post:
 [#61](/posts/meetup-61-wrapup/),
@@ -131,7 +131,7 @@ We try to sum up every meetup in a short blog post:
 [2021](/posts/2021/),
 [2020](/posts/welcome-2021/), [2019](/posts/bye-2019/).
 
-{{< h2 >}} Contributions and Sponsors {{< /h2 >}}
+## Contributions and Sponsors
 
 We'd like to thank [edgeless systems](https://www.edgeless.systems)
 ([#22](/posts/meetup-22-wrapup/)),

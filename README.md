@@ -24,10 +24,10 @@ To get a local preview of the website run
 $ hugo serve
 ```
 
-and open <http://localhost:1313> in your browser.  The website will be rendered again if any file has changed.  If you see an error like
+and open <http://localhost:1313> in your browser.  The website will be rendered again if any file has changed.  If no pages are rendered and you see warnings like
 
 ```
-failed to extract shortcode: template for shortcode "h2" not found
+found no layout file for "html" for kind "home"
 ```
 
 then make sure that you cloned or updated the subrepositories, e.g. by running
