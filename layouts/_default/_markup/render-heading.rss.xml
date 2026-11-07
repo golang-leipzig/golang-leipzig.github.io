@@ -1,0 +1,2 @@
+{{- /* Feeds get no "#": readers do not load our CSS, so it would always show. */ -}}
+<h{{ .Level }} id="{{ .Anchor }}">{{ .Text }}</h{{ .Level }}>

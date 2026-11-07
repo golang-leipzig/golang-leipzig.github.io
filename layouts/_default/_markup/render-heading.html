@@ -1,0 +1,6 @@
+{{- /* Every Markdown heading passes through here, so h2 and h3 become linkable
+       without any extra tag. The "#" is styled in partials/head_custom.html. */ -}}
+<h{{ .Level }} id="{{ .Anchor }}">
+  {{- .Text -}}
+  {{- if or (eq .Level 2) (eq .Level 3) }} <a class="anchor" href="#{{ .Anchor }}">#</a>{{ end -}}
+</h{{ .Level }}>

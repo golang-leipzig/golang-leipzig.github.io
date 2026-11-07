@@ -1,0 +1,3 @@
+<h2 id="{{ anchorize .Inner }}">
+  {{ .Inner }}
+</h2>
