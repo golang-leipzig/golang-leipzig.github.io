@@ -5,14 +5,8 @@ draft: false
 
 We're hosting a [Go](https://go.dev/) [Meetup in
 Leipzig](https://www.meetup.com/de-DE/leipzig-golang/) and have organized over
-60 events so far, nine in [2025](/posts/2025/). We will likely have
-[two more events](https://www.meetup.com/leipzig-golang/events/) in 2026.
-
-Next meetup #62 will take place at [Gridfuse Leipzig Office](https://gridfuse.com/)
-([OSM](https://www.openstreetmap.org/node/7230218702),
-[GMaps](https://maps.app.goo.gl/B7kSaJ2RHJKGKfEPA)) on [2026-11-24 19:00](https://www.meetup.com/de-de/leipzig-golang/events/312537734).
-
-<!-- next [#60](/posts/meetup-60-invitation) on [May 26, 2026, 1900 CET](https://www.meetup.com/leipzig-golang/events/312537727) at [Basislager](https://www.basislager.co) Coworking ([OSM](https://www.openstreetmap.org/node/3504864558), [GMaps](https://maps.app.goo.gl/1fMkeDSPZ7Aauszh8)). -->
+60 events so far, nine in [2025](/posts/2025/). We will likely have one more event in 2026.
+<!-- [two more events](https://www.meetup.com/leipzig-golang/events/) in 2026. -->
 
 If you have an idea for a presentation, please [let us know](/proposals/).
 
